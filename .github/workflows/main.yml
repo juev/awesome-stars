@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Set up Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-`@v1
       with:
         python-version: 3.7
     - name: Install dependencies
@@ -19,4 +19,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username juev --repository starred --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
