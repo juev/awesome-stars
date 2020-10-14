@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -471,6 +472,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -714,6 +716,9 @@
 
 ## Haskell 
 
+- [lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
+- [servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [bytestring](https://github.com/haskell/bytestring) - An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
 - [heidi](https://github.com/ocramz/heidi) - heidi : tidy data in Haskell
 - [stack2cabal](https://github.com/hasufell/stack2cabal) - Convert stack projects to cabal.project + cabal.project.freeze
@@ -1140,7 +1145,6 @@
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 - [colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [memory-profiler](https://github.com/koute/memory-profiler) - 
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1364,6 +1368,7 @@
 
 ## Vim script 
 
+- [nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use nvim/vim's builtin terminal in the floating/popup window
