@@ -139,6 +139,8 @@
 
 ## C++ 
 
+- [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
@@ -228,6 +230,7 @@
 
 ## Go 
 
+- [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [mtproto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API
 - [datatable](https://github.com/datasweet/datatable) - A go in-memory table
 - [gebug](https://github.com/moshebe/gebug) - Debug Dockerized Go applications better
@@ -434,7 +437,7 @@
 - [oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [go-plugins](https://github.com/asim/go-plugins) - Plugins for external infrastructure dependencies
+- [go-plugins](https://github.com/asim/go-plugins) - Plugins for Go Micro
 - [prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -829,6 +832,7 @@
 
 ## Others 
 
+- [tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
 - [haskell-learning](https://github.com/sassela/haskell-learning) - Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
 - [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) - 100 Must-Read NLP Papers
 - [resources](https://github.com/devops-portfolio/resources) - Список дополнительных ресурсов для изучения в рамках курса DevOps портфолио
@@ -994,7 +998,7 @@
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [rpi-resources](https://github.com/microsoft/rpi-resources) - A collection of tutorials and examples for the Raspberry Pi
 - [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-- [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
+- [vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [game-of-life](https://github.com/amypeniston/game-of-life) - A command line interface to generate universes. Based on Conway's Game of Life and implemented in Python.
