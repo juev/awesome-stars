@@ -190,7 +190,6 @@
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [docker-haproxy](https://github.com/40ants/docker-haproxy) - Docker image for Haproxy with proper logging.
-- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [docker-tt-rss](https://github.com/linuxserver/docker-tt-rss) - 
 - [quicklisp-docker](https://github.com/quicklisp/quicklisp-docker) - Dockerizing the quicklisp dist build process
 - [docker-cl-base](https://github.com/eshamster/docker-cl-base) - A Dockerfile to configure Common Lisp execution environment.
@@ -389,7 +388,7 @@
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
 - [dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
-- [koanf](https://github.com/knadh/koanf) - Light weight, extensible Go package for reading config. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc.
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc.
 - [golang-viper-config-example](https://github.com/devilsray/golang-viper-config-example) - 
 - [cron](https://github.com/robfig/cron) - a cron library for go
 - [prometheus_oracle_exporter](https://github.com/freenetdigital/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
@@ -447,7 +446,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -704,6 +703,7 @@
 - [summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [openbsd-ru.github.io](https://github.com/openbsd-ru/openbsd-ru.github.io) - Russian translation of https://www.openbsd.org
 - [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
+- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
@@ -719,6 +719,7 @@
 
 ## Haskell 
 
+- [haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
 - [prolens](https://github.com/kowainik/prolens) - 👓 Profunctor based lightweight implementation of Lenses
 - [lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
 - [servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
@@ -941,7 +942,7 @@
 - [rustonomicon](https://github.com/rust-lang-ru/rustonomicon) - Перевод "Rustonomicon"
 - [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices
+- [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [cl-star](https://github.com/can3p/cl-star) - Batteries included package for Common Lisp
 - [talks](https://github.com/GopherConRu/talks) - GopherCon Russia talks
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
