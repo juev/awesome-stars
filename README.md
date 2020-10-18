@@ -719,6 +719,7 @@
 
 ## Haskell 
 
+- [cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
 - [haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
 - [prolens](https://github.com/kowainik/prolens) - 👓 Profunctor based lightweight implementation of Lenses
 - [lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
