@@ -118,7 +118,7 @@
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [libsoldout](https://github.com/faelys/libsoldout) - Flexible C library for markdown parsing
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug fix only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -261,7 +261,7 @@
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [invest-openapi-go-sdk](https://github.com/TinkoffCreditSystems/invest-openapi-go-sdk) - 
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
@@ -719,6 +719,7 @@
 
 ## Haskell 
 
+- [Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
 - [cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
 - [haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
 - [prolens](https://github.com/kowainik/prolens) - 👓 Profunctor based lightweight implementation of Lenses
@@ -1004,7 +1005,7 @@
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [game-of-life](https://github.com/amypeniston/game-of-life) - A command line interface to generate universes. Based on Conway's Game of Life and implemented in Python.
-- [server](https://github.com/etesync/server) - The EteSync server (so you can run your own)
+- [server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, support for note templates, bibliography support, support for multiple panes, etc. to make working in your Zettelkasten a joy :smile:.
@@ -1032,6 +1033,7 @@
 
 ## Rust 
 
+- [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
 - [keyseebee](https://github.com/TeXitoi/keyseebee) - KeySeeBee is a split ergo keyboard. It is only 2 PCB (so the name) with (almost) only SMD components on it. It's only a keyboard, no LED, no display, nothing more than keys and USB.
 - [simplelog.rs](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust
