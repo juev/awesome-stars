@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [mtproto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API
 - [datatable](https://github.com/datasweet/datatable) - A go in-memory table
@@ -678,6 +679,7 @@
 
 ## HTML 
 
+- [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/williamsmj/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
@@ -1360,7 +1362,7 @@
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - VSCode Neovim integration
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open source notes app for the web.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web.
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
