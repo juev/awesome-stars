@@ -26,6 +26,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -721,6 +722,8 @@
 
 ## Haskell 
 
+- [ihp](https://github.com/digitallyinduced/ihp) - λ IHP is a modern batteries-included Web Framework, built on top of Haskell and Nix.
+- [typerep-map](https://github.com/kowainik/typerep-map) - ⚡️Efficient implementation of Map with types as keys
 - [Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
 - [cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
 - [haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
@@ -798,6 +801,10 @@
 ## Jsonnet 
 
 - [cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
+
+## Julia 
+
+- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## Jupyter Notebook 
 
@@ -1035,6 +1042,7 @@
 
 ## Rust 
 
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
 - [keyseebee](https://github.com/TeXitoi/keyseebee) - KeySeeBee is a split ergo keyboard. It is only 2 PCB (so the name) with (almost) only SMD components on it. It's only a keyboard, no LED, no display, nothing more than keys and USB.
