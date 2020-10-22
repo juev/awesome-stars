@@ -722,6 +722,7 @@
 
 ## Haskell 
 
+- [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit
 - [ihp](https://github.com/digitallyinduced/ihp) - λ IHP is a modern batteries-included Web Framework, built on top of Haskell and Nix.
 - [typerep-map](https://github.com/kowainik/typerep-map) - ⚡️Efficient implementation of Map with types as keys
 - [Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
@@ -819,7 +820,7 @@
 
 ## Lua 
 
-- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A simple tree for neovim written in lua
+- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [luashell](https://github.com/mna/luashell) - A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
 - [dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
@@ -1000,6 +1001,7 @@
 
 ## Python 
 
+- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1042,6 +1044,7 @@
 
 ## Rust 
 
+- [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
@@ -1053,7 +1056,7 @@
 - [rust-verification-tools](https://github.com/project-oak/rust-verification-tools) - RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs.
 - [thunderdome](https://github.com/LPGhatguy/thunderdome) - Arena type inspired by generational-arena
 - [json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-- [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Day Port Scanner 🤖
+- [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-subprocess](https://github.com/hniksic/rust-subprocess) - Execution of and interaction with external processes and pipelines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [minivec](https://github.com/LeonineKing1199/minivec) - A space-optimized implementation of std::vec::Vec
