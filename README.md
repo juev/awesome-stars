@@ -175,6 +175,7 @@
 
 ## Common Lisp 
 
+- [cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
 - [resume](https://github.com/40ants/resume) - A data-driven resume builder.
 
 ## Dhall 
@@ -448,7 +449,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -776,6 +777,7 @@
 
 ## JavaScript 
 
+- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 an experiment to create a community driven language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1044,6 +1046,7 @@
 
 ## Rust 
 
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
@@ -1126,7 +1129,7 @@
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
 - [sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
 - [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
-- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
@@ -1350,6 +1353,7 @@
 
 ## TeX 
 
+- [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [gophercon-russia-2020-talk](https://github.com/growler/gophercon-russia-2020-talk) - My talk for Russian GopherCon 2020
 - [vimtex](https://github.com/lervag/vimtex) - A modern Vim and neovim filetype plugin for LaTeX files.
 - [about.me](https://github.com/LenaVolzhina/about.me) - Extended CV
