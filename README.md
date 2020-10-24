@@ -1003,6 +1003,7 @@
 
 ## Python 
 
+- [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1046,6 +1047,7 @@
 
 ## Rust 
 
+- [nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
