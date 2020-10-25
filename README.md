@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [mtproto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API
@@ -723,6 +724,8 @@
 
 ## Haskell 
 
+- [vector](https://github.com/haskell/vector) - An efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimisation framework .
+- [fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
 - [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit
 - [ihp](https://github.com/digitallyinduced/ihp) - λ IHP is a modern batteries-included Web Framework, built on top of Haskell and Nix.
 - [typerep-map](https://github.com/kowainik/typerep-map) - ⚡️Efficient implementation of Map with types as keys
