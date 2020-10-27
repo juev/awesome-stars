@@ -232,6 +232,7 @@
 
 ## Go 
 
+- [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go
 - [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -725,6 +726,8 @@
 
 ## Haskell 
 
+- [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [caani](https://github.com/jeovazero/caani) - Code As AN Image | Beautiful images of your Haskell code
 - [vector](https://github.com/haskell/vector) - An efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimisation framework .
 - [fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
@@ -1053,6 +1056,7 @@
 
 ## Rust 
 
+- [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
 - [nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
