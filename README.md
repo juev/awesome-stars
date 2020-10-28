@@ -140,6 +140,7 @@
 
 ## C++ 
 
+- [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -175,6 +176,7 @@
 
 ## Common Lisp 
 
+- [paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
 - [resume](https://github.com/40ants/resume) - A data-driven resume builder.
 
@@ -232,6 +234,8 @@
 
 ## Go 
 
+- [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
+- [go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go
 - [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
@@ -1365,6 +1369,7 @@
 
 ## TeX 
 
+- [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
 - [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [gophercon-russia-2020-talk](https://github.com/growler/gophercon-russia-2020-talk) - My talk for Russian GopherCon 2020
 - [vimtex](https://github.com/lervag/vimtex) - A modern Vim and neovim filetype plugin for LaTeX files.
