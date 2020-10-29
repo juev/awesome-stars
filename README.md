@@ -730,6 +730,10 @@
 
 ## Haskell 
 
+- [colourista](https://github.com/kowainik/colourista) - ‎️‍🌈 Convenient interface for printing colourful messages
+- [extensions](https://github.com/kowainik/extensions) - 👅 Parse Haskell Language Extensions
+- [stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
+- [diagrams-lib](https://github.com/diagrams/diagrams-lib) - Diagrams standard library
 - [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 - [ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [caani](https://github.com/jeovazero/caani) - Code As AN Image | Beautiful images of your Haskell code
