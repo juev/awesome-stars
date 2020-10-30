@@ -222,6 +222,7 @@
 
 ## Erlang 
 
+- [lfe](https://github.com/rvirding/lfe) - Lisp Flavoured Erlang (LFE)
 - [jamdb_oracle](https://github.com/erlangbureau/jamdb_oracle) - Oracle Database driver for Erlang
 
 ## Futhark 
@@ -234,6 +235,9 @@
 
 ## Go 
 
+- [jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
+- [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
 - [go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go
@@ -730,6 +734,10 @@
 
 ## Haskell 
 
+- [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
+- [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
+- [esqueleto](https://github.com/bitemyapp/esqueleto) - New home of Esqueleto, please file issues so we can get things caught up!
+- [lg](https://github.com/innaky/lg) - 🔥 List greater files or lg (Free Unix-like binary command)
 - [colourista](https://github.com/kowainik/colourista) - ‎️‍🌈 Convenient interface for printing colourful messages
 - [extensions](https://github.com/kowainik/extensions) - 👅 Parse Haskell Language Extensions
 - [stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
@@ -1215,7 +1223,7 @@
 - [cargo-generate](https://github.com/ashleygwilliams/cargo-generate) - cargo, make me a project
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [accel](https://github.com/termoshtt/accel) - (Mirror of GitLab) GPGPU Framework for Rust
@@ -1415,6 +1423,7 @@
 
 ## Vim script 
 
+- [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
