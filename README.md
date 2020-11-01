@@ -450,7 +450,7 @@
 - [oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [go-plugins](https://github.com/asim/go-plugins) - Plugins for Go Micro
+- [nitro-plugins](https://github.com/asim/nitro-plugins) - Plugins for Nitro (formerly Go Micro)
 - [prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -734,6 +734,7 @@
 
 ## Haskell 
 
+- [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
 - [esqueleto](https://github.com/bitemyapp/esqueleto) - New home of Esqueleto, please file issues so we can get things caught up!
