@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [go-bip39](https://github.com/tyler-smith/go-bip39) - The BIP39 library for Go.
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
@@ -490,7 +491,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -736,6 +737,7 @@
 
 ## Haskell 
 
+- [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
