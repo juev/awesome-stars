@@ -737,6 +737,7 @@
 
 ## Haskell 
 
+- [hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
@@ -1078,6 +1079,8 @@
 
 ## Rust 
 
+- [ron](https://github.com/ron-rs/ron) - Rusty Object Notation
+- [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
 - [nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
