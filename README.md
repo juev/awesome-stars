@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [go-bip39](https://github.com/tyler-smith/go-bip39) - The BIP39 library for Go.
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
@@ -731,7 +732,7 @@
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 - [marginalia](https://github.com/gdeer81/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
-- [clj-yaml](https://github.com/circleci/clj-yaml) - YAML encoding and decoding for Clojure via SnakeYAML
+- [clj-yaml](https://github.com/CircleCI-Archived/clj-yaml) - YAML encoding and decoding for Clojure via SnakeYAML
 - [cryogen](https://github.com/cryogen-project/cryogen) - A simple static site generator written in Clojure
 - [Minimal-Status-Bar](https://github.com/visnup/Minimal-Status-Bar) - a minimal (Google Chrome-like) status bar for Safari
 
@@ -803,6 +804,7 @@
 
 ## Java 
 
+- [gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
 ## JavaScript 
