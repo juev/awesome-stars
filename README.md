@@ -50,6 +50,7 @@
   - [V](#v)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+  - [Zig](#zig)
 
 ## AppleScript 
 
@@ -235,6 +236,8 @@
 
 ## Go 
 
+- [ldap](https://github.com/nmcclain/ldap) - Basic LDAP v3 client & server functionality for the GO programming language.
+- [jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [go-bip39](https://github.com/tyler-smith/go-bip39) - The BIP39 library for Go.
@@ -828,6 +831,7 @@
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1081,6 +1085,7 @@
 
 ## Rust 
 
+- [time](https://github.com/time-rs/time) - Simple time handling in Rust
 - [ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
@@ -1423,7 +1428,6 @@
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [veonim](https://github.com/veonim/veonim) - neovim GUI
 - [vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
@@ -1525,6 +1529,10 @@
 - [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) - :rainbow: Simpler Rainbow Parentheses
 - [minivimrc](https://github.com/bling/minivimrc) - a tiny vimrc to be used primarily for troubleshooting plugins
 - [vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
+
+## Zig 
+
+- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
