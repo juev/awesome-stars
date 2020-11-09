@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences.
 - [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -237,6 +238,9 @@
 
 ## Go 
 
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [logfmt](https://github.com/go-logfmt/logfmt) - Package logfmt marshals and unmarshals logfmt messages.
 - [reverse-tunnel](https://github.com/snsinfu/reverse-tunnel) - Reverse tunnel TCP and UDP
 - [ldap](https://github.com/nmcclain/ldap) - Basic LDAP v3 client & server functionality for the GO programming language.
 - [jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -814,6 +818,7 @@
 
 ## JavaScript 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 an experiment to create a community driven language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
