@@ -209,6 +209,7 @@
 
 ## Emacs Lisp 
 
+- [haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
 - [dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [eldev](https://github.com/doublep/eldev) - Elisp Development Tool
 - [emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
@@ -238,6 +239,7 @@
 
 ## Go 
 
+- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [logfmt](https://github.com/go-logfmt/logfmt) - Package logfmt marshals and unmarshals logfmt messages.
@@ -1092,6 +1094,7 @@
 
 ## Rust 
 
+- [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust
 - [ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -1430,7 +1433,7 @@
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - VSCode Neovim integration
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web. (Demo only)
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
