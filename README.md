@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -735,6 +736,7 @@
 - [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
@@ -1303,7 +1305,7 @@
 - [emacs-anywhere](https://github.com/zachcurry/emacs-anywhere) - Configurable automation + hooks called with application information
 - [dockerfiles](https://github.com/fukamachi/dockerfiles) - Dockerfiles for Common Lisp programming
 - [dotfiles](https://github.com/lucasfcosta/dotfiles) - :robot: My collection of highly opinionated and amazing configs
-- [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel
+- [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
@@ -1352,7 +1354,6 @@
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [Universal-Layout](https://github.com/tonsky/Universal-Layout) - Пакет из английской и русской раскладок, спроектированных для удобного совместного использования
-- [ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images
 - [vps-app-mailserver](https://github.com/snupt/vps-app-mailserver) - 
