@@ -62,6 +62,7 @@
 
 ## C 
 
+- [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - Nginx module for binding Haskell code in configuration files for great good!
 - [mirth](https://github.com/mirth-lang/mirth) - Compiler for the Mirth programming language.
 - [ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system for the x86 architecture.
@@ -239,6 +240,7 @@
 
 ## Go 
 
+- [structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
@@ -751,6 +753,7 @@
 
 ## Haskell 
 
+- [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes a complete Haskell model complete with instances! CLI and web interface available.
 - [hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
@@ -1470,7 +1473,7 @@
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
-- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
+- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [clam.vim](https://github.com/sjl/clam.vim) - A lightweight Vim plugin for working with shell commands.
 - [vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
