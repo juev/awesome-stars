@@ -143,6 +143,7 @@
 
 ## C++ 
 
+- [libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
 - [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences.
 - [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
@@ -753,6 +754,7 @@
 
 ## Haskell 
 
+- [learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
 - [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes a complete Haskell model complete with instances! CLI and web interface available.
 - [hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
 - [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
