@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -757,6 +758,8 @@
 
 ## Haskell 
 
+- [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
+- [cryptol](https://github.com/GaloisInc/cryptol) - Cryptol: The Language of Cryptography
 - [learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
 - [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes a complete Haskell model complete with instances! CLI and web interface available.
 - [hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
@@ -825,6 +828,7 @@
 
 ## Java 
 
+- [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
@@ -873,6 +877,8 @@
 
 ## Kotlin 
 
+- [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
 ## Lua 
@@ -891,6 +897,7 @@
 
 ## Objective-C 
 
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [sshfs-gui](https://github.com/dstuecken/sshfs-gui) - SSHFS GUI Wrapper for Mac OS X
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -1059,6 +1066,7 @@
 
 ## Python 
 
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
