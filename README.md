@@ -241,6 +241,8 @@
 
 ## Go 
 
+- [rf](https://github.com/rsc/rf) - A refactoring tool for Go
+- [earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
@@ -281,7 +283,7 @@
 - [kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more)
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [gaos](https://github.com/Trendyol/gaos) - HTTP mocking to test API services for chaos scenarios
-- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official mongo-go-driver but easier to use like Mgo.
+- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
 - [golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [promrg](https://github.com/leominov/promrg) - 
@@ -758,6 +760,9 @@
 
 ## Haskell 
 
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
+- [haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
+- [haskell-exercises](https://github.com/vrom911/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [cryptol](https://github.com/GaloisInc/cryptol) - Cryptol: The Language of Cryptography
 - [learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
@@ -1112,6 +1117,7 @@
 
 ## Rust 
 
+- [kube-rs](https://github.com/clux/kube-rs) - kubernetes client and futures controller runtime
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust
@@ -1215,7 +1221,7 @@
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vector](https://github.com/timberio/vector) - A high-performance observability data platform.
+- [vector](https://github.com/timberio/vector) - A high-performance, end-to-end observability data platform.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
