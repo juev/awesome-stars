@@ -875,6 +875,7 @@
 
 ## Jupyter Notebook 
 
+- [learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
 - [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 - [Sketches](https://github.com/khakhalin/Sketches) - 
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature) - links to conference publications in graph-based deep learning
@@ -914,6 +915,7 @@
 
 ## Others 
 
+- [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
 - [haskell-learning](https://github.com/sassela/haskell-learning) - Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
@@ -1101,6 +1103,7 @@
 
 ## Ruby 
 
+- [dip](https://github.com/bibendi/dip) - CLI gives the "native" interaction with applications configured with Docker Compose.
 - [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [homebrew-emacs-head](https://github.com/daviderestivo/homebrew-emacs-head) - GNU Emacs formula for the Homebrew package manager
@@ -1127,7 +1130,7 @@
 - [nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
-- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [grammers](https://github.com/Lonami/grammers) - (tele)gramme.rs - use Telegram's API from Rust
 - [keyseebee](https://github.com/TeXitoi/keyseebee) - KeySeeBee is a split ergo keyboard. It is only 2 PCB (so the name) with (almost) only SMD components on it. It's only a keyboard, no LED, no display, nothing more than keys and USB.
@@ -1313,7 +1316,7 @@
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
-- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
+- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian, PopOS
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
 - [nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
