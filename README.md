@@ -43,7 +43,6 @@
   - [Rust](#rust)
   - [Scheme](#scheme)
   - [Shell](#shell)
-  - [Starlark](#starlark)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -143,6 +142,7 @@
 
 ## C++ 
 
+- [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
 - [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences.
 - [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
@@ -339,6 +339,7 @@
 - [bricks](https://github.com/pace/bricks) - A standard library for microservices.
 - [wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides Wireguard peer information via DNS-SD semantics
+- [rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
 - [bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [webdav](https://github.com/hacdias/webdav) - Simple Go WebDAV server.
@@ -513,7 +514,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development, microservices and API driven backends.
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -760,6 +761,8 @@
 
 ## Haskell 
 
+- [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
+- [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned) - Haskell library that uses HIBP to evaluate passwords
 - [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [haskell-exercises](https://github.com/vrom911/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
@@ -1413,10 +1416,6 @@
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-
-## Starlark 
-
-- [rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
 
 ## Swift 
 
