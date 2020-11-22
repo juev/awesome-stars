@@ -43,6 +43,7 @@
   - [Rust](#rust)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -476,7 +477,7 @@
 - [oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [nitro-plugins](https://github.com/asim/nitro-plugins) - Plugins for Nitro (formerly Go Micro)
+- [go-plugins](https://github.com/microhq/go-plugins) - Plugins
 - [prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -514,7 +515,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and Go microservices
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -878,6 +879,7 @@
 
 ## Jupyter Notebook 
 
+- [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
 - [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 - [Sketches](https://github.com/khakhalin/Sketches) - 
@@ -1416,6 +1418,10 @@
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+
+## Svelte 
+
+- [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
 ## Swift 
 
