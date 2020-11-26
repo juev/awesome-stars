@@ -489,7 +489,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -922,6 +922,7 @@
 
 ## Others 
 
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources that will help you prepare for taking the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam. with time, This is not likely the comprehensive up to date list - please make a pull request if there something that should be added here.
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
