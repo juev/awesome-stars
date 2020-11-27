@@ -517,7 +517,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is an open source platform for API driven Go services development and cloud native applications
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -923,7 +923,7 @@
 ## Others 
 
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
-- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources that will help you prepare for taking the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam. with time, This is not likely the comprehensive up to date list - please make a pull request if there something that should be added here.
+- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
@@ -1130,6 +1130,7 @@
 
 ## Rust 
 
+- [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [kube-rs](https://github.com/clux/kube-rs) - kubernetes client and futures controller runtime
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
