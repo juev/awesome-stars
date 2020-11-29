@@ -375,7 +375,7 @@
 - [sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
 - [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
-- [broccoli](https://github.com/aletheia-icu/broccoli) - Using brotli compression to embed static files in Go.
+- [broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [exporter_exporter](https://github.com/QubitProducts/exporter_exporter) - A reverse proxy designed for Prometheus exporters
@@ -1132,6 +1132,7 @@
 
 ## Rust 
 
+- [gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [kube-rs](https://github.com/clux/kube-rs) - kubernetes client and futures controller runtime
