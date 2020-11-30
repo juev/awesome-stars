@@ -202,6 +202,7 @@
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [docker-haproxy](https://github.com/40ants/docker-haproxy) - Docker image for Haproxy with proper logging.
+- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [docker-tt-rss](https://github.com/linuxserver/docker-tt-rss) - 
 - [quicklisp-docker](https://github.com/quicklisp/quicklisp-docker) - Dockerizing the quicklisp dist build process
 - [docker-cl-base](https://github.com/eshamster/docker-cl-base) - A Dockerfile to configure Common Lisp execution environment.
@@ -519,7 +520,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -749,7 +750,6 @@
 - [summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [openbsd-ru.github.io](https://github.com/openbsd-ru/openbsd-ru.github.io) - Russian translation of https://www.openbsd.org
 - [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
-- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
