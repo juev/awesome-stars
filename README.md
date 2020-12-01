@@ -766,6 +766,7 @@
 
 ## Haskell 
 
+- [linear-base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
 - [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned) - Haskell library that uses HIBP to evaluate passwords
