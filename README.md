@@ -726,7 +726,7 @@
 ## HTML 
 
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
-- [resume.md](https://github.com/williamsmj/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
+- [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [invest-openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
