@@ -767,6 +767,8 @@
 
 ## Haskell 
 
+- [algebra](https://github.com/ekmett/algebra) - constructive abstract algebra
+- [aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors) - Better errors when decoding JSON values
 - [linear-base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
