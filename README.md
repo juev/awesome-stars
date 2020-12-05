@@ -1089,6 +1089,7 @@
 
 ## Python 
 
+- [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
@@ -1477,7 +1478,7 @@
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - VSCode Neovim integration
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
