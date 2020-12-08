@@ -494,7 +494,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -1090,6 +1090,7 @@
 
 ## Python 
 
+- [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
@@ -1201,7 +1202,7 @@
 - [autojump-rs](https://github.com/xen0n/autojump-rs) - A fast drop-in replacement of autojump written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [goji](https://github.com/softprops/goji) - a rust interface for jira
