@@ -522,7 +522,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven services development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -768,6 +768,7 @@
 
 ## Haskell 
 
+- [text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
 - [algebra](https://github.com/ekmett/algebra) - constructive abstract algebra
 - [aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors) - Better errors when decoding JSON values
 - [linear-base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
@@ -810,7 +811,7 @@
 - [bytestring](https://github.com/haskell/bytestring) - An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
 - [heidi](https://github.com/ocramz/heidi) - heidi : tidy data in Haskell
 - [stack2cabal](https://github.com/hasufell/stack2cabal) - Convert stack projects to cabal.project + cabal.project.freeze
-- [aeson](https://github.com/bos/aeson) - A fast Haskell JSON library
+- [aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
 - [yesod](https://github.com/yesodweb/yesod) - A RESTful Haskell web framework built on WAI.
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
@@ -974,7 +975,7 @@
 - [constitution-of-russia](https://github.com/miripiruni/constitution-of-russia) - Конституция Российской Федерации
 - [awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook) - learn awk by example
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️
-- [vscode-better-solarized](https://github.com/ginfuru/vscode-better-solarized) - ☯ A better Solarized theme for Visual Studio Code
+- [vscode-better-solarized](https://github.com/edheltzel/vscode-better-solarized) - ☯ A better Solarized theme for Visual Studio Code
 - [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
 - [todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
@@ -1090,6 +1091,7 @@
 
 ## Python 
 
+- [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -1139,6 +1141,7 @@
 
 ## Rust 
 
+- [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -1202,7 +1205,7 @@
 - [autojump-rs](https://github.com/xen0n/autojump-rs) - A fast drop-in replacement of autojump written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [goji](https://github.com/softprops/goji) - a rust interface for jira
