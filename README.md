@@ -22,6 +22,7 @@
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -144,9 +145,10 @@
 
 ## C++ 
 
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
-- [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences.
+- [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences.
 - [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -484,7 +486,7 @@
 - [oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [go-plugins](https://github.com/microhq/go-plugins) - Plugins
+- [go-plugins](https://github.com/asim/go-plugins) - Plugins
 - [prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -655,7 +657,7 @@
 - [supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -759,12 +761,15 @@
 - [graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
 - [beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
 - [lisp](https://github.com/ilammy/lisp) - Lisp In Small Pieces на русском языке
-- [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 - [marginalia](https://github.com/gdeer81/marginalia) - ultra-lightweight literate programming for clojure inspired by docco
 - [clj-yaml](https://github.com/CircleCI-Archived/clj-yaml) - YAML encoding and decoding for Clojure via SnakeYAML
 - [cryogen](https://github.com/cryogen-project/cryogen) - A simple static site generator written in Clojure
 - [Minimal-Status-Bar](https://github.com/visnup/Minimal-Status-Bar) - a minimal (Google Chrome-like) status bar for Safari
+
+## Handlebars 
+
+- [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 
 ## Haskell 
 
@@ -889,6 +894,7 @@
 
 ## Jupyter Notebook 
 
+- [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
 - [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
@@ -930,6 +936,7 @@
 
 ## Others 
 
+- [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
@@ -1091,6 +1098,9 @@
 
 ## Python 
 
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -1458,6 +1468,7 @@
 
 ## TeX 
 
+- [business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
 - [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
 - [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [gophercon-russia-2020-talk](https://github.com/growler/gophercon-russia-2020-talk) - My talk for Russian GopherCon 2020
