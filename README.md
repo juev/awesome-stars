@@ -7,6 +7,7 @@
 
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
   - [CMake](#cmake)
@@ -60,6 +61,10 @@
 ## Assembly 
 
 - [blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
+
+## Batchfile 
+
+- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
@@ -204,7 +209,6 @@
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [docker-haproxy](https://github.com/40ants/docker-haproxy) - Docker image for Haproxy with proper logging.
-- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [docker-tt-rss](https://github.com/linuxserver/docker-tt-rss) - 
 - [quicklisp-docker](https://github.com/quicklisp/quicklisp-docker) - Dockerizing the quicklisp dist build process
 - [docker-cl-base](https://github.com/eshamster/docker-cl-base) - A Dockerfile to configure Common Lisp execution environment.
@@ -248,6 +252,7 @@
 
 ## Go 
 
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
@@ -486,7 +491,7 @@
 - [oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [go-plugins](https://github.com/asim/go-plugins) - Plugins
+- [go-plugins](https://github.com/asim/go-plugins) - Go Micro Plugins
 - [prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -754,6 +759,7 @@
 - [summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [openbsd-ru.github.io](https://github.com/openbsd-ru/openbsd-ru.github.io) - Russian translation of https://www.openbsd.org
 - [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
+- [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -773,6 +779,8 @@
 
 ## Haskell 
 
+- [hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
+- [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
 - [algebra](https://github.com/ekmett/algebra) - constructive abstract algebra
 - [aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors) - Better errors when decoding JSON values
@@ -859,6 +867,7 @@
 
 ## JavaScript 
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 an experiment to create a community driven language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
@@ -894,6 +903,7 @@
 
 ## Jupyter Notebook 
 
+- [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
@@ -999,7 +1009,7 @@
 - [hypertrophy](https://github.com/denisshevchenko/hypertrophy) - Гипертрофия скелетных мышц человека
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚🍤
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -1098,6 +1108,10 @@
 
 ## Python 
 
+- [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [nltk](https://github.com/nltk/nltk) - NLTK Source
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python
@@ -1151,6 +1165,7 @@
 
 ## Rust 
 
+- [connectr](https://github.com/mrmekon/connectr) - A super lightweight Spotify controller
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
