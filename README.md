@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
@@ -779,6 +780,8 @@
 
 ## Haskell 
 
+- [menkar](https://github.com/anuyts/menkar) - The multimode presheaf proof-assistant
+- [haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 - [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
