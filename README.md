@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -530,7 +531,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven services development
+- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -780,6 +781,7 @@
 
 ## Haskell 
 
+- [group-theory](https://github.com/emilypi/group-theory) - The theory of groups
 - [menkar](https://github.com/anuyts/menkar) - The multimode presheaf proof-assistant
 - [haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
@@ -1360,6 +1362,7 @@
 
 ## Shell 
 
+- [kubernetes-homespun](https://github.com/idcrook/kubernetes-homespun) - Build a kubernetes home cluster (Raspbian buster, ubuntu)
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [golang-talks](https://github.com/nezorflame/golang-talks) - Talks about Go which I occasionally do on various meetups and conferences
 - [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
