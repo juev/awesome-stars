@@ -150,6 +150,7 @@
 
 ## C++ 
 
+- [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
@@ -531,7 +532,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1014,7 +1015,7 @@
 - [hypertrophy](https://github.com/denisshevchenko/hypertrophy) - Гипертрофия скелетных мышц человека
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🐚
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🤘
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -1113,6 +1114,7 @@
 
 ## Python 
 
+- [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
@@ -1489,6 +1491,7 @@
 
 ## TeX 
 
+- [sicp](https://github.com/ieure/sicp) - Structure and Interpretation of Computer Programs, Second Edition
 - [business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
 - [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
 - [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
