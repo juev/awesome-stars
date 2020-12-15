@@ -154,7 +154,7 @@
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
-- [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences.
+- [typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
 - [EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -909,6 +909,7 @@
 
 ## Jupyter Notebook 
 
+- [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
 - [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
@@ -970,6 +971,7 @@
 - [.github](https://github.com/kowainik/.github) - 💊 Default health files
 - [cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
+- [idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [opensource-template](https://github.com/EmbarkStudios/opensource-template) - 🌻 Template for creating new repositories
 - [tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
@@ -1205,7 +1207,6 @@
 - [k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
 - [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
-- [idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library
 - [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode Normalization forms according to UAX#15 rules
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
@@ -1364,6 +1365,7 @@
 
 ## Shell 
 
+- [ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
 - [kubernetes-homespun](https://github.com/idcrook/kubernetes-homespun) - Build a kubernetes home cluster (Raspbian buster, ubuntu)
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [golang-talks](https://github.com/nezorflame/golang-talks) - Talks about Go which I occasionally do on various meetups and conferences
