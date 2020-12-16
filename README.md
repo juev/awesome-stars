@@ -953,6 +953,7 @@
 
 ## Others 
 
+- [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
@@ -1017,7 +1018,7 @@
 - [hypertrophy](https://github.com/denisshevchenko/hypertrophy) - Гипертрофия скелетных мышц человека
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of plugins, prompts, and resources for Fish. 🤘
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and more for Fish. 🤘
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -1116,6 +1117,7 @@
 
 ## Python 
 
+- [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -1375,7 +1377,7 @@
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
-- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian, PopOS
+- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian, PopOS, Manjaro
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
 - [nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
