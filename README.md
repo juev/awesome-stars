@@ -22,6 +22,7 @@
   - [Futhark](#futhark)
   - [Gherkin](#gherkin)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -186,6 +187,7 @@
 
 ## Clojure 
 
+- [deep-diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 - [piranha](https://github.com/piranha/piranha) - 
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
@@ -734,6 +736,10 @@
 - [license](https://github.com/nishanths/license) - Command line license text generator
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
+## Groovy 
+
+- [jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
+
 ## HTML 
 
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
@@ -745,6 +751,7 @@
 - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -983,7 +990,6 @@
 - [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
-- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues and releases repository.
 - [homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
@@ -1407,7 +1413,7 @@
 - [dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
-- [TabNine](https://github.com/codota/TabNine) - AI Smart Compose for Your Code
+- [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [z](https://github.com/rupa/z) - z - jump around
 - [Dazzle](https://github.com/hbons/Dazzle) - A script to easily set up a SparkleShare host
@@ -1495,6 +1501,7 @@
 
 ## TeX 
 
+- [clj-book](https://github.com/igrishaev/clj-book) - 
 - [sicp](https://github.com/ieure/sicp) - Structure and Interpretation of Computer Programs, Second Edition
 - [business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
 - [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
@@ -1511,6 +1518,7 @@
 
 ## TypeScript 
 
+- [actions](https://github.com/haskell/actions) - Github actions for Haskell CI
 - [VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
