@@ -162,7 +162,7 @@
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
 - [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
