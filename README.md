@@ -187,6 +187,7 @@
 
 ## Clojure 
 
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [deep-diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 - [piranha](https://github.com/piranha/piranha) - 
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -789,6 +790,7 @@
 
 ## Haskell 
 
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [group-theory](https://github.com/emilypi/group-theory) - The theory of groups
 - [menkar](https://github.com/anuyts/menkar) - The multimode presheaf proof-assistant
 - [haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
