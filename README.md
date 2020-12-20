@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [oauth](https://github.com/cli/oauth) - A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
