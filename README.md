@@ -194,6 +194,9 @@
 
 ## Common Lisp 
 
+- [qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
+- [roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
+- [ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
 - [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 - [paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
@@ -309,7 +312,7 @@
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
 - [golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [promrg](https://github.com/leominov/promrg) - 
-- [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
 - [ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
@@ -345,7 +348,7 @@
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
 - [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -508,7 +511,7 @@
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/facebook/ent) - An entity framework for Go
@@ -1126,6 +1129,8 @@
 
 ## Python 
 
+- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [twitter-cleanup](https://github.com/cuducos/twitter-cleanup) - 🛁 Clean-up inactive accounts and bots from your Twitter
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
@@ -1185,6 +1190,7 @@
 
 ## Rust 
 
+- [mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [connectr](https://github.com/mrmekon/connectr) - A super lightweight Spotify controller
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
@@ -1403,7 +1409,7 @@
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
-- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish—the friendly interactive shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [fish_files](https://github.com/ttscoff/fish_files) - 
 - [hugo-deploy-gh-pages](https://github.com/benmatselby/hugo-deploy-gh-pages) - 📦 A GitHub Action to build and deploy a Hugo site to GitHub Pages
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
