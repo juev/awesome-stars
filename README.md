@@ -1030,7 +1030,7 @@
 - [hypertrophy](https://github.com/denisshevchenko/hypertrophy) - Гипертрофия скелетных мышц человека
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and more for Fish. 🤘
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, and other resources for Fish. 🤘
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -1129,6 +1129,7 @@
 
 ## Python 
 
+- [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [twitter-cleanup](https://github.com/cuducos/twitter-cleanup) - 🛁 Clean-up inactive accounts and bots from your Twitter
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
