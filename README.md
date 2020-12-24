@@ -747,6 +747,7 @@
 
 ## HTML 
 
+- [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -794,6 +795,8 @@
 
 ## Haskell 
 
+- [megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library
+- [persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [group-theory](https://github.com/emilypi/group-theory) - The theory of groups
 - [menkar](https://github.com/anuyts/menkar) - The multimode presheaf proof-assistant
@@ -1546,7 +1549,7 @@
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
-- [veonim](https://github.com/veonim/veonim) - neovim GUI
+- [veonim](https://github.com/veonim/veonim) - 
 - [vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
