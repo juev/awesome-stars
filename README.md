@@ -1195,6 +1195,7 @@
 
 ## Rust 
 
+- [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [connectr](https://github.com/mrmekon/connectr) - A super lightweight Spotify controller
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
@@ -1304,7 +1305,7 @@
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vector](https://github.com/timberio/vector) - A high-performance, end-to-end observability data platform.
+- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
