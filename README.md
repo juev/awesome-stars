@@ -151,6 +151,7 @@
 
 ## C++ 
 
+- [poac](https://github.com/poacpm/poac) - A package manager for C++, like Rust's Cargo.
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
@@ -243,6 +244,7 @@
 - [lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [emacs](https://github.com/patrickt/emacs) - the greatest emacs setup of all time
+- [emacs-news](https://github.com/sachac/emacs-news) - Weekly Emacs news
 
 ## Erlang 
 
@@ -259,6 +261,7 @@
 
 ## Go 
 
+- [re](https://github.com/binwiederhier/re) - Recursive search and replace tool
 - [oauth](https://github.com/cli/oauth) - A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -312,7 +315,7 @@
 - [multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
 - [golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [promrg](https://github.com/leominov/promrg) - 
-- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
@@ -795,6 +798,7 @@
 
 ## Haskell 
 
+- [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell
 - [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell
 - [haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
 - [universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
@@ -930,6 +934,7 @@
 
 ## Jupyter Notebook 
 
+- [dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
 - [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
@@ -976,7 +981,7 @@
 
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -1113,7 +1118,6 @@
 - [vimconfig](https://github.com/lefticus/vimconfig) - Vim configuration customized for heavy C++ with git and SWIG usage.
 - [Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) - Guide to using a remote Debian server for security and privacy services
 - [osxparanoia](https://github.com/l1k/osxparanoia) - Preventing OS X from phoning home to Cupertino
-- [emacs-news](https://github.com/sachac/emacs-news) - Weekly Emacs news
 - [omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
 - [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -1137,6 +1141,7 @@
 
 ## Python 
 
+- [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -1595,7 +1600,7 @@
 - [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
-- [VimCompletesMe](https://github.com/ajh17/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
+- [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [vim-characterize](https://github.com/tpope/vim-characterize) - characterize.vim: Unicode character metadata
 - [vim-config-framework](https://github.com/tony/vim-config-framework) - :green_book: VIM / Neovim configuration framework
 - [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
