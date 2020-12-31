@@ -84,7 +84,7 @@
 - [ocilib](https://github.com/vrogier/ocilib) - OCILIB (C and C++ Drivers for Oracle) - Open source C and C++ library for accessing Oracle databases
 - [godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
+- [freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
@@ -151,6 +151,7 @@
 
 ## C++ 
 
+- [cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [poac](https://github.com/poacpm/poac) - A package manager for C++, like Rust's Cargo.
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -754,6 +755,7 @@
 ## HTML 
 
 - [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -822,7 +824,6 @@
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
 - [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned) - Haskell library that uses HIBP to evaluate passwords
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [haskell-exercises](https://github.com/vrom911/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
@@ -921,7 +922,6 @@
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -967,6 +967,7 @@
 - [golang-github-action-sign-macos](https://github.com/kencochrane/golang-github-action-sign-macos) - Example repo showing how to use Github Actions to sign a golang binary for macos
 - [dotfiles](https://github.com/davecheney/dotfiles) - dot slash dot dot
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 
 ## Objective-C 
 
@@ -1254,7 +1255,7 @@
 - [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [cargo-release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
 - [warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
-- [penrose](https://github.com/sminez/penrose) - A tiling window manager in the spirit of dwm / Xmonad but written in Rust (Very much a work in progress!)
+- [penrose](https://github.com/sminez/penrose) - A tiling window manager inspired by dwm and xmonad.
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
@@ -1491,7 +1492,6 @@
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [git-summary](https://github.com/svetlyak40wt/git-summary) - Checks what repos has been changed in your workspace.
 - [sandbox](https://github.com/influxdata/sandbox) - A sandbox for the full TICK stack
-- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [Lets-Encrypt-Smart-Renew](https://github.com/ScottHelme/Lets-Encrypt-Smart-Renew) - Check the remaining validity period of a certificate before renewing.
 - [mikrotik-openvpn-client](https://github.com/missinglink/mikrotik-openvpn-client) - configure your mikrotik routerboard as an openvpn client
 - [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
@@ -1634,6 +1634,7 @@
 - [vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [vim-thematic](https://github.com/reedes/vim-thematic) - Alter Vim's appearance to suit your task & environ
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) - Vim Space Controller
 - [supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
