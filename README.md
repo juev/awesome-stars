@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
 - [badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [guardian-agent](https://github.com/StanfordSNR/guardian-agent) - [beta] Guardian Agent: secure ssh-agent forwarding for Mosh and SSH
@@ -370,7 +371,7 @@
 - [gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
 - [bricks](https://github.com/pace/bricks) - A standard library for microservices.
 - [wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
-- [wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides Wireguard peer information via DNS-SD semantics
+- [wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
 - [rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
 - [bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -386,7 +387,7 @@
 - [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [rek](https://github.com/lucperkins/rek) - An easy HTTP client for Go. Inspired by the immortal Requests.
 - [uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
-- [gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for PIA, Mullvad, Windscribe, Surfshark, Cyberghost, Vyprvpn and Nordvpn
+- [gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN, DNS over TLS, with a few proxy servers built-in.
 - [when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
@@ -755,7 +756,6 @@
 ## HTML 
 
 - [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -824,6 +824,7 @@
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell
 - [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned) - Haskell library that uses HIBP to evaluate passwords
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [haskell-exercises](https://github.com/vrom911/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
@@ -937,6 +938,7 @@
 
 ## Jupyter Notebook 
 
+- [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
 - [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
@@ -967,7 +969,6 @@
 - [golang-github-action-sign-macos](https://github.com/kencochrane/golang-github-action-sign-macos) - Example repo showing how to use Github Actions to sign a golang binary for macos
 - [dotfiles](https://github.com/davecheney/dotfiles) - dot slash dot dot
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 
 ## Objective-C 
 
@@ -1146,6 +1147,8 @@
 
 ## Python 
 
+- [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
+- [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
@@ -1492,6 +1495,7 @@
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [git-summary](https://github.com/svetlyak40wt/git-summary) - Checks what repos has been changed in your workspace.
 - [sandbox](https://github.com/influxdata/sandbox) - A sandbox for the full TICK stack
+- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [Lets-Encrypt-Smart-Renew](https://github.com/ScottHelme/Lets-Encrypt-Smart-Renew) - Check the remaining validity period of a certificate before renewing.
 - [mikrotik-openvpn-client](https://github.com/missinglink/mikrotik-openvpn-client) - configure your mikrotik routerboard as an openvpn client
 - [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
