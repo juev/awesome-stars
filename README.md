@@ -23,6 +23,7 @@
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -262,6 +263,8 @@
 
 ## Go 
 
+- [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
+- [slack](https://github.com/bluele/slack) - Golang client for the Slack API. **Currently we only accept security issues, not feature requests.**
 - [terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
 - [badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
@@ -753,9 +756,15 @@
 
 - [jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
 
+## HCL 
+
+- [terraform-terraform-label](https://github.com/cloudposse/terraform-terraform-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
+- [terraform-aws-codebuild](https://github.com/cloudposse/terraform-aws-codebuild) - Terraform Module to easily leverage AWS CodeBuild for Continuous Integration
+
 ## HTML 
 
 - [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
+- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -988,7 +997,6 @@
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
@@ -1147,6 +1155,7 @@
 
 ## Python 
 
+- [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform.
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
