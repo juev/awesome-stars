@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [slack](https://github.com/bluele/slack) - Golang client for the Slack API. **Currently we only accept security issues, not feature requests.**
 - [terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
@@ -368,7 +369,7 @@
 - [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [goodreads](https://github.com/KyleBanks/goodreads) - Goodreads API client written in Go.
-- [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)
+- [tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
