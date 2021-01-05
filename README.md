@@ -131,7 +131,7 @@
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [libsoldout](https://github.com/faelys/libsoldout) - Flexible C library for markdown parsing
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug fix only libev port of shadowsocks. Future development moved to shadowsocks-rust
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -299,7 +299,7 @@
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
-- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
 - [go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go
@@ -813,7 +813,7 @@
 
 ## Haskell 
 
-- [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell
+- [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
 - [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell
 - [haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
 - [universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
@@ -1156,7 +1156,7 @@
 
 ## Python 
 
-- [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform.
+- [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
