@@ -263,6 +263,10 @@
 
 ## Go 
 
+- [crypt](https://github.com/bketelsen/crypt) - Store and retrieve encrypted configs from etcd or consul
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [harvester](https://github.com/beatlabs/harvester) - Harvest configuration, watch and notify subscriber
+- [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates
 - [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [slack](https://github.com/bluele/slack) - Golang client for the Slack API. **Currently we only accept security issues, not feature requests.**
