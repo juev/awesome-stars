@@ -165,7 +165,7 @@
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -263,6 +263,8 @@
 
 ## Go 
 
+- [vaultlib](https://github.com/mch1307/vaultlib) - Lightweight Go client library for reading Vault kv secrets
+- [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [crypt](https://github.com/bketelsen/crypt) - Store and retrieve encrypted configs from etcd or consul
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [harvester](https://github.com/beatlabs/harvester) - Harvest configuration, watch and notify subscriber
@@ -492,7 +494,7 @@
 - [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
-- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
+- [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -763,6 +765,7 @@
 
 ## HCL 
 
+- [terraform-aws-tfstate-backend](https://github.com/cloudposse/terraform-aws-tfstate-backend) - Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.
 - [terraform-terraform-label](https://github.com/cloudposse/terraform-terraform-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
 - [terraform-aws-codebuild](https://github.com/cloudposse/terraform-aws-codebuild) - Terraform Module to easily leverage AWS CodeBuild for Continuous Integration
 
@@ -1293,7 +1296,7 @@
 - [autojump-rs](https://github.com/xen0n/autojump-rs) - A fast drop-in replacement of autojump written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [goji](https://github.com/softprops/goji) - a rust interface for jira
