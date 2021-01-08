@@ -70,6 +70,7 @@
 
 ## C 
 
+- [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - Nginx module for binding Haskell code in configuration files for great good!
@@ -366,7 +367,7 @@
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
 - [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -1423,6 +1424,7 @@
 
 ## Shell 
 
+- [wlan_pwr](https://github.com/fordsfords/wlan_pwr) - Improve CHIP wireless perf and reliability by turning off power mgt
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
 - [kubernetes-homespun](https://github.com/idcrook/kubernetes-homespun) - Build a kubernetes home cluster (Raspbian buster, ubuntu)
@@ -1552,7 +1554,8 @@
 
 ## TeX 
 
-- [clj-book](https://github.com/igrishaev/clj-book) - 
+- [theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) - 
+- [clj-book](https://github.com/igrishaev/clj-book) - Книга «Clojure на производстве»
 - [sicp](https://github.com/ieure/sicp) - Structure and Interpretation of Computer Programs, Second Edition
 - [business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
 - [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
@@ -1656,7 +1659,7 @@
 - [vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [vim-thematic](https://github.com/reedes/vim-thematic) - Alter Vim's appearance to suit your task & environ
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) - Vim Space Controller
 - [supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
