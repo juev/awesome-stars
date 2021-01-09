@@ -35,6 +35,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Nix](#nix)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [Others](#others)
@@ -201,6 +202,7 @@
 - [qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
+- [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 - [paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
@@ -264,6 +266,10 @@
 
 ## Go 
 
+- [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
+- [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
+- [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
+- [holmes](https://github.com/mosn/holmes) - self-aware Golang profile dumper[beta]
 - [vaultlib](https://github.com/mch1307/vaultlib) - Lightweight Go client library for reading Vault kv secrets
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [crypt](https://github.com/bketelsen/crypt) - Store and retrieve encrypted configs from etcd or consul
@@ -687,7 +693,7 @@
 - [venom](https://github.com/moogar0880/venom) - A pluggable configuration management library with zero dependencies
 - [remark42](https://github.com/umputun/remark42) - comment engine
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
@@ -921,6 +927,7 @@
 
 ## JavaScript 
 
+- [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 an experiment to create a community driven language-learning platform
@@ -988,6 +995,10 @@
 - [dotfiles](https://github.com/davecheney/dotfiles) - dot slash dot dot
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
+## Nix 
+
+- [nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+
 ## Objective-C 
 
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
@@ -1004,7 +1015,6 @@
 
 - [github-best-practices](https://github.com/tmcw/github-best-practices) - how to use this dang site!
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
-- [common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -1164,6 +1174,7 @@
 
 ## Python 
 
+- [maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
@@ -1572,6 +1583,7 @@
 
 ## TypeScript 
 
+- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [actions](https://github.com/haskell/actions) - Github actions for Haskell CI
 - [VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
