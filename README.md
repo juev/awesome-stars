@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework
 - [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
@@ -997,6 +998,7 @@
 
 ## Nix 
 
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 
 ## Objective-C 
