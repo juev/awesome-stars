@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
 - [goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework
 - [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
@@ -828,6 +829,7 @@
 
 ## Haskell 
 
+- [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
 - [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell
 - [haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
@@ -931,7 +933,7 @@
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 an experiment to create a community driven language-learning platform
+- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1015,6 +1017,7 @@
 
 ## Others 
 
+- [getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [github-best-practices](https://github.com/tmcw/github-best-practices) - how to use this dang site!
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
