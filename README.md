@@ -266,6 +266,8 @@
 
 ## Go 
 
+- [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
+- [ipdr](https://github.com/miguelmota/ipdr) - 🐋 IPFS-backed Docker Registry
 - [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
 - [goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework
 - [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
@@ -1292,7 +1294,7 @@
 - [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [cargo-release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
 - [warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
-- [penrose](https://github.com/sminez/penrose) - A tiling window manager inspired by dwm and xmonad.
+- [penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
