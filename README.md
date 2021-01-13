@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [re-txt](https://github.com/alash3al/re-txt) - converts text-formats from one to another, it is very useful if you want to re-format a json file to yaml, toml to yaml, csv to yaml, ... etc
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [ipdr](https://github.com/miguelmota/ipdr) - 🐋 IPFS-backed Docker Registry
 - [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
@@ -776,6 +777,7 @@
 
 ## HCL 
 
+- [tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) - Example Terraform configuration
 - [terraform-aws-tfstate-backend](https://github.com/cloudposse/terraform-aws-tfstate-backend) - Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.
 - [terraform-terraform-label](https://github.com/cloudposse/terraform-terraform-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
 - [terraform-aws-codebuild](https://github.com/cloudposse/terraform-aws-codebuild) - Terraform Module to easily leverage AWS CodeBuild for Continuous Integration
@@ -783,7 +785,7 @@
 ## HTML 
 
 - [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
-- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Online resources help you prepare for the CNCF/Linux Foundation CKS 2020 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you .
+- [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -1002,6 +1004,7 @@
 
 ## Nix 
 
+- [h](https://github.com/EncodePanda/h) - home-manager for my MacOS computers
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 
@@ -1019,6 +1022,7 @@
 
 ## Others 
 
+- [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [github-best-practices](https://github.com/tmcw/github-best-practices) - how to use this dang site!
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
@@ -1043,7 +1047,7 @@
 - [tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A guide for learning the Vim editor and Vimscript the smart way.
 - [rumyantseva](https://github.com/rumyantseva/rumyantseva) - README.md of my GitHub profile
 - [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
@@ -1590,6 +1594,7 @@
 
 ## TypeScript 
 
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [actions](https://github.com/haskell/actions) - Github actions for Haskell CI
 - [VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
@@ -1624,7 +1629,7 @@
 - [nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use nvim/vim's builtin terminal in the floating/popup window
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [neovim](https://github.com/Shougo/neovim) - vim for the 21st century
