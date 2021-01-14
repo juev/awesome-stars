@@ -234,6 +234,7 @@
 
 ## Emacs Lisp 
 
+- [dotfiles](https://github.com/chshersh/dotfiles) - :computer: Configuration files
 - [rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
 - [dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
@@ -266,6 +267,8 @@
 
 ## Go 
 
+- [validate](https://github.com/dealancer/validate) - Go struct validation
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [re-txt](https://github.com/alash3al/re-txt) - converts text-formats from one to another, it is very useful if you want to re-format a json file to yaml, toml to yaml, csv to yaml, ... etc
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [ipdr](https://github.com/miguelmota/ipdr) - 🐋 IPFS-backed Docker Registry
@@ -833,6 +836,7 @@
 
 ## Haskell 
 
+- [niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
 - [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell
@@ -1022,6 +1026,8 @@
 
 ## Others 
 
+- [healthy-life](https://github.com/denisshevchenko/healthy-life) - О здоровом образе жизни
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [github-best-practices](https://github.com/tmcw/github-best-practices) - how to use this dang site!
@@ -1613,7 +1619,6 @@
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
-- [veonim](https://github.com/veonim/veonim) - 
 - [vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
