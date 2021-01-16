@@ -148,7 +148,7 @@
 - [openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [liquid-c](https://github.com/Shopify/liquid-c) - Liquid performance extension in C.
 - [miniz](https://github.com/richgel999/miniz) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
-- [minizip](https://github.com/nmoinvaz/minizip) - Fork of the popular zip manipulation library found in the zlib distribution.
+- [minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution.
 - [lipify](https://github.com/troglobit/lipify) - C API for http://ipify.org
 - [cmdline](https://github.com/tanakh/cmdline) - A Command Line Parser
 
