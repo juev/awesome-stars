@@ -996,6 +996,7 @@
 
 ## Lua 
 
+- [nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [luashell](https://github.com/mna/luashell) - A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
@@ -1010,6 +1011,11 @@
 
 ## Nix 
 
+- [nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
+- [dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
+- [home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
+- [nixos-config](https://github.com/rummik/nixos-config) - My NixOS/Nix-Darwin + home-manager configs
+- [nix-home](https://github.com/bobvanderlinden/nix-home) - My Nix home-manager configuration
 - [h](https://github.com/EncodePanda/h) - home-manager for my MacOS computers
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
@@ -1028,6 +1034,7 @@
 
 ## Others 
 
+- [papers_i_love](https://github.com/EncodePanda/papers_i_love) - Papers I love :)
 - [healthy-life](https://github.com/denisshevchenko/healthy-life) - О здоровом образе жизни
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
