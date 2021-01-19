@@ -267,6 +267,9 @@
 
 ## Go 
 
+- [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
+- [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
+- [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [config](https://github.com/gookit/config) - 📝 Go config manage(load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名
 - [validate](https://github.com/dealancer/validate) - Go struct validation
@@ -1034,6 +1037,8 @@
 
 ## Others 
 
+- [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing) - A collection of awesome performance testing resources
+- [go-profiler-notes](https://github.com/felixge/go-profiler-notes) - My notes on the various go profiling methods that are available.
 - [papers_i_love](https://github.com/EncodePanda/papers_i_love) - Papers I love :)
 - [healthy-life](https://github.com/denisshevchenko/healthy-life) - О здоровом образе жизни
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
@@ -1427,7 +1432,7 @@
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 - [cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate) - cargo, make me a project
+- [cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
