@@ -48,6 +48,7 @@
   - [Rust](#rust)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -387,7 +388,7 @@
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
-- [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [gridder](https://github.com/shomali11/gridder) - A Grid based 2D Graphics library
@@ -1007,6 +1008,7 @@
 
 ## Makefile 
 
+- [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [golang-github-action-sign-macos](https://github.com/kencochrane/golang-github-action-sign-macos) - Example repo showing how to use Github Actions to sign a golang binary for macos
 - [dotfiles](https://github.com/davecheney/dotfiles) - dot slash dot dot
@@ -1037,6 +1039,10 @@
 
 ## Others 
 
+- [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
+- [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
+- [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [xy2xy](https://github.com/kirillsulim/xy2xy) - A list of technologies similar to inner Yandex technologies
 - [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing) - A collection of awesome performance testing resources
 - [go-profiler-notes](https://github.com/felixge/go-profiler-notes) - My notes on the various go profiling methods that are available.
 - [papers_i_love](https://github.com/EncodePanda/papers_i_love) - Papers I love :)
@@ -1549,7 +1555,7 @@
 - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [trust](https://github.com/japaric/trust) - Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 - [rust-cli-template](https://github.com/Keats/rust-cli-template) - A template to get started with writing cross-platforms CLI applications
-- [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 - [nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
@@ -1575,6 +1581,10 @@
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+
+## Starlark 
+
+- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
