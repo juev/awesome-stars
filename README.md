@@ -221,7 +221,6 @@
 - [upx](https://github.com/gacts/upx) - GitHub Action to run UPX on an executable file(s)
 - [localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
-- [dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [docker-haproxy](https://github.com/40ants/docker-haproxy) - Docker image for Haproxy with proper logging.
 - [docker-tt-rss](https://github.com/linuxserver/docker-tt-rss) - 
 - [quicklisp-docker](https://github.com/quicklisp/quicklisp-docker) - Dockerizing the quicklisp dist build process
@@ -1508,6 +1507,7 @@
 - [fzf-extras](https://github.com/atweiden/fzf-extras) - Key bindings from fzf wiki
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
+- [dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
 - [searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
