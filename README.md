@@ -267,6 +267,7 @@
 
 ## Go 
 
+- [gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1471,6 +1472,7 @@
 
 ## Shell 
 
+- [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [wlan_pwr](https://github.com/fordsfords/wlan_pwr) - Improve CHIP wireless perf and reliability by turning off power mgt
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
@@ -1592,6 +1594,7 @@
 
 ## Swift 
 
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
