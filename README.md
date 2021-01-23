@@ -492,7 +492,7 @@
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
 - [dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
-- [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc.
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [golang-viper-config-example](https://github.com/devilsray/golang-viper-config-example) - 
 - [cron](https://github.com/robfig/cron) - a cron library for go
 - [prometheus_oracle_exporter](https://github.com/freenetdigital/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
