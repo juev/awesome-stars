@@ -267,6 +267,7 @@
 
 ## Go 
 
+- [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
@@ -842,6 +843,7 @@
 
 ## Haskell 
 
+- [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types
 - [niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [quad-ci](https://github.com/alpacaaa/quad-ci) - A CI server written in Simple Haskell.
@@ -1016,6 +1018,7 @@
 
 ## Nix 
 
+- [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
 - [home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
@@ -1211,6 +1214,7 @@
 
 ## Python 
 
+- [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
@@ -1312,7 +1316,7 @@
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [minivec](https://github.com/LeonineKing1199/minivec) - A space-optimized implementation of std::vec::Vec
 - [k9](https://github.com/aaronabramov/k9) - Rust testing library
-- [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
+- [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, powered by Apache Arrow.
 - [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library
 - [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode Normalization forms according to UAX#15 rules
