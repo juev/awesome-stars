@@ -1042,6 +1042,9 @@
 
 ## Others 
 
+- [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
+- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
 - [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -1283,6 +1286,7 @@
 
 ## Rust 
 
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [connectr](https://github.com/mrmekon/connectr) - A super lightweight Spotify controller
@@ -1476,6 +1480,7 @@
 
 ## Shell 
 
+- [k8s-redis-ha](https://github.com/tarosky/k8s-redis-ha) - Kubernetes Redis with High Availability
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [wlan_pwr](https://github.com/fordsfords/wlan_pwr) - Improve CHIP wireless perf and reliability by turning off power mgt
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
