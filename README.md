@@ -278,7 +278,7 @@
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [re-txt](https://github.com/alash3al/re-txt) - converts text-formats from one to another, it is very useful if you want to re-format a json file to yaml, toml to yaml, csv to yaml, ... etc
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
-- [ipdr](https://github.com/miguelmota/ipdr) - 🐋 IPFS-backed Docker Registry
+- [ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry
 - [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram
 - [goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework
 - [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
@@ -343,7 +343,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [zettel](https://github.com/hackstream/zettel) - A notes organizer - based on Zettelkasten methodology.
-- [goyave](https://github.com/System-Glitch/goyave) - 🍐 Elegant Golang Web Framework
+- [goyave](https://github.com/System-Glitch/goyave) - 🍐 Elegant Golang REST API Framework
 - [rollingwriter](https://github.com/arthurkiller/rollingwriter) - Rolling writer is an IO util for auto rolling write in go.
 - [kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more)
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -843,6 +843,8 @@
 
 ## Haskell 
 
+- [polysemy](https://github.com/polysemy-research/polysemy) - :gemini: higher-order, no-boilerplate monads
+- [parsing-with-haskell-parser-combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - 🔍 A step-by-step guide to parsing using Haskell parser combinators.
 - [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types
 - [niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
@@ -1079,7 +1081,7 @@
 - [tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - A guide for learning the Vim editor and Vimscript the smart way.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript is not hard. This is the guide that you're looking for.
 - [rumyantseva](https://github.com/rumyantseva/rumyantseva) - README.md of my GitHub profile
 - [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
@@ -1286,6 +1288,7 @@
 
 ## Rust 
 
+- [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
