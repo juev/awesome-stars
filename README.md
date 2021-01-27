@@ -72,6 +72,7 @@
 
 ## C 
 
+- [dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -1020,6 +1021,7 @@
 
 ## Nix 
 
+- [nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
@@ -1081,7 +1083,7 @@
 - [tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript is not hard. This is the guide that you're looking for.
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [rumyantseva](https://github.com/rumyantseva/rumyantseva) - README.md of my GitHub profile
 - [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
