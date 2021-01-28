@@ -72,6 +72,7 @@
 
 ## C 
 
+- [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
@@ -268,6 +269,8 @@
 
 ## Go 
 
+- [app-with-vault](https://github.com/rumyantseva/app-with-vault) - An example of how to interact with Vault from a Go application in a local environment. NOT PRODUCTION READY! For production readiness please reach out to your security engineers.
+- [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -1021,6 +1024,7 @@
 
 ## Nix 
 
+- [nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
@@ -1046,6 +1050,7 @@
 
 ## Others 
 
+- [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Go (Golang) Videos
 - [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
