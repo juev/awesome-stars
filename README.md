@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [app-with-vault](https://github.com/rumyantseva/app-with-vault) - An example of how to interact with Vault from a Go application in a local environment. NOT PRODUCTION READY! For production readiness please reach out to your security engineers.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
@@ -1024,6 +1025,8 @@
 
 ## Nix 
 
+- [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
