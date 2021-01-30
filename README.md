@@ -269,6 +269,8 @@
 
 ## Go 
 
+- [ugo](https://github.com/ozanh/ugo) - Script Language for Go
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [app-with-vault](https://github.com/rumyantseva/app-with-vault) - An example of how to interact with Vault from a Go application in a local environment. NOT PRODUCTION READY! For production readiness please reach out to your security engineers.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
@@ -848,6 +850,8 @@
 
 ## Haskell 
 
+- [beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [polysemy](https://github.com/polysemy-research/polysemy) - :gemini: higher-order, no-boilerplate monads
 - [parsing-with-haskell-parser-combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - 🔍 A step-by-step guide to parsing using Haskell parser combinators.
 - [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types
@@ -953,6 +957,7 @@
 
 ## JavaScript 
 
+- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1025,6 +1030,8 @@
 
 ## Nix 
 
+- [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
+- [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
@@ -1053,10 +1060,11 @@
 
 ## Others 
 
+- [effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
 - [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Go (Golang) Videos
 - [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
-- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -1229,6 +1237,7 @@
 
 ## Python 
 
+- [redis-enterprise-k8s-docs](https://github.com/RedisLabs/redis-enterprise-k8s-docs) - 
 - [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
@@ -1256,7 +1265,7 @@
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [habr-posts](https://github.com/igrishaev/habr-posts) - 
@@ -1298,6 +1307,7 @@
 
 ## Rust 
 
+- [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
@@ -1679,6 +1689,7 @@
 
 ## Vim script 
 
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
