@@ -1061,7 +1061,7 @@
 ## Others 
 
 - [effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
-- [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Go (Golang) Videos
+- [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Каталог докладов, лекций и других видеоматериалов по Go
 - [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
