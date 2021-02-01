@@ -46,6 +46,7 @@
   - [Racket](#racket)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -957,6 +958,7 @@
 
 ## JavaScript 
 
+- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1030,6 +1032,7 @@
 
 ## Nix 
 
+- [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
@@ -1497,6 +1500,10 @@
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 
+## SCSS 
+
+- [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+
 ## Scheme 
 
 - [Schemings](https://github.com/Mathieu-Desrochers/Schemings) - You dig Scheme. The world is coded in C. You get both.
@@ -1689,6 +1696,7 @@
 
 ## Vim script 
 
+- [homies](https://github.com/nmattia/homies) - linux package management
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
