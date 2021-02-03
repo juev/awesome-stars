@@ -46,7 +46,6 @@
   - [Racket](#racket)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -237,6 +236,8 @@
 
 ## Emacs Lisp 
 
+- [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [dotfiles](https://github.com/chshersh/dotfiles) - :computer: Configuration files
 - [rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
@@ -270,6 +271,8 @@
 
 ## Go 
 
+- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [crypt](https://github.com/nomad-software/crypt) - A command line utility for encrypting and decrypting files
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ugo](https://github.com/ozanh/ugo) - Script Language for Go
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -1034,7 +1037,9 @@
 
 ## Nix 
 
+- [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
+- [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
@@ -1056,7 +1061,6 @@
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [sshfs-gui](https://github.com/dstuecken/sshfs-gui) - SSHFS GUI Wrapper for Mac OS X
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost disabler / enable app for Mac OS X
 
 ## Objective-C++ 
@@ -1312,6 +1316,7 @@
 
 ## Rust 
 
+- [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -1502,10 +1507,6 @@
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 
-## SCSS 
-
-- [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-
 ## Scheme 
 
 - [Schemings](https://github.com/Mathieu-Desrochers/Schemings) - You dig Scheme. The world is coded in C. You get both.
@@ -1641,6 +1642,7 @@
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
