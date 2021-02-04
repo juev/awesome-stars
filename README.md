@@ -271,6 +271,8 @@
 
 ## Go 
 
+- [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [crypt](https://github.com/nomad-software/crypt) - A command line utility for encrypting and decrypting files
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1001,6 +1003,7 @@
 
 ## Jupyter Notebook 
 
+- [go-profiler-notes](https://github.com/felixge/go-profiler-notes) - My notes on the various go profiling methods that are available.
 - [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
@@ -1069,6 +1072,7 @@
 
 ## Others 
 
+- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
 - [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Каталог докладов, лекций и других видеоматериалов по Go
 - [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
@@ -1079,7 +1083,6 @@
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [xy2xy](https://github.com/kirillsulim/xy2xy) - A list of technologies similar to inner Yandex technologies
 - [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing) - A collection of awesome performance testing resources
-- [go-profiler-notes](https://github.com/felixge/go-profiler-notes) - My notes on the various go profiling methods that are available.
 - [papers_i_love](https://github.com/EncodePanda/papers_i_love) - Papers I love :)
 - [healthy-life](https://github.com/denisshevchenko/healthy-life) - О здоровом образе жизни
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
@@ -1246,6 +1249,7 @@
 
 ## Python 
 
+- [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [redis-enterprise-k8s-docs](https://github.com/RedisLabs/redis-enterprise-k8s-docs) - 
 - [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
@@ -1594,7 +1598,7 @@
 - [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images
 - [vps-app-mailserver](https://github.com/snupt/vps-app-mailserver) - 
-- [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec
+- [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [rust-ios-android](https://github.com/kennytm/rust-ios-android) - Example project for building a library for iOS + Android in Rust.
 - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [trust](https://github.com/japaric/trust) - Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
