@@ -73,7 +73,6 @@
 ## C 
 
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
-- [dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -271,6 +270,7 @@
 
 ## Go 
 
+- [tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -986,7 +986,7 @@
 - [upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your GitHub, GitLab and Bitbucket repositories.
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1040,6 +1040,7 @@
 
 ## Nix 
 
+- [nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -1049,6 +1050,7 @@
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
+- [dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
@@ -1617,7 +1619,7 @@
 - [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [dotfiles](https://github.com/ginatrapani/dotfiles) - 🗂 my dotfiles
 - [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
