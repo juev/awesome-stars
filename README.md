@@ -392,7 +392,7 @@
 - [terraform-provider-kubernetes-alpha](https://github.com/hashicorp/terraform-provider-kubernetes-alpha) - A Terraform provider for Kubernetes that uses dynamic resource types and server-side apply. Supports all Kubernetes resources.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
-- [openyurt](https://github.com/alibaba/openyurt) - OpenYurt - Extending your native Kubernetes to edge
+- [openyurt](https://github.com/alibaba/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [lisp](https://github.com/robpike/lisp) - Toy Lisp 1.5 interpreter
@@ -1040,6 +1040,7 @@
 
 ## Nix 
 
+- [nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -1093,7 +1094,7 @@
 - [github-best-practices](https://github.com/tmcw/github-best-practices) - how to use this dang site!
 - [advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-- [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
+- [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
 - [haskell-learning](https://github.com/sassela/haskell-learning) - Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
