@@ -72,6 +72,7 @@
 
 ## C 
 
+- [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
@@ -270,6 +271,8 @@
 
 ## Go 
 
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
@@ -857,6 +860,7 @@
 
 ## Haskell 
 
+- [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
 - [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [polysemy](https://github.com/polysemy-research/polysemy) - :gemini: higher-order, no-boilerplate monads
@@ -1040,6 +1044,7 @@
 
 ## Nix 
 
+- [dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
@@ -1707,6 +1712,7 @@
 
 ## Vim script 
 
+- [vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [homies](https://github.com/nmattia/homies) - linux package management
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
