@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
@@ -962,6 +963,7 @@
 
 ## Java 
 
+- [clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -990,7 +992,7 @@
 - [upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1044,6 +1046,7 @@
 
 ## Nix 
 
+- [nix-home-config](https://github.com/lucperkins/nix-home-config) - Nix configuration for my macOS laptop
 - [dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -1080,6 +1083,7 @@
 
 ## Others 
 
+- [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
 - [go-videos-ru](https://github.com/dp92987/go-videos-ru) - Каталог докладов, лекций и других видеоматериалов по Go
