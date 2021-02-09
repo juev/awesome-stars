@@ -72,6 +72,7 @@
 
 ## C 
 
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
@@ -157,6 +158,7 @@
 
 ## C++ 
 
+- [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [poac](https://github.com/poacpm/poac) - A package manager for C++, like Rust's Cargo.
 - [cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -271,6 +273,7 @@
 
 ## Go 
 
+- [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
@@ -396,7 +399,7 @@
 - [terraform-provider-kubernetes-alpha](https://github.com/hashicorp/terraform-provider-kubernetes-alpha) - A Terraform provider for Kubernetes that uses dynamic resource types and server-side apply. Supports all Kubernetes resources.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
-- [openyurt](https://github.com/alibaba/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
+- [openyurt](https://github.com/openyurtio/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [lisp](https://github.com/robpike/lisp) - Toy Lisp 1.5 interpreter
