@@ -204,6 +204,7 @@
 
 ## Common Lisp 
 
+- [nyaml](https://github.com/jasom/nyaml) - A lisp native YAML parser
 - [qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
@@ -335,7 +336,7 @@
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
-- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [logfmt](https://github.com/go-logfmt/logfmt) - Package logfmt marshals and unmarshals logfmt messages.
@@ -575,7 +576,7 @@
 - [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [clipboard](https://github.com/atotto/clipboard) - clipboard for golang
@@ -995,7 +996,7 @@
 - [upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1041,6 +1042,7 @@
 
 ## Makefile 
 
+- [awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [golang-github-action-sign-macos](https://github.com/kencochrane/golang-github-action-sign-macos) - Example repo showing how to use Github Actions to sign a golang binary for macos
@@ -1049,6 +1051,7 @@
 
 ## Nix 
 
+- [home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [nix-home-config](https://github.com/lucperkins/nix-home-config) - Nix configuration for my macOS laptop
 - [dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
@@ -1078,6 +1081,7 @@
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [sshfs-gui](https://github.com/dstuecken/sshfs-gui) - SSHFS GUI Wrapper for Mac OS X
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost disabler / enable app for Mac OS X
 
 ## Objective-C++ 
@@ -1661,7 +1665,6 @@
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
@@ -1671,6 +1674,7 @@
 
 ## TeX 
 
+- [library](https://github.com/chelseakomlo/library) - A library with the papers I'm reading and rough notes/summaries
 - [theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) - 
 - [clj-book](https://github.com/igrishaev/clj-book) - Книга «Clojure на производстве»
 - [sicp](https://github.com/ieure/sicp) - Structure and Interpretation of Computer Programs, Second Edition
@@ -1678,7 +1682,7 @@
 - [active](https://github.com/diagrams/active) - Time-varying values with start and end times.
 - [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [gophercon-russia-2020-talk](https://github.com/growler/gophercon-russia-2020-talk) - My talk for Russian GopherCon 2020
-- [vimtex](https://github.com/lervag/vimtex) - A modern Vim and neovim filetype plugin for LaTeX files.
+- [vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [about.me](https://github.com/LenaVolzhina/about.me) - Extended CV
 - [haskell_articles](https://github.com/oswald2/haskell_articles) - A List of Haskell articles on good design, good testing
 - [cv](https://github.com/hmemcpy/cv) - My CV / Resume
