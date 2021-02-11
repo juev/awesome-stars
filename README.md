@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
@@ -865,6 +866,7 @@
 
 ## Haskell 
 
+- [xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
 - [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
 - [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
@@ -1034,6 +1036,7 @@
 
 ## Lua 
 
+- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [luashell](https://github.com/mna/luashell) - A small Lua module to help write what would be shell scripts in Lua. (mirror)
@@ -1051,6 +1054,7 @@
 
 ## Nix 
 
+- [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [nix-home-config](https://github.com/lucperkins/nix-home-config) - Nix configuration for my macOS laptop
 - [dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
@@ -1090,6 +1094,7 @@
 
 ## Others 
 
+- [tips](https://github.com/rachelcarmena/tips) - :pencil2: Small tips about different software development topics.
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
@@ -1137,7 +1142,7 @@
 - [ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
-- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues and releases repository.
+- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases and discussions repository.
 - [homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
 - [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install and configure WireGuard on Raspberry Pi (and others)
 - [til](https://github.com/rcarmo/til) - 📝 Today I Learned
@@ -1339,6 +1344,8 @@
 
 ## Rust 
 
+- [rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
+- [ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
 - [windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1536,6 +1543,7 @@
 
 ## Shell 
 
+- [alfred-2-caffeinate-workflow](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - An Alfred2 workflow to control the system caffeinate utility (prevents sleep).
 - [k8s-redis-ha](https://github.com/tarosky/k8s-redis-ha) - Kubernetes Redis with High Availability
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [wlan_pwr](https://github.com/fordsfords/wlan_pwr) - Improve CHIP wireless perf and reliability by turning off power mgt
@@ -1821,6 +1829,7 @@
 
 ## Zig 
 
+- [ziglings](https://github.com/ratfactor/ziglings) - Self-contained series of exercises for learning the Zig programming language.
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
