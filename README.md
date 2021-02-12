@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
@@ -866,6 +867,7 @@
 
 ## Haskell 
 
+- [doctest](https://github.com/sol/doctest) - An implementation of Python's doctest for Haskell
 - [xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
 - [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
@@ -998,7 +1000,7 @@
 - [upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
