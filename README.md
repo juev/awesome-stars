@@ -867,6 +867,7 @@
 
 ## Haskell 
 
+- [what4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library
 - [doctest](https://github.com/sol/doctest) - An implementation of Python's doctest for Haskell
 - [xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
 - [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
@@ -1017,7 +1018,7 @@
 
 ## Jupyter Notebook 
 
-- [go-profiler-notes](https://github.com/felixge/go-profiler-notes) - My notes on the various go profiling methods that are available.
+- [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - My notes on the various go profiling methods that are available.
 - [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
@@ -1359,7 +1360,7 @@
 - [gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
-- [kube-rs](https://github.com/clux/kube-rs) - kubernetes client and futures controller runtime
+- [kube-rs](https://github.com/clux/kube-rs) - kubernetes rust client and futures controller runtime
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust
