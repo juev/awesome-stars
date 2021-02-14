@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -867,6 +868,7 @@
 
 ## Haskell 
 
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [what4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library
 - [doctest](https://github.com/sol/doctest) - An implementation of Python's doctest for Haskell
 - [xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
@@ -985,7 +987,6 @@
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1039,6 +1040,7 @@
 
 ## Lua 
 
+- [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -1048,6 +1050,7 @@
 
 ## Makefile 
 
+- [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
@@ -1303,6 +1306,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
+- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1685,6 +1689,7 @@
 
 ## TeX 
 
+- [LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [library](https://github.com/chelseakomlo/library) - A library with the papers I'm reading and rough notes/summaries
 - [theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) - 
 - [clj-book](https://github.com/igrishaev/clj-book) - Книга «Clojure на производстве»
@@ -1734,6 +1739,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [homies](https://github.com/nmattia/homies) - linux package management
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1832,7 +1838,7 @@
 
 ## Zig 
 
-- [ziglings](https://github.com/ratfactor/ziglings) - Self-contained series of exercises for learning the Zig programming language.
+- [ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
