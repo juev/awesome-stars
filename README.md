@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
@@ -981,6 +982,7 @@
 
 ## JavaScript 
 
+- [serverless-stack](https://github.com/serverless-stack/serverless-stack) - Serverless Stack Toolkit allows you to build serverless apps using CDK.
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -1279,6 +1281,7 @@
 
 ## Python 
 
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [redis-enterprise-k8s-docs](https://github.com/RedisLabs/redis-enterprise-k8s-docs) - 
 - [nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
