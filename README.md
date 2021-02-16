@@ -1354,6 +1354,7 @@
 
 ## Rust 
 
+- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
@@ -1393,7 +1394,7 @@
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [minivec](https://github.com/LeonineKing1199/minivec) - A space-optimized implementation of std::vec::Vec
 - [k9](https://github.com/aaronabramov/k9) - Rust testing library
-- [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, powered by Apache Arrow.
+- [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [copypasta](https://github.com/alacritty/copypasta) - Cross-platform Rust system clipboard library
 - [unicode-normalization](https://github.com/unicode-rs/unicode-normalization) - Unicode Normalization forms according to UAX#15 rules
