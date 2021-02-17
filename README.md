@@ -1743,6 +1743,7 @@
 
 ## Vim script 
 
+- [vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [homies](https://github.com/nmattia/homies) - linux package management
