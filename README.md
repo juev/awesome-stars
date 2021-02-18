@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -354,7 +355,7 @@
 - [jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
+- [agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go
 - [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
@@ -516,7 +517,7 @@
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
 - [gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
-- [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
+- [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
 - [dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
@@ -1071,7 +1072,7 @@
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [nixflk](https://github.com/nrdxp/nixflk) - highly structured NixOS configuration database
+- [devos](https://github.com/divnix/devos) - NixOS DB
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -1374,7 +1375,7 @@
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust
 - [ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
-- [nat](https://github.com/willdoescode/nat) - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [nat](https://github.com/willdoescode/nat) - nat - the 'ls' replacement you never knew you needed
 - [nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [homebins](https://github.com/lunaryorn/homebins) - Binaries for $HOME
