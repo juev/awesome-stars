@@ -983,7 +983,7 @@
 
 ## JavaScript 
 
-- [serverless-stack](https://github.com/serverless-stack/serverless-stack) - Serverless Stack Toolkit allows you to build serverless apps using CDK.
+- [serverless-stack](https://github.com/serverless-stack/serverless-stack) - Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
