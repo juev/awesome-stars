@@ -501,7 +501,7 @@
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [slacker](https://github.com/shomali11/slacker) - Slack Bot Framework
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [gnark](https://github.com/ConsenSys/gnark) - gnark is a fast, open-source library for zero-knowledge proof protocols written in Go
@@ -831,6 +831,7 @@
 - [rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
 - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
@@ -990,11 +991,11 @@
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [security-headers-cloudflare-worker](https://github.com/securityheaders/security-headers-cloudflare-worker) - A Cloudflare Worker to enable Security Headers on your site.
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
 - [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
@@ -1022,7 +1023,7 @@
 
 ## Jupyter Notebook 
 
-- [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - My notes on the various go profiling methods that are available.
+- [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
 - [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
@@ -1072,7 +1073,7 @@
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [devos](https://github.com/divnix/devos) - NixOS DB
+- [devos](https://github.com/divnix/devos) - NixOS DB Framework
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -1310,7 +1311,6 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
-- [LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
