@@ -275,7 +275,7 @@
 ## Go 
 
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
@@ -1073,7 +1073,7 @@
 - [nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [devos](https://github.com/divnix/devos) - NixOS DB Framework
+- [devos](https://github.com/divnix/devos) - NixOS Framework
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [nix-config](https://github.com/srid/nix-config) - My NixOS configuration
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -1118,7 +1118,6 @@
 - [xy2xy](https://github.com/kirillsulim/xy2xy) - A list of technologies similar to inner Yandex technologies
 - [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing) - A collection of awesome performance testing resources
 - [papers_i_love](https://github.com/EncodePanda/papers_i_love) - Papers I love :)
-- [healthy-life](https://github.com/denisshevchenko/healthy-life) - О здоровом образе жизни
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
