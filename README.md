@@ -928,7 +928,7 @@
 - [vector](https://github.com/haskell/vector) - An efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimisation framework .
 - [fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
 - [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit
-- [ihp](https://github.com/digitallyinduced/ihp) - λ IHP is a modern batteries-included Web Framework, built on top of Haskell and Nix.
+- [ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [typerep-map](https://github.com/kowainik/typerep-map) - ⚡️Efficient implementation of Map with types as keys
 - [Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
 - [cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
@@ -1104,6 +1104,7 @@
 
 ## Others 
 
+- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [tips](https://github.com/rachelcarmena/tips) - :pencil2: Small tips about different software development topics.
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
