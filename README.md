@@ -9,6 +9,7 @@
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
   - [C](#c)
+  - [C#](#c#)
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
@@ -155,6 +156,10 @@
 - [minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution.
 - [lipify](https://github.com/troglobit/lipify) - C API for http://ipify.org
 - [cmdline](https://github.com/tanakh/cmdline) - A Command Line Parser
+
+## C# # 
+
+- [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 ## C++ 
 
@@ -802,7 +807,7 @@
 - [stomp](https://github.com/go-stomp/stomp) - Go language library for STOMP protocol
 - [gojekyll](https://github.com/osteele/gojekyll) - A fast clone of the Jekyll blogging engine, in Go
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [license](https://github.com/nishanths/license) - Command line license text generator
@@ -1555,6 +1560,8 @@
 
 ## Shell 
 
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+- [bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' f1-micro compute instance
 - [alfred-2-caffeinate-workflow](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - An Alfred2 workflow to control the system caffeinate utility (prevents sleep).
 - [k8s-redis-ha](https://github.com/tarosky/k8s-redis-ha) - Kubernetes Redis with High Availability
 - [dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
