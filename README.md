@@ -244,6 +244,7 @@
 
 ## Emacs Lisp 
 
+- [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [dotfiles](https://github.com/chshersh/dotfiles) - :computer: Configuration files
@@ -279,6 +280,8 @@
 
 ## Go 
 
+- [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
+- [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
@@ -807,7 +810,7 @@
 - [stomp](https://github.com/go-stomp/stomp) - Go language library for STOMP protocol
 - [gojekyll](https://github.com/osteele/gojekyll) - A fast clone of the Jekyll blogging engine, in Go
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [license](https://github.com/nishanths/license) - Command line license text generator
@@ -917,7 +920,7 @@
 - [learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
 - [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes a complete Haskell model complete with instances! CLI and web interface available.
 - [hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
-- [tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
+- [tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 - [ormolu](https://github.com/tweag/ormolu) - A formatter for Haskell source code
@@ -1109,6 +1112,7 @@
 
 ## Others 
 
+- [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [tips](https://github.com/rachelcarmena/tips) - :pencil2: Small tips about different software development topics.
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
@@ -1360,6 +1364,7 @@
 
 ## Rust 
 
+- [teleterm](https://github.com/doy/teleterm) - 
 - [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
@@ -1686,6 +1691,7 @@
 
 ## Swift 
 
+- [Anykey](https://github.com/temochka/Anykey) - A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
