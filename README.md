@@ -471,7 +471,7 @@
 - [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [exporter_exporter](https://github.com/QubitProducts/exporter_exporter) - A reverse proxy designed for Prometheus exporters
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
@@ -976,7 +976,7 @@
 - [mu-haskell](https://github.com/higherkindness/mu-haskell) - Mu (μ) is a purely functional framework for building micro services.
 - [summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
@@ -992,6 +992,7 @@
 
 ## JavaScript 
 
+- [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [serverless-stack](https://github.com/serverless-stack/serverless-stack) - Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -1012,7 +1013,7 @@
 - [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+- [Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
