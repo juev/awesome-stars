@@ -225,7 +225,6 @@
 
 ## Dockerfile 
 
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [baikal-docker](https://github.com/ckulka/baikal-docker) - Dockerfile for a ready-to-go Baikal server
 - [docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [upx](https://github.com/gacts/upx) - GitHub Action to run UPX on an executable file(s)
@@ -280,6 +279,7 @@
 
 ## Go 
 
+- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -544,7 +544,7 @@
 - [goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex file to Markdown
+- [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex files to Markdown
 - [tinkoff_exporter](https://github.com/maksim77/tinkoff_exporter) - Prometheus exporter for Tinkoff investment OpenAPI
 - [torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
@@ -1293,6 +1293,7 @@
 
 ## Python 
 
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [redis-enterprise-k8s-docs](https://github.com/RedisLabs/redis-enterprise-k8s-docs) - 
@@ -1581,6 +1582,7 @@
 - [rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [asc-key-to-qr-code-gif](https://github.com/yishilin14/asc-key-to-qr-code-gif) - Convert ASCII-armored PGP keys to animated QR code
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager
