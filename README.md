@@ -163,6 +163,7 @@
 
 ## C++ 
 
+- [fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [poac](https://github.com/poacpm/poac) - A package manager for C++, like Rust's Cargo.
