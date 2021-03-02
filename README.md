@@ -379,7 +379,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [zettel](https://github.com/hackstream/zettel) - A notes organizer - based on Zettelkasten methodology.
-- [goyave](https://github.com/System-Glitch/goyave) - 🍐 Elegant Golang REST API Framework
+- [goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
 - [rollingwriter](https://github.com/arthurkiller/rollingwriter) - Rolling writer is an IO util for auto rolling write in go.
 - [kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more)
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -526,7 +526,7 @@
 - [semver](https://github.com/blang/semver) - Semantic Versioning (semver) library written in golang
 - [gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
-- [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
+- [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
@@ -1074,6 +1074,7 @@
 
 ## Nix 
 
+- [system](https://github.com/kclejeune/system) - Declarative system configuration using nixOS and nix-darwin, and home-manager
 - [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [nix-home-config](https://github.com/lucperkins/nix-home-config) - Nix configuration for my macOS laptop
@@ -1600,7 +1601,7 @@
 - [emacs-anywhere](https://github.com/zachcurry/emacs-anywhere) - Configurable automation + hooks called with application information
 - [dockerfiles](https://github.com/fukamachi/dockerfiles) - Dockerfiles for Common Lisp programming
 - [dotfiles](https://github.com/lucasfcosta/dotfiles) - :robot: My collection of highly opinionated and amazing configs
-- [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
+- [aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
