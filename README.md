@@ -280,6 +280,7 @@
 
 ## Go 
 
+- [lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
@@ -840,7 +841,7 @@
 - [rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
 - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
@@ -886,7 +887,7 @@
 - [xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
 - [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
-- [lsp](https://github.com/alanz/lsp) - Haskell library for the Microsoft Language Server Protocol
+- [lsp](https://github.com/haskell/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [polysemy](https://github.com/polysemy-research/polysemy) - :gemini: higher-order, no-boilerplate monads
 - [parsing-with-haskell-parser-combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - 🔍 A step-by-step guide to parsing using Haskell parser combinators.
 - [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types
