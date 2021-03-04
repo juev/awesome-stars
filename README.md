@@ -222,6 +222,7 @@
 
 ## Dhall 
 
+- [dhall-kafka-kuberentes-deployment](https://github.com/novakov-alexey/dhall-kafka-kuberentes-deployment) - Helm plus Dhall Kafka Deployment to Kubernetes
 - [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 
 ## Dockerfile 
@@ -1116,6 +1117,7 @@
 
 ## Others 
 
+- [wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising over 11M+ unique images with 37M+ image-text pairs across 100+ languages
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [tips](https://github.com/rachelcarmena/tips) - :pencil2: Small tips about different software development topics.
