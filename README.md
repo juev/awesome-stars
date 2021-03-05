@@ -125,7 +125,7 @@
 - [poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [noah](https://github.com/linux-noah/noah) - Bash on Ubuntu on macOS
 - [xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [dslib](https://github.com/jarun/dslib) - :herb: A library of "connected" data structures
 - [minimp3](https://github.com/lieff/minimp3) - Minimalistic MP3 decoder single header library
 - [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -594,7 +594,7 @@
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent](https://github.com/ent/ent) - An entity framework for Go
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -842,7 +842,7 @@
 - [rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
 - [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
@@ -1117,7 +1117,7 @@
 
 ## Others 
 
-- [wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising over 11M+ unique images with 37M+ image-text pairs across 100+ languages
+- [wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [tips](https://github.com/rachelcarmena/tips) - :pencil2: Small tips about different software development topics.
@@ -1765,6 +1765,7 @@
 
 ## Vim script 
 
+- [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
