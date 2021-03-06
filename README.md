@@ -73,6 +73,7 @@
 
 ## C 
 
+- [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -281,6 +282,7 @@
 
 ## Go 
 
+- [reflect2](https://github.com/modern-go/reflect2) - reflect api without runtime reflect.Value cost
 - [lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
@@ -996,7 +998,7 @@
 ## JavaScript 
 
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [serverless-stack](https://github.com/serverless-stack/serverless-stack) - Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
+- [serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
