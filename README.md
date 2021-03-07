@@ -282,6 +282,8 @@
 
 ## Go 
 
+- [shops](https://github.com/prologic/shops) - shops is a simple command-line tool written in Go that helps you simplify the way you manage configuration across a set of machines. shops is your configuration management tool of choice when Chef, Puppet, Ansible are all too complicated and all you really want to do is run a bunch of regular shell against a set of hosts.
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [reflect2](https://github.com/modern-go/reflect2) - reflect api without runtime reflect.Value cost
 - [lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
