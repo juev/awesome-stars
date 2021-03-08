@@ -73,6 +73,8 @@
 
 ## C 
 
+- [bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git clone --branch=develop git://github.com/samtools/htslib.git htslib
+- [samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
@@ -164,6 +166,7 @@
 
 ## C++ 
 
+- [freebayes](https://github.com/freebayes/freebayes) - Bayesian haplotype-based genetic polymorphism discovery and genotyping.
 - [fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
@@ -999,6 +1002,7 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
