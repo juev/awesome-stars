@@ -286,6 +286,7 @@
 
 ## Go 
 
+- [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [shops](https://github.com/prologic/shops) - shops is a simple command-line tool written in Go that helps you simplify the way you manage configuration across a set of machines. shops is your configuration management tool of choice when Chef, Puppet, Ansible are all too complicated and all you really want to do is run a bunch of regular shell against a set of hosts.
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
@@ -626,7 +627,7 @@
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
 - [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1127,6 +1128,7 @@
 
 ## Others 
 
+- [r3nya](https://github.com/r3nya/r3nya) - 
 - [wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -1499,7 +1501,7 @@
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
