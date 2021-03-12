@@ -1310,6 +1310,7 @@
 
 ## Python 
 
+- [pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
@@ -1501,7 +1502,7 @@
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
