@@ -286,6 +286,9 @@
 
 ## Go 
 
+- [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
+- [agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
+- [git2consul-go](https://github.com/KohlsTechnology/git2consul-go) - Populates a Consul key/value store from git
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [shops](https://github.com/prologic/shops) - shops is a simple command-line tool written in Go that helps you simplify the way you manage configuration across a set of machines. shops is your configuration management tool of choice when Chef, Puppet, Ansible are all too complicated and all you really want to do is run a bunch of regular shell against a set of hosts.
@@ -892,6 +895,7 @@
 
 ## Haskell 
 
+- [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [what4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library
 - [doctest](https://github.com/sol/doctest) - An implementation of Python's doctest for Haskell
@@ -1067,6 +1071,7 @@
 
 ## Lua 
 
+- [hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
@@ -1778,6 +1783,8 @@
 
 ## Vim script 
 
+- [org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
+- [libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 - [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
