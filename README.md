@@ -895,6 +895,7 @@
 
 ## Haskell 
 
+- [Haskell-Decimal](https://github.com/PaulJohnson/Haskell-Decimal) - 
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [what4](https://github.com/GaloisInc/what4) - Symbolic formula representation and solver interaction library
