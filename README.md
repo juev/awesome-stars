@@ -286,6 +286,7 @@
 
 ## Go 
 
+- [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
 - [agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [git2consul-go](https://github.com/KohlsTechnology/git2consul-go) - Populates a Consul key/value store from git
@@ -895,6 +896,7 @@
 
 ## Haskell 
 
+- [passphrase](https://github.com/majjoha/passphrase) - Strong Diceware passphrase generator.
 - [Haskell-Decimal](https://github.com/PaulJohnson/Haskell-Decimal) - 
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
