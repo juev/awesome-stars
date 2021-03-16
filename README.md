@@ -57,6 +57,7 @@
   - [V](#v)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+  - [Vue](#vue)
   - [Zig](#zig)
 
 ## AppleScript 
@@ -1392,6 +1393,7 @@
 
 ## Rust 
 
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [teleterm](https://github.com/doy/teleterm) - 
 - [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
@@ -1736,6 +1738,7 @@
 
 ## TeX 
 
+- [hott-thesis](https://github.com/bi-functor/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [library](https://github.com/chelseakomlo/library) - A library with the papers I'm reading and rough notes/summaries
 - [theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) - 
@@ -1786,6 +1789,7 @@
 
 ## Vim script 
 
+- [nvim.nix](https://github.com/srid/nvim.nix) - My neovim setup in Nix
 - [org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
 - [libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 - [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
@@ -1886,6 +1890,10 @@
 - [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) - :rainbow: Simpler Rainbow Parentheses
 - [minivimrc](https://github.com/bling/minivimrc) - a tiny vimrc to be used primarily for troubleshooting plugins
 - [vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
+
+## Vue 
+
+- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Zig 
 
