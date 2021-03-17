@@ -74,6 +74,7 @@
 
 ## C 
 
+- [nsm](https://github.com/nifty-site-manager/nsm) - World's fastest cross-platform open source website generator.
 - [bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git clone --branch=develop git://github.com/samtools/htslib.git htslib
 - [samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -850,7 +851,6 @@
 - [18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
-- [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [invest-openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
@@ -1350,6 +1350,7 @@
 - [spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1395,7 +1396,7 @@
 
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [teleterm](https://github.com/doy/teleterm) - 
-- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [lorri](https://github.com/target/lorri) - Your project's nix-env
