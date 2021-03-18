@@ -75,7 +75,7 @@
 ## C 
 
 - [nsm](https://github.com/nifty-site-manager/nsm) - World's fastest cross-platform open source website generator.
-- [bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git clone --branch=develop git://github.com/samtools/htslib.git htslib
+- [bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 - [samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -288,6 +288,7 @@
 
 ## Go 
 
+- [healthcheck](https://github.com/heptiolabs/healthcheck) - A library for implementing Kubernetes liveness and readiness probe handlers in your Go application.
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload
 - [agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
@@ -1394,6 +1395,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [teleterm](https://github.com/doy/teleterm) - 
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
