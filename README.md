@@ -303,7 +303,7 @@
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
@@ -348,7 +348,7 @@
 - [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates
 - [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
-- [slack](https://github.com/bluele/slack) - Golang client for the Slack API. **Currently we only accept security issues, not feature requests.**
+- [slack](https://github.com/bluele/slack) - Golang client for the Slack API. **NOTE: This project is already archived, so we recommend that you use https://github.com/slack-go/slack instead.**
 - [terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
 - [badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
