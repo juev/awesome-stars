@@ -901,6 +901,7 @@
 
 ## Haskell 
 
+- [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [majjoha/passphrase](https://github.com/majjoha/passphrase) - Strong Diceware passphrase generator.
 - [PaulJohnson/Haskell-Decimal](https://github.com/PaulJohnson/Haskell-Decimal) - 
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -992,7 +993,7 @@
 - [kowainik/co-log](https://github.com/kowainik/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
 - [kowainik/relude](https://github.com/kowainik/relude) - 🌀 Safe, performant, user-friendly and lightweight Haskell standard library
 - [ruHaskell/ruhaskell](https://github.com/ruHaskell/ruhaskell) - Главный сайт сообщества
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [jaspervdj/jaspervdj](https://github.com/jaspervdj/jaspervdj) - Source code of my personal home page.
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) - Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
@@ -1398,6 +1399,7 @@
 
 ## Rust 
 
+- [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [doy/teleterm](https://github.com/doy/teleterm) - 
