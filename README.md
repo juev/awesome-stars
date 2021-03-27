@@ -15,6 +15,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
+  - [Coq](#coq)
   - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -34,6 +35,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Lean](#lean)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nix](#nix)
@@ -168,6 +170,7 @@
 
 ## C++ 
 
+- [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [freebayes/freebayes](https://github.com/freebayes/freebayes) - Bayesian haplotype-based genetic polymorphism discovery and genotyping.
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -227,6 +230,11 @@
 - [vindarel/cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
 - [40ants/resume](https://github.com/40ants/resume) - A data-driven resume builder.
 
+## Coq 
+
+- [UniMath/UniMath](https://github.com/UniMath/UniMath) - This coq library aims to formalize a substantial body of mathematics using the univalent point of view.
+- [HoTT/HoTT](https://github.com/HoTT/HoTT) - Homotopy type theory
+
 ## Dhall 
 
 - [novakov-alexey/dhall-kafka-kuberentes-deployment](https://github.com/novakov-alexey/dhall-kafka-kuberentes-deployment) - Helm plus Dhall Kafka Deployment to Kubernetes
@@ -253,9 +261,11 @@
 
 ## Emacs Lisp 
 
+- [ProofGeneral/PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [chshersh/dotfiles](https://github.com/chshersh/dotfiles) - :computer: Configuration files
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [haskell/haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
@@ -289,6 +299,7 @@
 
 ## Go 
 
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
@@ -903,6 +914,7 @@
 
 ## Haskell 
 
+- [leanprover/tc](https://github.com/leanprover/tc) - Reference type checker for the Lean theorem prover
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [majjoha/passphrase](https://github.com/majjoha/passphrase) - Strong Diceware passphrase generator.
 - [PaulJohnson/Haskell-Decimal](https://github.com/PaulJohnson/Haskell-Decimal) - 
@@ -1022,7 +1034,6 @@
 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -1080,6 +1091,10 @@
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
+## Lean 
+
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
 ## Lua 
 
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -1118,7 +1133,6 @@
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [ihsanturk/dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
@@ -1524,7 +1538,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [timberio/vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
@@ -1771,6 +1785,7 @@
 
 ## TypeScript 
 
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) - Github actions for Haskell CI
