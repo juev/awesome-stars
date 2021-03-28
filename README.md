@@ -1025,6 +1025,7 @@
 
 ## Java 
 
+- [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Skia bindings for Java
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
@@ -1159,6 +1160,7 @@
 
 ## Others 
 
+- [datastaxdevs/workshop-k8ssandra](https://github.com/datastaxdevs/workshop-k8ssandra) - Apache Cassandra on Kubernetes Workshop
 - [r3nya/r3nya](https://github.com/r3nya/r3nya) - 
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
