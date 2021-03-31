@@ -76,7 +76,7 @@
 
 ## C 
 
-- [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - World's fastest cross-platform open source website generator.
+- [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [samtools/bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 - [samtools/samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -846,7 +846,7 @@
 - [go-stomp/stomp](https://github.com/go-stomp/stomp) - Go language library for STOMP protocol
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast clone of the Jekyll blogging engine, in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [nishanths/license](https://github.com/nishanths/license) - Command line license text generator
@@ -915,6 +915,7 @@
 
 ## Haskell 
 
+- [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
 - [leanprover/tc](https://github.com/leanprover/tc) - Reference type checker for the Lean theorem prover
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [majjoha/passphrase](https://github.com/majjoha/passphrase) - Strong Diceware passphrase generator.
@@ -1607,6 +1608,7 @@
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [ibodrov/rust-smpp](https://github.com/ibodrov/rust-smpp) - 
 - [jvns/test-mac-freeze](https://github.com/jvns/test-mac-freeze) - 
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
