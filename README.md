@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [karlseguin/ccache](https://github.com/karlseguin/ccache) - A golang LRU Cache for high concurrency
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -1420,6 +1421,7 @@
 
 ## Rust 
 
+- [connorskees/grass](https://github.com/connorskees/grass) - A near-feature-complete Sass compiler written purely in Rust
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -1609,7 +1611,6 @@
 - [ibodrov/rust-smpp](https://github.com/ibodrov/rust-smpp) - 
 - [jvns/test-mac-freeze](https://github.com/jvns/test-mac-freeze) - 
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
-- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
@@ -1625,6 +1626,7 @@
 
 ## Shell 
 
+- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [dadatuputi/bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' f1-micro compute instance
 - [shawnrice/alfred-2-caffeinate-workflow](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - An Alfred2 workflow to control the system caffeinate utility (prevents sleep).
