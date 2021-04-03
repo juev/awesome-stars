@@ -1039,6 +1039,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -1694,7 +1695,7 @@
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - Automated ACME SSL certificate generation for nginx-proxy
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba) - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros.
 - [vicrucann/dotfiles](https://github.com/vicrucann/dotfiles) - vim, zsh, tmux, lxterminal, dircolors configs, all unified to solarized; working on Linux and Cygwin; very easy install
@@ -1793,7 +1794,6 @@
 
 ## TypeScript 
 
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) - Github actions for Haskell CI
