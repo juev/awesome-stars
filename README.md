@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) - A golang LRU Cache for high concurrency
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -1164,6 +1165,7 @@
 
 ## Others 
 
+- [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) - A curated list for Awesome Kubernetes Security resources
 - [datastaxdevs/workshop-k8ssandra](https://github.com/datastaxdevs/workshop-k8ssandra) - Apache Cassandra on Kubernetes Workshop
 - [r3nya/r3nya](https://github.com/r3nya/r3nya) - 
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
@@ -1347,6 +1349,7 @@
 
 ## Python 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [getsentry/sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
