@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) - A golang LRU Cache for high concurrency
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
@@ -652,7 +653,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1125,6 +1126,7 @@
 
 ## Nix 
 
+- [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configuration using nixOS and nix-darwin, and home-manager
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
@@ -1632,6 +1634,7 @@
 
 ## Shell 
 
+- [kampka/nixify](https://github.com/kampka/nixify) - Bootstrap nix-shell environments
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [dadatuputi/bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' f1-micro compute instance
@@ -1827,6 +1830,7 @@
 
 ## Vim script 
 
+- [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [srid/nvim.nix](https://github.com/srid/nvim.nix) - My neovim setup in Nix
 - [axvr/org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
