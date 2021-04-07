@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) - A golang LRU Cache for high concurrency
@@ -1126,6 +1127,7 @@
 
 ## Nix 
 
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configuration using nixOS and nix-darwin, and home-manager
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
@@ -1139,7 +1141,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [divnix/devos](https://github.com/divnix/devos) - NixOS Framework
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration
+- [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
 - [ihsanturk/dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
@@ -1155,6 +1157,7 @@
 
 ## Objective-C 
 
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [dstuecken/sshfs-gui](https://github.com/dstuecken/sshfs-gui) - SSHFS GUI Wrapper for Mac OS X
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
