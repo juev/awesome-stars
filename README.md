@@ -452,7 +452,7 @@
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 - [aunum/goro](https://github.com/aunum/goro) - A High-level Machine Learning Library for Go
 - [hashicorp/terraform-provider-kubernetes-alpha](https://github.com/hashicorp/terraform-provider-kubernetes-alpha) - A Terraform provider for Kubernetes that uses dynamic resource types and server-side apply. Supports all Kubernetes resources.
-- [klauspost/compress](https://github.com/klauspost/compress) - Optimized compression packages
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [lu4p/binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
 - [openyurtio/openyurt](https://github.com/openyurtio/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
