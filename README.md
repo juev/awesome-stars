@@ -299,6 +299,8 @@
 
 ## Go 
 
+- [zimmski/go-leak](https://github.com/zimmski/go-leak) - Detect all kinds of leaks in Go
+- [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1359,6 +1361,7 @@
 
 ## Python 
 
+- [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [getsentry/sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
@@ -1459,7 +1462,7 @@
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [clux/kube-rs](https://github.com/clux/kube-rs) - kubernetes rust client and futures controller runtime
-- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [zslayton/cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -1645,6 +1648,7 @@
 
 ## Shell 
 
+- [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions
 - [kampka/nixify](https://github.com/kampka/nixify) - Bootstrap nix-shell environments
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
