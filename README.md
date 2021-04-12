@@ -261,6 +261,7 @@
 
 ## Emacs Lisp 
 
+- [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
 - [ProofGeneral/PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -299,6 +300,7 @@
 
 ## Go 
 
+- [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) - Detect all kinds of leaks in Go
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
@@ -880,6 +882,7 @@
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [TinkoffCreditSystems/invest-openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
 - [brotzeit/rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
+- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
@@ -1131,6 +1134,7 @@
 
 ## Nix 
 
+- [nix-dot-dev/getting-started-nix-template](https://github.com/nix-dot-dev/getting-started-nix-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
@@ -1220,7 +1224,6 @@
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [EmbarkStudios/opensource-template](https://github.com/EmbarkStudios/opensource-template) - 🌻 Template for creating new repositories
-- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
