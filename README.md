@@ -262,6 +262,7 @@
 
 ## Emacs Lisp 
 
+- [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
 - [piranha/conf](https://github.com/piranha/conf) - My configuration files
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
 - [ProofGeneral/PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
@@ -302,6 +303,7 @@
 
 ## Go 
 
+- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) - Detect all kinds of leaks in Go
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
@@ -1136,6 +1138,7 @@
 
 ## Nix 
 
+- [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
 - [nix-dot-dev/getting-started-nix-template](https://github.com/nix-dot-dev/getting-started-nix-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
@@ -1920,7 +1923,7 @@
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [reedes/vim-thematic](https://github.com/reedes/vim-thematic) - Alter Vim's appearance to suit your task & environ
+- [preservim/vim-thematic](https://github.com/preservim/vim-thematic) - Alter Vim's appearance to suit your task & environ
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) - Vim Space Controller
