@@ -303,6 +303,7 @@
 
 ## Go 
 
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) - Detect all kinds of leaks in Go
@@ -1542,7 +1543,7 @@
 - [BurntSushi/termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 - [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
 - [0x20F/paris](https://github.com/0x20F/paris) - Logger in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
 - [magnet/metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust
 - [MindFlavor/prometheus_exporter_base](https://github.com/MindFlavor/prometheus_exporter_base) - Base library for Rust Prometheus exporters
