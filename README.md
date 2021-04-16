@@ -41,6 +41,7 @@
   - [Nix](#nix)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
+  - [Org](#org)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -262,6 +263,7 @@
 
 ## Emacs Lisp 
 
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
 - [piranha/conf](https://github.com/piranha/conf) - My configuration files
 - [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
@@ -303,6 +305,8 @@
 
 ## Go 
 
+- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) - ⚡ zap logging driver for gorm v2
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
@@ -311,7 +315,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
+- [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) - A golang LRU Cache for high concurrency
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -1052,7 +1056,7 @@
 ## JavaScript 
 
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -1182,6 +1186,10 @@
 ## Objective-C++ 
 
 - [rogual/neovim-dot-app](https://github.com/rogual/neovim-dot-app) - Mac OS X GUI for Neovim
+
+## Org 
+
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs
 
 ## Others 
 
