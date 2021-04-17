@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AGS Script](#ags-script)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
@@ -31,6 +32,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -62,6 +64,10 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [Zig](#zig)
+
+## AGS Script 
+
+- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 
 ## AppleScript 
 
@@ -884,7 +890,6 @@
 
 - [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) - ansible role for clickhouse
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
-- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [kowainik/kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
@@ -918,7 +923,6 @@
 - [oravirt/ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
-- [Graylog2/graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
 - [ilammy/lisp](https://github.com/ilammy/lisp) - Lisp In Small Pieces на русском языке
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
@@ -933,6 +937,7 @@
 
 ## Haskell 
 
+- [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) - 
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
@@ -1085,6 +1090,10 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+
+## Jinja 
+
+- [Graylog2/graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
 
 ## Jsonnet 
 
@@ -1455,6 +1464,7 @@
 
 ## Rust 
 
+- [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
