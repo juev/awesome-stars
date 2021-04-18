@@ -214,6 +214,7 @@
 ## CSS 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
@@ -816,7 +817,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [moshenahmias/failure](https://github.com/moshenahmias/failure) - An error handling package for Go.
@@ -1466,9 +1467,9 @@
 
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
-- [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust
+- [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client written in Rust.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [connorskees/grass](https://github.com/connorskees/grass) - A near-feature-complete Sass compiler written purely in Rust
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
@@ -1535,7 +1536,6 @@
 - [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - A template for kick starting a Cloudflare worker project using wasm-pack.
 - [oxidecomputer/cio](https://github.com/oxidecomputer/cio) - Rust libraries for APIs needed by our automated CIO.
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
