@@ -507,7 +507,7 @@
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [balibuild/bali](https://github.com/balibuild/bali) - Bali -  Minimalist Golang build and packaging tool
-- [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML language
+- [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [posener/goaction](https://github.com/posener/goaction) - Write Github actions in Go
 - [boj/redistore](https://github.com/boj/redistore) - A session store backend for gorilla/sessions using Redis.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -1466,6 +1466,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [KonishchevDmitry/investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
