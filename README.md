@@ -938,6 +938,7 @@
 
 ## Haskell 
 
+- [snoyberg/http-client](https://github.com/snoyberg/http-client) - An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) - An extended tutorial/book on Haskell development. A library for playing Scrabble is developed as well as two clients, one of which is networked and allows for remote one or two-player games over the web.
@@ -1132,6 +1133,7 @@
 
 ## Lua 
 
+- [kdav5758/TrueZen.nvim](https://github.com/kdav5758/TrueZen.nvim) - Clean and elegant distraction-free writing for NeoVim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1217,7 +1219,7 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [golovers/effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
-- [dp92987/go-videos-ru](https://github.com/dp92987/go-videos-ru) - Каталог докладов, лекций и других видеоматериалов по Go (Golang)
+- [dp92987/go-videos-ru](https://github.com/dp92987/go-videos-ru) - Каталог докладов, лекций и других видеоматериалов о Go (Golang)
 - [n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -1680,6 +1682,7 @@
 
 ## Shell 
 
+- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions
 - [kampka/nixify](https://github.com/kampka/nixify) - Bootstrap nix-shell environments
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
