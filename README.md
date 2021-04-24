@@ -312,6 +312,7 @@
 
 ## Go 
 
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [awslabs/tecli](https://github.com/awslabs/tecli) - In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands that can be executed on a terminal or on CI/CD systems.
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) - ⚡ zap logging driver for gorm v2
@@ -573,7 +574,7 @@
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [shomali11/slacker](https://github.com/shomali11/slacker) - Slack Bot Framework
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast, open-source library for zero-knowledge proof protocols written in Go
+- [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 - [aquasecurity/esquery](https://github.com/aquasecurity/esquery) - An idiomatic Go query builder for ElasticSearch
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
 - [kkyr/fig](https://github.com/kkyr/fig) - A minimalist Go configuration library
@@ -1599,7 +1600,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
