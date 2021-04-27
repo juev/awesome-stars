@@ -312,6 +312,8 @@
 
 ## Go 
 
+- [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
+- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [awslabs/tecli](https://github.com/awslabs/tecli) - In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands that can be executed on a terminal or on CI/CD systems.
@@ -939,6 +941,8 @@
 
 ## Haskell 
 
+- [tfausak/witch](https://github.com/tfausak/witch) - :mage_woman: Convert values from one type into another.
+- [srid/ema](https://github.com/srid/ema) - WIP: Static site generator that is change-aware
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) - An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -1395,6 +1399,7 @@
 
 ## Python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [getsentry/sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
@@ -1472,6 +1477,7 @@
 
 ## Rust 
 
+- [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [KonishchevDmitry/investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments
@@ -1687,6 +1693,7 @@
 
 ## Shell 
 
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions
 - [kampka/nixify](https://github.com/kampka/nixify) - Bootstrap nix-shell environments
@@ -1855,6 +1862,7 @@
 
 ## TypeScript 
 
+- [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
