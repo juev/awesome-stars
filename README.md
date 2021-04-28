@@ -312,6 +312,7 @@
 
 ## Go 
 
+- [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
 - [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
@@ -1162,6 +1163,7 @@
 
 ## Nix 
 
+- [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [juev/nixpkgs](https://github.com/juev/nixpkgs) - 
 - [kubukoz/nix-config](https://github.com/kubukoz/nix-config) - My nix/nix-darwin/home-manager config.
 - [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
@@ -1257,7 +1259,7 @@
 - [kowainik/.github](https://github.com/kowainik/.github) - 💊 Default health files
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
-- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
+- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [EmbarkStudios/opensource-template](https://github.com/EmbarkStudios/opensource-template) - 🌻 Template for creating new repositories
 - [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -1485,7 +1487,7 @@
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 The CLI email client.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [connorskees/grass](https://github.com/connorskees/grass) - A near-feature-complete Sass compiler written purely in Rust
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
@@ -1556,7 +1558,7 @@
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [lholden/job_scheduler](https://github.com/lholden/job_scheduler) - A simple cron-like job scheduling library for Rust.
