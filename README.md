@@ -312,6 +312,8 @@
 
 ## Go 
 
+- [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
 - [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose
@@ -680,7 +682,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro/micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -719,7 +721,7 @@
 - [davecheney/gmx](https://github.com/davecheney/gmx) - Go management extensions
 - [spf13/dagobah](https://github.com/spf13/dagobah) - dagobah is an awesome RSS feed aggregator & reader written in Go inspired by planet
 - [AlekSi/zabbix](https://github.com/AlekSi/zabbix) - Archived, see https://github.com/AlekSi/zabbix/issues/24
-- [syntaqx/serve](https://github.com/syntaqx/serve) - a static http server anywhere you need one.
+- [syntaqx/serve](https://github.com/syntaqx/serve) - 🍽️ a static http server anywhere you need one.
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
@@ -943,7 +945,7 @@
 ## Haskell 
 
 - [tfausak/witch](https://github.com/tfausak/witch) - :mage_woman: Convert values from one type into another.
-- [srid/ema](https://github.com/srid/ema) - WIP: Static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) - An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -1163,6 +1165,7 @@
 
 ## Nix 
 
+- [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [juev/nixpkgs](https://github.com/juev/nixpkgs) - 
 - [kubukoz/nix-config](https://github.com/kubukoz/nix-config) - My nix/nix-darwin/home-manager config.
