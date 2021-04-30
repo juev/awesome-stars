@@ -897,6 +897,7 @@
 
 ## HTML 
 
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) - ansible role for clickhouse
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
@@ -1165,6 +1166,7 @@
 
 ## Nix 
 
+- [scarf-sh/nomia](https://github.com/scarf-sh/nomia) - A system for precise, efficient resource management across every domain and resource type.
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [juev/nixpkgs](https://github.com/juev/nixpkgs) - 
@@ -1867,6 +1869,7 @@
 
 ## TypeScript 
 
+- [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) - VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
