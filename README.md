@@ -945,6 +945,8 @@
 
 ## Haskell 
 
+- [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [tfausak/witch](https://github.com/tfausak/witch) - :mage_woman: Convert values from one type into another.
 - [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) - An HTTP client engine, intended as a base layer for more user-friendly packages.
@@ -1563,7 +1565,7 @@
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [lholden/job_scheduler](https://github.com/lholden/job_scheduler) - A simple cron-like job scheduling library for Rust.
