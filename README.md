@@ -945,6 +945,7 @@
 
 ## Haskell 
 
+- [parsonsmatt/fourmolu](https://github.com/parsonsmatt/fourmolu) - A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [tfausak/witch](https://github.com/tfausak/witch) - :mage_woman: Convert values from one type into another.
