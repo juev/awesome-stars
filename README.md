@@ -312,6 +312,9 @@
 
 ## Go 
 
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [PierreKieffer/htui](https://github.com/PierreKieffer/htui) - Heroku Terminal User Interface
+- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -946,6 +949,7 @@
 
 ## Haskell 
 
+- [snoyberg/haskwrap](https://github.com/snoyberg/haskwrap) - Wrap up Haskell tools
 - [kim/opentracing](https://github.com/kim/opentracing) - OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
 - [parsonsmatt/fourmolu](https://github.com/parsonsmatt/fourmolu) - A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new
@@ -1075,6 +1079,7 @@
 
 ## JavaScript 
 
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -1592,7 +1597,7 @@
 - [BurntSushi/termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 - [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
 - [0x20F/paris](https://github.com/0x20F/paris) - Logger in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
 - [magnet/metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust
 - [MindFlavor/prometheus_exporter_base](https://github.com/MindFlavor/prometheus_exporter_base) - Base library for Rust Prometheus exporters
@@ -1707,7 +1712,7 @@
 
 ## Shell 
 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last git command with grace. Your damage control git buddy
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last git command. Your damage control git buddy. Powered by FZF
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions
