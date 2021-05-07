@@ -312,6 +312,7 @@
 
 ## Go 
 
+- [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [PierreKieffer/htui](https://github.com/PierreKieffer/htui) - Heroku Terminal User Interface
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
@@ -1176,6 +1177,7 @@
 
 ## Nix 
 
+- [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
 - [cole-mickens/nixcfg](https://github.com/cole-mickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
 - [scarf-sh/nomia](https://github.com/scarf-sh/nomia) - A system for precise, efficient resource management across every domain and resource type.
@@ -1233,6 +1235,7 @@
 
 ## Others 
 
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
@@ -1712,6 +1715,9 @@
 
 ## Shell 
 
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last git command. Your damage control git buddy. Powered by FZF
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
@@ -1844,6 +1850,7 @@
 
 ## Swift 
 
+- [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
 - [temochka/Anykey](https://github.com/temochka/Anykey) - A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [haskell/aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
@@ -1883,6 +1890,8 @@
 
 ## TypeScript 
 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - 
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) - VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
