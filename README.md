@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [freebayes/freebayes](https://github.com/freebayes/freebayes) - Bayesian haplotype-based genetic polymorphism discovery and genotyping.
@@ -954,6 +955,7 @@
 
 ## Haskell 
 
+- [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [snoyberg/haskwrap](https://github.com/snoyberg/haskwrap) - Wrap up Haskell tools
 - [kim/opentracing](https://github.com/kim/opentracing) - OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
 - [parsonsmatt/fourmolu](https://github.com/parsonsmatt/fourmolu) - A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
@@ -1091,7 +1093,6 @@
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [breser/git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
@@ -1427,6 +1428,7 @@
 
 ## Python 
 
+- [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
@@ -1506,6 +1508,9 @@
 
 ## Rust 
 
+- [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
+- [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
+- [fosskers/rs-versions](https://github.com/fosskers/rs-versions) - A library for parsing and comparing software version numbers.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -1910,6 +1915,7 @@
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) - Github actions for Haskell CI
