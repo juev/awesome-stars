@@ -271,6 +271,7 @@
 
 ## Emacs Lisp 
 
+- [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [gfanton/nixpkgs](https://github.com/gfanton/nixpkgs) - My nixpkgs config
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) - Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
@@ -314,6 +315,7 @@
 
 ## Go 
 
+- [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) - Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
@@ -1054,7 +1056,7 @@
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick) - Static site generator built on Shake configured in Haskell
 - [NorfairKing/smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
-- [david-janssen/kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
@@ -1509,6 +1511,7 @@
 
 ## Rust 
 
+- [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [openquery-io/synth](https://github.com/openquery-io/synth) - The Declarative Data Generator
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
@@ -1616,7 +1619,7 @@
 - [BurntSushi/termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 - [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
 - [0x20F/paris](https://github.com/0x20F/paris) - Logger in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
 - [magnet/metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust
 - [MindFlavor/prometheus_exporter_base](https://github.com/MindFlavor/prometheus_exporter_base) - Base library for Rust Prometheus exporters
