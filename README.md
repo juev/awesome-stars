@@ -315,6 +315,7 @@
 
 ## Go 
 
+- [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) - Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -911,7 +912,6 @@
 ## HTML 
 
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
-- [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) - ansible role for clickhouse
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [kowainik/kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
@@ -959,7 +959,7 @@
 ## Haskell 
 
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
-- [snoyberg/haskwrap](https://github.com/snoyberg/haskwrap) - Wrap up Haskell tools
+- [snoyberg/haskup](https://github.com/snoyberg/haskup) - Wrap up Haskell tools
 - [kim/opentracing](https://github.com/kim/opentracing) - OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
 - [fourmolu/fourmolu](https://github.com/fourmolu/fourmolu) - A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new
@@ -1123,6 +1123,7 @@
 
 ## Jinja 
 
+- [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) - ansible role for clickhouse
 - [ikke-t/podman-container-systemd](https://github.com/ikke-t/podman-container-systemd) - creates systemd files and creates containers using podman
 - [Graylog2/graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
@@ -1511,6 +1512,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [openquery-io/synth](https://github.com/openquery-io/synth) - The Declarative Data Generator
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
