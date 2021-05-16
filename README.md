@@ -1512,6 +1512,7 @@
 
 ## Rust 
 
+- [termhn/cint](https://github.com/termhn/cint) - A lean, minimal, and stable set of types for color interoperation between crates in Rust.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [openquery-io/synth](https://github.com/openquery-io/synth) - The Declarative Data Generator
