@@ -1512,6 +1512,7 @@
 
 ## Rust 
 
+- [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [termhn/cint](https://github.com/termhn/cint) - A lean, minimal, and stable set of types for color interoperation between crates in Rust.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
