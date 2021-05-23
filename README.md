@@ -223,6 +223,7 @@
 
 ## Clojure 
 
+- [mark-watson/Clojure-AI-Book-Code](https://github.com/mark-watson/Clojure-AI-Book-Code) - Examples for Clojure AI book
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [uncomplicate/deep-diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 - [piranha/piranha](https://github.com/piranha/piranha) - 
@@ -271,6 +272,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [oantolin/embark](https://github.com/oantolin/embark) - Emacs Mini-Buffer Actions Rooted in Keymaps
 - [minad/consult](https://github.com/minad/consult) - consult.el - Consulting completing-read
 - [raxod502/selectrum](https://github.com/raxod502/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
@@ -318,6 +320,7 @@
 
 ## Go 
 
+- [canidam/libvault](https://github.com/canidam/libvault) - A lightweight Vault client module written in Go, with no dependencies, that is intuitive and user-friendly
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) - Elastic beat-exporter for Prometheus
@@ -699,7 +702,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -961,6 +964,8 @@
 
 ## Haskell 
 
+- [vaclavsvejcar/headroom](https://github.com/vaclavsvejcar/headroom) - ©️ Manager for license headers in source code files.
+- [vaclavsvejcar/vcs-ignore](https://github.com/vaclavsvejcar/vcs-ignore) - 📜 Library for handling files ignored by VCS systems
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [snoyberg/haskup](https://github.com/snoyberg/haskup) - Wrap up Haskell tools
 - [kim/opentracing](https://github.com/kim/opentracing) - OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
