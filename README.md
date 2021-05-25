@@ -83,6 +83,7 @@
 
 ## C 
 
+- [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) - lowlevel set of cryptographic primitives for haskell
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [samtools/bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
@@ -964,6 +965,7 @@
 
 ## Haskell 
 
+- [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [vaclavsvejcar/headroom](https://github.com/vaclavsvejcar/headroom) - ©️ Manager for license headers in source code files.
 - [vaclavsvejcar/vcs-ignore](https://github.com/vaclavsvejcar/vcs-ignore) - 📜 Library for handling files ignored by VCS systems
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
