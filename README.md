@@ -225,6 +225,7 @@
 
 ## Clojure 
 
+- [juxt/crux](https://github.com/juxt/crux) - General purpose bitemporal database for SQL, Datalog & graph queries
 - [mark-watson/Clojure-AI-Book-Code](https://github.com/mark-watson/Clojure-AI-Book-Code) - Examples for Clojure AI book
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [uncomplicate/deep-diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
@@ -949,7 +950,6 @@
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [oravirt/ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
@@ -1135,6 +1135,7 @@
 
 - [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) - ansible role for clickhouse
 - [ikke-t/podman-container-systemd](https://github.com/ikke-t/podman-container-systemd) - creates systemd files and creates containers using podman
+- [oravirt/ansible-oracle](https://github.com/oravirt/ansible-oracle) - Oracle related stuff. Installs RAC/RAC One Node/Single Instance
 - [Graylog2/graylog-ansible-role](https://github.com/Graylog2/graylog-ansible-role) - Ansible role which installs and configures Graylog
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 
@@ -1173,7 +1174,7 @@
 
 ## Lua 
 
-- [kdav5758/TrueZen.nvim](https://github.com/kdav5758/TrueZen.nvim) - 🪶 Clean and elegant distraction-free writing for NeoVim.
+- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🪶 Clean and elegant distraction-free writing for NeoVim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1521,6 +1522,7 @@
 
 ## Rust 
 
+- [lislis/talk-creative-rust](https://github.com/lislis/talk-creative-rust) - Talk slides and code examples for Rust Linz meetup May 2021
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -1905,6 +1907,7 @@
 
 ## TeX 
 
+- [Amuhar/thesis](https://github.com/Amuhar/thesis) - Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilities
 - [bi-functor/hott-thesis](https://github.com/bi-functor/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
