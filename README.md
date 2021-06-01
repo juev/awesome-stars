@@ -1177,7 +1177,7 @@
 
 ## Lua 
 
-- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🪶 Clean and elegant distraction-free writing for NeoVim.
+- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1527,6 +1527,8 @@
 
 ## Rust 
 
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
+- [mre/past](https://github.com/mre/past) - 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [lislis/talk-creative-rust](https://github.com/lislis/talk-creative-rust) - Talk slides and code examples for Rust Linz meetup May 2021
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
