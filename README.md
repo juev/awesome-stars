@@ -968,6 +968,7 @@
 
 ## Haskell 
 
+- [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
 - [jagajaga/FP-Course-ITMO](https://github.com/jagajaga/FP-Course-ITMO) - Slides and other materials for functional programming lectures ITMO university
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [vaclavsvejcar/headroom](https://github.com/vaclavsvejcar/headroom) - ©️ Manager for license headers in source code files.
