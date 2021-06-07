@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
@@ -217,6 +218,7 @@
 
 ## CSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
