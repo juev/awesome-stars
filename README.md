@@ -970,6 +970,11 @@
 
 ## Haskell 
 
+- [ChrisPenner/advent-of-code-haskell](https://github.com/ChrisPenner/advent-of-code-haskell) - Advent of Code Solutions in Haskell
+- [ChrisPenner/charter](https://github.com/ChrisPenner/charter) - Haskell charting library
+- [ChrisPenner/rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
+- [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
+- [katychuang/getting-started-with-haskell](https://github.com/katychuang/getting-started-with-haskell) - notes on where to find Haskell tutorials and tips to complete them
 - [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
 - [jagajaga/FP-Course-ITMO](https://github.com/jagajaga/FP-Course-ITMO) - Slides and other materials for functional programming lectures ITMO university
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
@@ -1181,6 +1186,7 @@
 
 ## Lua 
 
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
@@ -1451,6 +1457,8 @@
 
 ## Python 
 
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -1531,6 +1539,7 @@
 
 ## Rust 
 
+- [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [mre/past](https://github.com/mre/past) - 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -1765,6 +1774,7 @@
 
 ## Shell 
 
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
