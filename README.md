@@ -1539,6 +1539,7 @@
 
 ## Rust 
 
+- [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [mre/past](https://github.com/mre/past) - 
