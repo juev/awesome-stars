@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
 - [rjeczalik/notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
 - [canidam/libvault](https://github.com/canidam/libvault) - A lightweight Vault client module written in Go, with no dependencies, that is intuitive and user-friendly
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -970,6 +971,7 @@
 
 ## Haskell 
 
+- [ethercrow/opentelemetry-haskell](https://github.com/ethercrow/opentelemetry-haskell) - The OpenTelemetry Haskell Client https://opentelemetry.io
 - [ChrisPenner/advent-of-code-haskell](https://github.com/ChrisPenner/advent-of-code-haskell) - Advent of Code Solutions in Haskell
 - [ChrisPenner/charter](https://github.com/ChrisPenner/charter) - Haskell charting library
 - [ChrisPenner/rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
