@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
 - [rjeczalik/notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
 - [canidam/libvault](https://github.com/canidam/libvault) - A lightweight Vault client module written in Go, with no dependencies, that is intuitive and user-friendly
@@ -1568,7 +1569,7 @@
 - [KonishchevDmitry/investments](https://github.com/KonishchevDmitry/investments) - Helps you with managing your investments
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
-- [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - Simple embedded database modeled off SQLite in Rust
+- [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
