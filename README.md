@@ -905,7 +905,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [go-stomp/stomp](https://github.com/go-stomp/stomp) - Go language library for STOMP protocol
-- [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast clone of the Jekyll blogging engine, in Go
+- [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go clone of the Jekyll blogging engine
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -1545,6 +1545,7 @@
 
 ## Rust 
 
+- [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Qovery/RedisLess](https://github.com/Qovery/RedisLess) - RedisLess is a fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API.
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
@@ -1938,7 +1939,7 @@
 ## TeX 
 
 - [Amuhar/thesis](https://github.com/Amuhar/thesis) - Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
-- [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilities
+- [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilistic Programming
 - [bi-functor/hott-thesis](https://github.com/bi-functor/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [chelseakomlo/library](https://github.com/chelseakomlo/library) - A library with the papers I'm reading and rough notes/summaries
@@ -2005,6 +2006,7 @@
 
 ## Vim script 
 
+- [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [srid/nvim.nix](https://github.com/srid/nvim.nix) - My neovim setup in Nix
