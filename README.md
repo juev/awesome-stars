@@ -241,7 +241,7 @@
 - [roswell/roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
 - [ashok-khanna/common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [vindarel/cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
 - [40ants/resume](https://github.com/40ants/resume) - A data-driven resume builder.
@@ -1193,6 +1193,7 @@
 
 ## Lua 
 
+- [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -1464,6 +1465,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
@@ -1546,6 +1548,9 @@
 
 ## Rust 
 
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+- [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [Qovery/RedisLess](https://github.com/Qovery/RedisLess) - RedisLess is a fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API.
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
@@ -1962,6 +1967,7 @@
 
 ## TypeScript 
 
+- [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
