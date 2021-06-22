@@ -1072,6 +1072,7 @@
 - [haskell/bytestring](https://github.com/haskell/bytestring) - An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
 - [ocramz/heidi](https://github.com/ocramz/heidi) - heidi : tidy data in Haskell
 - [hasufell/stack2cabal](https://github.com/hasufell/stack2cabal) - Convert stack projects to cabal.project + cabal.project.freeze
+- [haskell/aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
 - [yesodweb/yesod](https://github.com/yesodweb/yesod) - A RESTful Haskell web framework built on WAI.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
@@ -1929,7 +1930,6 @@
 - [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
 - [temochka/Anykey](https://github.com/temochka/Anykey) - A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [haskell/aeson](https://github.com/haskell/aeson) - A fast Haskell JSON library
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
