@@ -326,6 +326,8 @@
 
 ## Go 
 
+- [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
@@ -1595,7 +1597,7 @@
 - [termhn/rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [termhn/ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [target/lorri](https://github.com/target/lorri) - Your project's nix-env
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows SDK
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
