@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [couchbase/nitro](https://github.com/couchbase/nitro) - A high performance in-memory index storage engine
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter
@@ -977,6 +978,10 @@
 
 ## Haskell 
 
+- [graninas/Hydra](https://github.com/graninas/Hydra) - Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support. It's currently moving to the production-ready state
+- [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
+- [arybczak/effectful](https://github.com/arybczak/effectful) - An easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [jgm/emojis](https://github.com/jgm/emojis) - Haskell library for emojis
 - [ethercrow/opentelemetry-haskell](https://github.com/ethercrow/opentelemetry-haskell) - The OpenTelemetry Haskell Client https://opentelemetry.io
 - [ChrisPenner/advent-of-code-haskell](https://github.com/ChrisPenner/advent-of-code-haskell) - Advent of Code Solutions in Haskell
 - [ChrisPenner/charter](https://github.com/ChrisPenner/charter) - Haskell charting library
@@ -1552,6 +1557,7 @@
 
 ## Rust 
 
+- [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
@@ -1597,7 +1603,7 @@
 - [termhn/rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [termhn/ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [target/lorri](https://github.com/target/lorri) - Your project's nix-env
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
