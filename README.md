@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
 - [couchbase/nitro](https://github.com/couchbase/nitro) - A high performance in-memory index storage engine
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
