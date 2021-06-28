@@ -181,7 +181,6 @@
 ## C++ 
 
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [freebayes/freebayes](https://github.com/freebayes/freebayes) - Bayesian haplotype-based genetic polymorphism discovery and genotyping.
@@ -933,6 +932,7 @@
 ## HTML 
 
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
@@ -1344,7 +1344,7 @@
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
-- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases and discussions repository.
+- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [bradfitz/homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
 - [adrianmihalko/raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install and configure WireGuard on Raspberry Pi (and others)
 - [rcarmo/til](https://github.com/rcarmo/til) - 📝 Today I Learned
@@ -1558,6 +1558,7 @@
 
 ## Rust 
 
+- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
@@ -2135,6 +2136,7 @@
 
 ## Zig 
 
+- [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
