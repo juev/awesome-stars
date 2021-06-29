@@ -636,7 +636,7 @@
 - [freenetdigital/prometheus_oracle_exporter](https://github.com/freenetdigital/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
 - [mattn/go-oci8](https://github.com/mattn/go-oci8) - Oracle driver for Go using database/sql
 - [rana/ora](https://github.com/rana/ora) - An Oracle database driver for the Go programming language.
-- [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [tj/go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
@@ -1202,6 +1202,7 @@
 
 ## Lua 
 
+- [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5.
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim.
@@ -1359,7 +1360,7 @@
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [miripiruni/constitution-of-russia](https://github.com/miripiruni/constitution-of-russia) - Конституция Российской Федерации
 - [thewhitetulip/awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook) - learn awk by example
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [edheltzel/vscode-better-solarized](https://github.com/edheltzel/vscode-better-solarized) - ☯ A better Solarized theme for Visual Studio Code
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
@@ -1558,6 +1559,7 @@
 
 ## Rust 
 
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
