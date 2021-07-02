@@ -218,6 +218,7 @@
 
 ## CSS 
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
@@ -277,6 +278,7 @@
 
 ## Emacs Lisp 
 
+- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [rksm/emacs-rust-config](https://github.com/rksm/emacs-rust-config) - emacs.d files for making Emacs a Rust development environment
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [oantolin/embark](https://github.com/oantolin/embark) - Emacs Mini-Buffer Actions Rooted in Keymaps
@@ -326,6 +328,7 @@
 
 ## Go 
 
+- [k8ssandra/cass-operator](https://github.com/k8ssandra/cass-operator) - The DataStax Kubernetes Operator for Apache Cassandra
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
 - [couchbase/nitro](https://github.com/couchbase/nitro) - A high performance in-memory index storage engine
@@ -1204,6 +1207,8 @@
 
 ## Lua 
 
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
 - [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5.
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
@@ -1231,6 +1236,7 @@
 
 ## Nix 
 
+- [nmattia/naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
 - [cole-mickens/nixcfg](https://github.com/cole-mickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
@@ -1253,7 +1259,7 @@
 - [heywoodlh/nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [divnix/devos](https://github.com/divnix/devos) - NixOS Framework
+- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
