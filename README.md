@@ -985,6 +985,7 @@
 
 ## Haskell 
 
+- [wasp-lang/strong-path](https://github.com/wasp-lang/strong-path) - Strongly typed paths in Haskell
 - [acowley/Frames](https://github.com/acowley/Frames) - Data frames for tabular data.
 - [graninas/Hydra](https://github.com/graninas/Hydra) - Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support. It's currently moving to the production-ready state
 - [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
@@ -1210,6 +1211,7 @@
 
 ## Lua 
 
+- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
@@ -1573,6 +1575,7 @@
 
 ## Rust 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
