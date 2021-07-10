@@ -329,6 +329,7 @@
 
 ## Go 
 
+- [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [k8ssandra/cass-operator](https://github.com/k8ssandra/cass-operator) - The DataStax Kubernetes Operator for Apache Cassandra
@@ -386,7 +387,6 @@
 - [KohlsTechnology/git2consul-go](https://github.com/KohlsTechnology/git2consul-go) - Populates a Consul key/value store from git
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-- [prologic/shops](https://github.com/prologic/shops) - shops is a simple command-line tool written in Go that helps you simplify the way you manage configuration across a set of machines. shops is your configuration management tool of choice when Chef, Puppet, Ansible are all too complicated and all you really want to do is run a bunch of regular shell against a set of hosts.
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [modern-go/reflect2](https://github.com/modern-go/reflect2) - reflect api without runtime reflect.Value cost
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
@@ -592,7 +592,6 @@
 - [prometheus/promu](https://github.com/prometheus/promu) - Prometheus Utility Tool
 - [hhatto/gocloc](https://github.com/hhatto/gocloc) - A little fast cloc(Count Lines Of Code)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
-- [prologic/golinks](https://github.com/prologic/golinks) - 🌐A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
 - [myitcv/gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
 - [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
 - [txthinking/nami](https://github.com/txthinking/nami) - A decentralized binary package manager.
@@ -1211,6 +1210,7 @@
 
 ## Lua 
 
+- [eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) - Another attempt of a flat Gruvbox theme for Neovim
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
@@ -1303,6 +1303,7 @@
 
 ## Others 
 
+- [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [namvdo/CS-and-Programming-Books](https://github.com/namvdo/CS-and-Programming-Books) - Free computer science, programming books. Code examples, programming project guidlines, and more...
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
