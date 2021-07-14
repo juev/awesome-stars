@@ -330,6 +330,7 @@
 
 ## Go 
 
+- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
@@ -399,7 +400,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [genkami/kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - 🔒🌍 Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
@@ -697,7 +698,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -1983,6 +1984,7 @@
 
 ## TeX 
 
+- [thesis-toolbox/template](https://github.com/thesis-toolbox/template) - A template for writing your Bachelor, Master or PhD thesis.
 - [Amuhar/thesis](https://github.com/Amuhar/thesis) - Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilistic Programming
 - [bi-functor/hott-thesis](https://github.com/bi-functor/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
