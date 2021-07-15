@@ -330,6 +330,8 @@
 
 ## Go 
 
+- [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [jimeh/build-emacs-for-macos](https://github.com/jimeh/build-emacs-for-macos) - Somewhat hacky script to automate building of Emac.app on macOS.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -373,7 +375,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) - Detect all kinds of leaks in Go
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -710,7 +712,7 @@
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [govim/govim](https://github.com/govim/govim) - govim is a Go development plugin for Vim8, written in Go
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -1136,6 +1138,7 @@
 
 ## JavaScript 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -1213,6 +1216,7 @@
 
 ## Lua 
 
+- [vhyrro/neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) - Another attempt of a flat Gruvbox theme for Neovim
@@ -1249,7 +1253,7 @@
 
 ## Nix 
 
-- [nmattia/naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
 - [cole-mickens/nixcfg](https://github.com/cole-mickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
@@ -1498,6 +1502,7 @@
 
 ## Python 
 
+- [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
@@ -1581,6 +1586,7 @@
 
 ## Rust 
 
+- [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [aclysma/profiling](https://github.com/aclysma/profiling) - Provides a very thin abstraction over instrumented profiling crates like puffin, optick, tracy, and superluminal-perf.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
