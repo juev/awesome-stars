@@ -1652,7 +1652,7 @@
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [clux/kube-rs](https://github.com/clux/kube-rs) - kubernetes rust client and futures controller runtime
+- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - kubernetes rust client and async controller runtime
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [zslayton/cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust
@@ -2018,6 +2018,7 @@
 
 ## TypeScript 
 
+- [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
