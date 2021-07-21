@@ -1132,6 +1132,7 @@
 
 ## Java 
 
+- [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) - 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Skia bindings for Java
@@ -1588,6 +1589,7 @@
 
 ## Rust 
 
+- [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [tidwall/gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
