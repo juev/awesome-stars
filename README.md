@@ -330,6 +330,7 @@
 
 ## Go 
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) - Go script for syncing LDAP user group membership to Gitea
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
@@ -991,6 +992,7 @@
 
 ## Haskell 
 
+- [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
 - [wasp-lang/strong-path](https://github.com/wasp-lang/strong-path) - Strongly typed paths in Haskell
 - [acowley/Frames](https://github.com/acowley/Frames) - Data frames for tabular data.
 - [graninas/Hydra](https://github.com/graninas/Hydra) - Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support. It's currently moving to the production-ready state
@@ -1219,6 +1221,7 @@
 
 ## Lua 
 
+- [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [vhyrro/neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
@@ -1589,6 +1592,7 @@
 
 ## Rust 
 
+- [kdy1/cargo-profile](https://github.com/kdy1/cargo-profile) - Performance profiling made simple
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
