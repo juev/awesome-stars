@@ -331,6 +331,7 @@
 
 ## Go 
 
+- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) - Go script for syncing LDAP user group membership to Gitea
@@ -403,7 +404,7 @@
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [genkami/kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
@@ -1220,6 +1221,7 @@
 
 ## Lua 
 
+- [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [vhyrro/neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
@@ -1592,6 +1594,7 @@
 
 ## Rust 
 
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a script language in Rust.
 - [kdy1/cargo-profile](https://github.com/kdy1/cargo-profile) - Performance profiling made simple
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
