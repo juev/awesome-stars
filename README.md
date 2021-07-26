@@ -189,7 +189,7 @@
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
-- [poacpm/poac](https://github.com/poacpm/poac) - A package manager for C++, like Rust's Cargo.
+- [poacpm/poac](https://github.com/poacpm/poac) - A package manager for C++, like Cargo for Rust.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
