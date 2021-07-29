@@ -2063,7 +2063,7 @@
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
