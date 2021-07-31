@@ -639,7 +639,7 @@
 - [kkyr/fig](https://github.com/kkyr/fig) - A minimalist Go configuration library
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
-- [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - 
+- [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [influxdata/go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
@@ -1166,7 +1166,7 @@
 - [securityheaders/security-headers-cloudflare-worker](https://github.com/securityheaders/security-headers-cloudflare-worker) - A Cloudflare Worker to enable Security Headers on your site.
 - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-- [seejohnrun/haste-server](https://github.com/seejohnrun/haste-server) - open source pastebin written in node.js
+- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
