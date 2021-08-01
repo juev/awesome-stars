@@ -104,6 +104,7 @@
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c) - A Prometheus Client in C
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [vrogier/ocilib](https://github.com/vrogier/ocilib) - OCILIB (C and C++ Drivers for Oracle) - Open source C and C++ library for accessing Oracle databases
 - [godror/godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
@@ -332,6 +333,7 @@
 
 ## Go 
 
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -563,7 +565,6 @@
 - [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
 - [bazelbuild/rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [hacdias/webdav](https://github.com/hacdias/webdav) - Simple Go WebDAV server.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
@@ -996,6 +997,7 @@
 
 ## Haskell 
 
+- [GaloisInc/argo](https://github.com/GaloisInc/argo) - A Haskell library for building JSON-RPC servers (work in progress), with servers for Cryptol and SAW
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
 - [wasp-lang/strong-path](https://github.com/wasp-lang/strong-path) - Strongly typed paths in Haskell
 - [acowley/Frames](https://github.com/acowley/Frames) - Data frames for tabular data.
