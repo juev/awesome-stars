@@ -1002,6 +1002,7 @@
 
 ## Haskell 
 
+- [haskell-perf/xml](https://github.com/haskell-perf/xml) - Simple benchmarks for XML parsing libraries
 - [GaloisInc/argo](https://github.com/GaloisInc/argo) - A Haskell library for building JSON-RPC servers (work in progress), with servers for Cryptol and SAW
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
 - [wasp-lang/strong-path](https://github.com/wasp-lang/strong-path) - Strongly typed paths in Haskell
@@ -1606,6 +1607,7 @@
 
 ## Rust 
 
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) - Audit Cargo.lock files for dependencies with security vulnerabilities
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [yaahc/eyre](https://github.com/yaahc/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
@@ -2047,6 +2049,7 @@
 
 ## TypeScript 
 
+- [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
