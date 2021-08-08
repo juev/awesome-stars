@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
@@ -1002,6 +1003,7 @@
 
 ## Haskell 
 
+- [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [haskell-perf/xml](https://github.com/haskell-perf/xml) - Simple benchmarks for XML parsing libraries
 - [GaloisInc/argo](https://github.com/GaloisInc/argo) - A Haskell library for building JSON-RPC servers (work in progress), with servers for Cryptol and SAW
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
@@ -1149,7 +1151,7 @@
 - [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) - 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
-- [JetBrains/skija](https://github.com/JetBrains/skija) - Skia bindings for Java
+- [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
@@ -1878,7 +1880,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions
