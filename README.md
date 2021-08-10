@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -1003,6 +1004,8 @@
 
 ## Haskell 
 
+- [kframework/kore](https://github.com/kframework/kore) - The symbolic execution engine powering the K Framework
+- [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [haskell-perf/xml](https://github.com/haskell-perf/xml) - Simple benchmarks for XML parsing libraries
 - [GaloisInc/argo](https://github.com/GaloisInc/argo) - A Haskell library for building JSON-RPC servers (work in progress), with servers for Cryptol and SAW
