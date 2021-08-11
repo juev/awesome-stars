@@ -246,7 +246,7 @@
 - [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [roswell/roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
-- [ashok-khanna/common-lisp-by-example](https://github.com/ashok-khanna/common-lisp-by-example) - Repo for Common Lisp by Example
+- [ashok-khanna/lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [vindarel/cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
@@ -1004,6 +1004,7 @@
 
 ## Haskell 
 
+- [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications.
 - [kframework/kore](https://github.com/kframework/kore) - The symbolic execution engine powering the K Framework
 - [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
@@ -1691,7 +1692,7 @@
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - kubernetes rust client and async controller runtime
+- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - rust kubernetes client and controller runtime
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [zslayton/cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust
