@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
@@ -1004,6 +1005,8 @@
 
 ## Haskell 
 
+- [chessai/semirings](https://github.com/chessai/semirings) - semirings and *-semirings of types in base/haskell-platform
+- [emilypi/nonempty-vector](https://github.com/emilypi/nonempty-vector) - Non-empty Vectors
 - [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications.
 - [kframework/kore](https://github.com/kframework/kore) - The symbolic execution engine powering the K Framework
 - [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
@@ -1161,6 +1164,7 @@
 
 ## JavaScript 
 
+- [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [morkro/papyrus](https://github.com/morkro/papyrus) - 📄 Unofficial Dropbox Paper desktop app
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -1239,6 +1243,7 @@
 
 ## Lua 
 
+- [mjlbach/defaults.nvim](https://github.com/mjlbach/defaults.nvim) - A small, featureful neovim template
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) - A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -1879,6 +1884,7 @@
 
 ## Shell 
 
+- [b0o/alacritty-conf](https://github.com/b0o/alacritty-conf) - Maddison's alacritty configuration!
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
