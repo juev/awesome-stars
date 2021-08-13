@@ -246,7 +246,6 @@
 - [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [roswell/roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
-- [ashok-khanna/lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [vindarel/cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
@@ -962,6 +961,7 @@
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
+- [ashok-khanna/lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [kowainik/kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
