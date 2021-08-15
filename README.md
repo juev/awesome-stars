@@ -1007,6 +1007,8 @@
 
 ## Haskell 
 
+- [cdornan/fmt](https://github.com/cdornan/fmt) - New formatting library
+- [patrickt/spinners](https://github.com/patrickt/spinners) - A Haskell library for rendering animated spinners in the terminal.
 - [chessai/semirings](https://github.com/chessai/semirings) - semirings and *-semirings of types in base/haskell-platform
 - [emilypi/nonempty-vector](https://github.com/emilypi/nonempty-vector) - Non-empty Vectors
 - [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications.
@@ -1390,7 +1392,6 @@
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [poteto/rustconf-2020](https://github.com/poteto/rustconf-2020) - An aggregation of links that summarize RustConf 2020. Pull requests welcome!
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [kowainik/.github](https://github.com/kowainik/.github) - 💊 Default health files
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
@@ -1908,6 +1909,7 @@
 - [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
 - [idcrook/kubernetes-homespun](https://github.com/idcrook/kubernetes-homespun) - Build a kubernetes home cluster (Raspberry Pi OS/ubuntu, k3s)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [nezorflame/golang-talks](https://github.com/nezorflame/golang-talks) - Talks about Go which I occasionally do on various meetups and conferences
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
