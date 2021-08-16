@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [flant/addon-operator](https://github.com/flant/addon-operator) - A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -1007,6 +1008,7 @@
 
 ## Haskell 
 
+- [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [cdornan/fmt](https://github.com/cdornan/fmt) - New formatting library
 - [patrickt/spinners](https://github.com/patrickt/spinners) - A Haskell library for rendering animated spinners in the terminal.
 - [chessai/semirings](https://github.com/chessai/semirings) - semirings and *-semirings of types in base/haskell-platform
@@ -1452,7 +1454,6 @@
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [solarrust/hacker-laws](https://github.com/solarrust/hacker-laws) - 💻📖 Законы, теории, принципы и модели, которые полезно знать разработчику.
@@ -1536,6 +1537,7 @@
 
 ## Python 
 
+- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -1946,6 +1948,7 @@
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
