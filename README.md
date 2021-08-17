@@ -2178,7 +2178,7 @@
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) - My cross-platform vimrc
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) - :flashlight: Improved incremental searching for Vim
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) - ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) - My NixOS configs
