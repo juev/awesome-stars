@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [flant/addon-operator](https://github.com/flant/addon-operator) - A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
@@ -1008,6 +1009,7 @@
 
 ## Haskell 
 
+- [gvolpe/fts](https://github.com/gvolpe/fts) - :mag: Postgres full-text search (fts)
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
 - [cdornan/fmt](https://github.com/cdornan/fmt) - New formatting library
 - [patrickt/spinners](https://github.com/patrickt/spinners) - A Haskell library for rendering animated spinners in the terminal.
@@ -1623,6 +1625,7 @@
 
 ## Rust 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [snoyberg/bwbackup](https://github.com/snoyberg/bwbackup) - Create encrypted backups of your Bitwarden vault
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - Audit Cargo.lock files for dependencies with security vulnerabilities
