@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
