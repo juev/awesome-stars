@@ -325,6 +325,7 @@
 
 ## Fennel 
 
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 
 ## Futhark 
