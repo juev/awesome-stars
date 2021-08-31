@@ -84,6 +84,7 @@
 
 ## C 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) - lowlevel set of cryptographic primitives for haskell
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
@@ -338,6 +339,7 @@
 
 ## Go 
 
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) - Prometheus database exporter (Oracle, Postgres, Mysql)
@@ -1022,6 +1024,7 @@
 
 ## Haskell 
 
+- [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [MondayMorningHaskell/haskellings](https://github.com/MondayMorningHaskell/haskellings) - An automated tutorial to teach you about Haskell!
 - [gvolpe/fts](https://github.com/gvolpe/fts) - :mag: Postgres full-text search (fts)
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
@@ -1180,7 +1183,7 @@
 - [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) - 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
-- [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
+- [HumbleUI/skija](https://github.com/HumbleUI/skija) - Java bindings for Skia
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
@@ -2093,6 +2096,7 @@
 
 ## TypeScript 
 
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
