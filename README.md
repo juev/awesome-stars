@@ -339,6 +339,8 @@
 
 ## Go 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -1183,7 +1185,7 @@
 - [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) - 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
-- [HumbleUI/skija](https://github.com/HumbleUI/skija) - Java bindings for Skia
+- [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
@@ -1312,6 +1314,7 @@
 
 ## Nix 
 
+- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
