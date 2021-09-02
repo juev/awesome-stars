@@ -84,6 +84,7 @@
 
 ## C 
 
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) - lowlevel set of cryptographic primitives for haskell
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -187,7 +188,7 @@
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
-- [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
+- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [freebayes/freebayes](https://github.com/freebayes/freebayes) - Bayesian haplotype-based genetic polymorphism discovery and genotyping.
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -259,6 +260,7 @@
 
 ## Dhall 
 
+- [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [novakov-alexey/dhall-kafka-kuberentes-deployment](https://github.com/novakov-alexey/dhall-kafka-kuberentes-deployment) - Helm plus Dhall Kafka Deployment to Kubernetes
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 
@@ -1026,6 +1028,9 @@
 
 ## Haskell 
 
+- [xnning/MpEff](https://github.com/xnning/MpEff) - Efficient effect handlers based on Evidence Passing Semantics.
+- [xnning/EvEff](https://github.com/xnning/EvEff) - Efficient Haskell effect handlers based on evidence translation.
+- [tomahawkins/mecha](https://github.com/tomahawkins/mecha) - A solid modeling language in Haskell.
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [MondayMorningHaskell/haskellings](https://github.com/MondayMorningHaskell/haskellings) - An automated tutorial to teach you about Haskell!
 - [gvolpe/fts](https://github.com/gvolpe/fts) - :mag: Postgres full-text search (fts)
@@ -1303,6 +1308,7 @@
 
 ## Makefile 
 
+- [simonmichael/haskell-finance](https://github.com/simonmichael/haskell-finance) - Notes on Haskell programming language-related finances.
 - [tetafro/clickhouse-cluster](https://github.com/tetafro/clickhouse-cluster) - Simple clickhouse cluster with docker-compose
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
@@ -1950,7 +1956,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [haiwen/seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build your own vpn under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build and manage your own vpn under a minute.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
@@ -2075,6 +2081,7 @@
 
 ## TeX 
 
+- [Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis) - A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) - A template for writing your Bachelor, Master or PhD thesis.
 - [Amuhar/thesis](https://github.com/Amuhar/thesis) - Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilistic Programming
