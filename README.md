@@ -341,6 +341,9 @@
 
 ## Go 
 
+- [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
@@ -764,7 +767,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - Micro is a platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1381,6 +1384,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [uhub/awesome-haskell](https://github.com/uhub/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [namvdo/CS-and-Programming-Books](https://github.com/namvdo/CS-and-Programming-Books) - Free computer science, programming books. Code examples, programming project guidlines, and more...
@@ -1656,6 +1660,7 @@
 
 ## Rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fpco/amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [snoyberg/bwbackup](https://github.com/snoyberg/bwbackup) - Create encrypted backups of your Bitwarden vault
@@ -1780,7 +1785,7 @@
 - [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
 - [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) - Collection of pure Rust elliptic curve implementations (e.g. P-256, P-384, secp256k1)
-- [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - A template for kick starting a Cloudflare worker project using wasm-pack.
+- [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) - A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
 - [oxidecomputer/cio](https://github.com/oxidecomputer/cio) - Rust libraries for APIs needed by our automated CIO.
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
@@ -1925,6 +1930,7 @@
 
 ## Shell 
 
+- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [b0o/alacritty-conf](https://github.com/b0o/alacritty-conf) - Maddison's alacritty configuration!
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
