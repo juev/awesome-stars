@@ -1353,7 +1353,7 @@
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI
-- [ihsanturk/dotfiles](https://github.com/ihsanturk/dotfiles) - Configurations of my machines
+- [0ihsan/dotfiles](https://github.com/0ihsan/dotfiles) - Configurations of my machines
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [manveru/dotfiles](https://github.com/manveru/dotfiles) - Just my dotfiles for home-manager
