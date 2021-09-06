@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [machaju/sdl-pong](https://github.com/machaju/sdl-pong) - pong implementation with sdl
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -341,6 +342,9 @@
 
 ## Go 
 
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to deliver Helm charts as-a-service
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -1663,6 +1667,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fpco/amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
