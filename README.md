@@ -1667,6 +1667,8 @@
 
 ## Rust 
 
+- [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
+- [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fpco/amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography
