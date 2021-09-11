@@ -342,6 +342,8 @@
 
 ## Go 
 
+- [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to deliver Helm charts as-a-service
@@ -612,7 +614,7 @@
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [lucperkins/rek](https://github.com/lucperkins/rek) - An easy HTTP client for Go. Inspired by the immortal Requests.
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN, DNS over TLS, with a few proxy servers built-in.
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [facebookincubator/ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
