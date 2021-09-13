@@ -84,6 +84,7 @@
 
 ## C 
 
+- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) - lowlevel set of cryptographic primitives for haskell
@@ -1037,6 +1038,7 @@
 
 ## Haskell 
 
+- [hdbc/hdbc](https://github.com/hdbc/hdbc) - Haskell Database Connectivity
 - [xnning/MpEff](https://github.com/xnning/MpEff) - Efficient effect handlers based on Evidence Passing Semantics.
 - [xnning/EvEff](https://github.com/xnning/EvEff) - Efficient Haskell effect handlers based on evidence translation.
 - [tomahawkins/mecha](https://github.com/tomahawkins/mecha) - A solid modeling language in Haskell.
@@ -2292,6 +2294,8 @@
 
 ## Zig 
 
+- [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
+- [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) - readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - xorfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
