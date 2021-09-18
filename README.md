@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1134,7 +1135,6 @@
 - [vrom911/haskell-exercises](https://github.com/vrom911/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [GaloisInc/cryptol](https://github.com/GaloisInc/cryptol) - Cryptol: The Language of Cryptography
-- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
 - [ChrisPenner/json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes a complete Haskell model complete with instances! CLI and web interface available.
 - [graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell) - Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell
 - [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
@@ -1436,6 +1436,7 @@
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
+- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, a book about Haskell.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tomjaguarpaw/tilapia](https://github.com/tomjaguarpaw/tilapia) - Improving all Haskell's programmer interfaces
 - [sassela/haskell-learning](https://github.com/sassela/haskell-learning) - Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
