@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
