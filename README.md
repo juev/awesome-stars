@@ -346,6 +346,9 @@
 
 ## Go 
 
+- [prometheus-community/ecs_exporter](https://github.com/prometheus-community/ecs_exporter) - 
+- [goavengers/go-interview](https://github.com/goavengers/go-interview) - :octocat: Вопросы и ответы для собеседования Back-end/Golang разработчика и не только
+- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
