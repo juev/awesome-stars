@@ -346,6 +346,10 @@
 
 ## Go 
 
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
+- [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
+- [rakyll/go-test-trace](https://github.com/rakyll/go-test-trace) - Go test with tracing.
 - [prometheus-community/ecs_exporter](https://github.com/prometheus-community/ecs_exporter) - 
 - [goavengers/go-interview](https://github.com/goavengers/go-interview) - :octocat: Вопросы и ответы для собеседования Back-end/Golang разработчика и не только
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
@@ -372,7 +376,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
 - [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
 - [cristalhq/base64](https://github.com/cristalhq/base64) - Faster base64 encoding for Go
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 2.8.0+. Producing, consuming, transacting, administrating, etc.
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0+. Producing, consuming, transacting, administrating, etc.
 - [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
@@ -1000,6 +1004,7 @@
 
 ## HTML 
 
+- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) - Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
@@ -1048,6 +1053,7 @@
 
 ## Haskell 
 
+- [lazamar/haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Search and navigate Haskell documentation on the command line
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [hdbc/hdbc](https://github.com/hdbc/hdbc) - Haskell Database Connectivity
 - [xnning/MpEff](https://github.com/xnning/MpEff) - Efficient effect handlers based on Evidence Passing Semantics.
@@ -1882,7 +1888,7 @@
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-syndication/rss](https://github.com/rust-syndication/rss) - Library for serializing the RSS web content syndication format
 - [mgattozzi/cargo-lit](https://github.com/mgattozzi/cargo-lit) - A cargo subcommand to do literate programming in Rust.
