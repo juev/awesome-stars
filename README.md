@@ -653,7 +653,7 @@
 - [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [markbates/pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
-- [passwall/passwall-server](https://github.com/passwall/passwall-server) - PassWall Server is the core backend infrastructure for PassWall platform
+- [passwall/passwall-server](https://github.com/passwall/passwall-server) - Passwall Server is the core backend infrastructure for Passwall platform
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [prometheus/promu](https://github.com/prometheus/promu) - Prometheus Utility Tool
 - [hhatto/gocloc](https://github.com/hhatto/gocloc) - A little fast cloc(Count Lines Of Code)
@@ -1053,7 +1053,9 @@
 
 ## Haskell 
 
-- [lazamar/haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Search and navigate Haskell documentation on the command line
+- [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
+- [evanrelf/drama](https://github.com/evanrelf/drama) - 🎭 Actor library for Haskell
+- [lazamar/haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Browse Hackage from the terminal
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [hdbc/hdbc](https://github.com/hdbc/hdbc) - Haskell Database Connectivity
 - [xnning/MpEff](https://github.com/xnning/MpEff) - Efficient effect handlers based on Evidence Passing Semantics.
@@ -1295,6 +1297,7 @@
 
 ## Kotlin 
 
+- [bravit/klock](https://github.com/bravit/klock) - 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
@@ -2151,6 +2154,7 @@
 
 ## TypeScript 
 
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
