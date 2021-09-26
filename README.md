@@ -347,7 +347,7 @@
 ## Go 
 
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [rakyll/go-test-trace](https://github.com/rakyll/go-test-trace) - Go test with tracing.
@@ -708,7 +708,7 @@
 - [knadh/koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [devilsray/golang-viper-config-example](https://github.com/devilsray/golang-viper-config-example) - 
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [freenetdigital/prometheus_oracle_exporter](https://github.com/freenetdigital/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
+- [floyd871/prometheus_oracle_exporter](https://github.com/floyd871/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
 - [mattn/go-oci8](https://github.com/mattn/go-oci8) - Oracle driver for Go using database/sql
 - [rana/ora](https://github.com/rana/ora) - An Oracle database driver for the Go programming language.
 - [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
