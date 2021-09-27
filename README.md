@@ -346,6 +346,12 @@
 
 ## Go 
 
+- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+- [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
+- [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
+- [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
+- [gammazero/workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool
+- [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
@@ -1696,6 +1702,7 @@
 
 ## Rust 
 
+- [cecton/git-tools](https://github.com/cecton/git-tools) - Git subcommands to help with your workflow
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [al8n/caches-rs](https://github.com/al8n/caches-rs) - This is a Rust version of https://github.com/hashicorp/golang-lru
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
