@@ -879,7 +879,7 @@
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [donseba/contractor](https://github.com/donseba/contractor) - Golang Dynamic struct loader and mutator
-- [AutoSpotting/AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
+- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [katzien/go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [cavaliercoder/go-zabbix](https://github.com/cavaliercoder/go-zabbix) - Go bindings for the Zabbix API
@@ -1424,6 +1424,7 @@
 
 ## Others 
 
+- [proghub-official/golang-interview](https://github.com/proghub-official/golang-interview) - ⁉️ Вопросы для собеседования по Go
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [uhub/awesome-haskell](https://github.com/uhub/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software.
