@@ -86,6 +86,7 @@
 
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
+- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) - lowlevel set of cryptographic primitives for haskell
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -346,6 +347,8 @@
 
 ## Go 
 
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
@@ -1012,6 +1015,7 @@
 
 ## HTML 
 
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) - Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -1363,7 +1367,6 @@
 
 ## Nix 
 
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
@@ -1424,6 +1427,8 @@
 
 ## Others 
 
+- [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
+- [sau00/uber-go-guide-ru](https://github.com/sau00/uber-go-guide-ru) - Русский перевод гайдлайнов Uber по написанию Go кода.
 - [proghub-official/golang-interview](https://github.com/proghub-official/golang-interview) - ⁉️ Вопросы для собеседования по Go
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -1616,6 +1621,7 @@
 
 ## Python 
 
+- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
@@ -1705,7 +1711,7 @@
 
 - [cecton/git-tools](https://github.com/cecton/git-tools) - Git subcommands to help with your workflow
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
-- [al8n/caches-rs](https://github.com/al8n/caches-rs) - This is a Rust version of https://github.com/hashicorp/golang-lru
+- [al8n/caches-rs](https://github.com/al8n/caches-rs) - This is a Rust implementation for popular caches (support no_std).
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
