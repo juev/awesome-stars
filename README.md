@@ -336,6 +336,7 @@
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
+- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 
 ## Futhark 
 
@@ -385,7 +386,7 @@
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) - Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) - Like gofmt, but for JSON files.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [cristalhq/base64](https://github.com/cristalhq/base64) - Faster base64 encoding for Go
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0+. Producing, consuming, transacting, administrating, etc.
 - [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
@@ -885,7 +886,7 @@
 - [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [katzien/go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [cavaliercoder/go-zabbix](https://github.com/cavaliercoder/go-zabbix) - Go bindings for the Zabbix API
+- [zabbix-tools/go-zabbix](https://github.com/zabbix-tools/go-zabbix) - Go bindings for the Zabbix API
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [fatih/structs](https://github.com/fatih/structs) - Utilities for Go structs
@@ -1207,7 +1208,7 @@
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
-- [kowainik/co-log](https://github.com/kowainik/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
+- [co-log/co-log](https://github.com/co-log/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
 - [kowainik/relude](https://github.com/kowainik/relude) - 🌀 Safe, performant, user-friendly and lightweight Haskell standard library
 - [ruHaskell/ruhaskell](https://github.com/ruHaskell/ruhaskell) - Главный сайт сообщества
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
@@ -1350,7 +1351,6 @@
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [mna/luashell](https://github.com/mna/luashell) - A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
-- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
 
 ## Makefile 
@@ -2171,6 +2171,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
