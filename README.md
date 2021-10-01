@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -1478,6 +1479,7 @@
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [poteto/rustconf-2020](https://github.com/poteto/rustconf-2020) - An aggregation of links that summarize RustConf 2020. Pull requests welcome!
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [kowainik/.github](https://github.com/kowainik/.github) - 💊 Default health files
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
@@ -1709,6 +1711,7 @@
 
 ## Rust 
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [cecton/git-tools](https://github.com/cecton/git-tools) - Git subcommands to help with your workflow
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [al8n/caches-rs](https://github.com/al8n/caches-rs) - This is a Rust implementation for popular caches (support no_std).
@@ -2012,7 +2015,6 @@
 - [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
 - [idcrook/kubernetes-homespun](https://github.com/idcrook/kubernetes-homespun) - Build a kubernetes home cluster (Raspberry Pi OS/ubuntu, k3s)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [nezorflame/golang-talks](https://github.com/nezorflame/golang-talks) - Talks about Go which I occasionally do on various meetups and conferences
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
