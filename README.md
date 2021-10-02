@@ -348,6 +348,8 @@
 
 ## Go 
 
+- [sonatard/noctx](https://github.com/sonatard/noctx) - noctx finds sending http request without context.Context.
+- [jcuga/golongpoll](https://github.com/jcuga/golongpoll) - golang long polling library.  Makes web pub-sub easy via HTTP long-poll servers and clients :smiley: :coffee: :computer:
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -2289,7 +2291,7 @@
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) - ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) - My NixOS configs
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
