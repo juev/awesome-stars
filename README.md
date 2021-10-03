@@ -348,6 +348,8 @@
 
 ## Go 
 
+- [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [sonatard/noctx](https://github.com/sonatard/noctx) - noctx finds sending http request without context.Context.
 - [jcuga/golongpoll](https://github.com/jcuga/golongpoll) - golang long polling library.  Makes web pub-sub easy via HTTP long-poll servers and clients :smiley: :coffee: :computer:
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
