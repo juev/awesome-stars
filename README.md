@@ -348,6 +348,9 @@
 
 ## Go 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+- [RijulGulati/otpgen](https://github.com/RijulGulati/otpgen) - Library to generate TOTP/HOTP codes
+- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [sijms/go-ora](https://github.com/sijms/go-ora) - Pure go oracle client
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [sonatard/noctx](https://github.com/sonatard/noctx) - noctx finds sending http request without context.Context.
@@ -1071,6 +1074,7 @@
 
 ## Haskell 
 
+- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
 - [evanrelf/drama](https://github.com/evanrelf/drama) - 🎭 Actor library for Haskell
 - [lazamar/haskell-docs-cli](https://github.com/lazamar/haskell-docs-cli) - Browse Hackage from the terminal
