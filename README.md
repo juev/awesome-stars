@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [RijulGulati/otpgen](https://github.com/RijulGulati/otpgen) - Library to generate TOTP/HOTP codes
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -437,6 +438,7 @@
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) - Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [PierreKieffer/htui](https://github.com/PierreKieffer/htui) - Heroku Terminal User Interface
@@ -1719,6 +1721,7 @@
 
 ## Rust 
 
+- [facebookincubator/cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [cecton/git-tools](https://github.com/cecton/git-tools) - Git subcommands to help with your workflow
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
@@ -2160,7 +2163,7 @@
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) - A template for writing your Bachelor, Master or PhD thesis.
 - [Amuhar/thesis](https://github.com/Amuhar/thesis) - Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) - Selective Functors & Probabilistic Programming
-- [bi-functor/hott-thesis](https://github.com/bi-functor/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
+- [cigsender/hott-thesis](https://github.com/cigsender/hott-thesis) - Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [chelseakomlo/library](https://github.com/chelseakomlo/library) - A library with the papers I'm reading and rough notes/summaries
 - [remigiusz-suwalski/theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) - 
@@ -2194,7 +2197,6 @@
 - [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) - The knowledge IDE
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
