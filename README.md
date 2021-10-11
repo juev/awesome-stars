@@ -349,6 +349,11 @@
 
 ## Go 
 
+- [miekg/learninggo](https://github.com/miekg/learninggo) - Learning Go Book in mmark
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
+- [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
+- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
+- [glassechidna/stackit](https://github.com/glassechidna/stackit) - Cross-platform CloudFormation CLI tool for easy synchronous and idempotent stack updates
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) - gomonkey is a library to make monkey patching in unit tests easy
 - [juev/fortune-go](https://github.com/juev/fortune-go) - 
