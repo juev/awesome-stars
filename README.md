@@ -54,6 +54,7 @@
   - [Racket](#racket)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -558,6 +559,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [rsc/rf](https://github.com/rsc/rf) - A refactoring tool for Go
 - [americanexpress/earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -1277,7 +1279,6 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [breser/git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -1295,7 +1296,6 @@
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
@@ -1830,7 +1830,7 @@
 - [termhn/rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
 - [termhn/ultraviolet](https://github.com/termhn/ultraviolet) - A wide linear algebra crate for games and graphics.
 - [target/lorri](https://github.com/target/lorri) - Your project's nix-env
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
@@ -2020,6 +2020,10 @@
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+
+## Scala 
+
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 
 ## Scheme 
 
