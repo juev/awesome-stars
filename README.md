@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [docker/libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [miekg/learninggo](https://github.com/miekg/learninggo) - Learning Go Book in mmark
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
@@ -828,7 +829,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1178,7 +1179,7 @@
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
-- [haskell/text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
+- [haskell/text](https://github.com/haskell/text) - Haskell library for space- and time-efficient operations over Unicode text.
 - [ekmett/algebra](https://github.com/ekmett/algebra) - constructive abstract algebra
 - [hdgarrood/aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors) - Better errors when decoding JSON values
 - [tweag/linear-base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
