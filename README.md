@@ -350,6 +350,9 @@
 
 ## Go 
 
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
+- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [micro/services](https://github.com/micro/services) - Programmable real world Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
