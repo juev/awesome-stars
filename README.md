@@ -219,7 +219,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp) - Prometheus Client Library for Modern C++
 - [adishavit/argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
-- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - ultra fast, minimalistic, encrypted command line paste-bin
+- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
 - [exercism/cpp](https://github.com/exercism/cpp) - Exercism exercises in C++.
 - [kisom/gol](https://github.com/kisom/gol) - Game of Life
 
