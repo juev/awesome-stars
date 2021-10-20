@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [micro/services](https://github.com/micro/services) - Programmable real world Micro services
@@ -1463,6 +1464,8 @@
 
 ## Others 
 
+- [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
+- [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [sau00/uber-go-guide-ru](https://github.com/sau00/uber-go-guide-ru) - Русский перевод гайдлайнов Uber по написанию Go кода.
 - [proghub-official/golang-interview](https://github.com/proghub-official/golang-interview) - ⁉️ Вопросы для собеседования по Go
