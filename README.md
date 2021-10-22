@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
@@ -1360,7 +1361,7 @@
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
-- [mjlbach/defaults.nvim](https://github.com/mjlbach/defaults.nvim) - A small, featureful neovim template
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) - A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -2041,6 +2042,7 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [b0o/alacritty-conf](https://github.com/b0o/alacritty-conf) - Maddison's alacritty configuration!
