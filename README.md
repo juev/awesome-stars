@@ -1001,7 +1001,7 @@
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [Benchkram/errz](https://github.com/Benchkram/errz) - Error Handling In One Line of Code
+- [Benchkram/errz](https://github.com/Benchkram/errz) - Error Handling In One Line
 - [seehuhn/fortuna](https://github.com/seehuhn/fortuna) - An implementation of Ferguson and Schneier's Fortuna random number generator in Go.
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system
@@ -1790,7 +1790,7 @@
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [aclysma/profiling](https://github.com/aclysma/profiling) - Provides a very thin abstraction over instrumented profiling crates like puffin, optick, tracy, and superluminal-perf.
-- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
