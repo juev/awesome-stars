@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
@@ -1223,7 +1224,7 @@
 - [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) - 
 - [kowainik/prolens](https://github.com/kowainik/prolens) - 👓 Profunctor based lightweight implementation of Lenses
 - [ekmett/lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
-- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [haskell/bytestring](https://github.com/haskell/bytestring) - An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
 - [ocramz/heidi](https://github.com/ocramz/heidi) - heidi : tidy data in Haskell
@@ -1752,6 +1753,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [juev/ok](https://github.com/juev/ok) - .ok folder profiles
 - [juev/t](https://github.com/juev/t) - A command-line todo list manager for people that want to finish tasks, not organize them.
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) bindings to Rust with async/await support
