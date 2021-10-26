@@ -586,7 +586,7 @@
 - [tyler-smith/go-bip39](https://github.com/tyler-smith/go-bip39) - The BIP39 library for Go.
 - [goinaction/code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [alexellis/jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Standardize how your microservices run in dev. Run tilt up to work in a complete dev environment that automates all the steps from code change to a new process.
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [rsms/go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
