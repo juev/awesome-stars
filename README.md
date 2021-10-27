@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -751,7 +752,7 @@
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [mimecast/dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
-- [knadh/koanf](https://github.com/knadh/koanf) - Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [devilsray/golang-viper-config-example](https://github.com/devilsray/golang-viper-config-example) - 
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [floyd871/prometheus_oracle_exporter](https://github.com/floyd871/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
@@ -1403,6 +1404,7 @@
 
 ## Nix 
 
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
@@ -1960,7 +1962,7 @@
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-syndication/rss](https://github.com/rust-syndication/rss) - Library for serializing the RSS web content syndication format
 - [mgattozzi/cargo-lit](https://github.com/mgattozzi/cargo-lit) - A cargo subcommand to do literate programming in Rust.
