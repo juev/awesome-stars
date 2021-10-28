@@ -350,6 +350,11 @@
 
 ## Go 
 
+- [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -587,7 +592,7 @@
 - [tyler-smith/go-bip39](https://github.com/tyler-smith/go-bip39) - The BIP39 library for Go.
 - [goinaction/code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [alexellis/jaas](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) with Docker
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Standardize how your microservices run in dev. Run tilt up to work in a complete dev environment that automates all the steps from code change to a new process.
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [rsms/go-log](https://github.com/rsms/go-log) - Simple hierarchical Go logger
@@ -2283,6 +2288,7 @@
 
 ## Vim script 
 
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
