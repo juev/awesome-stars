@@ -273,6 +273,7 @@
 
 ## Dockerfile 
 
+- [andrius/blink-dotfiles](https://github.com/andrius/blink-dotfiles) - Dotfiles for tmux and vim/nvim working with blink and mac os
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Dockerfile for a ready-to-go Baikal server
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [gacts/upx](https://github.com/gacts/upx) - GitHub Action to run UPX on an executable file(s)
@@ -349,6 +350,7 @@
 
 ## Go 
 
+- [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
