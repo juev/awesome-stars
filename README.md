@@ -54,6 +54,7 @@
   - [Racket](#racket)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -201,7 +202,7 @@
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [poacpm/poac](https://github.com/poacpm/poac) - A package manager for C++, like Cargo for Rust.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [ycjuan/libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
@@ -350,6 +351,10 @@
 
 ## Go 
 
+- [dvyukov/go-fuzz-corpus](https://github.com/dvyukov/go-fuzz-corpus) - Corpus for github.com/dvyukov/go-fuzz examples
+- [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
+- [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
+- [elastic/harp](https://github.com/elastic/harp) - Secret management toolchain
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
@@ -630,7 +635,7 @@
 - [ddollar/forego](https://github.com/ddollar/forego) - Foreman in Go
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [segmentio/encoding](https://github.com/segmentio/encoding) - Go package containing implementations of efficient encoding, decoding, and validation APIs.
-- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
+- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
@@ -1273,6 +1278,7 @@
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [thma/WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) - In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language.
+- [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) - 📖 source material for Thinking with Types
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
 ## Java 
@@ -1682,7 +1688,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
@@ -2046,6 +2052,10 @@
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 
+## SCSS 
+
+- [juev/juev.org](https://github.com/juev/juev.org) - Sources from my site
+
 ## Scala 
 
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
@@ -2234,7 +2244,6 @@
 - [LenaVolzhina/about.me](https://github.com/LenaVolzhina/about.me) - Extended CV
 - [oswald2/haskell_articles](https://github.com/oswald2/haskell_articles) - A List of Haskell articles on good design, good testing
 - [hmemcpy/cv](https://github.com/hmemcpy/cv) - My CV / Resume
-- [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) - 📖 source material for Thinking with Types
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
