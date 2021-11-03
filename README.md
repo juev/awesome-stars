@@ -1699,7 +1699,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
@@ -1767,7 +1767,7 @@
 
 ## Ruby 
 
-- [bibendi/dip](https://github.com/bibendi/dip) - CLI gives the "native" interaction with applications configured with Docker Compose.
+- [bibendi/dip](https://github.com/bibendi/dip) - CLI tool that gives you the native-like interaction with applications through Docker in a development environment
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [daviderestivo/homebrew-emacs-head](https://github.com/daviderestivo/homebrew-emacs-head) - GNU Emacs formula for the Homebrew package manager
