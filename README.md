@@ -350,6 +350,10 @@
 
 ## Go 
 
+- [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [amazon-archives/golang-deployment-pipeline](https://github.com/amazon-archives/golang-deployment-pipeline) - An example of infrastructure and application CI/CD with AWS CodePipeline, AWS CodeBuild, AWS CloudFormation and AWS CodeDeploy
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -693,7 +697,7 @@
 - [KyleBanks/goodreads](https://github.com/KyleBanks/goodreads) - Goodreads API client written in Go.
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
-- [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
+- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
 - [pace/bricks](https://github.com/pace/bricks) - A standard library for microservices.
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
