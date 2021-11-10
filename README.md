@@ -166,7 +166,7 @@
 - [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [isislovecruft/tor](https://github.com/isislovecruft/tor) - Do not clone me, or branches will be mercilessly rebased and ripped out from underneath you, making you very sad. Use https://gitweb.torproject.org/user/isis/tor.git instead.
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
@@ -789,7 +790,7 @@
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [mimecast/dtail](https://github.com/mimecast/dtail) - DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [devilsray/golang-viper-config-example](https://github.com/devilsray/golang-viper-config-example) - 
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [floyd871/prometheus_oracle_exporter](https://github.com/floyd871/prometheus_oracle_exporter) - Prometheus Oracle Database exporter
@@ -926,7 +927,7 @@
 - [go-gsm/ucp-cli](https://github.com/go-gsm/ucp-cli) - command-line interface for sending and receiving SMS via UCP protocol
 - [simplesurance/baur](https://github.com/simplesurance/baur) - baur is an incremental task runner for mono repositories.
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - a database for your Go structs/objects. Super-fast and simple.
+- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -1510,6 +1511,8 @@
 
 ## Others 
 
+- [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
+- [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
 - [nezorflame/vscode-config](https://github.com/nezorflame/vscode-config) - Useful links and settings for VSCode
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -2093,6 +2096,7 @@
 
 ## Shell 
 
+- [b0o/zsh-conf](https://github.com/b0o/zsh-conf) - Maddy's zsh configuration!
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
