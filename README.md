@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
@@ -850,7 +851,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -1077,7 +1078,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
-- [nishanths/license](https://github.com/nishanths/license) - Command line license text generator
+- [nishanths/license](https://github.com/nishanths/license) - Command-line license text generator.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## Groovy 
@@ -1513,7 +1514,7 @@
 
 ## Others 
 
-- [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
+- [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
 - [nezorflame/vscode-config](https://github.com/nezorflame/vscode-config) - Useful links and settings for VSCode
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
@@ -1686,7 +1687,7 @@
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand) - 
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
-- [snaptortoise/jekyll-json-feeds](https://github.com/snaptortoise/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
+- [georgemandis/jekyll-json-feeds](https://github.com/georgemandis/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
 - [vallieres/jekyll-json-feed](https://github.com/vallieres/jekyll-json-feed) - JSON Feed for Jekyll
 - [lefticus/vimconfig](https://github.com/lefticus/vimconfig) - Vim configuration customized for heavy C++ with git and SWIG usage.
 - [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) - Guide to using a remote Debian server for security and privacy services
@@ -1881,7 +1882,7 @@
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [connorskees/grass](https://github.com/connorskees/grass) - A near-feature-complete Sass compiler written purely in Rust
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
@@ -2006,7 +2007,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
@@ -2098,6 +2099,7 @@
 
 ## Shell 
 
+- [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
 - [b0o/zsh-conf](https://github.com/b0o/zsh-conf) - Maddy's zsh configuration!
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
