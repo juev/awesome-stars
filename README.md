@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
@@ -1514,6 +1515,7 @@
 
 ## Others 
 
+- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
 - [nezorflame/vscode-config](https://github.com/nezorflame/vscode-config) - Useful links and settings for VSCode
