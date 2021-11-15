@@ -1429,6 +1429,7 @@
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [yrashk/nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
+- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [mna/luashell](https://github.com/mna/luashell) - A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
@@ -2101,6 +2102,8 @@
 
 ## Shell 
 
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature rich syntax highlighting for Zsh.
 - [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
 - [b0o/zsh-conf](https://github.com/b0o/zsh-conf) - Maddy's zsh configuration!
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -2355,7 +2358,6 @@
 - [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
