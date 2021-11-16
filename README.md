@@ -807,7 +807,7 @@
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
-- [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [wormi4ok/evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex files to Markdown
@@ -955,7 +955,7 @@
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [chaseadamsio/goorgeous](https://github.com/chaseadamsio/goorgeous) - [DEPRECATED] A go org syntax parser to html
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
 - [Depado/quokka](https://github.com/Depado/quokka) - Project boilerplate engine
@@ -1453,7 +1453,7 @@
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) - runtime decrypted age secrets for nix home manager
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
-- [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: ???]
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
 - [cole-mickens/nixcfg](https://github.com/cole-mickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
