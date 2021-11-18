@@ -350,6 +350,9 @@
 
 ## Go 
 
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
+- [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
@@ -1806,6 +1809,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [epilys/rsqlite3](https://github.com/epilys/rsqlite3) - sqlite3 Rewritten in RiiR Rust 🦀🦀🦀
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [juev/ok](https://github.com/juev/ok) - .ok folder profiles
