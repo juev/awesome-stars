@@ -203,7 +203,6 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [ycjuan/libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [fastbuild/fastbuild](https://github.com/fastbuild/fastbuild) - High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more.
@@ -1395,6 +1394,7 @@
 - [bravit/klock](https://github.com/bravit/klock) - 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
 ## Lean 
@@ -2107,7 +2107,7 @@
 ## Shell 
 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature rich syntax highlighting for Zsh.
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
 - [b0o/zsh-conf](https://github.com/b0o/zsh-conf) - Maddy's zsh configuration!
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
