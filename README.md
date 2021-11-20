@@ -2014,7 +2014,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
@@ -2441,7 +2441,7 @@
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
-- [tpope/tpope](https://github.com/tpope/tpope) - tpope's dotfiles. here be dragons
+- [tpope/tpope](https://github.com/tpope/tpope) - tpope's dotfiles. DON'T USE unless you're tpope
 
 ## VimL 
 
