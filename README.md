@@ -316,6 +316,7 @@
 - [da-edra/dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [doublep/eldev](https://github.com/doublep/eldev) - Elisp Development Tool
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [brotzeit/rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
 - [freetonik/castlemacs](https://github.com/freetonik/castlemacs) - Modern, minimalist Emacs for macOS ⌘
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
@@ -349,6 +350,8 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
+- [maxmcd/bramble](https://github.com/maxmcd/bramble) - Purely functional build system and package manager
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language
@@ -1108,7 +1111,6 @@
 - [kowainik/kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [TinkoffCreditSystems/invest-openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
-- [brotzeit/rustic](https://github.com/brotzeit/rustic) - Rust development environment for Emacs
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -1424,7 +1426,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
-- [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1809,6 +1811,7 @@
 
 ## Rust 
 
+- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [epilys/rsqlite3](https://github.com/epilys/rsqlite3) - sqlite3 Rewritten in RiiR Rust 🦀🦀🦀
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
