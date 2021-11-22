@@ -350,6 +350,8 @@
 
 ## Go 
 
+- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- [gosuri/uiprogress](https://github.com/gosuri/uiprogress) - A go library to render progress bars in terminal applications
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [maxmcd/bramble](https://github.com/maxmcd/bramble) - Purely functional build system and package manager
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
@@ -2023,6 +2025,7 @@
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [rust-syndication/rss](https://github.com/rust-syndication/rss) - Library for serializing the RSS web content syndication format
 - [mgattozzi/cargo-lit](https://github.com/mgattozzi/cargo-lit) - A cargo subcommand to do literate programming in Rust.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -2109,6 +2112,7 @@
 
 ## Shell 
 
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [b0o/tmux-conf](https://github.com/b0o/tmux-conf) - Maddison's tmux configuration!
@@ -2407,7 +2411,6 @@
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) - My cross-platform vimrc
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) - :flashlight: Improved incremental searching for Vim
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) - ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) - My NixOS configs
