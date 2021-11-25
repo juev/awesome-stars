@@ -351,6 +351,7 @@
 
 ## Go 
 
+- [restechnica/semverbot](https://github.com/restechnica/semverbot) - A CLI which automates semver versioning.
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
@@ -475,7 +476,7 @@
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) - Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) - Like gofmt, but for JSON files.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [cristalhq/base64](https://github.com/cristalhq/base64) - Faster base64 encoding for Go
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0+. Producing, consuming, transacting, administrating, etc.
 - [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
@@ -1527,6 +1528,7 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
