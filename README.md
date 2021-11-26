@@ -351,6 +351,8 @@
 
 ## Go 
 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [zhashkevych/go-clean-architecture](https://github.com/zhashkevych/go-clean-architecture) - 👨‍💻 REST API example, built by following Uncle Bob’s clean architecture principles
 - [restechnica/semverbot](https://github.com/restechnica/semverbot) - A CLI which automates semver versioning.
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
@@ -1157,6 +1159,7 @@
 
 ## Haskell 
 
+- [bitnomial/prometheus](https://github.com/bitnomial/prometheus) - Prometheus.io Haskell client.
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
 - [evanrelf/drama](https://github.com/evanrelf/drama) - 🎭 Actor library for Haskell
