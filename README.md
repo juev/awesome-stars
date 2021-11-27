@@ -79,6 +79,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## Batchfile 
@@ -351,6 +352,13 @@
 
 ## Go 
 
+- [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
+- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
+- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [zhashkevych/go-clean-architecture](https://github.com/zhashkevych/go-clean-architecture) - 👨‍💻 REST API example, built by following Uncle Bob’s clean architecture principles
 - [restechnica/semverbot](https://github.com/restechnica/semverbot) - A CLI which automates semver versioning.
