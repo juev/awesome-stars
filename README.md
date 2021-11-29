@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [develerik/git-credential-1password](https://github.com/develerik/git-credential-1password) - A git credential helper for 1Password
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -2372,6 +2373,7 @@
 
 ## Vim script 
 
+- [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) - ~cloudhead
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
