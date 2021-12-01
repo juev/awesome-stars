@@ -256,7 +256,7 @@
 - [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [roswell/roswell](https://github.com/roswell/roswell) - intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 - [vindarel/cl-torrents](https://github.com/vindarel/cl-torrents) - Searching torrents on popular trackers - CLI, readline, GUI, web client. Tutorial and binaries (issue tracker on https://gitlab.com/vindarel/cl-torrents/)
 - [40ants/resume](https://github.com/40ants/resume) - A data-driven resume builder.
@@ -714,7 +714,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [vsec7/xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
+- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise edition
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -1751,7 +1751,7 @@
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [hasherezade/password_scrambler](https://github.com/hasherezade/password_scrambler) - Password scrambler - small util to make your easy passwords complicated!
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2044,7 +2044,7 @@
 - [haltode/gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [rust-syndication/rss](https://github.com/rust-syndication/rss) - Library for serializing the RSS web content syndication format
@@ -2133,6 +2133,7 @@
 
 ## Shell 
 
+- [spf13/dotfiles](https://github.com/spf13/dotfiles) - spf13's dotfiles
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
