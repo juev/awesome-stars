@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [sceneryback/kafka-best-practices](https://github.com/sceneryback/kafka-best-practices) - 
 - [develerik/git-credential-1password](https://github.com/develerik/git-credential-1password) - A git credential helper for 1Password
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
