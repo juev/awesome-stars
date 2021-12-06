@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager
 - [robpike/ivy](https://github.com/robpike/ivy) - ivy, an APL-like calculator
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
