@@ -351,6 +351,8 @@
 
 ## Go 
 
+- [benchkram/bob](https://github.com/benchkram/bob) - A build tool from space, down on earth.
+- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
@@ -1361,6 +1363,7 @@
 
 ## JavaScript 
 
+- [varya/devtalks-2021](https://github.com/varya/devtalks-2021) - 
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [morkro/papyrus](https://github.com/morkro/papyrus) - 📄 Unofficial Dropbox Paper desktop app
@@ -1558,6 +1561,7 @@
 
 ## Others 
 
+- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
@@ -2151,6 +2155,7 @@
 
 ## Shell 
 
+- [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, codespaces, python, node, elixir
 - [NikkiSatmaka/dotfiles](https://github.com/NikkiSatmaka/dotfiles) - My dotfiles managed by chezmoi
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) - spf13's dotfiles
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
