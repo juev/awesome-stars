@@ -351,6 +351,9 @@
 
 ## Go 
 
+- [ozonru/file.d](https://github.com/ozonru/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
+- [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
+- [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
 - [benchkram/bob](https://github.com/benchkram/bob) - A build tool from space, down on earth.
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
@@ -764,7 +767,7 @@
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
-- [facebookincubator/time](https://github.com/facebookincubator/time) - Facebook's NTP libraries
+- [facebook/time](https://github.com/facebook/time) - Facebook's NTP libraries
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [balerter/balerter](https://github.com/balerter/balerter) - Script Based Alerting Manager
@@ -1366,6 +1369,9 @@
 
 ## JavaScript 
 
+- [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
+- [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
+- [nektro/actions-setup-zig](https://github.com/nektro/actions-setup-zig) - Use a @ziglang compiler in your Github Actions workflows
 - [varya/devtalks-2021](https://github.com/varya/devtalks-2021) - 
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
