@@ -351,6 +351,10 @@
 
 ## Go 
 
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
+- [davecheney/gcvis](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time
+- [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [ozonru/file.d](https://github.com/ozonru/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang
@@ -767,7 +771,7 @@
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
-- [facebook/time](https://github.com/facebook/time) - Facebook's NTP libraries
+- [facebook/time](https://github.com/facebook/time) - Meta's Time libraries
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [balerter/balerter](https://github.com/balerter/balerter) - Script Based Alerting Manager
@@ -1120,7 +1124,7 @@
 - [go-stomp/stomp](https://github.com/go-stomp/stomp) - Go language library for STOMP protocol
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go clone of the Jekyll blogging engine
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [nishanths/license](https://github.com/nishanths/license) - Command-line license text generator.
@@ -1866,6 +1870,8 @@
 
 ## Rust 
 
+- [oxidecomputer/humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris
+- [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [greyblake/envconfig-rs](https://github.com/greyblake/envconfig-rs) - Build a config structure from environment variables in Rust without boilerplate
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
