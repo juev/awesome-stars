@@ -2184,6 +2184,7 @@
 
 ## Shell 
 
+- [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, codespaces, python, node, elixir
 - [NikkiSatmaka/dotfiles](https://github.com/NikkiSatmaka/dotfiles) - My dotfiles managed by chezmoi
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) - spf13's dotfiles
