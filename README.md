@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [minio/kes](https://github.com/minio/kes) - KES is a simple, stateless and distributed key-management system
 - [rakeeb-hossain/functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics
 - [zyedidia/generic](https://github.com/zyedidia/generic) - An experimental collection of generic data structures written in Go.
 - [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go
@@ -913,7 +914,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
