@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [minio/kes](https://github.com/minio/kes) - KES is a simple, stateless and distributed key-management system
 - [rakeeb-hossain/functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics
 - [zyedidia/generic](https://github.com/zyedidia/generic) - An experimental collection of generic data structures written in Go.
@@ -813,7 +814,6 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [myitcv/gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
 - [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
-- [txthinking/nami](https://github.com/txthinking/nami) - A decentralized binary package manager.
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
@@ -1416,6 +1416,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [txthinking/nami](https://github.com/txthinking/nami) - A decentralized binary package manager.
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
@@ -1888,6 +1889,9 @@
 
 ## Rust 
 
+- [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
+- [r3nya/cli-news-rs](https://github.com/r3nya/cli-news-rs) - 
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [oxidecomputer/humility](https://github.com/oxidecomputer/humility) - Debugger for Hubris
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
@@ -2557,7 +2561,7 @@
 
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) - readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig
-- [hexops/fastfilter](https://github.com/hexops/fastfilter) - xorfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
+- [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
