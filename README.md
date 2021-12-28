@@ -352,6 +352,10 @@
 
 ## Go 
 
+- [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
+- [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
+- [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [minio/kes](https://github.com/minio/kes) - KES is a simple, stateless and distributed key-management system
 - [rakeeb-hossain/functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics
@@ -731,7 +735,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [TinkoffCreditSystems/invest-openapi-go-sdk](https://github.com/TinkoffCreditSystems/invest-openapi-go-sdk) - 
+- [Tinkoff/invest-openapi-go-sdk](https://github.com/Tinkoff/invest-openapi-go-sdk) - 
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [minio/simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second
@@ -1167,7 +1171,7 @@
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [kowainik/kowainik.github.io](https://github.com/kowainik/kowainik.github.io) - 🎂 Kowainik web page
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
-- [TinkoffCreditSystems/invest-openapi](https://github.com/TinkoffCreditSystems/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
+- [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -1797,6 +1801,7 @@
 
 ## Python 
 
+- [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [dunhamsteve/notesutils](https://github.com/dunhamsteve/notesutils) - Utilities for extracting notes from Notes.app. This repository is lightly maintained and mainly exists to serve as documentation and starting point for your own scripts.
 - [xoposhiy/aoc](https://github.com/xoposhiy/aoc) - 
@@ -2187,6 +2192,7 @@
 
 ## Scala 
 
+- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 
 ## Scheme 
