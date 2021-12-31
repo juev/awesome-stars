@@ -79,7 +79,6 @@
 
 ## Assembly 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## Batchfile 
@@ -294,6 +293,7 @@
 
 ## Emacs Lisp 
 
+- [susam/emfy](https://github.com/susam/emfy) - Emacs for You - 72 lines of Emacs Lisp to quickly set up vanilla Emacs for general purpose editing and programming
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [rksm/emacs-rust-config](https://github.com/rksm/emacs-rust-config) - emacs.d files for making Emacs a Rust development environment
@@ -352,8 +352,9 @@
 
 ## Go 
 
+- [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
@@ -404,6 +405,7 @@
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
@@ -925,7 +927,7 @@
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) - Metrics for Shell commands via Pushgateway 💫
-- [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
