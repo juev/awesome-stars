@@ -293,7 +293,7 @@
 
 ## Emacs Lisp 
 
-- [susam/emfy](https://github.com/susam/emfy) - Emacs for You - 72 lines of Emacs Lisp to quickly set up vanilla Emacs for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [rksm/emacs-rust-config](https://github.com/rksm/emacs-rust-config) - emacs.d files for making Emacs a Rust development environment
@@ -1524,6 +1524,7 @@
 
 ## Makefile 
 
+- [mpereira/.emacs.d](https://github.com/mpereira/.emacs.d) - Vanilla, Evil, literate Emacs configuration
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [simonmichael/haskell-finance](https://github.com/simonmichael/haskell-finance) - Notes on Haskell programming language-related finances.
 - [tetafro/clickhouse-cluster](https://github.com/tetafro/clickhouse-cluster) - Simple clickhouse cluster with docker-compose
