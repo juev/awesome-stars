@@ -1633,7 +1633,6 @@
 - [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) - A curated list for Awesome Kubernetes Security resources
 - [datastaxdevs/workshop-k8ssandra](https://github.com/datastaxdevs/workshop-k8ssandra) - Apache Cassandra on Kubernetes Workshop
 - [r3nya/r3nya](https://github.com/r3nya/r3nya) - 
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
