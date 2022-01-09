@@ -352,6 +352,8 @@
 
 ## Go 
 
+- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
+- [thepudds/fzgen](https://github.com/thepudds/fzgen) - Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
