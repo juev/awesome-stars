@@ -87,6 +87,7 @@
 
 ## C 
 
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
@@ -352,6 +353,7 @@
 
 ## Go 
 
+- [mvdan/dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
 - [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
 - [thepudds/fzgen](https://github.com/thepudds/fzgen) - Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
@@ -1909,6 +1911,7 @@
 
 ## Rust 
 
+- [m-ou-se/pong](https://github.com/m-ou-se/pong) - Fake ping times.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [r3nya/cli-news-rs](https://github.com/r3nya/cli-news-rs) - 
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
