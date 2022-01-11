@@ -353,6 +353,7 @@
 
 ## Go 
 
+- [juev/counter](https://github.com/juev/counter) - 
 - [mvdan/dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
 - [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
 - [thepudds/fzgen](https://github.com/thepudds/fzgen) - Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
@@ -570,7 +571,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [k8ssandra/cass-operator](https://github.com/k8ssandra/cass-operator) - The DataStax Kubernetes Operator for Apache Cassandra
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [couchbase/nitro](https://github.com/couchbase/nitro) - A high performance in-memory index storage engine
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -771,7 +772,7 @@
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [vsec7/xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
 - [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise UI
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [shomali11/gridder](https://github.com/shomali11/gridder) - A Grid based 2D Graphics library
@@ -1174,6 +1175,7 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) - Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
