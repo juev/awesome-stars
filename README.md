@@ -353,6 +353,7 @@
 
 ## Go 
 
+- [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [juev/counter](https://github.com/juev/counter) - 
 - [mvdan/dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
 - [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
@@ -1179,7 +1180,6 @@
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) - Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [ashok-khanna/lisp-notes](https://github.com/ashok-khanna/lisp-notes) - Repo for Common Lisp by Example and all other useful resources I found online
@@ -1414,6 +1414,7 @@
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [morkro/papyrus](https://github.com/morkro/papyrus) - 📄 Unofficial Dropbox Paper desktop app
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -1494,6 +1495,7 @@
 
 ## Lua 
 
+- [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A soft dark, fully customizable (Neo)Vim theme, with support for lsp, treesitter and a variety of plugins.
@@ -1589,7 +1591,7 @@
 
 ## OCaml 
 
-- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML element tree rewriting
+- [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 
 ## Objective-C 
 
@@ -1680,7 +1682,7 @@
 - [EmbarkStudios/opensource-template](https://github.com/EmbarkStudios/opensource-template) - 🌻 Template for creating new repositories
 - [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [rumyantseva/rumyantseva](https://github.com/rumyantseva/rumyantseva) - README.md of my GitHub profile
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
