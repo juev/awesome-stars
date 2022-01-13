@@ -275,7 +275,7 @@
 ## Dockerfile 
 
 - [andrius/blink-dotfiles](https://github.com/andrius/blink-dotfiles) - Dotfiles for tmux and vim/nvim working with blink and mac os
-- [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Dockerfile for a ready-to-go Baikal server
+- [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [gacts/upx](https://github.com/gacts/upx) - GitHub Action to run UPX on an executable file(s)
 - [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
@@ -353,6 +353,8 @@
 
 ## Go 
 
+- [AlekSi/generics-vs-interfaces](https://github.com/AlekSi/generics-vs-interfaces) - 
+- [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [juev/counter](https://github.com/juev/counter) - 
 - [mvdan/dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
@@ -369,7 +371,7 @@
 - [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [minio/kes](https://github.com/minio/kes) - KES is a simple, stateless and distributed key-management system
 - [rakeeb-hossain/functools](https://github.com/rakeeb-hossain/functools) - Functional tools in Go 1.18 using newly introduced generics
@@ -388,7 +390,7 @@
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
 - [davecheney/gcvis](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time
 - [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
-- [ozonru/file.d](https://github.com/ozonru/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
+- [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
@@ -1819,6 +1821,7 @@
 
 ## Python 
 
+- [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
@@ -2417,6 +2420,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) - 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
