@@ -64,6 +64,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
+  - [Vala](#vala)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
@@ -353,6 +354,7 @@
 
 ## Go 
 
+- [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [AlekSi/generics-vs-interfaces](https://github.com/AlekSi/generics-vs-interfaces) - 
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
@@ -470,7 +472,7 @@
 - [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -1934,7 +1936,7 @@
 - [juev/t](https://github.com/juev/t) - A command-line todo list manager for people that want to finish tasks, not organize them.
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) bindings to Rust with async/await support
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text and curl.
 - [facebookincubator/cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [cecton/git-tools](https://github.com/cecton/git-tools) - Git subcommands to help with your workflow
@@ -2473,6 +2475,10 @@
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
+
+## Vala 
+
+- [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 
 ## Vim script 
 
