@@ -58,7 +58,6 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
-  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -355,6 +354,8 @@
 
 ## Go 
 
+- [GolangUA/workshops](https://github.com/GolangUA/workshops) - The set of materials for workshops
+- [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 - [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets
@@ -664,6 +665,7 @@
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1483,7 +1485,6 @@
 - [natasha/corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [mlrepa/dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) - Data Version Control (DVC) tutorial 1. Get Started
 - [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [Glorf/recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
@@ -1830,6 +1831,7 @@
 
 ## Python 
 
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
@@ -1870,6 +1872,7 @@
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
@@ -1880,7 +1883,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [karlicoss/spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
-- [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
+- [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
@@ -2378,10 +2381,6 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-
-## Starlark 
-
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
