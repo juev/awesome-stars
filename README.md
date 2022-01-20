@@ -355,6 +355,8 @@
 
 ## Go 
 
+- [cch123/gogctuner](https://github.com/cch123/gogctuner) - auto adjust your GOGC value
+- [cch123/supermonkey](https://github.com/cch123/supermonkey) - Patch all Go functions for testing
 - [catmullet/go-workers](https://github.com/catmullet/go-workers) - 👷 Library for safely running groups of workers concurrently or consecutively that require input and output through channels
 - [GolangUA/workshops](https://github.com/GolangUA/workshops) - The set of materials for workshops
 - [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
@@ -558,7 +560,7 @@
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) - Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) - Like gofmt, but for JSON files.
-- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [cristalhq/base64](https://github.com/cristalhq/base64) - Faster base64 encoding for Go
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0+. Producing, consuming, transacting, administrating, etc.
@@ -592,7 +594,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
 - [rjeczalik/notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
@@ -1932,6 +1934,7 @@
 
 ## Rust 
 
+- [prometheus/client_rust](https://github.com/prometheus/client_rust) - Open Metrics client library allowing users to natively instrument applications.
 - [Riduidel/rrss2imap](https://github.com/Riduidel/rrss2imap) - A rust reimplementation of rss2email (the Rui Carno branch)
 - [m-ou-se/pong](https://github.com/m-ou-se/pong) - Fake ping times.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
