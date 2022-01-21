@@ -58,6 +58,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -355,6 +356,9 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies
+- [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
+- [quasilyte/go-perfguard](https://github.com/quasilyte/go-perfguard) - CPU-guided performance analyzer for Go
 - [cch123/gogctuner](https://github.com/cch123/gogctuner) - auto adjust your GOGC value
 - [cch123/supermonkey](https://github.com/cch123/supermonkey) - Patch all Go functions for testing
 - [catmullet/go-workers](https://github.com/catmullet/go-workers) - 👷 Library for safely running groups of workers concurrently or consecutively that require input and output through channels
@@ -669,7 +673,6 @@
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1629,6 +1632,7 @@
 
 ## Others 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -2386,6 +2390,10 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+
+## Starlark 
+
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
