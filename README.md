@@ -356,6 +356,7 @@
 
 ## Go 
 
+- [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
 - [quasilyte/go-perfguard](https://github.com/quasilyte/go-perfguard) - CPU-guided performance analyzer for Go
@@ -565,7 +566,7 @@
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) - Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) - Like gofmt, but for JSON files.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
 - [cristalhq/base64](https://github.com/cristalhq/base64) - Faster base64 encoding for Go
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0+. Producing, consuming, transacting, administrating, etc.
 - [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
@@ -1247,7 +1248,7 @@
 ## Haskell 
 
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with groups and sending files!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
 - [kowainik/hakyll-shortcut-links](https://github.com/kowainik/hakyll-shortcut-links) - ✂️ Hakyll shortcut-links in markdown files
 - [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) - A CSV parsing and encoding library optimized for ease of use and high performance
 - [ChrisPenner/jet](https://github.com/ChrisPenner/jet) - A structural editor for JSON values
@@ -1505,7 +1506,7 @@
 - [artnc/chronofile](https://github.com/artnc/chronofile) - Personal time tracking app
 - [bravit/klock](https://github.com/bravit/klock) - 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
-- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
@@ -1839,6 +1840,7 @@
 
 ## Python 
 
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
