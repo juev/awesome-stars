@@ -356,6 +356,10 @@
 
 ## Go 
 
+- [form3tech-oss/f1](https://github.com/form3tech-oss/f1) - A tool for writing load test scenarios in Golang with a powerful command line runner
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
+- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
@@ -1457,7 +1461,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [txthinking/nami](https://github.com/txthinking/nami) - A decentralized binary package manager.
+- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download command from anywhere. 从任何地方下载命令
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
