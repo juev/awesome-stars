@@ -356,6 +356,8 @@
 
 ## Go 
 
+- [jszwec/csvutil](https://github.com/jszwec/csvutil) - csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
+- [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) - A tool for writing load test scenarios in Golang with a powerful command line runner
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
@@ -1834,6 +1836,7 @@
 
 ## Perl 
 
+- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 - [nginx-modules/nginx_upstream_check_module](https://github.com/nginx-modules/nginx_upstream_check_module) - Health checks upstreams for nginx
@@ -2201,7 +2204,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
-- [rust-embedded/cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rust-lang-deprecated/error-chain](https://github.com/rust-lang-deprecated/error-chain) - Error boilerplate for Rust
 - [withoutboats/bpb](https://github.com/withoutboats/bpb) - boats's personal barricade
@@ -2489,7 +2492,7 @@
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
-- [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - VSCode Neovim Integration
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2510,6 +2513,7 @@
 
 ## Vim script 
 
+- [juev/vim-hugo](https://github.com/juev/vim-hugo) - Vim plugin for simplify creating new post in Hugo blog
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) - ~cloudhead
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
