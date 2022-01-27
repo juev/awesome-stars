@@ -356,6 +356,7 @@
 
 ## Go 
 
+- [tailscale/tscert](https://github.com/tailscale/tscert) - Minimal package for just the HTTPS cert fetching part of the Tailscale client API
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -1642,6 +1643,7 @@
 
 ## Others 
 
+- [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning & Usage Guide.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
@@ -2129,7 +2131,7 @@
 - [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [softprops/goji](https://github.com/softprops/goji) - a rust interface for jira
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) - A command-line tool to sign files and verify signatures in pure Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
@@ -2252,7 +2254,7 @@
 
 ## Scala 
 
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 
 ## Scheme 
@@ -2634,6 +2636,7 @@
 
 ## Zig 
 
+- [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) - Performance Tracking for Zig
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) - readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
