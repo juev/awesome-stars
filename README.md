@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## Batchfile 
@@ -356,6 +357,9 @@
 
 ## Go 
 
+- [emersion/go-message](https://github.com/emersion/go-message) - :envelope: A streaming Go library for the Internet Message Format and mail messages
+- [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
+- [maxatome/go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite
 - [tailscale/tscert](https://github.com/tailscale/tscert) - Minimal package for just the HTTPS cert fetching part of the Tailscale client API
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
@@ -365,7 +369,7 @@
 - [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) - A tool for writing load test scenarios in Golang with a powerful command line runner
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
-- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
+- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based off an API contract with one command. Written in Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies
@@ -445,7 +449,6 @@
 - [uber-go/tally](https://github.com/uber-go/tally) - A Go metrics interface with fast buffered metrics and third party reporters
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
@@ -494,7 +497,7 @@
 - [dvyukov/go-fuzz-corpus](https://github.com/dvyukov/go-fuzz-corpus) - Corpus for github.com/dvyukov/go-fuzz examples
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
-- [elastic/harp](https://github.com/elastic/harp) - Secret management toolchain
+- [elastic/harp](https://github.com/elastic/harp) - Secret management by contract toolchain
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
@@ -803,7 +806,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [vsec7/xkeys](https://github.com/vsec7/xkeys) - Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise UI
+- [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -1010,7 +1013,7 @@
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus
+- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [chop-dbhi/prometheus-sql](https://github.com/chop-dbhi/prometheus-sql) - Service that exposes Prometheus metrics for a SQL result set.
 - [chop-dbhi/sql-agent](https://github.com/chop-dbhi/sql-agent) - HTTP interface for executing ad-hoc SQL queries.
 - [pebbe/zmq4](https://github.com/pebbe/zmq4) - A Go interface to ZeroMQ version 4
@@ -1954,6 +1957,7 @@
 
 ## Rust 
 
+- [snoyberg/redirector](https://github.com/snoyberg/redirector) - Simple no-config Rust utility for redirecting between domains
 - [prometheus/client_rust](https://github.com/prometheus/client_rust) - Open Metrics client library allowing users to natively instrument applications.
 - [Riduidel/rrss2imap](https://github.com/Riduidel/rrss2imap) - A rust reimplementation of rss2email (the Rui Carno branch)
 - [m-ou-se/pong](https://github.com/m-ou-se/pong) - Fake ping times.
