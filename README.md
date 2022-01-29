@@ -357,6 +357,8 @@
 
 ## Go 
 
+- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
+- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [emersion/go-message](https://github.com/emersion/go-message) - :envelope: A streaming Go library for the Internet Message Format and mail messages
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [maxatome/go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite
@@ -995,7 +997,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1210,6 +1212,7 @@
 
 ## HTML 
 
+- [qbit/widdler](https://github.com/qbit/widdler) - A WebDAV server for TiddlyWikis
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
@@ -1899,7 +1902,7 @@
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
@@ -1957,6 +1960,7 @@
 
 ## Rust 
 
+- [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [snoyberg/redirector](https://github.com/snoyberg/redirector) - Simple no-config Rust utility for redirecting between domains
 - [prometheus/client_rust](https://github.com/prometheus/client_rust) - Open Metrics client library allowing users to natively instrument applications.
 - [Riduidel/rrss2imap](https://github.com/Riduidel/rrss2imap) - A rust reimplementation of rss2email (the Rui Carno branch)
