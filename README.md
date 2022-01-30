@@ -1632,7 +1632,7 @@
 ## Objective-C 
 
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [dstuecken/sshfs-gui](https://github.com/dstuecken/sshfs-gui) - SSHFS GUI Wrapper for Mac OS X
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -2040,7 +2040,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [getsynth/synth](https://github.com/getsynth/synth) - The Declarative Data Generator
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [fosskers/rs-versions](https://github.com/fosskers/rs-versions) - A library for parsing and comparing software version numbers.
