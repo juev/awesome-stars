@@ -357,6 +357,7 @@
 
 ## Go 
 
+- [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics.
 - [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️
 - [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a nice library to hook golang function at runtime
@@ -374,7 +375,7 @@
 - [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) - A tool for writing load test scenarios in Golang with a powerful command line runner
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
-- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based off an API contract with one command. Written in Go
+- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command. Written in Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies
@@ -1446,6 +1447,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Huseyinnurbaki/mocktail](https://github.com/Huseyinnurbaki/mocktail) - Free, 11MB, containerized, self-hosted mock server.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
@@ -2472,6 +2474,7 @@
 
 ## TypeScript 
 
+- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) - 
@@ -2648,6 +2651,7 @@
 
 ## Zig 
 
+- [drcode/zek](https://github.com/drcode/zek) - 
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) - Performance Tracking for Zig
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) - readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig
