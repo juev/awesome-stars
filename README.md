@@ -357,6 +357,7 @@
 
 ## Go 
 
+- [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics.
 - [mergestat/timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences 🕰️
