@@ -356,6 +356,9 @@
 
 ## Go 
 
+- [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH
 - [go-stack/stack](https://github.com/go-stack/stack) - Package stack implements utilities to capture, manipulate, and format call stacks.
@@ -1542,6 +1545,7 @@
 
 ## Lua 
 
+- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
@@ -1973,7 +1977,7 @@
 
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [snoyberg/redirector](https://github.com/snoyberg/redirector) - Simple no-config Rust utility for redirecting between domains
-- [prometheus/client_rust](https://github.com/prometheus/client_rust) - Open Metrics client library allowing users to natively instrument applications.
+- [prometheus/client_rust](https://github.com/prometheus/client_rust) - Prometheus / OpenMetrics client library in Rust
 - [Riduidel/rrss2imap](https://github.com/Riduidel/rrss2imap) - A rust reimplementation of rss2email (the Rui Carno branch)
 - [m-ou-se/pong](https://github.com/m-ou-se/pong) - Fake ping times.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
@@ -2208,7 +2212,7 @@
 - [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [pierresouchay/consul-rust](https://github.com/pierresouchay/consul-rust) - Rust client libray for Consul HTTP API
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
-- [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library to securely get random data (entropy)
+- [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
 - [tailhook/quick-error](https://github.com/tailhook/quick-error) - A rust-macro which makes errors easy to write
 - [dalek-cryptography/subtle](https://github.com/dalek-cryptography/subtle) - Pure-Rust traits and utilities for constant-time cryptographic implementations.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
