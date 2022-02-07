@@ -356,6 +356,8 @@
 
 ## Go 
 
+- [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything.
+- [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
