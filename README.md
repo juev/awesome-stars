@@ -356,6 +356,8 @@
 
 ## Go 
 
+- [adrg/strutil](https://github.com/adrg/strutil) - Golang metrics for calculating string similarity and other string utility functions
+- [razorpay/go-financial](https://github.com/razorpay/go-financial) - A go port of numpy-financial functions and more.
 - [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything.
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
