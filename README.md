@@ -356,6 +356,7 @@
 
 ## Go 
 
+- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [adrg/strutil](https://github.com/adrg/strutil) - Golang metrics for calculating string similarity and other string utility functions
 - [razorpay/go-financial](https://github.com/razorpay/go-financial) - A go port of numpy-financial functions and more.
 - [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything.
@@ -367,7 +368,7 @@
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
-- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [go-stack/stack](https://github.com/go-stack/stack) - Package stack implements utilities to capture, manipulate, and format call stacks.
 - [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
@@ -634,7 +635,7 @@
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
-- [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
+- [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
 - [rjeczalik/notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
 - [canidam/libvault](https://github.com/canidam/libvault) - A lightweight Vault client module written in Go, with no dependencies, that is intuitive and user-friendly
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -1880,7 +1881,7 @@
 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
