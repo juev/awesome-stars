@@ -357,10 +357,13 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [go-aah/aah](https://github.com/go-aah/aah) - A secure, flexible, rapid Go web framework
+- [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - 
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [rakyll/events-to-prom](https://github.com/rakyll/events-to-prom) - A metric collection daemon allows you to configure aggregations in runtime
+- [rakyll/events2prom](https://github.com/rakyll/events2prom) - A metric collection daemon allows you to configure aggregations in runtime
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [hakluke/hakcheckurl](https://github.com/hakluke/hakcheckurl) - Takes a list of URLs and returns their HTTP response codes
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
