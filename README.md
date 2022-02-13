@@ -357,6 +357,8 @@
 
 ## Go 
 
+- [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [go-aah/aah](https://github.com/go-aah/aah) - A secure, flexible, rapid Go web framework
@@ -997,7 +999,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [savsgio/atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
@@ -1328,7 +1330,7 @@
 - [acowley/Frames](https://github.com/acowley/Frames) - Data frames for tabular data.
 - [graninas/Hydra](https://github.com/graninas/Hydra) - Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support. It's currently moving to the production-ready state
 - [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
-- [arybczak/effectful](https://github.com/arybczak/effectful) - An easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [jgm/emojis](https://github.com/jgm/emojis) - Haskell library for emojis
 - [ethercrow/opentelemetry-haskell](https://github.com/ethercrow/opentelemetry-haskell) - The OpenTelemetry Haskell Client https://opentelemetry.io
 - [ChrisPenner/advent-of-code-haskell](https://github.com/ChrisPenner/advent-of-code-haskell) - Advent of Code Solutions in Haskell
@@ -1892,6 +1894,7 @@
 
 ## Python 
 
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
