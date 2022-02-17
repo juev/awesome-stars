@@ -297,6 +297,7 @@
 
 ## Emacs Lisp 
 
+- [juev/russian-mac](https://github.com/juev/russian-mac) - Quail package for inputting Cyrillic characters
 - [Viglioni/lauremacs](https://github.com/Viglioni/lauremacs) - My new emacs configuration (wip!!)
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
@@ -357,6 +358,11 @@
 
 ## Go 
 
+- [uptrace/bun](https://github.com/uptrace/bun) - Simple and performant SQL database client
+- [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
+- [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+- [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
+- [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
 - [nleeper/goment](https://github.com/nleeper/goment) - Go time library inspired by Moment.js
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -1305,7 +1311,7 @@
 ## Haskell 
 
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - join our iOS public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS public beta 📱!
 - [kowainik/hakyll-shortcut-links](https://github.com/kowainik/hakyll-shortcut-links) - ✂️ Hakyll shortcut-links in markdown files
 - [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) - A CSV parsing and encoding library optimized for ease of use and high performance
 - [ChrisPenner/jet](https://github.com/ChrisPenner/jet) - A structural editor for JSON values
@@ -1694,6 +1700,7 @@
 
 ## Others 
 
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning & Usage Guide.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
@@ -2322,6 +2329,7 @@
 
 ## Shell 
 
+- [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) - IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, codespaces, python, node, elixir
