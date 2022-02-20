@@ -358,6 +358,7 @@
 
 ## Go 
 
+- [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
 - [GoBelieveIO/im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
@@ -394,7 +395,7 @@
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [adrg/strutil](https://github.com/adrg/strutil) - Golang metrics for calculating string similarity and other string utility functions
 - [razorpay/go-financial](https://github.com/razorpay/go-financial) - A go port of numpy-financial functions and more.
-- [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything.
+- [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
@@ -1598,7 +1599,7 @@
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) - A Lua client library for the redis key value storage system.
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) - A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
@@ -1709,7 +1710,7 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning & Usage Guide.
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Collection of handy tools for Go projects
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -1917,6 +1918,7 @@
 
 ## Python 
 
+- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2021,7 +2023,7 @@
 
 ## Rust 
 
-- [martinvonz/jj](https://github.com/martinvonz/jj) - Jujutsu DVCS
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - A command-line pager for JSON data.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -2535,6 +2537,7 @@
 
 ## TypeScript 
 
+- [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
