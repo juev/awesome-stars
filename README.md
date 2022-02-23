@@ -359,6 +359,9 @@
 
 ## Go 
 
+- [ozontech/allure-go](https://github.com/ozontech/allure-go) - Complete Allure provider in Go which doesn't overload the interface usage
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
 - [GoBelieveIO/im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers
@@ -367,7 +370,7 @@
 - [flosch/pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [valyala/fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
-- [uptrace/bun](https://github.com/uptrace/bun) - Simple and performant SQL database client
+- [uptrace/bun](https://github.com/uptrace/bun) - Simple and performant SQL database client for PostgreSQL, MySQL, MSSQL, and SQLite
 - [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -1669,6 +1672,7 @@
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [heywoodlh/nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
+- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [divnix/devos](https://github.com/divnix/devos) - NixOS Template
@@ -2619,7 +2623,6 @@
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
-- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
