@@ -359,6 +359,7 @@
 
 ## Go 
 
+- [akutz/go-interface-values](https://github.com/akutz/go-interface-values) - When storing a value in a Go interface allocates memory on the heap.
 - [ozontech/allure-go](https://github.com/ozontech/allure-go) - Complete Allure provider in Go which doesn't overload the interface usage
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -1018,7 +1019,7 @@
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) - Prometheus Oracle database exporter.
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [leominov/isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) - 
-- [go-microdev/plugins](https://github.com/go-microdev/plugins) - Go Micro Plugins
+- [go-micro-dev/plugins](https://github.com/go-micro-dev/plugins) - Go Micro Plugins
 - [leominov/prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) - Go(lang) examples - (explain the basics of #golang)
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -1286,7 +1287,6 @@
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [Mitrichius/hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
@@ -1713,6 +1713,7 @@
 
 ## Others 
 
+- [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -2334,6 +2335,7 @@
 ## SCSS 
 
 - [juev/juev.org](https://github.com/juev/juev.org) - Sources from my site
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 
 ## Scala 
 
@@ -2394,7 +2396,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [haiwen/seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build and manage your own vpn under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
