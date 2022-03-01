@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [machaju/sdl-pong](https://github.com/machaju/sdl-pong) - pong implementation with sdl
@@ -359,6 +360,7 @@
 
 ## Go 
 
+- [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
 - [machinebox/progress](https://github.com/machinebox/progress) - io.Reader and io.Writer with progress and remaining time estimation
 - [jhillyerd/enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go
@@ -1717,6 +1719,7 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
