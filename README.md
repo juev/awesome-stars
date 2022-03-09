@@ -1339,7 +1339,7 @@
 ## Haskell 
 
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS and Android public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
 - [kowainik/hakyll-shortcut-links](https://github.com/kowainik/hakyll-shortcut-links) - ✂️ Hakyll shortcut-links in markdown files
 - [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) - A CSV parsing and encoding library optimized for ease of use and high performance
 - [ChrisPenner/jet](https://github.com/ChrisPenner/jet) - A structural editor for JSON values
@@ -1945,6 +1945,7 @@
 
 ## Python 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -2568,6 +2569,7 @@
 
 ## TypeScript 
 
+- [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
