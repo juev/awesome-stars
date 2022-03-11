@@ -89,6 +89,7 @@
 
 ## C 
 
+- [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
@@ -360,6 +361,7 @@
 
 ## Go 
 
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [charithe/durationcheck](https://github.com/charithe/durationcheck) - Go linter to detect erroneous multiplication of duration values
 - [netlify/binrc](https://github.com/netlify/binrc) - Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -1290,7 +1292,6 @@
 
 ## HTML 
 
-- [haskell-cryptography/haskell-cryptography.github.io](https://github.com/haskell-cryptography/haskell-cryptography.github.io) - Website of the Haskell Cryptography Group
 - [qbit/widdler](https://github.com/qbit/widdler) - A WebDAV server for TiddlyWikis
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -2358,6 +2359,7 @@
 
 ## SCSS 
 
+- [haskell-cryptography/haskell-cryptography.github.io](https://github.com/haskell-cryptography/haskell-cryptography.github.io) - Website of the Haskell Cryptography Group
 - [juev/juev.org](https://github.com/juev/juev.org) - Sources from my site
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 
