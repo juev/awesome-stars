@@ -361,6 +361,9 @@
 
 ## Go 
 
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+- [DeanThompson/ginpprof](https://github.com/DeanThompson/ginpprof) - A wrapper for golang web framework gin to use net/http/pprof easily.
+- [progrium/go-shell](https://github.com/progrium/go-shell) - 
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [charithe/durationcheck](https://github.com/charithe/durationcheck) - Go linter to detect erroneous multiplication of duration values
 - [netlify/binrc](https://github.com/netlify/binrc) - Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
@@ -676,6 +679,7 @@
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) - Go script for syncing LDAP user group membership to Gitea
@@ -844,7 +848,7 @@
 - [hackstream/zettel](https://github.com/hackstream/zettel) - A notes organizer - based on Zettelkasten methodology.
 - [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
 - [arthurkiller/rollingwriter](https://github.com/arthurkiller/rollingwriter) - Rolling writer is an IO util for auto rolling write in go.
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [Trendyol/gaos](https://github.com/Trendyol/gaos) - HTTP mocking to test API services for chaos scenarios
 - [qiniu/qmgo](https://github.com/qiniu/qmgo) - Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
@@ -1522,6 +1526,7 @@
 
 ## JavaScript 
 
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
@@ -1734,6 +1739,7 @@
 
 ## Others 
 
+- [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
@@ -2104,7 +2110,6 @@
 - [yaahc/eyre](https://github.com/yaahc/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [kdy1/cargo-profile](https://github.com/kdy1/cargo-profile) - Performance profiling made simple
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -2375,6 +2380,7 @@
 
 ## Shell 
 
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) - IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
