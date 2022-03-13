@@ -1652,6 +1652,7 @@
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [yrashk/nix-home](https://github.com/yrashk/nix-home) - Nix Home Manager
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - Maddison's neovim configuration!
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -1698,7 +1699,6 @@
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [heywoodlh/nixos-builds](https://github.com/heywoodlh/nixos-builds) - Repo containing my builds for Nix
-- [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
