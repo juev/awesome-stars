@@ -361,6 +361,7 @@
 
 ## Go 
 
+- [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [DeanThompson/ginpprof](https://github.com/DeanThompson/ginpprof) - A wrapper for golang web framework gin to use net/http/pprof easily.
 - [progrium/go-shell](https://github.com/progrium/go-shell) - 
@@ -650,7 +651,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to deliver Helm charts as-a-service
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for SaaS
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -1252,7 +1253,7 @@
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system
 - [paked/configure](https://github.com/paked/configure) - Configure is a Go package that gives you easy configuration of your project through redundancy
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -2063,6 +2064,7 @@
 
 ## Rust 
 
+- [craciuncezar/git-smart-checkout](https://github.com/craciuncezar/git-smart-checkout) - 🧠 A command-line utility for switching git branches more easily. Switch branches interactively or use a fuzzy search to find that long-forgotten branch name.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -2380,6 +2382,7 @@
 
 ## Shell 
 
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) - IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
@@ -2536,6 +2539,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [ZevEisenberg/Keyb](https://github.com/ZevEisenberg/Keyb) - Type with one hand on a Mac
 - [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
