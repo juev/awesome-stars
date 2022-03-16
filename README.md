@@ -24,6 +24,7 @@
   - [Erlang](#erlang)
   - [Fennel](#fennel)
   - [Futhark](#futhark)
+  - [GLSL](#glsl)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -342,6 +343,7 @@
 
 ## Erlang 
 
+- [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ
 - [lfe/lfe](https://github.com/lfe/lfe) - Lisp Flavoured Erlang (LFE)
 - [erlangbureau/jamdb_oracle](https://github.com/erlangbureau/jamdb_oracle) - Oracle Database driver for Erlang
 
@@ -355,12 +357,18 @@
 
 - [athas/raytracers](https://github.com/athas/raytracers) - Performance comparison of parallel ray tracing in functional programming languages
 
+## GLSL 
+
+- [NikkiSatmaka/dotfiles](https://github.com/NikkiSatmaka/dotfiles) - My dotfiles managed by chezmoi
+
 ## Gherkin 
 
 - [iphoting/ovpnmcgen.rb](https://github.com/iphoting/ovpnmcgen.rb) - An OpenVPN iOS Configuration Profile (.mobileconfig) Utility—Configures OpenVPN for use with VPN-on-Demand that are not exposed through Apple Configurator 2.
 
 ## Go 
 
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
+- [Gelio/go-global-update](https://github.com/Gelio/go-global-update) - A command to update globally installed go packages
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [DeanThompson/ginpprof](https://github.com/DeanThompson/ginpprof) - A wrapper for golang web framework gin to use net/http/pprof easily.
@@ -476,7 +484,7 @@
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [juev/counter](https://github.com/juev/counter) - 
 - [mvdan/dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Go Backend Development Engine helping developers escape the maze of complexity.
 - [thepudds/fzgen](https://github.com/thepudds/fzgen) - Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
@@ -739,7 +747,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
-- [heptiolabs/healthcheck](https://github.com/heptiolabs/healthcheck) - A library for implementing Kubernetes liveness and readiness probe handlers in your Go application.
+- [vmware-archive/healthcheck](https://github.com/vmware-archive/healthcheck) - A library for implementing Kubernetes liveness and readiness probe handlers in your Go application.
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
@@ -2391,7 +2399,6 @@
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, codespaces, python, node, elixir
-- [NikkiSatmaka/dotfiles](https://github.com/NikkiSatmaka/dotfiles) - My dotfiles managed by chezmoi
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) - spf13's dotfiles
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
@@ -2585,6 +2592,7 @@
 
 ## TypeScript 
 
+- [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md
