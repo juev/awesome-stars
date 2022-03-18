@@ -367,6 +367,9 @@
 
 ## Go 
 
+- [mjibson/esc](https://github.com/mjibson/esc) - A simple file embedder for Go
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
+- [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [Gelio/go-global-update](https://github.com/Gelio/go-global-update) - A command to update globally installed go packages
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
@@ -1379,7 +1382,7 @@
 - [chessai/semirings](https://github.com/chessai/semirings) - semirings and *-semirings of types in base/haskell-platform
 - [emilypi/nonempty-vector](https://github.com/emilypi/nonempty-vector) - Non-empty Vectors
 - [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications.
-- [kframework/kore](https://github.com/kframework/kore) - The symbolic execution engine powering the K Framework
+- [runtimeverification/haskell-backend](https://github.com/runtimeverification/haskell-backend) - The symbolic execution engine powering the K Framework
 - [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [haskell-perf/xml](https://github.com/haskell-perf/xml) - Simple benchmarks for XML parsing libraries
@@ -1749,6 +1752,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
