@@ -367,12 +367,14 @@
 
 ## Go 
 
+- [tidwall/hashmap](https://github.com/tidwall/hashmap) - A simple and efficient hashmap package for Go. Open addressing, robin hood hashing, and xxhash algorithm.  Supports generics, Go 1.18.
 - [mjibson/esc](https://github.com/mjibson/esc) - A simple file embedder for Go
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [Gelio/go-global-update](https://github.com/Gelio/go-global-update) - A command to update globally installed go packages
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [DeanThompson/ginpprof](https://github.com/DeanThompson/ginpprof) - A wrapper for golang web framework gin to use net/http/pprof easily.
 - [progrium/go-shell](https://github.com/progrium/go-shell) - 
@@ -406,7 +408,7 @@
 - [flosch/pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [valyala/fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine for Go
-- [uptrace/bun](https://github.com/uptrace/bun) - Simple and performant SQL database client for PostgreSQL, MySQL, MSSQL, and SQLite
+- [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, and SQLite
 - [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -693,7 +695,7 @@
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) - Go script for syncing LDAP user group membership to Gitea
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [jimeh/build-emacs-for-macos](https://github.com/jimeh/build-emacs-for-macos) - Somewhat hacky script to automate building of Emac.app on macOS.
@@ -2396,7 +2398,6 @@
 
 ## Shell 
 
-- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) - IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
