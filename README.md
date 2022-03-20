@@ -1189,7 +1189,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -2398,6 +2398,7 @@
 
 ## Shell 
 
+- [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) - IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
