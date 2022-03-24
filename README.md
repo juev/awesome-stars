@@ -367,6 +367,8 @@
 
 ## Go 
 
+- [theckman/yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [tidwall/hashmap](https://github.com/tidwall/hashmap) - A simple and efficient hashmap package for Go. Open addressing, robin hood hashing, and xxhash algorithm.  Supports generics, Go 1.18.
 - [mjibson/esc](https://github.com/mjibson/esc) - A simple file embedder for Go
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
@@ -1303,6 +1305,7 @@
 
 ## HCL 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) - Example Terraform configuration
 - [cloudposse/terraform-aws-tfstate-backend](https://github.com/cloudposse/terraform-aws-tfstate-backend) - Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.
 - [cloudposse/terraform-terraform-label](https://github.com/cloudposse/terraform-terraform-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
@@ -1979,7 +1982,6 @@
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
