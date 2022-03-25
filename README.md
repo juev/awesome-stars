@@ -367,6 +367,8 @@
 
 ## Go 
 
+- [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
+- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [theckman/yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [tidwall/hashmap](https://github.com/tidwall/hashmap) - A simple and efficient hashmap package for Go. Open addressing, robin hood hashing, and xxhash algorithm.  Supports generics, Go 1.18.
@@ -1098,7 +1100,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [micro/micro](https://github.com/micro/micro) - API first cloud platform
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos is a modern OS for Kubernetes.
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
@@ -1543,6 +1545,7 @@
 
 ## JavaScript 
 
+- [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
@@ -1694,6 +1697,7 @@
 
 ## Nix 
 
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) - runtime decrypted age secrets for nix home manager
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
@@ -2082,6 +2086,7 @@
 
 ## Rust 
 
+- [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [matklad/xshell](https://github.com/matklad/xshell) - 
 - [craciuncezar/git-smart-checkout](https://github.com/craciuncezar/git-smart-checkout) - 🧠 A command-line utility for switching git branches more easily. Switch branches interactively or use a fuzzy search to find that long-forgotten branch name.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
