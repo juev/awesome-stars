@@ -8,15 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - uses: robinraju/release-downloader@v1.3
       with:
-        python-version: 3.7
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install starred
+        repository: "juev/starred"
+        latest: true
+        fileName: "starred_*_Linux_x86_64.tar.gz"
+    - name: unpack starred
+      run: tar xfz starred*
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      run: ./starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
