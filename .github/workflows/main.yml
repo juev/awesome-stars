@@ -2,7 +2,6 @@ name: update awesome-stars
 on:
   schedule:
   - cron: 0 6 * * *
-  push:
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -15,7 +14,7 @@ jobs:
         latest: true
         fileName: "*"
     - name: unpack starred
-      run: ls -la && tar xfz starred_*_Linux_x86_64.tar.gz
+      run: tar xfz starred_*_Linux_x86_64.tar.gz
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
