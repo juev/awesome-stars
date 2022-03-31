@@ -1,21 +1,20 @@
 name: update awesome-stars
 on:
   schedule:
-  - cron: 0 6 * * *
+    - cron: 0 6 * * *
+  push:
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: robinraju/release-downloader@v1.3
+    - uses: actions/setup-go@v3
       with:
-        repository: "juev/starred"
-        latest: true
-        fileName: "*"
-    - name: unpack starred
-      run: tar xfz starred_*_Linux_x86_64.tar.gz
+        go-version: '1.17'
+        check-latest: true
+    - run: go install github.com/juev/starred@latest
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: ./starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      run: starred --version && starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
