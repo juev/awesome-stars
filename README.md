@@ -1608,6 +1608,7 @@
 
 ## [Jinja](id:jinja)
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) – Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) – Raspberry Pi config for all things Internet.
 - [thomas-maurice/ansible-role-gitea](https://github.com/thomas-maurice/ansible-role-gitea) – Ansible role to deploy a Gitea instance
 - [AlexeySetevoi/ansible-clickhouse](https://github.com/AlexeySetevoi/ansible-clickhouse) – ansible role for clickhouse
@@ -2101,6 +2102,7 @@
 
 ## [Rust](id:rust)
 
+- [mcobzarenco/zee](https://github.com/mcobzarenco/zee) – A modern text editor for the terminal written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a diff that understands syntax 🟥🟩
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) – A free book about developing secure and robust systems software.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) – 💎 Artichoke is a Ruby made with Rust
@@ -2691,6 +2693,7 @@
 
 ## [Vim script](id:vim-script)
 
+- [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
 - [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
