@@ -367,6 +367,8 @@
 
 ## [Go](id:go)
 
+- [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+- [kyoh86/exportloopref](https://github.com/kyoh86/exportloopref) – 
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -707,7 +709,6 @@
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) – A simple and flexible health check library for Go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cilium/hubble](https://github.com/cilium/hubble) – Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) – Go specs implemented as a scripting language in Rust.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) – Faster way to switch between clusters and namespaces in kubectl
 - [wabarc/wayback](https://github.com/wabarc/wayback) – A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) – Go script for syncing LDAP user group membership to Gitea
@@ -1771,6 +1772,7 @@
 
 ## [Others](id:others)
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – 😎 Awesome lists about all kinds of interesting topics
 - [evilmartians/mono](https://github.com/evilmartians/mono) – Free and open-source monospaced font from Evil Martians
 - [rfyiamcool/golang_logo](https://github.com/rfyiamcool/golang_logo) – 🚀 🚀 🚀  golang logo png & icon & svg
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
@@ -2099,6 +2101,7 @@
 
 ## [Rust](id:rust)
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a diff that understands syntax 🟥🟩
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) – A free book about developing secure and robust systems software.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) – 💎 Artichoke is a Ruby made with Rust
 - [matklad/xshell](https://github.com/matklad/xshell) – 
@@ -2150,6 +2153,7 @@
 - [yaahc/eyre](https://github.com/yaahc/eyre) –  A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) – Application level tracing for Rust.
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) – A code coverage tool for Rust projects
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) – Go specs implemented as a scripting language in Rust.
 - [kdy1/cargo-profile](https://github.com/kdy1/cargo-profile) – Performance profiling made simple
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) –  HTTP mocking to test Rust applications. 
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) – Rayon: A data parallelism library for Rust
@@ -2420,6 +2424,7 @@
 
 ## [Shell](id:shell)
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) – a cozy nest for your scripts
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) – Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
