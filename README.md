@@ -194,6 +194,7 @@
 
 ## [C++](id:c++)
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
 - [google/tink](https://github.com/google/tink) – Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [mawww/kakoune](https://github.com/mawww/kakoune) – mawww's experiment for a better code editor
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
@@ -367,6 +368,9 @@
 
 ## [Go](id:go)
 
+- [madflojo/tasks](https://github.com/madflojo/tasks) – Package tasks is an easy to use in-process scheduler for recurring tasks in Go
+- [evald24/go-gen-config](https://github.com/evald24/go-gen-config) – Generate the configuration of your application using yaml and env
+- [planetscale/planetscale-go](https://github.com/planetscale/planetscale-go) – Go client library to access the PlanetScale API
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kyoh86/exportloopref](https://github.com/kyoh86/exportloopref) – 
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
@@ -1556,6 +1560,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
@@ -1628,6 +1633,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) – 10 Weeks, 20 Lessons, Data Science for All!
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [natasha/corus](https://github.com/natasha/corus) – Links to Russian corpora + Python functions for loading and parsing
 - [mlrepa/dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) – Data Version Control (DVC) tutorial 1. Get Started
@@ -1993,6 +1999,8 @@
 
 ## [Python](id:python)
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A supercharged version of paperless: scan, index and archive all your physical documents
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
