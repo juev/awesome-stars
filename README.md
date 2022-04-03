@@ -368,6 +368,7 @@
 
 ## [Go](id:go)
 
+- [Lallassu/bintris](https://github.com/Lallassu/bintris) – Binary Tetris
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) – Postgres wire compatible SQLite proxy.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [liamg/comet](https://github.com/liamg/comet) – :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)
@@ -743,7 +744,7 @@
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) – Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
-- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) – Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [PierreKieffer/htui](https://github.com/PierreKieffer/htui) – Heroku Terminal User Interface
@@ -1288,7 +1289,7 @@
 - [golang/sys](https://github.com/golang/sys) – [mirror] Go packages for low-level interaction with the operating system
 - [paked/configure](https://github.com/paked/configure) – Configure is a Go package that gives you easy configuration of your project through redundancy
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
-- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLSX) files.
+- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) – A Go project template
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) – Structured, pluggable logging for Go.
@@ -1847,7 +1848,7 @@
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) – Guide for getting a gig as a tech student.
 - [tmcw/github-best-practices](https://github.com/tmcw/github-best-practices) – how to use this dang site!
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) – Day 9 of Advent of Haskell - Denotational Design
-- [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) – A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
 - [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) – Learn Haskell by building a blog generator - a book about Haskell.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) – The Open Source Data Science Masters
