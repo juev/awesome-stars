@@ -90,6 +90,7 @@
 
 ## [C](id:c)
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
 - [clibs/clib](https://github.com/clibs/clib) – C package manager-ish
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
@@ -1564,6 +1565,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [smartcontracts/eth2-book](https://github.com/smartcontracts/eth2-book) – A book about Ethereum
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
@@ -1784,6 +1786,7 @@
 
 ## [Others](id:others)
 
+- [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) – 
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) – 💫 A curated list of awesome resources for the Haskell Cabal build tool.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – 😎 Awesome lists about all kinds of interesting topics
 - [evilmartians/mono](https://github.com/evilmartians/mono) – Free and open-source monospaced font from Evil Martians
