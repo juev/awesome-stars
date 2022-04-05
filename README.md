@@ -369,6 +369,8 @@
 
 ## [Go](id:go)
 
+- [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
+- [ubclaunchpad/cumulus](https://github.com/ubclaunchpad/cumulus) – 💸 Cryptocurrency that doesn't waste your time
 - [Lallassu/bintris](https://github.com/Lallassu/bintris) – Binary Tetris
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) – Postgres wire compatible SQLite proxy.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -869,7 +871,7 @@
 - [alexellis/jaas](https://github.com/alexellis/jaas) – Run jobs (tasks/one-shot containers) with Docker
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [grafana/tempo](https://github.com/grafana/tempo) – Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [grafana/agent](https://github.com/grafana/agent) – Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud. 
+- [grafana/agent](https://github.com/grafana/agent) – Telemetry agent for the LGTM stack.
 - [rsms/go-log](https://github.com/rsms/go-log) – Simple hierarchical Go logger
 - [goyek/goyek](https://github.com/goyek/goyek) – Create build pipelines in Go 
 - [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) – Chronos - A static race detector for the go language
@@ -1565,6 +1567,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [smartcontracts/eth2-book](https://github.com/smartcontracts/eth2-book) – A book about Ethereum
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -1786,6 +1789,7 @@
 
 ## [Others](id:others)
 
+- [juev/juev](https://github.com/juev/juev) – Golang Developer
 - [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) – 
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) – 💫 A curated list of awesome resources for the Haskell Cabal build tool.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – 😎 Awesome lists about all kinds of interesting topics
