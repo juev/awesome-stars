@@ -369,6 +369,7 @@
 
 ## [Go](id:go)
 
+- [redneckbeard/thanos](https://github.com/redneckbeard/thanos) – Ruby -> Go at the snap of your fingers
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
 - [ubclaunchpad/cumulus](https://github.com/ubclaunchpad/cumulus) – 💸 Cryptocurrency that doesn't waste your time
 - [Lallassu/bintris](https://github.com/Lallassu/bintris) – Binary Tetris
@@ -435,7 +436,7 @@
 - [flosch/pongo2](https://github.com/flosch/pongo2) – Django-syntax like template-engine for Go
 - [kr/pretty](https://github.com/kr/pretty) – Pretty printing for Go values
 - [valyala/fasttemplate](https://github.com/valyala/fasttemplate) – Simple and fast template engine for Go
-- [uptrace/bun](https://github.com/uptrace/bun) – Lightweight Go ORM for PostgreSQL, MySQL, MSSQL, and SQLite
+- [uptrace/bun](https://github.com/uptrace/bun) – Lightweight Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite
 - [cristalhq/acmd](https://github.com/cristalhq/acmd) – Simple, useful and opinionated CLI package in Go.
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) – Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -1072,7 +1073,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) – Manage local application configuration files using templates and data from etcd or consul
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
-- [francoispqt/onelog](https://github.com/francoispqt/onelog) – Dead simple, super fast, zero allocation and modular logger for Golang
+- [francoispqt/onelog](https://github.com/francoispqt/onelog) – Dead simple, super fast, zero allocation logger for Golang
 - [CGamesPlay/dfm](https://github.com/CGamesPlay/dfm) – dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
@@ -1176,7 +1177,7 @@
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) – a microservice framework for rapid development of micro services in Go with rich eco-system
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) – A golang ebook intro how to build a web with golang
-- [francoispqt/gojay](https://github.com/francoispqt/gojay) – fastest JSON encoder/decoder with powerful stream API for Golang 
+- [francoispqt/gojay](https://github.com/francoispqt/gojay) – high performance JSON encoder/decoder with stream API for Golang 
 - [russross/blackfriday](https://github.com/russross/blackfriday) – Blackfriday: a markdown processor for Go
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) – Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go
@@ -2448,6 +2449,7 @@
 
 ## [Shell](id:shell)
 
+- [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) – golang plugin for asdf version manager https://github.com/asdf-vm/asdf
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) – a cozy nest for your scripts
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
