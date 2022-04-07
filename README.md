@@ -369,6 +369,9 @@
 
 ## [Go](id:go)
 
+- [goraz/onion](https://github.com/goraz/onion) – Layer based configuration for golang
+- [yuin/gopher-lua](https://github.com/yuin/gopher-lua) – GopherLua: VM and compiler for Lua in Go
+- [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) – Go proxy that serves from S3
 - [redneckbeard/thanos](https://github.com/redneckbeard/thanos) – Ruby -> Go at the snap of your fingers
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
 - [ubclaunchpad/cumulus](https://github.com/ubclaunchpad/cumulus) – 💸 Cryptocurrency that doesn't waste your time
@@ -1196,7 +1199,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [akavel/up](https://github.com/akavel/up) – Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-- [chaseadamsio/goorgeous](https://github.com/chaseadamsio/goorgeous) – [DEPRECATED] A go org syntax parser to html
+- [chaseignited/goorgeous](https://github.com/chaseignited/goorgeous) – [DEPRECATED] A go org syntax parser to html
 - [harness/drone](https://github.com/harness/drone) – Drone is a Container-Native, Continuous Delivery Platform
 - [containerd/containerd](https://github.com/containerd/containerd) – An open and reliable container runtime
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) – Simplified Container System
@@ -2013,6 +2016,7 @@
 
 ## [Python](id:python)
 
+- [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) – Automated cryptocurrency trading bot
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A supercharged version of paperless: scan, index and archive all your physical documents
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
@@ -2124,6 +2128,7 @@
 
 ## [Rust](id:rust)
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) – Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) – An optimized implementation of librsync in pure Rust.
 - [zee-editor/zee](https://github.com/zee-editor/zee) – A modern text editor for the terminal written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a diff that understands syntax 🟥🟩
