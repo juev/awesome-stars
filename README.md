@@ -369,6 +369,8 @@
 
 ## [Go](id:go)
 
+- [deanishe/awgo](https://github.com/deanishe/awgo) – Go library for Alfred 3 + 4 workflows
+- [golang/geo](https://github.com/golang/geo) – S2 geometry library in Go
 - [goraz/onion](https://github.com/goraz/onion) – Layer based configuration for golang
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) – GopherLua: VM and compiler for Lua in Go
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) – Go proxy that serves from S3
@@ -403,7 +405,7 @@
 - [awnumar/memguard](https://github.com/awnumar/memguard) – Secure software enclave for storage of sensitive information in memory.
 - [schachmat/wego](https://github.com/schachmat/wego) – weather app for the terminal
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub
-- [Gelio/go-global-update](https://github.com/Gelio/go-global-update) – A command to update globally installed go packages
+- [Gelio/go-global-update](https://github.com/Gelio/go-global-update) – A command to update globally installed go executables
 - [boombuler/barcode](https://github.com/boombuler/barcode) – a barcode creation lib for golang
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) – Run popular commandline tools within docker
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) – A vault for securely storing and accessing AWS credentials in development environments
