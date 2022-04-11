@@ -369,6 +369,7 @@
 
 ## [Go](id:go)
 
+- [adshao/go-binance](https://github.com/adshao/go-binance) – A Go SDK for Binance API
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [deanishe/awgo](https://github.com/deanishe/awgo) – Go library for Alfred 3 + 4 workflows
 - [golang/geo](https://github.com/golang/geo) – S2 geometry library in Go
@@ -568,7 +569,7 @@
 - [graymeta/stow](https://github.com/graymeta/stow) – Cloud storage abstraction package for Go
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) – A License Classifier
 - [google/go-licenses](https://github.com/google/go-licenses) – Reports on the licenses used by a Go package and its dependencies.
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) – Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) – Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager
 - [robpike/ivy](https://github.com/robpike/ivy) – ivy, an APL-like calculator
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) – go test output for humans
@@ -1108,7 +1109,6 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI in Go inspired by Material Design
 - [atotto/clipboard](https://github.com/atotto/clipboard) – clipboard for golang
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) – Go Twitter REST and Streaming API v1.1
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) – GitHub Actions as CI for Go
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) – tcpterm is a packet visualizer in TUI.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) – The Go language implementation of gRPC. HTTP/2 based RPC
@@ -1344,6 +1344,7 @@
 
 ## [HTML](id:html)
 
+- [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) – Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [qbit/widdler](https://github.com/qbit/widdler) – A WebDAV server for TiddlyWikis
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) – A fast, clean, responsive Hugo theme.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
@@ -1574,6 +1575,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [bmino/binance-triangle-arbitrage](https://github.com/bmino/binance-triangle-arbitrage) – Detect in-market cryptocurrency arbitrage
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [smartcontracts/eth2-book](https://github.com/smartcontracts/eth2-book) – A book about Ethereum
@@ -1622,6 +1624,7 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) – Versatile typeface for code, from code.
 - [actions/create-release](https://github.com/actions/create-release) – An Action to create releases via the GitHub Release API
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) – Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [GetStream/Winds](https://github.com/GetStream/Winds) – A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) – 🎨 A curated list of delightful VS Code packages and resources.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) – Resumes generated using the GitHub informations
@@ -2131,6 +2134,7 @@
 
 ## [Rust](id:rust)
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [solana-labs/solana](https://github.com/solana-labs/solana) – Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) – An optimized implementation of librsync in pure Rust.
 - [zee-editor/zee](https://github.com/zee-editor/zee) – A modern text editor for the terminal written in Rust
