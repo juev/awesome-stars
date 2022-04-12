@@ -951,7 +951,7 @@
 - [KyleBanks/goodreads](https://github.com/KyleBanks/goodreads) – Goodreads API client written in Go.
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) – A Pluggable Terraform Linter
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
-- [werf/werf](https://github.com/werf/werf) – The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf/werf](https://github.com/werf/werf) – A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
 - [tj/gobinaries](https://github.com/tj/gobinaries) – Golang binaries compiled on-demand for your system
 - [pace/bricks](https://github.com/pace/bricks) – A standard library for microservices.
 - [costela/wesher](https://github.com/costela/wesher) – wireguard overlay mesh network manager
@@ -1396,7 +1396,7 @@
 ## [Haskell](id:haskell)
 
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) – ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [kowainik/hakyll-shortcut-links](https://github.com/kowainik/hakyll-shortcut-links) – ✂️ Hakyll shortcut-links in markdown files
 - [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) – A CSV parsing and encoding library optimized for ease of use and high performance
 - [ChrisPenner/jet](https://github.com/ChrisPenner/jet) – A structural editor for JSON values
@@ -1575,6 +1575,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [bmino/binance-triangle-arbitrage](https://github.com/bmino/binance-triangle-arbitrage) – Detect in-market cryptocurrency arbitrage
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1799,6 +1800,8 @@
 
 ## [Others](id:others)
 
+- [binance/binance-api-postman](https://github.com/binance/binance-api-postman) – Postman collection for Binance Public API, including spot, margin, futures, etc.
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) – Official Documentation for the Binance Spot APIs and Streams 
 - [juev/juev](https://github.com/juev/juev) – Golang Developer
 - [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) – 
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) – 💫 A curated list of awesome resources for the Haskell Cabal build tool.
@@ -2022,6 +2025,7 @@
 
 ## [Python](id:python)
 
+- [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) – Automated cryptocurrency trading bot
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged version of paperless: scan, index and archive all your physical documents
