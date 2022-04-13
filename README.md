@@ -369,6 +369,7 @@
 
 ## [Go](id:go)
 
+- [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [adshao/go-binance](https://github.com/adshao/go-binance) – A Go SDK for Binance API
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [deanishe/awgo](https://github.com/deanishe/awgo) – Go library for Alfred 3 + 4 workflows
@@ -951,7 +952,7 @@
 - [KyleBanks/goodreads](https://github.com/KyleBanks/goodreads) – Goodreads API client written in Go.
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) – A Pluggable Terraform Linter
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
-- [werf/werf](https://github.com/werf/werf) – A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
+- [werf/werf](https://github.com/werf/werf) – A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [tj/gobinaries](https://github.com/tj/gobinaries) – Golang binaries compiled on-demand for your system
 - [pace/bricks](https://github.com/pace/bricks) – A standard library for microservices.
 - [costela/wesher](https://github.com/costela/wesher) – wireguard overlay mesh network manager
