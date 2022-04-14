@@ -189,6 +189,7 @@
 
 ## [C#](id:c#)
 
+- [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) – Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) – A C# port of shadowsocks
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) – A toolkit for developing high-performance HTTP reverse proxy applications.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
@@ -369,6 +370,7 @@
 
 ## [Go](id:go)
 
+- [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest file download client
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [adshao/go-binance](https://github.com/adshao/go-binance) – A Go SDK for Binance API
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
@@ -552,7 +554,7 @@
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) – Fancy stream processing made operationally mundane
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) – Swagger 2.0 implementation for go
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
+- [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) – Curated list of Go design patterns, recipes and idioms
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) – Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [davecheney/gcvis](https://github.com/davecheney/gcvis) – Visualise Go program GC trace data in real time
@@ -1576,6 +1578,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [maple3142/cf-warp](https://github.com/maple3142/cf-warp) – 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) – Run compilers interactively from your web browser and interact with the assembly
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [bmino/binance-triangle-arbitrage](https://github.com/bmino/binance-triangle-arbitrage) – Detect in-market cryptocurrency arbitrage
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
@@ -2090,7 +2094,7 @@
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) – Official Python client library for kubernetes
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) – Command-line program to download videos from YouTube.com and other video sites
 - [karlicoss/spotifyexport](https://github.com/karlicoss/spotifyexport) – Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
-- [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts) – Russian GPT3 models.
+- [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) – Russian GPT3 models.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) – 🐢 🌎 📚 a community-owned language-learning platform
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) – A tool that bootstraps your dotfiles ⚡️
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) – Write your resume in Markdown, style it with CSS, output to HTML and PDF
@@ -2139,6 +2143,7 @@
 
 ## [Rust](id:rust)
 
+- [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [solana-labs/solana](https://github.com/solana-labs/solana) – Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) – An optimized implementation of librsync in pure Rust.
@@ -2394,7 +2399,7 @@
 - [dalek-cryptography/subtle](https://github.com/dalek-cryptography/subtle) – Pure-Rust traits and utilities for constant-time cryptographic implementations.
 - [tikv/tikv](https://github.com/tikv/tikv) – Distributed transactional key-value database, originally created to complement TiDB
 - [hyperium/hyper](https://github.com/hyperium/hyper) – An HTTP library for Rust
-- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) – A Rust compiler front-end for IDEs
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) – A Rust compiler front-end for IDEs
 - [servo/rust-url](https://github.com/servo/rust-url) – URL parser for Rust
 - [servo/html5ever](https://github.com/servo/html5ever) – High-performance browser-grade HTML5 parser
 - [mackwic/colored](https://github.com/mackwic/colored) – (Rust) Coloring terminal so simple you already know how to do it !
