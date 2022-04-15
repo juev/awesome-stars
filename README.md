@@ -370,6 +370,8 @@
 
 ## [Go](id:go)
 
+- [quasilyte/quasigo](https://github.com/quasilyte/quasigo) – quasigo is a Go subset interpreter written in Go
+- [open2b/scriggo](https://github.com/open2b/scriggo) – The world’s most powerful template engine and Go embeddable interpreter
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest file download client
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [adshao/go-binance](https://github.com/adshao/go-binance) – A Go SDK for Binance API
@@ -2388,7 +2390,7 @@
 - [twitter/rezolus](https://github.com/twitter/rezolus) – Systems performance telemetry
 - [rust-num/num-bigint](https://github.com/rust-num/num-bigint) – Big integer types for Rust
 - [cloudhead/rx](https://github.com/cloudhead/rx) – 👾 Modern and minimalist pixel editor
-- [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [fanzeyi/tuple-combinator](https://github.com/fanzeyi/tuple-combinator) – Convenience methods for dealing with Option tuples
 - [http-rs/surf](https://github.com/http-rs/surf) – Fast and friendly HTTP client framework for async Rust
 - [mehcode/config-rs](https://github.com/mehcode/config-rs) – ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
