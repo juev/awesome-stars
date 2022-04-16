@@ -68,6 +68,7 @@
 - [Vim script](#vim-script)
 - [VimL](#viml)
 - [Vue](#vue)
+- [Wikitext](#wikitext)
 - [Zig](#zig)
 
 
@@ -370,6 +371,7 @@
 
 ## [Go](id:go)
 
+- [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) – Fast and secure tunnels over HTTP/2
 - [quasilyte/quasigo](https://github.com/quasilyte/quasigo) – quasigo is a Go subset interpreter written in Go
 - [open2b/scriggo](https://github.com/open2b/scriggo) – The world’s most powerful template engine and Go embeddable interpreter
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest file download client
@@ -1580,6 +1582,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [iancoleman/bip39](https://github.com/iancoleman/bip39) – A web tool for converting BIP39 mnemonic codes
 - [maple3142/cf-warp](https://github.com/maple3142/cf-warp) – 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) – Run compilers interactively from your web browser and interact with the assembly
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -1807,6 +1810,7 @@
 
 ## [Others](id:others)
 
+- [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) – Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [binance/binance-api-postman](https://github.com/binance/binance-api-postman) – Postman collection for Binance Public API, including spot, margin, futures, etc.
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) – Official Documentation for the Binance Spot APIs and Streams 
 - [juev/juev](https://github.com/juev/juev) – Golang Developer
@@ -2145,6 +2149,7 @@
 
 ## [Rust](id:rust)
 
+- [bachp/git-mirror](https://github.com/bachp/git-mirror) – A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [solana-labs/solana](https://github.com/solana-labs/solana) – Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -2853,6 +2858,10 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+
+## [Wikitext](id:wikitext)
+
+- [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
 
 ## [Zig](id:zig)
 
