@@ -1692,6 +1692,9 @@
 
 ## [Lua](id:lua)
 
+- [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
+- [Yonaba/Moses](https://github.com/Yonaba/Moses) – Utility library for functional programming  in Lua
+- [luafun/luafun](https://github.com/luafun/luafun) – Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) – AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) – Monokai theme for Neovim written in Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) – A lightweight JSON library for Lua
