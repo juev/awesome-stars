@@ -1695,7 +1695,7 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) – Utility library for functional programming  in Lua
 - [luafun/luafun](https://github.com/luafun/luafun) – Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) – AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) – Monokai theme for Neovim written in Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) – A lightweight JSON library for Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) – An IDE layer for Neovim with sane defaults. Completely free and community driven.
@@ -1975,7 +1975,7 @@
 - [ruma/homeserver](https://github.com/ruma/homeserver) – A Matrix homeserver written in Rust.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [keyboard-ergonomics/keymacs](https://github.com/keyboard-ergonomics/keymacs) – Ergonomic keyboard layout for nonergonomic keyboards.
-- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) – A community driven list of useful Emacs packages, libraries and others.
+- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) – A community driven list of useful Emacs packages, libraries and other items.
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) – A series of tutorials about emacs-calc
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) – Useful resources for iOS hacking
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) – Curated list of project-based tutorials
@@ -2152,6 +2152,7 @@
 
 ## [Rust](id:rust)
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) – A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
