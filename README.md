@@ -371,6 +371,7 @@
 
 ## [Go](id:go)
 
+- [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) – Fast and secure tunnels over HTTP/2
 - [quasilyte/quasigo](https://github.com/quasilyte/quasigo) – quasigo is a Go subset interpreter written in Go
 - [open2b/scriggo](https://github.com/open2b/scriggo) – The world’s most powerful template engine and Go embeddable interpreter
@@ -1593,7 +1594,7 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) – Changelog episode transcripts in Markdown format 📚
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) – A bag of various unrelated projects with varying levels of serviceability and destructiveness.
@@ -2152,6 +2153,7 @@
 
 ## [Rust](id:rust)
 
+- [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) – A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
@@ -2722,7 +2724,7 @@
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
