@@ -6,6 +6,7 @@
 
 - [AGS Script](#ags-script)
 - [AppleScript](#applescript)
+- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -79,6 +80,10 @@
 ## [AppleScript](id:applescript)
 
 - [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) – Interact with Things 3 using Alfred.
+
+## [AsciiDoc](id:asciidoc)
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) – Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## [Assembly](id:assembly)
 
@@ -197,6 +202,7 @@
 
 ## [C++](id:c++)
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) – YDB server (daemon) source code
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
 - [google/tink](https://github.com/google/tink) – Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [mawww/kakoune](https://github.com/mawww/kakoune) – mawww's experiment for a better code editor
@@ -371,6 +377,9 @@
 
 ## [Go](id:go)
 
+- [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
+- [tulir/gomuks](https://github.com/tulir/gomuks) – A terminal based Matrix client written in Go.
+- [jinzhu/copier](https://github.com/jinzhu/copier) – Copier for golang, copy value from struct to struct and more
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) – Fast and secure tunnels over HTTP/2
 - [quasilyte/quasigo](https://github.com/quasilyte/quasigo) – quasigo is a Go subset interpreter written in Go
@@ -2153,6 +2162,7 @@
 
 ## [Rust](id:rust)
 
+- [sirwart/secrets](https://github.com/sirwart/secrets) – A command-line tool to prevent committing secret keys into your source code
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) – A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
