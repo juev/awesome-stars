@@ -377,6 +377,8 @@
 
 ## [Go](id:go)
 
+- [alash3al/redix](https://github.com/alash3al/redix) – a very simple pure key => value storage system that speaks Redis protocol with Postgres as storage engine and more
+- [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain) – 
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
 - [tulir/gomuks](https://github.com/tulir/gomuks) – A terminal based Matrix client written in Go.
 - [jinzhu/copier](https://github.com/jinzhu/copier) – Copier for golang, copy value from struct to struct and more
@@ -2365,7 +2367,7 @@
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) – Build terminal user interfaces and dashboards using Rust
 - [BurntSushi/termcolor](https://github.com/BurntSushi/termcolor) – Cross platform terminal colors for Rust.
 - [google/rust-shell](https://github.com/google/rust-shell) – Helper library for std::process::Command to write shell script like tasks in rust
-- [0x20F/paris](https://github.com/0x20F/paris) – Logger in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
+- [0x20F/paris](https://github.com/0x20F/paris) – Logger and ANSI formatter in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
 - [magnet/metered-rs](https://github.com/magnet/metered-rs) – Fast, ergonomic metrics for Rust
@@ -2696,6 +2698,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
 - [bitwarden/browser](https://github.com/bitwarden/browser) – The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
@@ -2881,6 +2884,7 @@
 
 ## [Zig](id:zig)
 
+- [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek) – 
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
