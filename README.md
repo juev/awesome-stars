@@ -377,6 +377,13 @@
 
 ## [Go](id:go)
 
+- [btcsuite/btcd](https://github.com/btcsuite/btcd) – An alternative full node bitcoin implementation written in Go (golang)
+- [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
+- [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) – Automatic client and server certificate distribution and maintenance
+- [trustwallet/assets](https://github.com/trustwallet/assets) – A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+- [go-perf/go-perf](https://github.com/go-perf/go-perf) – Go performance community
+- [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
+- [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [alash3al/redix](https://github.com/alash3al/redix) – a very simple pure key => value storage system that speaks Redis protocol with Postgres as storage engine and more
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain) – 
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
@@ -462,7 +469,7 @@
 - [flosch/pongo2](https://github.com/flosch/pongo2) – Django-syntax like template-engine for Go
 - [kr/pretty](https://github.com/kr/pretty) – Pretty printing for Go values
 - [valyala/fasttemplate](https://github.com/valyala/fasttemplate) – Simple and fast template engine for Go
-- [uptrace/bun](https://github.com/uptrace/bun) – Lightweight Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite
+- [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
 - [cristalhq/acmd](https://github.com/cristalhq/acmd) – Simple, useful and opinionated CLI package in Go.
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) – Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -1825,6 +1832,7 @@
 
 ## [Others](id:others)
 
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) – Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [binance/binance-api-postman](https://github.com/binance/binance-api-postman) – Postman collection for Binance Public API, including spot, margin, futures, etc.
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) – Official Documentation for the Binance Spot APIs and Streams 
@@ -2756,6 +2764,7 @@
 
 ## [V](id:v)
 
+- [cotowali/cotowali](https://github.com/cotowali/cotowali) – A statically typed scripting language that transpile into POSIX sh
 - [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 - [vlang/gitly](https://github.com/vlang/gitly) – Light and fast GitHub/GitLab alternative written in V
 
