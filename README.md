@@ -377,6 +377,10 @@
 
 ## [Go](id:go)
 
+- [Helcaraxan/gomod](https://github.com/Helcaraxan/gomod) – Go modules analysis tool
+- [seccomp/libseccomp-golang](https://github.com/seccomp/libseccomp-golang) – The libseccomp golang bindings repository
+- [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
+- [jrick/ss](https://github.com/jrick/ss) – Post-quantum file and stream encryption
 - [btcsuite/btcd](https://github.com/btcsuite/btcd) – An alternative full node bitcoin implementation written in Go (golang)
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) – Automatic client and server certificate distribution and maintenance
@@ -1370,6 +1374,7 @@
 
 ## [HTML](id:html)
 
+- [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) – Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [qbit/widdler](https://github.com/qbit/widdler) – A WebDAV server for TiddlyWikis
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) – A fast, clean, responsive Hugo theme.
@@ -2172,7 +2177,7 @@
 
 ## [Rust](id:rust)
 
-- [sirwart/secrets](https://github.com/sirwart/secrets) – A command-line tool to prevent committing secret keys into your source code
+- [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) – A command-line tool to prevent committing secret keys into your source code
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) – A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
