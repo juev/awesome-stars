@@ -377,6 +377,11 @@
 
 ## [Go](id:go)
 
+- [SpectralOps/teller](https://github.com/SpectralOps/teller) – A secrets management tool for developers built in Go - never leave your command line for secrets.
+- [chzyer/readline](https://github.com/chzyer/readline) – Readline is a pure go(golang) implementation for GNU-Readline kind library
+- [esimov/triangle](https://github.com/esimov/triangle) – Convert images to computer generated art using delaunay triangulation.
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
+- [loov/goda](https://github.com/loov/goda) – Go Dependency Analysis toolkit
 - [Helcaraxan/gomod](https://github.com/Helcaraxan/gomod) – Go modules analysis tool
 - [seccomp/libseccomp-golang](https://github.com/seccomp/libseccomp-golang) – The libseccomp golang bindings repository
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1742,7 +1747,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) – Quickstart configurations for the Nvim LSP client
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) – A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) – Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) – Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) – Orgmode clone written in Lua for Neovim 0.7+.
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) – Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) – Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1837,6 +1842,7 @@
 
 ## [Others](id:others)
 
+- [Tinkoff/invest-robot-contest](https://github.com/Tinkoff/invest-robot-contest) – Конкурс разработчиков торговых роботов на API Тинькофф Инвестиций
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) – Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [binance/binance-api-postman](https://github.com/binance/binance-api-postman) – Postman collection for Binance Public API, including spot, margin, futures, etc.
