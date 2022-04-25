@@ -202,6 +202,7 @@
 
 ## [C++](id:c++)
 
+- [pwsafe/pwsafe](https://github.com/pwsafe/pwsafe) – PasswordSafe - popular secure and convenient password manager
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) – YDB server (daemon) source code
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
 - [google/tink](https://github.com/google/tink) – Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -377,6 +378,7 @@
 
 ## [Go](id:go)
 
+- [leaanthony/clir](https://github.com/leaanthony/clir) – A Simple and Clear CLI library. Dependency free.
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) – A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [chzyer/readline](https://github.com/chzyer/readline) – Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [esimov/triangle](https://github.com/esimov/triangle) – Convert images to computer generated art using delaunay triangulation.
@@ -1825,6 +1827,8 @@
 
 ## [Objective-C](id:objective-c)
 
+- [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) – A KeePass/Password Safe Client for iOS and OS X
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) – A native OS X KeePass client 
 - [google/santa](https://github.com/google/santa) – A binary authorization system for macOS
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) – Official frugal and native macOS Syncthing application bundle
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) – LuLu is the free macOS firewall
@@ -1842,6 +1846,7 @@
 
 ## [Others](id:others)
 
+- [cointastical/P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) – Person-to-Person bitcoin Trading Exchanges
 - [Tinkoff/invest-robot-contest](https://github.com/Tinkoff/invest-robot-contest) – Конкурс разработчиков торговых роботов на API Тинькофф Инвестиций
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) – Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
@@ -2183,6 +2188,8 @@
 
 ## [Rust](id:rust)
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) – A command-line tool to prevent committing secret keys into your source code
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
