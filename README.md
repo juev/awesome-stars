@@ -378,6 +378,9 @@
 
 ## [Go](id:go)
 
+- [tailscale/hujson](https://github.com/tailscale/hujson) – HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
+- [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) – Lightning Network Daemon ⚡️
+- [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [leaanthony/clir](https://github.com/leaanthony/clir) – A Simple and Clear CLI library. Dependency free.
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) – A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [chzyer/readline](https://github.com/chzyer/readline) – Readline is a pure go(golang) implementation for GNU-Readline kind library
@@ -1128,7 +1131,6 @@
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
 - [leominov/isdayoff_exporter](https://github.com/leominov/isdayoff_exporter) – 
-- [go-micro-dev/plugins](https://github.com/go-micro-dev/plugins) – Go Micro Plugins
 - [leominov/prometheus-actions](https://github.com/leominov/prometheus-actions) – Actions based on Prometheus metrics
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
@@ -2287,7 +2289,7 @@
 - [fu5ha/cint](https://github.com/fu5ha/cint) – A lean, minimal, and stable set of types for color interoperation between crates in Rust.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) – Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) – A (mostly) pure-Rust implementation of various cryptographic algorithms.
-- [getsynth/synth](https://github.com/getsynth/synth) – The Declarative Data Generator
+- [shuttle-hq/synth](https://github.com/shuttle-hq/synth) – The Declarative Data Generator
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) – An ultra simple CLI arguments parser.
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) – Natural language detection library for Rust. Try demo online: https://whatlang.org/
@@ -2522,6 +2524,7 @@
 
 ## [Shell](id:shell)
 
+- [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) – spellcheck dictionary for programmers 📖
 - [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) – golang plugin for asdf version manager https://github.com/asdf-vm/asdf
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) – a cozy nest for your scripts
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
