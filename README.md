@@ -378,6 +378,7 @@
 
 ## [Go](id:go)
 
+- [mocktools/go-smtp-mock](https://github.com/mocktools/go-smtp-mock) – SMTP mock server written on Golang. Mimic any 📤 SMTP server behaviour for your test environment with fake SMTP server.
 - [tailscale/hujson](https://github.com/tailscale/hujson) – HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) – Lightning Network Daemon ⚡️
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -1164,7 +1165,7 @@
 - [securego/gosec](https://github.com/securego/gosec) – Golang security checker
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) – Go programming language secure coding practices guide
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
-- [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -2253,7 +2254,7 @@
 - [yaahc/eyre](https://github.com/yaahc/eyre) –  A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) – Application level tracing for Rust.
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) – A code coverage tool for Rust projects
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) – Go specs implemented as a scripting language in Rust.
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) – An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
 - [kdy1/cargo-profile](https://github.com/kdy1/cargo-profile) – Performance profiling made simple
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) –  HTTP mocking to test Rust applications. 
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) – Rayon: A data parallelism library for Rust
@@ -2886,6 +2887,7 @@
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) – Tutorial for vim-go
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8 (and Neovim)
+- [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) – A solid language pack for Vim.
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
@@ -2901,7 +2903,6 @@
 - [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) – A Go bundle for Vundle or Pathogen
 - [junegunn/rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) – :rainbow: Simpler Rainbow Parentheses
 - [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
-- [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 
 ## [Vue](id:vue)
 
