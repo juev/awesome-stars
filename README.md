@@ -292,6 +292,7 @@
 
 ## [Dockerfile](id:dockerfile)
 
+- [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
 - [andrius/blink-dotfiles](https://github.com/andrius/blink-dotfiles) – Dotfiles for tmux and vim/nvim working with blink and mac os
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) – Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) – 
@@ -378,6 +379,10 @@
 
 ## [Go](id:go)
 
+- [mickael-menu/zk](https://github.com/mickael-menu/zk) – A plain text note-taking assistant
+- [hherman1/gq](https://github.com/hherman1/gq) – jq but using go instead
+- [brimdata/zed](https://github.com/brimdata/zed) – Tooling for super-structured data: a new and easier way to manipulate data
+- [randall77/makefat](https://github.com/randall77/makefat) – A tool for making fat OSX binaries (a portable lipo)
 - [mocktools/go-smtp-mock](https://github.com/mocktools/go-smtp-mock) – SMTP mock server written on Golang. Mimic any 📤 SMTP server behaviour for your test environment with fake SMTP server.
 - [tailscale/hujson](https://github.com/tailscale/hujson) – HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) – Lightning Network Daemon ⚡️
@@ -1588,7 +1593,6 @@
 - [co-log/co-log](https://github.com/co-log/co-log) – 📓 Flexible and configurable modern #Haskell logging framework
 - [kowainik/relude](https://github.com/kowainik/relude) – 🌀 Safe, performant, user-friendly and lightweight Haskell standard library
 - [ruHaskell/ruhaskell](https://github.com/ruHaskell/ruhaskell) – Главный сайт сообщества
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) – Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 - [jaspervdj/jaspervdj](https://github.com/jaspervdj/jaspervdj) – Source code of my personal home page.
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) – Haskell source code suggestions
@@ -2698,7 +2702,6 @@
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) – Automatic tiling window manager for macOS à la xmonad.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) – A private messenger for iOS.
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) – Notes manager for macOS/iOS
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) – A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 
 ## [TeX](id:tex)
@@ -2728,6 +2731,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
