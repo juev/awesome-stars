@@ -379,6 +379,7 @@
 
 ## [Go](id:go)
 
+- [huandu/xstrings](https://github.com/huandu/xstrings) – Implements string functions widely used in other languages but absent in Go.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) – A plain text note-taking assistant
 - [hherman1/gq](https://github.com/hherman1/gq) – jq but using go instead
 - [brimdata/zed](https://github.com/brimdata/zed) – Tooling for super-structured data: a new and easier way to manipulate data
@@ -570,7 +571,7 @@
 - [pkg/sftp](https://github.com/pkg/sftp) – SFTP support for the go.crypto/ssh package
 - [juev/counter](https://github.com/juev/counter) – 
 - [mvdan/dockexec](https://github.com/mvdan/dockexec) – Run Go tests inside a Docker image
-- [encoredev/encore](https://github.com/encoredev/encore) – Encore is the Go Backend Development Engine helping developers escape the maze of complexity.
+- [encoredev/encore](https://github.com/encoredev/encore) – Encore is the Backend Development Engine helping developers escape the maze of complexity.
 - [thepudds/fzgen](https://github.com/thepudds/fzgen) – Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) – 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
@@ -696,7 +697,6 @@
 - [micro/services](https://github.com/micro/services) – Real world Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) – Distributed key/value store abstraction library
-- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [miekg/learninggo](https://github.com/miekg/learninggo) – Learning Go Book in mmark
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [google/mtail](https://github.com/google/mtail) – extract internal monitoring data from application logs for collection in a timeseries database
@@ -2082,6 +2082,7 @@
 
 ## [Python](id:python)
 
+- [Aurelien-Pelissier/Medium](https://github.com/Aurelien-Pelissier/Medium) – All the code related to my medium articles
 - [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) – Automated cryptocurrency trading bot
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
@@ -2177,6 +2178,7 @@
 
 ## [Ruby](id:ruby)
 
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) – Tracking the key metrics of my life
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) – A self-hosted, anti-social RSS reader.
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) – Your home directory is your castle. Don't leave your dotfiles behind.
 - [bibendi/dip](https://github.com/bibendi/dip) – Development-environment CLI program providing the native-like interaction with a Dockerized application.
@@ -2195,6 +2197,8 @@
 
 ## [Rust](id:rust)
 
+- [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) – Binary installation for rust projects
+- [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) – A command-line tool to prevent committing secret keys into your source code
@@ -2742,6 +2746,7 @@
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) – 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
+- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
@@ -2763,7 +2768,7 @@
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) – 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
-- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
