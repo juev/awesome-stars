@@ -504,7 +504,7 @@
 - [MickaelBergem/dnsstresss](https://github.com/MickaelBergem/dnsstresss) – Simple Go program to stress test DNS servers
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) – Batch software uninstall
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) – Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) – Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) – PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [go-aah/aah](https://github.com/go-aah/aah) – A secure, flexible, rapid Go web framework
@@ -1052,7 +1052,7 @@
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) – Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [beevik/ntp](https://github.com/beevik/ntp) – a simple ntp client package for go
-- [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [klauspost/pgzip](https://github.com/klauspost/pgzip) – Go parallel gzip (de)compression
 - [marethyu/gotube](https://github.com/marethyu/gotube) – A very simple command line tool for downloading YouTube videos.
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) – Package macaron is a high productive and modular web framework in Go.
@@ -2783,7 +2783,7 @@
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – VSCode Neovim Integration
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim-mode for Visual Studio Code using embedded Neovim
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
