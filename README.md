@@ -96,6 +96,7 @@
 
 ## [C](id:c)
 
+- [systemd/casync](https://github.com/systemd/casync) – Content-Addressable Data Synchronization Tool
 - [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
 - [clibs/clib](https://github.com/clibs/clib) – C package manager-ish
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -1389,6 +1390,7 @@
 
 ## [HTML](id:html)
 
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) – Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) – Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [qbit/widdler](https://github.com/qbit/widdler) – A WebDAV server for TiddlyWikis
@@ -1620,6 +1622,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
+- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
 - [iancoleman/bip39](https://github.com/iancoleman/bip39) – A web tool for converting BIP39 mnemonic codes
 - [maple3142/cf-warp](https://github.com/maple3142/cf-warp) – 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) – Run compilers interactively from your web browser and interact with the assembly
@@ -2082,6 +2086,7 @@
 
 ## [Python](id:python)
 
+- [infobyte/faraday](https://github.com/infobyte/faraday) – Collaborative Penetration Test and Vulnerability Management Platform
 - [Aurelien-Pelissier/Medium](https://github.com/Aurelien-Pelissier/Medium) – All the code related to my medium articles
 - [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) – Automated cryptocurrency trading bot
@@ -2533,6 +2538,7 @@
 
 ## [Shell](id:shell)
 
+- [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) – A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) – spellcheck dictionary for programmers 📖
 - [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) – golang plugin for asdf version manager https://github.com/asdf-vm/asdf
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) – a cozy nest for your scripts
