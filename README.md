@@ -763,7 +763,7 @@
 - [aws/karpenter](https://github.com/aws/karpenter) – Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [cristalhq/base64](https://github.com/cristalhq/base64) – Faster base64 encoding for Go
 - [twmb/franz-go](https://github.com/twmb/franz-go) – franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.2+. Producing, consuming, transacting, administrating, etc.
-- [clastix/capsule](https://github.com/clastix/capsule) – Kubernetes Operator for multi-tenancy
+- [clastix/capsule](https://github.com/clastix/capsule) – Multi-tenancy and policy-based framework for Kubernetes.
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) – Writing kubernetes controllers can be simple
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) – A static analysis tool for securing Go code
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
@@ -2538,6 +2538,7 @@
 
 ## [Shell](id:shell)
 
+- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) – A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) – spellcheck dictionary for programmers 📖
 - [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) – golang plugin for asdf version manager https://github.com/asdf-vm/asdf
@@ -2566,7 +2567,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) – Fish-like autosuggestions for zsh
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) – 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) – 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 17+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) – 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) – Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) – Shell plugin for managing tmux sessions
