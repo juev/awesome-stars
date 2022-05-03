@@ -344,7 +344,7 @@
 - [brotzeit/rustic](https://github.com/brotzeit/rustic) – Rust development environment for Emacs
 - [freetonik/castlemacs](https://github.com/freetonik/castlemacs) – Modern, minimalist Emacs for macOS ⌘
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) – A major mode for password-store
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) – An Emacs framework for the stubborn martian hacker
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [chuntaro/emacs-keypression](https://github.com/chuntaro/emacs-keypression) – Keystroke visualizer for GUI version Emacs.
 - [l3kn/org-fc](https://github.com/l3kn/org-fc) – Spaced Repetition System for Emacs org-mode
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) – A very minimal but elegant emacs (I think)
@@ -380,6 +380,8 @@
 
 ## [Go](id:go)
 
+- [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) – A fancy-schmancy tcpdump-esque TUI, programmed in Go.
+- [gorilla/mux](https://github.com/gorilla/mux) – A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [huandu/xstrings](https://github.com/huandu/xstrings) – Implements string functions widely used in other languages but absent in Go.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) – A plain text note-taking assistant
 - [hherman1/gq](https://github.com/hherman1/gq) – jq but using go instead
@@ -1570,7 +1572,7 @@
 - [kowainik/cake-slayer](https://github.com/kowainik/cake-slayer) – 🍰🔪 Architecture of Haskell backend applications
 - [tomjaguarpaw/haskell-opaleye](https://github.com/tomjaguarpaw/haskell-opaleye) – 
 - [kowainik/prolens](https://github.com/kowainik/prolens) – 👓 Profunctor based lightweight implementation of Lenses
-- [ekmett/lens](https://github.com/ekmett/lens) – Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
+- [ekmett/lens](https://github.com/ekmett/lens) – Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) – Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) – Functional reactive web and mobile applications, with batteries included.
 - [haskell/bytestring](https://github.com/haskell/bytestring) – An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
@@ -2725,7 +2727,6 @@
 - [cigsender/hott-thesis](https://github.com/cigsender/hott-thesis) – Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) – Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [chelseakomlo/library](https://github.com/chelseakomlo/library) – A library with the papers I'm reading and rough notes/summaries
-- [remigiusz-suwalski/theory-of-chess](https://github.com/remigiusz-suwalski/theory-of-chess) – 
 - [igrishaev/clj-book](https://github.com/igrishaev/clj-book) – Книга «Clojure на производстве»
 - [ieure/sicp](https://github.com/ieure/sicp) – Structure and Interpretation of Computer Programs, Second Edition
 - [opieters/business-card](https://github.com/opieters/business-card) – A business card in LaTeX. 
