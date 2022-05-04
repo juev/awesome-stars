@@ -203,6 +203,7 @@
 
 ## [C++](id:c++)
 
+- [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 - [pwsafe/pwsafe](https://github.com/pwsafe/pwsafe) – PasswordSafe - popular secure and convenient password manager
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) – YDB server (daemon) source code
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) – Desktop client for Matrix using Qt and C++17.
@@ -380,6 +381,10 @@
 
 ## [Go](id:go)
 
+- [nosequeldeebee/blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) – Write and publish your own blockchain in less than 200 lines of Go
+- [mvdan/unparam](https://github.com/mvdan/unparam) – Find unused parameters in Go
+- [go-gota/gota](https://github.com/go-gota/gota) – Gota: DataFrames and data wrangling in Go (Golang)
+- [decred/dcrd](https://github.com/decred/dcrd) – Decred daemon in Go (golang).
 - [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) – A fancy-schmancy tcpdump-esque TUI, programmed in Go.
 - [gorilla/mux](https://github.com/gorilla/mux) – A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [huandu/xstrings](https://github.com/huandu/xstrings) – Implements string functions widely used in other languages but absent in Go.
@@ -1859,6 +1864,7 @@
 
 ## [Others](id:others)
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [cointastical/P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) – Person-to-Person bitcoin Trading Exchanges
 - [Tinkoff/invest-robot-contest](https://github.com/Tinkoff/invest-robot-contest) – Конкурс разработчиков торговых роботов на API Тинькофф Инвестиций
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
@@ -2747,7 +2753,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
-- [bitwarden/browser](https://github.com/bitwarden/browser) – The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) – Bitwarden client applications (web, browser extension, desktop, and cli)
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers (Beta)
