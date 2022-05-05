@@ -381,6 +381,10 @@
 
 ## [Go](id:go)
 
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
+- [replicate/cog](https://github.com/replicate/cog) – Containers for machine learning
+- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) – IPFS implementation in Go
+- [cenkalti/rain](https://github.com/cenkalti/rain) – 🌧 BitTorrent client and library in Go
 - [nosequeldeebee/blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) – Write and publish your own blockchain in less than 200 lines of Go
 - [mvdan/unparam](https://github.com/mvdan/unparam) – Find unused parameters in Go
 - [go-gota/gota](https://github.com/go-gota/gota) – Gota: DataFrames and data wrangling in Go (Golang)
@@ -512,7 +516,7 @@
 - [MickaelBergem/dnsstresss](https://github.com/MickaelBergem/dnsstresss) – Simple Go program to stress test DNS servers
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) – Batch software uninstall
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) – Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) – PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [go-aah/aah](https://github.com/go-aah/aah) – A secure, flexible, rapid Go web framework
@@ -1158,7 +1162,7 @@
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs.
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) – Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) – Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI in Go inspired by Material Design
 - [atotto/clipboard](https://github.com/atotto/clipboard) – clipboard for golang
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) – Go Twitter REST and Streaming API v1.1
@@ -1752,7 +1756,7 @@
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) – A Lua client library for the redis key value storage system.
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) – A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) – An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) – An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – A small, documented, and featureful neovim starter config
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) – A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) – A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
