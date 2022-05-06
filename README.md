@@ -381,6 +381,8 @@
 
 ## [Go](id:go)
 
+- [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
+- [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) – A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [replicate/cog](https://github.com/replicate/cog) – Containers for machine learning
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) – IPFS implementation in Go
@@ -2005,7 +2007,7 @@
 - [limetext/lime](https://github.com/limetext/lime) – Open source API-compatible alternative to the text editor Sublime Text
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) – A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) – 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – 🤓 Build your own (insert technology here)
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) – NGINX tuning for best performance
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) – A curated list of awesome actions to use on GitHub
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
@@ -2757,7 +2759,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
-- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) – Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client applications (web, browser extension, desktop, and cli)
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers (Beta)
