@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) – A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
@@ -449,7 +450,6 @@
 - [planetscale/planetscale-go](https://github.com/planetscale/planetscale-go) – Go client library to access the PlanetScale API
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kyoh86/exportloopref](https://github.com/kyoh86/exportloopref) – 
-- [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [mohammed90/caddy-ssh](https://github.com/mohammed90/caddy-ssh) – Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
