@@ -1892,7 +1892,7 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) – A collection of hacking tools, resources and references to practice ethical hacking.
 - [github/gitignore](https://github.com/github/gitignore) – A collection of useful .gitignore templates
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) – 📜Zig Learning & Usage Guide.
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🪄 Collection of handy tools for Go projects
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Collection of handy tools for Go projects
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) – Free copy of The Cyber Plumber's Handbook
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) – Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
