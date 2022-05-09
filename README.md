@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) – Full-featured BitTorrent client package and utilities
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) – A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
@@ -1648,7 +1649,7 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) – Changelog episode transcripts in Markdown format 📚
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) – A bag of various unrelated projects with varying levels of serviceability and destructiveness.
@@ -2216,6 +2217,8 @@
 
 ## [Rust](id:rust)
 
+- [dflemstr/rq](https://github.com/dflemstr/rq) – Record Query - A tool for doing record analysis and transformation
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) – Binary installation for rust projects
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
