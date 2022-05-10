@@ -381,6 +381,8 @@
 
 ## [Go](id:go)
 
+- [omeid/uconfig](https://github.com/omeid/uconfig) – Lightweight, zero-dependency, and extendable configuration management library for Go
+- [gorilla/websocket](https://github.com/gorilla/websocket) – A fast, well-tested and widely used WebSocket implementation for Go.
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) – Full-featured BitTorrent client package and utilities
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
@@ -1404,6 +1406,7 @@
 
 ## [HTML](id:html)
 
+- [google/fonts](https://github.com/google/fonts) – Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) – Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) – Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
