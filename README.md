@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
 - [omeid/uconfig](https://github.com/omeid/uconfig) – Lightweight, zero-dependency, and extendable configuration management library for Go
 - [gorilla/websocket](https://github.com/gorilla/websocket) – A fast, well-tested and widely used WebSocket implementation for Go.
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) – Full-featured BitTorrent client package and utilities
@@ -569,7 +570,7 @@
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) – wazero lets you run WebAssembly modules with zero platform dependencies
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) – wazero: the zero dependency WebAssembly runtime for Go developers
 - [mennanov/limiters](https://github.com/mennanov/limiters) – Golang rate limiters for distributed applications
 - [quasilyte/go-perfguard](https://github.com/quasilyte/go-perfguard) – CPU-guided performance analyzer for Go
 - [cch123/gogctuner](https://github.com/cch123/gogctuner) – auto adjust your GOGC value
