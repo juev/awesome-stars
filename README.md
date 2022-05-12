@@ -381,6 +381,8 @@
 
 ## [Go](id:go)
 
+- [h2non/gentleman](https://github.com/h2non/gentleman) – Plugin-driven, extensible HTTP client toolkit for Go
+- [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
 - [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
 - [omeid/uconfig](https://github.com/omeid/uconfig) – Lightweight, zero-dependency, and extendable configuration management library for Go
 - [gorilla/websocket](https://github.com/gorilla/websocket) – A fast, well-tested and widely used WebSocket implementation for Go.
@@ -471,7 +473,7 @@
 - [mjibson/esc](https://github.com/mjibson/esc) – A simple file embedder for Go
 - [awnumar/memguard](https://github.com/awnumar/memguard) – Secure software enclave for storage of sensitive information in memory.
 - [schachmat/wego](https://github.com/schachmat/wego) – weather app for the terminal
-- [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
 - [Gelio/go-global-update](https://github.com/Gelio/go-global-update) – A command to update globally installed go executables
 - [boombuler/barcode](https://github.com/boombuler/barcode) – a barcode creation lib for golang
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) – Run popular commandline tools within docker
@@ -566,7 +568,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
@@ -597,7 +599,7 @@
 - [onsi/gomega](https://github.com/onsi/gomega) – Ginkgo's Preferred Matcher Library
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) – Code generation tools for Go.
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) – A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) – A cloud-native Go microservices framework with cli tool for productivity.
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats
 - [Yawning/obfs4](https://github.com/Yawning/obfs4) – The obfourscator (Courtesy mirror)
 - [kkdai/youtube](https://github.com/kkdai/youtube) – Download Youtube Video in Golang
@@ -1249,7 +1251,7 @@
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) – high performance JSON encoder/decoder with stream API for Golang 
 - [russross/blackfriday](https://github.com/russross/blackfriday) – Blackfriday: a markdown processor for Go
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) – Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [1Password/spg](https://github.com/1Password/spg) – 1Password's Strong Password Generator - Go package
 - [junegunn/fzf](https://github.com/junegunn/fzf) – :cherry_blossom: A command-line fuzzy finder
 - [quasilyte/go-namecheck](https://github.com/quasilyte/go-namecheck) – Source code analyzer that helps you to maintain variable/field naming conventions inside your project.
@@ -1653,7 +1655,7 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) – Changelog episode transcripts in Markdown format 📚
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) – A bag of various unrelated projects with varying levels of serviceability and destructiveness.
@@ -2087,6 +2089,7 @@
 
 ## [PHP](id:php)
 
+- [simonmichael/haskell-links](https://github.com/simonmichael/haskell-links) – Exploratory project to gather Haskell links
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext) – 📖 Enjoy full text for tt-rss.
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) – Baïkal is a Calendar+Contacts server
