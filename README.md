@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) – an R-Tree library for Go
 - [h2non/gentleman](https://github.com/h2non/gentleman) – Plugin-driven, extensible HTTP client toolkit for Go
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
 - [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
@@ -691,7 +692,7 @@
 - [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for datetime
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [gomodule/redigo](https://github.com/gomodule/redigo) – Go client for Redis
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) – Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
 - [dvyukov/go-fuzz-corpus](https://github.com/dvyukov/go-fuzz-corpus) – Corpus for github.com/dvyukov/go-fuzz examples
@@ -1520,7 +1521,6 @@
 - [srid/ema](https://github.com/srid/ema) – Haskell static site generator that is change-aware
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) – An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) – A statically typed lisp, without a GC, for real-time applications.
-- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) – write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) – An extended tutorial/book on Haskell development. A library for playing Scrabble is developed as well as two clients, one of which is networked and allows for remote one or two-player games over the web.
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) – Code and materials for my book "Functional Design and Architecture"
 - [leanprover/tc](https://github.com/leanprover/tc) – Reference type checker for the Lean theorem prover
@@ -2340,6 +2340,7 @@
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) – org-mode parser rewrite in Rust
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) – SQLRite - Simple embedded database modeled off SQLite in Rust
+- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) – write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) – Plotly for Rust
 - [soywod/himalaya](https://github.com/soywod/himalaya) – Command-line interface for email management
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2765,6 +2766,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) – A Markdown-based authoring system
 - [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
