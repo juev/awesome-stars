@@ -324,7 +324,7 @@
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) – A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender. 
 - [oantolin/embark](https://github.com/oantolin/embark) – Emacs Mini-Buffer Actions Rooted in Keymaps
 - [minad/consult](https://github.com/minad/consult) – consult.el - Consulting completing-read
-- [raxod502/selectrum](https://github.com/raxod502/selectrum) – 🔔 Better solution for incremental narrowing in Emacs.
+- [radian-software/selectrum](https://github.com/radian-software/selectrum) – 🔔 Better solution for incremental narrowing in Emacs.
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) – Emacs package for highlighting uncommitted changes
 - [gfanton/nixpkgs](https://github.com/gfanton/nixpkgs) – My nixpkgs config
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) – System-wide popup Emacs windows for quick edits
@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) – an R-Tree library for Go
 - [h2non/gentleman](https://github.com/h2non/gentleman) – Plugin-driven, extensible HTTP client toolkit for Go
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
@@ -628,7 +629,7 @@
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) – Mmark: a powerful markdown processor in Go geared towards the IETF 
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) – :electric_plug: Raspberry Pi GPIO library for go-lang
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) – Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
-- [benchkram/bob](https://github.com/benchkram/bob) – A build tool from space, down on earth. 
+- [benchkram/bob](https://github.com/benchkram/bob) – A build system with Nix as it's package manager to enable hermetic builds.
 - [grafana/grizzly](https://github.com/grafana/grizzly) – A utility for managing Jsonnet dashboards against the Grafana API
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -2272,7 +2273,7 @@
 - [facebookincubator/cargo-guppy](https://github.com/facebookincubator/cargo-guppy) – Track and query Cargo dependency graphs.
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [cecton/git-tools](https://github.com/cecton/git-tools) – Git subcommands to help with your workflow
-- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) – Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) – Tangram makes it easy to train, deploy, and monitor machine learning models.
 - [al8n/caches-rs](https://github.com/al8n/caches-rs) – This is a Rust implementation for popular caches (support no_std).
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) – Beautiful diagnostic reporting for text-based programming languages.
@@ -2774,7 +2775,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client applications (web, browser extension, desktop, and cli)
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) – 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
@@ -2956,6 +2957,7 @@
 
 ## [Zig](id:zig)
 
+- [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek) – 
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
