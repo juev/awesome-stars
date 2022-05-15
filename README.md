@@ -381,6 +381,8 @@
 
 ## [Go](id:go)
 
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) – Tool for smooth git handover.
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) – An open source recommender system service written in Go
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [dhconnelly/rtreego](https://github.com/dhconnelly/rtreego) – an R-Tree library for Go
 - [h2non/gentleman](https://github.com/h2non/gentleman) – Plugin-driven, extensible HTTP client toolkit for Go
@@ -2273,7 +2275,7 @@
 - [facebookincubator/cargo-guppy](https://github.com/facebookincubator/cargo-guppy) – Track and query Cargo dependency graphs.
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [cecton/git-tools](https://github.com/cecton/git-tools) – Git subcommands to help with your workflow
-- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) – Tangram makes it easy to train, deploy, and monitor machine learning models.
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) – ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [al8n/caches-rs](https://github.com/al8n/caches-rs) – This is a Rust implementation for popular caches (support no_std).
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) – Beautiful diagnostic reporting for text-based programming languages.
