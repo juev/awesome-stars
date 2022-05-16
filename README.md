@@ -381,6 +381,7 @@
 
 ## [Go](id:go)
 
+- [unrolled/render](https://github.com/unrolled/render) – Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) – Tool for smooth git handover.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) – An open source recommender system service written in Go
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
@@ -1757,6 +1758,7 @@
 
 ## [Lua](id:lua)
 
+- [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) – Utility library for functional programming  in Lua
 - [luafun/luafun](https://github.com/luafun/luafun) – Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
@@ -2017,7 +2019,7 @@
 - [limetext/lime](https://github.com/limetext/lime) – Open source API-compatible alternative to the text editor Sublime Text
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) – A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) – NGINX tuning for best performance
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) – A curated list of awesome actions to use on GitHub
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
@@ -2111,6 +2113,8 @@
 
 ## [Python](id:python)
 
+- [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) – Немного о ядре Linux
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Collaborative Penetration Test and Vulnerability Management Platform
 - [Aurelien-Pelissier/Medium](https://github.com/Aurelien-Pelissier/Medium) – All the code related to my medium articles
 - [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
