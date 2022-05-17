@@ -381,6 +381,8 @@
 
 ## [Go](id:go)
 
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) – An open source, general-purpose policy engine.
+- [mailgun/holster](https://github.com/mailgun/holster) – A place to keep useful golang functions and small libraries
 - [unrolled/render](https://github.com/unrolled/render) – Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) – Tool for smooth git handover.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) – An open source recommender system service written in Go
@@ -628,7 +630,7 @@
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) – Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [davecheney/gcvis](https://github.com/davecheney/gcvis) – Visualise Go program GC trace data in real time
 - [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) – high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
-- [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events.
+- [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) – Mmark: a powerful markdown processor in Go geared towards the IETF 
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) – :electric_plug: Raspberry Pi GPIO library for go-lang
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) – Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
@@ -1011,7 +1013,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) –  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) – UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [vsec7/xkeys](https://github.com/vsec7/xkeys) – Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [didi/nightingale](https://github.com/didi/nightingale) – An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) – An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) – User-friendly Go library for building Grafana dashboards
 - [itchyny/mmv](https://github.com/itchyny/mmv) – rename multiple files with editor
@@ -1696,7 +1698,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) – The easiest way to use git. On any platform. Anywhere.
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) – Self-Hosted Bookmark And Archive Manager
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
-- [txthinking/nami](https://github.com/txthinking/nami) – The easy way to download command from anywhere. 从任何地方下载命令
+- [txthinking/nami](https://github.com/txthinking/nami) – The easy way to download anything from anywhere. 从任何地方下载任何东西
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) – An Action to upload a release asset via the GitHub Release API
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) – Versatile typeface for code, from code.
 - [actions/create-release](https://github.com/actions/create-release) – An Action to create releases via the GitHub Release API
@@ -2773,7 +2775,7 @@
 
 ## [TypeScript](id:typescript)
 
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) – A Markdown-based authoring system
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
 - [vector-im/element-web](https://github.com/vector-im/element-web) – A glossy Matrix collaboration client for the web.
