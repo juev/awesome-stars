@@ -1013,7 +1013,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) –  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) – UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [vsec7/xkeys](https://github.com/vsec7/xkeys) – Extract Sensitive Keys, Secret, Token Or Interested thing from source
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) – An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) – An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) – User-friendly Go library for building Grafana dashboards
 - [itchyny/mmv](https://github.com/itchyny/mmv) – rename multiple files with editor
