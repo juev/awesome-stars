@@ -87,7 +87,6 @@
 
 ## [Assembly](id:assembly)
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) – A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## [Batchfile](id:batchfile)
@@ -656,6 +655,7 @@
 - [uber-go/tally](https://github.com/uber-go/tally) – A Go metrics interface with fast buffered metrics and third party reporters
 - [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
+- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [simeji/jid](https://github.com/simeji/jid) – json incremental digger
