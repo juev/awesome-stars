@@ -380,6 +380,9 @@
 
 ## [Go](id:go)
 
+- [monaco-io/request](https://github.com/monaco-io/request) – go request, go http client
+- [pierrec/lz4](https://github.com/pierrec/lz4) – LZ4 compression and decompression in pure Go
+- [jdkato/prose](https://github.com/jdkato/prose) – :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) – An open source, general-purpose policy engine.
 - [mailgun/holster](https://github.com/mailgun/holster) – A place to keep useful golang functions and small libraries
 - [unrolled/render](https://github.com/unrolled/render) – Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
@@ -1760,6 +1763,7 @@
 
 ## [Lua](id:lua)
 
+- [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) – A configuration for Neovim beginners.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) – Utility library for functional programming  in Lua
@@ -2104,6 +2108,7 @@
 
 ## [Perl](id:perl)
 
+- [sitaramc/gitolite](https://github.com/sitaramc/gitolite) – Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) – Health checks upstreams for nginx
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) – SICP PDF with Texinfo and LaTeX source
@@ -2775,6 +2780,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [gera2ld/markmap](https://github.com/gera2ld/markmap) – Visualize your Markdown as mindmaps with Markmap.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
