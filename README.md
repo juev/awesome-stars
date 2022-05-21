@@ -1869,6 +1869,7 @@
 
 ## [Objective-C](id:objective-c)
 
+- [git-up/GitUp](https://github.com/git-up/GitUp) – The Git interface you've been missing all your life has finally arrived.
 - [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) – A KeePass/Password Safe Client for iOS and OS X
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) – A native OS X KeePass client 
 - [google/santa](https://github.com/google/santa) – A binary authorization system for macOS
