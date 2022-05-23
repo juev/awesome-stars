@@ -380,6 +380,7 @@
 
 ## [Go](id:go)
 
+- [bbalet/stopwords](https://github.com/bbalet/stopwords) – Removes most frequent words (stop words) from a text content. Based on a Curated list of language statistics.
 - [monaco-io/request](https://github.com/monaco-io/request) – go request, go http client
 - [pierrec/lz4](https://github.com/pierrec/lz4) – LZ4 compression and decompression in pure Go
 - [jdkato/prose](https://github.com/jdkato/prose) – :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
