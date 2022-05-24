@@ -380,6 +380,8 @@
 
 ## [Go](id:go)
 
+- [lmorg/murex](https://github.com/lmorg/murex) – Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) – WireGuard Web UI for self-serve client configurations, with optional auth.
 - [bbalet/stopwords](https://github.com/bbalet/stopwords) – Removes most frequent words (stop words) from a text content. Based on a Curated list of language statistics.
 - [monaco-io/request](https://github.com/monaco-io/request) – go request, go http client
 - [pierrec/lz4](https://github.com/pierrec/lz4) – LZ4 compression and decompression in pure Go
@@ -1890,6 +1892,7 @@
 
 ## [Others](id:others)
 
+- [miconda/sip-resources](https://github.com/miconda/sip-resources) – Various SIP resources.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [cointastical/P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) – Person-to-Person bitcoin Trading Exchanges
 - [Tinkoff/invest-robot-contest](https://github.com/Tinkoff/invest-robot-contest) – Конкурс разработчиков торговых роботов на API Тинькофф Инвестиций
@@ -2240,6 +2243,7 @@
 
 ## [Rust](id:rust)
 
+- [dimensionhq/fleet](https://github.com/dimensionhq/fleet) – 🚀 The blazing fast build tool for Rust.
 - [barrucadu/resolved](https://github.com/barrucadu/resolved) – A simple DNS server for home networks.
 - [dflemstr/rq](https://github.com/dflemstr/rq) – Record Query - A tool for doing record analysis and transformation
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
@@ -2764,7 +2768,7 @@
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) – A template for writing your Bachelor, Master or PhD thesis.
 - [Amuhar/thesis](https://github.com/Amuhar/thesis) – Бакалаврская работа на тему "Реализация интервального времени в RabbitMQ"
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) – Selective Functors & Probabilistic Programming
-- [cigsender/hott-thesis](https://github.com/cigsender/hott-thesis) – Homotopy Type Theory as an Alternative Foundation to Mathematics
+- [mixphix/hott-thesis](https://github.com/mixphix/hott-thesis) – Homotopy Type Theory as an Alternative Foundation to Mathematics
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) – Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [chelseakomlo/library](https://github.com/chelseakomlo/library) – A library with the papers I'm reading and rough notes/summaries
 - [igrishaev/clj-book](https://github.com/igrishaev/clj-book) – Книга «Clojure на производстве»
