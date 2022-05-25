@@ -314,6 +314,7 @@
 
 ## [Emacs Lisp](id:emacs-lisp)
 
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) – Fastest LSP client for Emacs
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
 - [Viglioni/lauremacs](https://github.com/Viglioni/lauremacs) – My new emacs configuration (wip!!)
 - [susam/emfy](https://github.com/susam/emfy) – A dark and sleek Emacs setup for general purpose editing and programming
@@ -380,6 +381,9 @@
 
 ## [Go](id:go)
 
+- [livekit/livekit](https://github.com/livekit/livekit) – Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [rivo/tview](https://github.com/rivo/tview) – Terminal UI library with rich, interactive widgets — written in Golang
+- [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [lmorg/murex](https://github.com/lmorg/murex) – Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) – WireGuard Web UI for self-serve client configurations, with optional auth.
 - [bbalet/stopwords](https://github.com/bbalet/stopwords) – Removes most frequent words (stop words) from a text content. Based on a Curated list of language statistics.
@@ -1654,6 +1658,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
 - [iancoleman/bip39](https://github.com/iancoleman/bip39) – A web tool for converting BIP39 mnemonic codes
@@ -2260,7 +2265,7 @@
 - [solana-labs/solana](https://github.com/solana-labs/solana) – Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) – An optimized implementation of librsync in pure Rust.
 - [zee-editor/zee](https://github.com/zee-editor/zee) – A modern text editor for the terminal written in Rust
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) – A free book about developing secure and robust systems software.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) – 💎 Artichoke is a Ruby made with Rust
 - [matklad/xshell](https://github.com/matklad/xshell) – 
@@ -2426,7 +2431,7 @@
 - [tcdi/pgx](https://github.com/tcdi/pgx) – Build Postgres Extensions with Rust!
 - [slog-rs/slog](https://github.com/slog-rs/slog) – Structured, contextual, extensible, composable logging for Rust
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) – System Clipboard interfacing library in Rust
-- [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) – Collection of pure Rust elliptic curve implementations (e.g. P-256, P-384, secp256k1)
+- [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) – Collection of pure Rust elliptic curve implementations: NIST P-256, P-384, secp256k1
 - [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) – A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
 - [oxidecomputer/cio](https://github.com/oxidecomputer/cio) – Rust libraries for APIs needed by our automated CIO.
 - [google/argh](https://github.com/google/argh) – Rust derive-based argument parsing optimized for code size
