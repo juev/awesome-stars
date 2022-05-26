@@ -42,6 +42,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mathematica](#mathematica)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -309,6 +310,7 @@
 
 ## [Elixir](id:elixir)
 
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based VPN server and firewall
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [elixir-ecto/postgrex](https://github.com/elixir-ecto/postgrex) – PostgreSQL driver for Elixir
 
@@ -381,6 +383,8 @@
 
 ## [Go](id:go)
 
+- [shiyanhui/hero](https://github.com/shiyanhui/hero) – A handy, fast and powerful go template engine.
+- [zeebo/xxh3](https://github.com/zeebo/xxh3) – XXH3 algorithm in Go
 - [livekit/livekit](https://github.com/livekit/livekit) – Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [rivo/tview](https://github.com/rivo/tview) – Terminal UI library with rich, interactive widgets — written in Golang
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
@@ -1828,6 +1832,10 @@
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) – Standard Go Project Layout
 
+## [Mathematica](id:mathematica)
+
+- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
+
 ## [Nix](id:nix)
 
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
@@ -2130,6 +2138,7 @@
 
 ## [Python](id:python)
 
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) – Немного о ядре Linux
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Collaborative Penetration Test and Vulnerability Management Platform
@@ -2248,6 +2257,7 @@
 
 ## [Rust](id:rust)
 
+- [nkr413/qrcode-encrypt](https://github.com/nkr413/qrcode-encrypt) – QR code with encrypted content
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) – 🚀 The blazing fast build tool for Rust.
 - [barrucadu/resolved](https://github.com/barrucadu/resolved) – A simple DNS server for home networks.
 - [dflemstr/rq](https://github.com/dflemstr/rq) – Record Query - A tool for doing record analysis and transformation
@@ -2589,6 +2599,7 @@
 
 ## [Shell](id:shell)
 
+- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Backup and Restore Raspberry Pi SD cards ... easily create image files
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) – A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) – spellcheck dictionary for programmers 📖
