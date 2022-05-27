@@ -383,6 +383,8 @@
 
 ## [Go](id:go)
 
+- [uw-labs/strongbox](https://github.com/uw-labs/strongbox) – Encryption for git users
+- [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [shiyanhui/hero](https://github.com/shiyanhui/hero) – A handy, fast and powerful go template engine.
 - [zeebo/xxh3](https://github.com/zeebo/xxh3) – XXH3 algorithm in Go
 - [livekit/livekit](https://github.com/livekit/livekit) – Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
@@ -1009,7 +1011,7 @@
 - [google/trillian](https://github.com/google/trillian) – A transparent, highly scalable and cryptographically verifiable data store.
 - [minio/simdjson-go](https://github.com/minio/simdjson-go) – Golang port of simdjson: parsing gigabytes of JSON per second
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) – The Go kernel for Jupyter notebooks and nteract.
-- [kubernetes/kops](https://github.com/kubernetes/kops) – Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) – Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [rancher/k3c](https://github.com/rancher/k3c) – Lightweight local container engine for container development
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) – A user-friendly launcher for Bazel.
 - [aunum/goro](https://github.com/aunum/goro) – A High-level Machine Learning Library for Go
@@ -1308,7 +1310,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) – Biscuit research OS
 - [genuinetools/img](https://github.com/genuinetools/img) – Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) – 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) – 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) – Data Structures and Algorithms implementation in Go
 - [knative/serving](https://github.com/knative/serving) – Kubernetes-based, scale-to-zero, request-driven compute
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) – YAML support for the Go language.
@@ -1347,7 +1349,7 @@
 - [aptible/supercronic](https://github.com/aptible/supercronic) – Cron for containers
 - [google/go-cloud](https://github.com/google/go-cloud) – The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jsha/minica](https://github.com/jsha/minica) – minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) – Scan git repos (or files) for secrets using regex and entropy 🔑
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) – Protect and discover secrets using Gitleaks 🔑
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast, multi-platform web server with automatic HTTPS
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
@@ -1518,7 +1520,7 @@
 - [acowley/Frames](https://github.com/acowley/Frames) – Data frames for tabular data.
 - [graninas/Hydra](https://github.com/graninas/Hydra) – Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support. It's currently moving to the production-ready state
 - [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) – An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
-- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) – An easy to use, performant extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) – An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [jgm/emojis](https://github.com/jgm/emojis) – Haskell library for emojis
 - [ethercrow/opentelemetry-haskell](https://github.com/ethercrow/opentelemetry-haskell) – The OpenTelemetry Haskell Client https://opentelemetry.io
 - [ChrisPenner/advent-of-code-haskell](https://github.com/ChrisPenner/advent-of-code-haskell) – Advent of Code Solutions in Haskell
@@ -1905,6 +1907,7 @@
 
 ## [Others](id:others)
 
+- [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [miconda/sip-resources](https://github.com/miconda/sip-resources) – Various SIP resources.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [cointastical/P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) – Person-to-Person bitcoin Trading Exchanges
