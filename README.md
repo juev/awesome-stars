@@ -383,6 +383,8 @@
 
 ## [Go](id:go)
 
+- [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
+- [aclements/go-perf](https://github.com/aclements/go-perf) – Go packages and tools for Linux perf
 - [uw-labs/strongbox](https://github.com/uw-labs/strongbox) – Encryption for git users
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [shiyanhui/hero](https://github.com/shiyanhui/hero) – A handy, fast and powerful go template engine.
@@ -1465,7 +1467,6 @@
 - [badd1e/Disclosures](https://github.com/badd1e/Disclosures) – Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) –  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) – NGINX and NGINX Plus demos
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) – Git alias commands for faster easier version control
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) – A guide to how rustc works and how to contribute to it.
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) – A collection of resources on modern C++
 - [haskell-org/summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) – Source code of summer.haskell.org
@@ -2056,6 +2057,7 @@
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – List of applications and tools that make my iOS experience even more amazing
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) – A list of developer portfolios for your inspiration
 - [sger/RustBooks](https://github.com/sger/RustBooks) – List of Rust books
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) – Git alias commands for faster easier version control
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [solarrust/hacker-laws](https://github.com/solarrust/hacker-laws) – 💻📖 Законы, теории, принципы и модели, которые полезно знать разработчику.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) – :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -2192,7 +2194,7 @@
 - [natasha/natasha](https://github.com/natasha/natasha) – Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) – GitHub actions for terraform
 - [apple/ml-hypersim](https://github.com/apple/ml-hypersim) – Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
-- [sdispater/cleo](https://github.com/sdispater/cleo) – Cleo allows you to create beautiful and testable command-line interfaces.
+- [python-poetry/cleo](https://github.com/python-poetry/cleo) – Cleo allows you to create beautiful and testable command-line interfaces.
 - [faif/python-patterns](https://github.com/faif/python-patterns) – A collection of design patterns/idioms in Python
 - [cuducos/twitter-cleanup](https://github.com/cuducos/twitter-cleanup) – 🛁 Clean-up inactive accounts and bots from your Twitter
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) – A lightweight library for converting complex objects to and from simple Python datatypes.
