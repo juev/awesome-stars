@@ -1665,6 +1665,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [ansh/bionic-reading](https://github.com/ansh/bionic-reading) – A Chrome Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
@@ -2808,6 +2809,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) – Visualize your Markdown as mindmaps with Markmap.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
