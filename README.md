@@ -203,6 +203,7 @@
 
 ## [C++](id:c++)
 
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 - [pwsafe/pwsafe](https://github.com/pwsafe/pwsafe) – PasswordSafe - popular secure and convenient password manager
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) – YDB server (daemon) source code
@@ -383,6 +384,8 @@
 
 ## [Go](id:go)
 
+- [sheepla/srss](https://github.com/sheepla/srss) – 📘 A command line RSS/ATOM/JSON feed reader
+- [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – A starter for the self-hosted app, help you to build your next full-stack project.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [aclements/go-perf](https://github.com/aclements/go-perf) – Go packages and tools for Linux perf
 - [uw-labs/strongbox](https://github.com/uw-labs/strongbox) – Encryption for git users
@@ -1665,6 +1668,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [ansh/bionic-reading](https://github.com/ansh/bionic-reading) – A Chrome Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
@@ -2263,6 +2267,7 @@
 
 ## [Rust](id:rust)
 
+- [uuid-rs/uuid](https://github.com/uuid-rs/uuid) – Generate and parse UUIDs.
 - [nkr413/qrcode-encrypt](https://github.com/nkr413/qrcode-encrypt) – QR code with encrypted content
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) – 🚀 The blazing fast build tool for Rust.
 - [barrucadu/resolved](https://github.com/barrucadu/resolved) – A simple DNS server for home networks.
