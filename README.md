@@ -196,6 +196,7 @@
 
 ## [C#](id:c#)
 
+- [akakaplin/kvirin_message](https://github.com/akakaplin/kvirin_message) – Kvirin Message for DEMHACK 4
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) – Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) – A C# port of shadowsocks
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) – A toolkit for developing high-performance HTTP reverse proxy applications.
@@ -203,6 +204,7 @@
 
 ## [C++](id:c++)
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 - [pwsafe/pwsafe](https://github.com/pwsafe/pwsafe) – PasswordSafe - popular secure and convenient password manager
@@ -384,6 +386,7 @@
 
 ## [Go](id:go)
 
+- [pymq/demhack4](https://github.com/pymq/demhack4) – 
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) – A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [sheepla/srss](https://github.com/sheepla/srss) – 📘 A command line RSS/ATOM/JSON feed reader
 - [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – A starter for the self-hosted app, help you to build your next full-stack project.
@@ -746,6 +749,7 @@
 - [micro/services](https://github.com/micro/services) – Real world Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) – Distributed key/value store abstraction library
+- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [miekg/learninggo](https://github.com/miekg/learninggo) – Learning Go Book in mmark
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [google/mtail](https://github.com/google/mtail) – extract internal monitoring data from application logs for collection in a timeseries database
@@ -1438,12 +1442,13 @@
 
 ## [HTML](id:html)
 
+- [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
 - [google/fonts](https://github.com/google/fonts) – Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) – Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) – Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [qbit/widdler](https://github.com/qbit/widdler) – A WebDAV server for TiddlyWikis
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) – A fast, clean, responsive Hugo theme.
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) – An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) – Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
@@ -2149,6 +2154,8 @@
 
 ## [Python](id:python)
 
+- [WofWca/store-email-on-ipfs-plugin](https://github.com/WofWca/store-email-on-ipfs-plugin) – 
+- [ninofiliu/gettor-bot](https://github.com/ninofiliu/gettor-bot) – A Signal chatbot to broadcast Tor bridges in countries where Tor relays are blocked/monitored
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) – Немного о ядре Linux
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
@@ -2268,6 +2275,7 @@
 
 ## [Rust](id:rust)
 
+- [paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip) – WIP OpenAPI tooling for Rust.
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) – Generate and parse UUIDs.
 - [nkr413/qrcode-encrypt](https://github.com/nkr413/qrcode-encrypt) – QR code with encrypted content
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) – 🚀 The blazing fast build tool for Rust.
@@ -2829,7 +2837,6 @@
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) – 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
-- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
@@ -2866,7 +2873,7 @@
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim-mode for Visual Studio Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim-mode for VS Code using embedded Neovim
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
