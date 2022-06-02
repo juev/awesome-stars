@@ -386,6 +386,7 @@
 
 ## [Go](id:go)
 
+- [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [pymq/demhack4](https://github.com/pymq/demhack4) – 
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) – A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [sheepla/srss](https://github.com/sheepla/srss) – 📘 A command line RSS/ATOM/JSON feed reader
@@ -667,7 +668,7 @@
 - [graymeta/stow](https://github.com/graymeta/stow) – Cloud storage abstraction package for Go
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) – A License Classifier
 - [google/go-licenses](https://github.com/google/go-licenses) – Reports on the licenses used by a Go package and its dependencies.
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) – Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) – ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager
 - [robpike/ivy](https://github.com/robpike/ivy) – ivy, an APL-like calculator
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) – go test output for humans
@@ -749,7 +750,6 @@
 - [micro/services](https://github.com/micro/services) – Real world Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) – Distributed key/value store abstraction library
-- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [miekg/learninggo](https://github.com/miekg/learninggo) – Learning Go Book in mmark
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [google/mtail](https://github.com/google/mtail) – extract internal monitoring data from application logs for collection in a timeseries database
@@ -1321,7 +1321,7 @@
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) – Biscuit research OS
 - [genuinetools/img](https://github.com/genuinetools/img) – Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) – 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) – Data Structures and Algorithms implementation in Go
+- [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) – Data Structures and Algorithms implementation in Go
 - [knative/serving](https://github.com/knative/serving) – Kubernetes-based, scale-to-zero, request-driven compute
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) – YAML support for the Go language.
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) – TOML parser for Golang with reflection.
@@ -1331,7 +1331,7 @@
 - [docopt/docopt.go](https://github.com/docopt/docopt.go) – A command-line arguments parser that will make you smile.
 - [bmhatfield/go-runtime-metrics](https://github.com/bmhatfield/go-runtime-metrics) – Collect Golang Runtime Metrics, outputting to a stats handler
 - [adubkov/go-zabbix](https://github.com/adubkov/go-zabbix) – zabbix sender golang package
-- [pavel-v-chernykh/keystore-go](https://github.com/pavel-v-chernykh/keystore-go) – A Go (golang) implementation of Java KeyStore encoder/decoder
+- [pavlo-v-chernykh/keystore-go](https://github.com/pavlo-v-chernykh/keystore-go) – A Go (golang) implementation of Java KeyStore encoder/decoder
 - [jwilder/docker-squash](https://github.com/jwilder/docker-squash) – Squash docker images to make them smaller
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) – DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
@@ -1675,7 +1675,7 @@
 ## [JavaScript](id:javascript)
 
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
-- [ansh/bionic-reading](https://github.com/ansh/bionic-reading) – A Chrome Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Chrome Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
@@ -1776,6 +1776,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) – Iceraven Browser
 - [artnc/chronofile](https://github.com/artnc/chronofile) – Personal time tracking app
 - [bravit/klock](https://github.com/bravit/klock) – 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) – Outliner for taking notes and managing to-do lists
@@ -2275,6 +2276,7 @@
 
 ## [Rust](id:rust)
 
+- [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip) – WIP OpenAPI tooling for Rust.
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) – Generate and parse UUIDs.
 - [nkr413/qrcode-encrypt](https://github.com/nkr413/qrcode-encrypt) – QR code with encrypted content
@@ -2837,6 +2839,7 @@
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck) – 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
+- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
