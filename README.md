@@ -386,6 +386,9 @@
 
 ## [Go](id:go)
 
+- [google/gitprotocolio](https://github.com/google/gitprotocolio) – A Git protocol parser written in Go.
+- [tailscale/depaware](https://github.com/tailscale/depaware) – depaware makes you aware of your Go dependencies
+- [cpmech/gosl](https://github.com/cpmech/gosl) – Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [pymq/demhack4](https://github.com/pymq/demhack4) – 
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) – A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
@@ -1542,7 +1545,7 @@
 - [jagajaga/FP-Course-ITMO](https://github.com/jagajaga/FP-Course-ITMO) – Slides and other materials for functional programming lectures ITMO university
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) – The Haskell LaTeX library.
 - [vaclavsvejcar/headroom](https://github.com/vaclavsvejcar/headroom) – ©️ Manager for license headers in source code files.
-- [vaclavsvejcar/vcs-ignore](https://github.com/vaclavsvejcar/vcs-ignore) – 📜 Library for handling files ignored by VCS systems
+- [vaclavsvejcar/vcs-ignore](https://github.com/vaclavsvejcar/vcs-ignore) – 📜 Haskell library handling files ignored by VCS
 - [tdammers/ginger](https://github.com/tdammers/ginger) – A Haskell implementation of the Jinja template language.
 - [snoyberg/haskup](https://github.com/snoyberg/haskup) – Wrap up Haskell tools
 - [kim/opentracing](https://github.com/kim/opentracing) – OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
@@ -1920,6 +1923,9 @@
 
 ## [Others](id:others)
 
+- [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) – A dedicated place for cool golang security projects
+- [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) – Awesome Golang Security resources 🕶🔐
+- [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [miconda/sip-resources](https://github.com/miconda/sip-resources) – Various SIP resources.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -2276,6 +2282,7 @@
 
 ## [Rust](id:rust)
 
+- [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip) – WIP OpenAPI tooling for Rust.
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) – Generate and parse UUIDs.
