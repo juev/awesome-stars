@@ -386,6 +386,8 @@
 
 ## [Go](id:go)
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network.
+- [rakyll/go-hardware](https://github.com/rakyll/go-hardware) – A directory of hardware related libs, tools, and tutorials for Go
 - [google/gitprotocolio](https://github.com/google/gitprotocolio) – A Git protocol parser written in Go.
 - [tailscale/depaware](https://github.com/tailscale/depaware) – depaware makes you aware of your Go dependencies
 - [cpmech/gosl](https://github.com/cpmech/gosl) – Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
@@ -1677,6 +1679,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Chrome Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
@@ -1779,6 +1782,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) – Iceraven Browser
 - [artnc/chronofile](https://github.com/artnc/chronofile) – Personal time tracking app
 - [bravit/klock](https://github.com/bravit/klock) – 
@@ -2832,6 +2836,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) – Visualize your Markdown as mindmaps with Markmap.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
