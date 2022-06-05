@@ -96,6 +96,7 @@
 
 ## [C](id:c)
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [systemd/casync](https://github.com/systemd/casync) – Content-Addressable Data Synchronization Tool
 - [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
 - [clibs/clib](https://github.com/clibs/clib) – C package manager-ish
@@ -204,6 +205,7 @@
 
 ## [C++](id:c++)
 
+- [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
@@ -386,6 +388,7 @@
 
 ## [Go](id:go)
 
+- [pion/turn](https://github.com/pion/turn) – Pion TURN, an API for building TURN clients and servers
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network.
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) – A directory of hardware related libs, tools, and tutorials for Go
 - [google/gitprotocolio](https://github.com/google/gitprotocolio) – A Git protocol parser written in Go.
@@ -1598,7 +1601,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) – REST API for any Postgres database
 - [ucsd-progsys/liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) – Liquid Types For Haskell
 - [obsidiansystems/haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned) – Haskell library that uses HIBP to evaluate passwords
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) – A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [i-am-tom/haskell-exercises](https://github.com/i-am-tom/haskell-exercises) – A little course to learn about some of the more obscure GHC extensions.
 - [vrom911/haskell-exercises](https://github.com/vrom911/haskell-exercises) – A little course to learn about some of the more obscure GHC extensions.
 - [lspitzner/brittany](https://github.com/lspitzner/brittany) – haskell source code formatter
@@ -1679,9 +1682,10 @@
 
 ## [JavaScript](id:javascript)
 
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Chrome Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
