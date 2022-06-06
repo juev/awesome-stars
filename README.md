@@ -388,6 +388,7 @@
 
 ## [Go](id:go)
 
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) – OpenAPI v3 code generator for go
 - [pion/turn](https://github.com/pion/turn) – Pion TURN, an API for building TURN clients and servers
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network.
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) – A directory of hardware related libs, tools, and tutorials for Go
@@ -1931,6 +1932,7 @@
 
 ## [Others](id:others)
 
+- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) – Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) – A dedicated place for cool golang security projects
 - [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) – Awesome Golang Security resources 🕶🔐
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
