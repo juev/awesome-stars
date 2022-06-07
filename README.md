@@ -388,6 +388,7 @@
 
 ## [Go](id:go)
 
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) – OpenAPI v3 code generator for go
 - [pion/turn](https://github.com/pion/turn) – Pion TURN, an API for building TURN clients and servers
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network.
@@ -1701,7 +1702,7 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) – A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) – org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) – Changelog episode transcripts in Markdown format 📚
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) – A bag of various unrelated projects with varying levels of serviceability and destructiveness.
@@ -2583,7 +2584,6 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) – A rust library to print aligned and formatted tables
-- [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [rust-lang-deprecated/error-chain](https://github.com/rust-lang-deprecated/error-chain) – Error boilerplate for Rust
 - [withoutboats/bpb](https://github.com/withoutboats/bpb) – boats's personal barricade
@@ -2751,6 +2751,7 @@
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) – Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [reedes/vim-one](https://github.com/reedes/vim-one) – Because Vim's +clientserver is awesome
+- [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) – Everything you need to know about cross compiling Rust programs!
 - [kingkool68/generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) – A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [tonsky/Universal-Layout](https://github.com/tonsky/Universal-Layout) – Пакет из английской и русской раскладок, спроектированных для удобного совместного использования
