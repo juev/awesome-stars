@@ -347,7 +347,7 @@
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) – Emacs configuration for Rust
 - [haskell/haskell-mode](https://github.com/haskell/haskell-mode) – Emacs mode for Haskell
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) – :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
-- [doublep/eldev](https://github.com/doublep/eldev) – Elisp Development Tool
+- [doublep/eldev](https://github.com/doublep/eldev) – Elisp development tool
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) – Less manual switch for native or OS input source (input method).
 - [brotzeit/rustic](https://github.com/brotzeit/rustic) – Rust development environment for Emacs
 - [freetonik/castlemacs](https://github.com/freetonik/castlemacs) – Modern, minimalist Emacs for macOS ⌘
@@ -2172,6 +2172,7 @@
 
 ## [Python](id:python)
 
+- [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [WofWca/store-email-on-ipfs-plugin](https://github.com/WofWca/store-email-on-ipfs-plugin) – 
 - [ninofiliu/gettor-bot](https://github.com/ninofiliu/gettor-bot) – A Signal chatbot to broadcast Tor bridges in countries where Tor relays are blocked/monitored
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
@@ -2584,6 +2585,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) – A rust library to print aligned and formatted tables
+- [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [rust-lang-deprecated/error-chain](https://github.com/rust-lang-deprecated/error-chain) – Error boilerplate for Rust
 - [withoutboats/bpb](https://github.com/withoutboats/bpb) – boats's personal barricade
@@ -2751,7 +2753,6 @@
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) – Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [reedes/vim-one](https://github.com/reedes/vim-one) – Because Vim's +clientserver is awesome
-- [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) – Everything you need to know about cross compiling Rust programs!
 - [kingkool68/generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) – A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [tonsky/Universal-Layout](https://github.com/tonsky/Universal-Layout) – Пакет из английской и русской раскладок, спроектированных для удобного совместного использования
