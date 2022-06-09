@@ -277,6 +277,7 @@
 
 ## [Common Lisp](id:common-lisp)
 
+- [lem-project/lem](https://github.com/lem-project/lem) – Common Lisp editor/IDE with high expansibility
 - [jasom/nyaml](https://github.com/jasom/nyaml) – A lisp native YAML parser
 - [fukamachi/qlot](https://github.com/fukamachi/qlot) – A project-local library installer for Common Lisp
 - [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
@@ -388,6 +389,7 @@
 
 ## [Go](id:go)
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) – OpenAPI v3 code generator for go
 - [pion/turn](https://github.com/pion/turn) – Pion TURN, an API for building TURN clients and servers
@@ -400,7 +402,7 @@
 - [pymq/demhack4](https://github.com/pymq/demhack4) – 
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) – A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [sheepla/srss](https://github.com/sheepla/srss) – 📘 A command line RSS/ATOM/JSON feed reader
-- [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – A starter for the self-hosted app, help you to build your next full-stack project.
+- [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – 🪄 A starter for the self-hosted app, help you to build your next full-stack project.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [aclements/go-perf](https://github.com/aclements/go-perf) – Go packages and tools for Linux perf
 - [uw-labs/strongbox](https://github.com/uw-labs/strongbox) – Encryption for git users
@@ -1560,7 +1562,7 @@
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) – Project templates for stack new
 - [srid/neuron](https://github.com/srid/neuron) – Future-proof note-taking and publishing based on Zettelkasten
 - [tfausak/witch](https://github.com/tfausak/witch) – :mage_woman: Convert values from one type into another.
-- [srid/ema](https://github.com/srid/ema) – Haskell static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) – Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) – An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) – A statically typed lisp, without a GC, for real-time applications.
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) – An extended tutorial/book on Haskell development. A library for playing Scrabble is developed as well as two clients, one of which is networked and allows for remote one or two-player games over the web.
@@ -1828,7 +1830,7 @@
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) – magit for neovim
 - [camspiers/snap](https://github.com/camspiers/snap) – A fast finder system for neovim.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) – take your scientific notes :pencil2: in Neovim
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) – Quickstart configurations for the Nvim LSP client
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) – Quickstart configs for Nvim LSP
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) – A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) – Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) – Orgmode clone written in Lua for Neovim 0.7+.
