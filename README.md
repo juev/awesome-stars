@@ -256,6 +256,7 @@
 
 ## [CSS](id:css)
 
+- [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [nikomatsakis/rustconf-2021-e44bec44](https://github.com/nikomatsakis/rustconf-2021-e44bec44) – Talk for RustConf 2021
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
@@ -389,6 +390,8 @@
 
 ## [Go](id:go)
 
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) – an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
+- [voidint/g](https://github.com/voidint/g) – Golang Version Manager
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) – OpenAPI v3 code generator for go
@@ -759,7 +762,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – A context discovery tool for Kubernetes penetration testing. 
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) – LevelDB key/value database in Go.
-- [micro/services](https://github.com/micro/services) – Real world Micro services
+- [micro/services](https://github.com/micro/services) – Real World Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) – Distributed key/value store abstraction library
 - [miekg/learninggo](https://github.com/miekg/learninggo) – Learning Go Book in mmark
@@ -855,7 +858,7 @@
 - [couchbase/nitro](https://github.com/couchbase/nitro) – A high performance in-memory index storage engine
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) – Kubernetes CLI plugin to decode Kubernetes secrets
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) – 📦 Find and install kubectl plugins
-- [cloudflare/pint](https://github.com/cloudflare/pint) – Prometheus rule linter
+- [cloudflare/pint](https://github.com/cloudflare/pint) – Prometheus rule linter/validator
 - [ortuman/jackal](https://github.com/ortuman/jackal) – 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, typically on macOS, for running containerd
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) – Dhall bindings for go
@@ -866,7 +869,7 @@
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) – Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
-- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) – Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [PierreKieffer/htui](https://github.com/PierreKieffer/htui) – Heroku Terminal User Interface
@@ -1025,7 +1028,7 @@
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) – go chart is a basic charting library in go.
 - [joho/godotenv](https://github.com/joho/godotenv) – A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [Shopify/sarama](https://github.com/Shopify/sarama) – Sarama is a Go library for Apache Kafka.
-- [wal-g/wal-g](https://github.com/wal-g/wal-g) – Archival and Restoration for Postgres
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) – Archival and Restoration for databases in the Cloud
 - [stashed/stash](https://github.com/stashed/stash) – 🛅 Backup your Kubernetes Stateful Applications
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [Tinkoff/invest-openapi-go-sdk](https://github.com/Tinkoff/invest-openapi-go-sdk) – 
@@ -1238,7 +1241,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – An API first development platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -2296,6 +2299,7 @@
 
 ## [Rust](id:rust)
 
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
 - [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip) – WIP OpenAPI tooling for Rust.
@@ -2507,7 +2511,7 @@
 - [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) – A test-driven workshop to learn Rust building your own JIRA clone!
 - [softprops/goji](https://github.com/softprops/goji) – a rust interface for jira
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) – Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) – A Text User Interface library for the Rust programming language
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) – Build terminal user interfaces and dashboards using Rust
