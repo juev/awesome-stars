@@ -390,6 +390,9 @@
 
 ## [Go](id:go)
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [sigstore/gitsign](https://github.com/sigstore/gitsign) – Keyless Git signing using Sigstore
+- [go-faster/jx](https://github.com/go-faster/jx) – json encoding and decoding
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) – an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 - [voidint/g](https://github.com/voidint/g) – Golang Version Manager
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -1665,7 +1668,7 @@
 - [jaspervdj/jaspervdj](https://github.com/jaspervdj/jaspervdj) – Source code of my personal home page.
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) – Haskell source code suggestions
-- [rkaippully/webgear](https://github.com/rkaippully/webgear) – Build composable, type-safe HTTP APIs in Haskell
+- [rkaippully/webgear](https://github.com/rkaippully/webgear) – Moved to https://github.com/haskell-webgear/webgear
 - [willkurt/CS326-Haskell](https://github.com/willkurt/CS326-Haskell) – Lecture notes and sample code for the Haskell portion of UNR's CS 326
 - [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) – Mu (μ) is a purely functional framework for building micro services.
 - [kowainik/summoner](https://github.com/kowainik/summoner) – 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
