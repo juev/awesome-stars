@@ -96,6 +96,7 @@
 
 ## [C](id:c)
 
+- [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [systemd/casync](https://github.com/systemd/casync) – Content-Addressable Data Synchronization Tool
 - [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
@@ -390,6 +391,7 @@
 
 ## [Go](id:go)
 
+- [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) – A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) – Keyless Git signing using Sigstore
 - [go-faster/jx](https://github.com/go-faster/jx) – json encoding and decoding
@@ -2649,6 +2651,7 @@
 
 ## [Shell](id:shell)
 
+- [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – This is a multi-use bash script for Linux systems to audit wireless networks.
 - [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Backup and Restore Raspberry Pi SD cards ... easily create image files
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) – A system for automatically configuring mutt and isync with a simple interface and safe passwords
