@@ -391,6 +391,7 @@
 
 ## [Go](id:go)
 
+- [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) – A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) – Keyless Git signing using Sigstore
@@ -874,7 +875,7 @@
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
 - [trustpilot/beat-exporter](https://github.com/trustpilot/beat-exporter) – Elastic beat-exporter for Prometheus
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
-- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) – Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [PierreKieffer/htui](https://github.com/PierreKieffer/htui) – Heroku Terminal User Interface
@@ -2652,7 +2653,7 @@
 ## [Shell](id:shell)
 
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – This is a multi-use bash script for Linux systems to audit wireless networks.
-- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Backup and Restore Raspberry Pi SD cards ... easily create image files
+- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Create your own custom image files
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) – A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) – spellcheck dictionary for programmers 📖
