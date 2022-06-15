@@ -391,6 +391,9 @@
 
 ## [Go](id:go)
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
+- [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) – Outline Shadowsocks server
+- [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) – A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -1828,7 +1831,6 @@
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) – A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) – An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – A small, documented, and featureful neovim starter config
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) – A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) – A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) – The Refactoring library based off the Refactoring book by Martin Fowler
@@ -2652,6 +2654,7 @@
 
 ## [Shell](id:shell)
 
+- [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – This is a multi-use bash script for Linux systems to audit wireless networks.
 - [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Create your own custom image files
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
