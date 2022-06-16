@@ -1466,6 +1466,7 @@
 
 ## [HTML](id:html)
 
+- [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) – Free variable writing fonts from iA
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
 - [google/fonts](https://github.com/google/fonts) – Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) – Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
