@@ -391,6 +391,7 @@
 
 ## [Go](id:go)
 
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
 - [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) – Outline Shadowsocks server
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
@@ -769,7 +770,7 @@
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nsqio/nsq](https://github.com/nsqio/nsq) – A realtime distributed messaging platform
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
-- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – A context discovery tool for Kubernetes penetration testing. 
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – Kubernetes focused container assessment tool for penetration testing
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) – LevelDB key/value database in Go.
 - [micro/services](https://github.com/micro/services) – Real World Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
@@ -2308,6 +2309,7 @@
 
 ## [Rust](id:rust)
 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – mirrord lets you easily mirror traffic from your production environment to your development environment.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
 - [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
