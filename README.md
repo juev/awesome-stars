@@ -391,6 +391,9 @@
 
 ## [Go](id:go)
 
+- [gookit/validate](https://github.com/gookit/validate) – ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
+- [database64128/swgp-go](https://github.com/database64128/swgp-go) – 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
 - [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) – Outline Shadowsocks server
@@ -1467,6 +1470,7 @@
 
 ## [HTML](id:html)
 
+- [chrisalbon/notes](https://github.com/chrisalbon/notes) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) – Free variable writing fonts from iA
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
 - [google/fonts](https://github.com/google/fonts) – Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -1700,6 +1704,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) – Free cross-platform password manager compatible with KeePass
+- [pfn/passifox](https://github.com/pfn/passifox) – Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
@@ -1948,6 +1954,7 @@
 
 ## [Others](id:others)
 
+- [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) – A curated list of awesome Notion related things.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) – Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) – A dedicated place for cool golang security projects
 - [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) – Awesome Golang Security resources 🕶🔐
@@ -2187,6 +2194,7 @@
 
 ## [Python](id:python)
 
+- [thcipriani/sshecret](https://github.com/thcipriani/sshecret) – I can keep a SSHecret
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [WofWca/store-email-on-ipfs-plugin](https://github.com/WofWca/store-email-on-ipfs-plugin) – 
 - [ninofiliu/gettor-bot](https://github.com/ninofiliu/gettor-bot) – A Signal chatbot to broadcast Tor bridges in countries where Tor relays are blocked/monitored
@@ -2657,6 +2665,7 @@
 
 ## [Shell](id:shell)
 
+- [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) – Tyler Cipriani's dotfiles
 - [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – This is a multi-use bash script for Linux systems to audit wireless networks.
 - [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) – Create your own custom image files
