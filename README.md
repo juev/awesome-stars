@@ -1866,6 +1866,7 @@
 - [mna/luashell](https://github.com/mna/luashell) – A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) – Health Checker for Nginx Upstream Servers in Pure Lua
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) – My personal Hammerspoon configuration - mirrored from GitLab
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## [Makefile](id:makefile)
 
@@ -2194,6 +2195,7 @@
 
 ## [Python](id:python)
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) – the only cheat sheet you need
 - [thcipriani/sshecret](https://github.com/thcipriani/sshecret) – I can keep a SSHecret
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [WofWca/store-email-on-ipfs-plugin](https://github.com/WofWca/store-email-on-ipfs-plugin) – 
@@ -2872,6 +2874,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) – Visualize your Markdown as mindmaps with Markmap.
@@ -3011,7 +3014,6 @@
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) – ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) – My NixOS configs
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) – :dragon: Unite and create user interfaces
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
