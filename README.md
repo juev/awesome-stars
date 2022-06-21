@@ -903,7 +903,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) – Detect all kinds of leaks in Go
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) – Basic LDAP v3 functionality for the GO programming language.
-- [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-kit/log](https://github.com/go-kit/log) – A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) – Multitree-based personal task manager
@@ -2320,6 +2320,7 @@
 
 ## [Rust](id:rust)
 
+- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) – A tool to help you find unsubscribe links in your emails
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
 - [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
