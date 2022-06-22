@@ -43,6 +43,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -324,6 +325,7 @@
 
 ## [Emacs Lisp](id:emacs-lisp)
 
+- [dakrone/eos](https://github.com/dakrone/eos) – Welcome to the Emacs of Things, aka the Emacs Operating System
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) – Fastest LSP client for Emacs
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
 - [Viglioni/lauremacs](https://github.com/Viglioni/lauremacs) – My new emacs configuration (wip!!)
@@ -391,6 +393,11 @@
 
 ## [Go](id:go)
 
+- [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
+- [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
+- [shiyanhui/dht](https://github.com/shiyanhui/dht) – BitTorrent DHT Protocol && DHT Spider.
+- [pojntfx/htorrent](https://github.com/pojntfx/htorrent) – HTTP to BitTorrent gateway with seeking support.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) – An HTTP toolkit for security research.
 - [gookit/validate](https://github.com/gookit/validate) – ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [database64128/swgp-go](https://github.com/database64128/swgp-go) – 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
@@ -1825,6 +1832,7 @@
 
 ## [Lua](id:lua)
 
+- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) – A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) – A configuration for Neovim beginners.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
@@ -1885,6 +1893,10 @@
 ## [Mathematica](id:mathematica)
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
+
+## [Nim](id:nim)
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) – Alternative Twitter front-end
 
 ## [Nix](id:nix)
 
@@ -1955,6 +1967,8 @@
 
 ## [Others](id:others)
 
+- [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) – A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
+- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) – Organized list of my malware development resources
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) – A curated list of awesome Notion related things.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) – Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) – A dedicated place for cool golang security projects
@@ -2195,6 +2209,7 @@
 
 ## [Python](id:python)
 
+- [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) – A Telegram bot that forwards Tweets
 - [mautrix/twitter](https://github.com/mautrix/twitter) – A Matrix-Twitter DM puppeting bridge
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) – the only cheat sheet you need
 - [thcipriani/sshecret](https://github.com/thcipriani/sshecret) – I can keep a SSHecret
@@ -2669,6 +2684,7 @@
 
 ## [Shell](id:shell)
 
+- [mbologna/docker-bitlbee](https://github.com/mbologna/docker-bitlbee) – Run bitlbee with TLS and custom protocols in a container
 - [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) – Tyler Cipriani's dotfiles
 - [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) – This is a multi-use bash script for Linux systems to audit wireless networks.
