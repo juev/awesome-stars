@@ -42,6 +42,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -303,6 +304,7 @@
 
 ## [Dockerfile](id:dockerfile)
 
+- [savsgio/docker-rocksdb](https://github.com/savsgio/docker-rocksdb) – Alpine docker image with the pre-compiled shared library of RocksDB
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
 - [andrius/blink-dotfiles](https://github.com/andrius/blink-dotfiles) – Dotfiles for tmux and vim/nvim working with blink and mac os
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) – Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
@@ -458,7 +460,6 @@
 - [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) – A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [replicate/cog](https://github.com/replicate/cog) – Containers for machine learning
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) – IPFS implementation in Go
 - [cenkalti/rain](https://github.com/cenkalti/rain) – 🌧 BitTorrent client and library in Go
 - [nosequeldeebee/blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) – Write and publish your own blockchain in less than 200 lines of Go
@@ -1890,6 +1891,10 @@
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) – Standard Go Project Layout
 
+## [Markdown](id:markdown)
+
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) – A curation of prompts, plugins & other resources for Fish. 🐚
+
 ## [Mathematica](id:mathematica)
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
@@ -2109,7 +2114,6 @@
 - [denisshevchenko/hypertrophy](https://github.com/denisshevchenko/hypertrophy) – Гипертрофия скелетных мышц человека
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) – A curation of prompts, plugins & other resources for Fish. 🐚
 - [limetext/lime](https://github.com/limetext/lime) – Open source API-compatible alternative to the text editor Sublime Text
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) – A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -2219,6 +2223,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) – Немного о ядре Linux
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
+- [replicate/cog](https://github.com/replicate/cog) – Containers for machine learning
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Collaborative Penetration Test and Vulnerability Management Platform
 - [Aurelien-Pelissier/Medium](https://github.com/Aurelien-Pelissier/Medium) – All the code related to my medium articles
 - [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
