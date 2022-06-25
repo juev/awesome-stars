@@ -395,6 +395,9 @@
 
 ## [Go](id:go)
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
+- [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) – Pinset orchestration for IPFS
+- [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
 - [shiyanhui/dht](https://github.com/shiyanhui/dht) – BitTorrent DHT Protocol && DHT Spider.
@@ -911,7 +914,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [zimmski/go-leak](https://github.com/zimmski/go-leak) – Detect all kinds of leaks in Go
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) – Basic LDAP v3 functionality for the GO programming language.
-- [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-kit/log](https://github.com/go-kit/log) – A minimal and extensible structured logger
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) – Multitree-based personal task manager
@@ -1712,6 +1715,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) – Zero-Config CLI to Deploy Static Websites to IPFS
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) – Free cross-platform password manager compatible with KeePass
 - [pfn/passifox](https://github.com/pfn/passifox) – Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -1972,6 +1976,7 @@
 
 ## [Others](id:others)
 
+- [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) – Educational material to learn about Goggles and how to create your own. 
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) – A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) – Organized list of my malware development resources
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) – A curated list of awesome Notion related things.
@@ -2213,6 +2218,7 @@
 
 ## [Python](id:python)
 
+- [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) – A Telegram bot that forwards Tweets
 - [mautrix/twitter](https://github.com/mautrix/twitter) – A Matrix-Twitter DM puppeting bridge
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) – the only cheat sheet you need
@@ -2689,6 +2695,7 @@
 
 ## [Shell](id:shell)
 
+- [ipfs-shipyard/ipfs-github-action](https://github.com/ipfs-shipyard/ipfs-github-action) – Pin your site to IPFS from a GitHub Action
 - [mbologna/docker-bitlbee](https://github.com/mbologna/docker-bitlbee) – Run bitlbee with TLS and custom protocols in a container
 - [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) – Tyler Cipriani's dotfiles
 - [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
@@ -2897,6 +2904,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
@@ -2934,7 +2942,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) – 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
