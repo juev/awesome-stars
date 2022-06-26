@@ -395,6 +395,9 @@
 
 ## [Go](id:go)
 
+- [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
+- [headzoo/surf](https://github.com/headzoo/surf) – Stateful programmatic web browsing in Go.
+- [ztrue/tracerr](https://github.com/ztrue/tracerr) – Golang errors with stack trace and source fragments.
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) – Pinset orchestration for IPFS
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
@@ -1493,6 +1496,7 @@
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
 - [go101/go101](https://github.com/go101/go101) – An online book focusing on Go syntax/semantics and runtime related things
 - [rumyantseva/sketch.lenka.blog](https://github.com/rumyantseva/sketch.lenka.blog) – Блог про то, как в редкое свободное время я учусь рисовать 👩‍🎨
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) – Zim: Modular, customizable, and blazing fast Zsh framework
 - [SciML/SciMLBook](https://github.com/SciML/SciMLBook) – Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J)
 - [ashok-khanna/lisp-notes](https://github.com/ashok-khanna/lisp-notes) – Repo for Common Lisp by Example and all other useful resources I found online
@@ -1715,6 +1719,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) – Zero-Config CLI to Deploy Static Websites to IPFS
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) – Free cross-platform password manager compatible with KeePass
 - [pfn/passifox](https://github.com/pfn/passifox) – Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
@@ -1751,7 +1756,6 @@
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) – A List of Foundational Haskell Papers 
 - [morkro/papyrus](https://github.com/morkro/papyrus) – 📄 Unofficial Dropbox Paper desktop app
 - [philc/vimium](https://github.com/philc/vimium) – The hacker's browser.
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) – Browserpass web extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) – ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [git-tips/tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
@@ -2198,6 +2202,7 @@
 
 ## [PHP](id:php)
 
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) – The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [simonmichael/haskell-links](https://github.com/simonmichael/haskell-links) – Exploratory project to gather Haskell links
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext) – 📖 Enjoy full text for tt-rss.
@@ -2904,6 +2909,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
