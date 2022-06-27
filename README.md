@@ -395,6 +395,7 @@
 
 ## [Go](id:go)
 
+- [go-shiori/obelisk](https://github.com/go-shiori/obelisk) – Go package and CLI tool for saving web page as single HTML file
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [headzoo/surf](https://github.com/headzoo/surf) – Stateful programmatic web browsing in Go.
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) – Golang errors with stack trace and source fragments.
@@ -1980,6 +1981,7 @@
 
 ## [Others](id:others)
 
+- [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – An Awesome List for getting started with web archiving
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) – Educational material to learn about Goggles and how to create your own. 
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) – A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) – Organized list of my malware development resources
