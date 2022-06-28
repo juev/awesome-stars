@@ -788,7 +788,7 @@
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nsqio/nsq](https://github.com/nsqio/nsq) – A realtime distributed messaging platform
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
-- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – Kubernetes focused container assessment tool for penetration testing
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – Kubernetes focused container assessment and context discovery tool for penetration testing
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) – LevelDB key/value database in Go.
 - [micro/services](https://github.com/micro/services) – Real World Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
@@ -1808,6 +1808,7 @@
 
 ## [Julia](id:julia)
 
+- [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) – (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) – The Julia Programming Language
 
 ## [Jupyter Notebook](id:jupyter-notebook)
@@ -1981,6 +1982,8 @@
 
 ## [Others](id:others)
 
+- [danakt/russian-words](https://github.com/danakt/russian-words) – List of Russian words
+- [ArpitIngle/Library-of-Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) – Curated Collection of Ethereum Ecosystem Resources
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – An Awesome List for getting started with web archiving
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) – Educational material to learn about Goggles and how to create your own. 
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) – A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
@@ -2204,6 +2207,7 @@
 
 ## [PHP](id:php)
 
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) – wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) – The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [simonmichael/haskell-links](https://github.com/simonmichael/haskell-links) – Exploratory project to gather Haskell links
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
