@@ -42,7 +42,6 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -395,6 +394,7 @@
 
 ## [Go](id:go)
 
+- [milgradesec/ddns](https://github.com/milgradesec/ddns) – Dynamic DNS client for Cloudflare managed domains
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) – Go package and CLI tool for saving web page as single HTML file
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [headzoo/surf](https://github.com/headzoo/surf) – Stateful programmatic web browsing in Go.
@@ -1542,6 +1542,7 @@
 
 ## [Haskell](id:haskell)
 
+- [channable/vaultenv](https://github.com/channable/vaultenv) – Launch processes with Vault secrets in the environment
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) – ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [kowainik/hakyll-shortcut-links](https://github.com/kowainik/hakyll-shortcut-links) – ✂️ Hakyll shortcut-links in markdown files
@@ -1596,7 +1597,7 @@
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) – Project templates for stack new
 - [srid/neuron](https://github.com/srid/neuron) – Future-proof note-taking and publishing based on Zettelkasten
 - [tfausak/witch](https://github.com/tfausak/witch) – :mage_woman: Convert values from one type into another.
-- [srid/ema](https://github.com/srid/ema) – Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
+- [EmaApps/ema](https://github.com/EmaApps/ema) – Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) – An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) – A statically typed lisp, without a GC, for real-time applications.
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) – An extended tutorial/book on Haskell development. A library for playing Scrabble is developed as well as two clients, one of which is networked and allows for remote one or two-player games over the web.
@@ -1901,10 +1902,6 @@
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) – Standard Go Project Layout
 
-## [Markdown](id:markdown)
-
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) – A curation of prompts, plugins & other resources for Fish. 🐚
-
 ## [Mathematica](id:mathematica)
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
@@ -2128,6 +2125,7 @@
 - [denisshevchenko/hypertrophy](https://github.com/denisshevchenko/hypertrophy) – Гипертрофия скелетных мышц человека
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) – A curation of prompts, plugins & other resources for Fish. 🐚
 - [limetext/lime](https://github.com/limetext/lime) – Open source API-compatible alternative to the text editor Sublime Text
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) – A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
