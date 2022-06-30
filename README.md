@@ -89,6 +89,7 @@
 
 ## [Assembly](id:assembly)
 
+- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) – An approachable introduction to assembly.
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) – A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## [Batchfile](id:batchfile)
@@ -97,6 +98,7 @@
 
 ## [C](id:c)
 
+- [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher) – An easy to use, easy to deploy crypto library
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [systemd/casync](https://github.com/systemd/casync) – Content-Addressable Data Synchronization Tool
@@ -394,6 +396,8 @@
 
 ## [Go](id:go)
 
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [liamg/dismember](https://github.com/liamg/dismember) – :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 - [milgradesec/ddns](https://github.com/milgradesec/ddns) – Dynamic DNS client for Cloudflare managed domains
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) – Go package and CLI tool for saving web page as single HTML file
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
@@ -2940,7 +2944,7 @@
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) – 📎 GitHub Action for PR annotations with clippy warnings
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
-- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – Signal — Private Messenger for Windows, Mac, and Linux
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) – 
 - [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) – The knowledge IDE
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) – Turn GitHub into a bookmark manager
