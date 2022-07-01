@@ -98,6 +98,7 @@
 
 ## [C](id:c)
 
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
 - [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher) – An easy to use, easy to deploy crypto library
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -305,6 +306,7 @@
 
 ## [Dockerfile](id:dockerfile)
 
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) – 
 - [savsgio/docker-rocksdb](https://github.com/savsgio/docker-rocksdb) – Alpine docker image with the pre-compiled shared library of RocksDB
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
 - [andrius/blink-dotfiles](https://github.com/andrius/blink-dotfiles) – Dotfiles for tmux and vim/nvim working with blink and mac os
@@ -396,6 +398,8 @@
 
 ## [Go](id:go)
 
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) – Easy SSH servers in Golang
+- [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) – Nano ID in Go -- very fast and efficient unique ID generator.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [liamg/dismember](https://github.com/liamg/dismember) – :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 - [milgradesec/ddns](https://github.com/milgradesec/ddns) – Dynamic DNS client for Cloudflare managed domains
@@ -438,7 +442,7 @@
 - [pymq/demhack4](https://github.com/pymq/demhack4) – 
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) – A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [sheepla/srss](https://github.com/sheepla/srss) – 📘 A command line RSS/ATOM/JSON feed reader
-- [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – 🪄 A starter for the self-hosted app, help you to build your next full-stack project.
+- [xiaoluoboding/self-hosted-app-starter](https://github.com/xiaoluoboding/self-hosted-app-starter) – 🪄 A starter for the self-hosted app, help you to build your next full-stack project. https://sha-starter.onrender.com
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [aclements/go-perf](https://github.com/aclements/go-perf) – Go packages and tools for Linux perf
 - [uw-labs/strongbox](https://github.com/uw-labs/strongbox) – Encryption for git users
@@ -794,7 +798,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) – Kubernetes focused container assessment and context discovery tool for penetration testing
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) – LevelDB key/value database in Go.
-- [micro/services](https://github.com/micro/services) – Real World Micro services
+- [micro/services](https://github.com/micro/services) – Real world Micro services
 - [distribution/distribution](https://github.com/distribution/distribution) – The toolkit to pack, ship, store, and deliver container content
 - [docker/libkv](https://github.com/docker/libkv) – Distributed key/value store abstraction library
 - [miekg/learninggo](https://github.com/miekg/learninggo) – Learning Go Book in mmark
@@ -1725,6 +1729,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) – Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) – Zero-Config CLI to Deploy Static Websites to IPFS
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) – Free cross-platform password manager compatible with KeePass
@@ -1983,6 +1988,7 @@
 
 ## [Others](id:others)
 
+- [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) – Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [danakt/russian-words](https://github.com/danakt/russian-words) – List of Russian words
 - [ArpitIngle/Library-of-Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) – Curated Collection of Ethereum Ecosystem Resources
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – An Awesome List for getting started with web archiving
@@ -2219,6 +2225,7 @@
 
 ## [Perl](id:perl)
 
+- [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) – Golang - Regular Expression Tutorial
 - [sitaramc/gitolite](https://github.com/sitaramc/gitolite) – Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) – Health checks upstreams for nginx
@@ -2231,6 +2238,7 @@
 
 ## [Python](id:python)
 
+- [dethos/clipboard-watcher](https://github.com/dethos/clipboard-watcher) – Keep an eye on the apps that are using your clipboard
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) – A Telegram bot that forwards Tweets
 - [mautrix/twitter](https://github.com/mautrix/twitter) – A Matrix-Twitter DM puppeting bridge
