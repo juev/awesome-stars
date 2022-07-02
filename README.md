@@ -5,6 +5,7 @@
 ## Contents
 
 - [AGS Script](#ags-script)
+- [Agda](#agda)
 - [AppleScript](#applescript)
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
@@ -79,6 +80,10 @@
 
 - [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) – Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 
+## [Agda](id:agda)
+
+- [bitonic/mazzo.li](https://github.com/bitonic/mazzo.li) – Source for https://mazzo.li
+
 ## [AppleScript](id:applescript)
 
 - [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) – Interact with Things 3 using Alfred.
@@ -98,6 +103,7 @@
 
 ## [C](id:c)
 
+- [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) – A lightweight DNS-over-HTTPS proxy.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
 - [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher) – An easy to use, easy to deploy crypto library
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
@@ -394,10 +400,13 @@
 
 ## [Gherkin](id:gherkin)
 
+- [Xe/when-then-zen](https://github.com/Xe/when-then-zen) – Meditation instructions from spiritual texts ripped out of the contexts of their spirituality and presented in the universal format of Gherkin
 - [iphoting/ovpnmcgen.rb](https://github.com/iphoting/ovpnmcgen.rb) – An OpenVPN iOS Configuration Profile (.mobileconfig) Utility—Configures OpenVPN for use with VPN-on-Demand that are not exposed through Apple Configurator 2.
 
 ## [Go](id:go)
 
+- [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) – Easy SSH servers in Golang
 - [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) – Nano ID in Go -- very fast and efficient unique ID generator.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1838,6 +1847,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [iSoron/uhabits](https://github.com/iSoron/uhabits) – Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) – Iceraven Browser
 - [artnc/chronofile](https://github.com/artnc/chronofile) – Personal time tracking app
@@ -2993,7 +3003,7 @@
 ## [V](id:v)
 
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) – A statically typed scripting language that transpile into POSIX sh
-- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 - [vlang/gitly](https://github.com/vlang/gitly) – Light and fast GitHub/GitLab alternative written in V
 
 ## [Vala](id:vala)
