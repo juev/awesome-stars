@@ -405,6 +405,7 @@
 
 ## [Go](id:go)
 
+- [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) – Easy SSH servers in Golang
@@ -660,7 +661,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1502,6 +1503,7 @@
 
 ## [HTML](id:html)
 
+- [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [chrisalbon/notes](https://github.com/chrisalbon/notes) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) – Free variable writing fonts from iA
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
@@ -1738,6 +1740,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – A curated list of high quality coding style conventions and standards.
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all your development needs
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) – Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) – Zero-Config CLI to Deploy Static Websites to IPFS
@@ -1998,6 +2002,8 @@
 
 ## [Others](id:others)
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) – A collection of (mostly) technical things every software developer should know about
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) – A complete computer science study plan to become a software engineer.
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) – Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [danakt/russian-words](https://github.com/danakt/russian-words) – List of Russian words
 - [ArpitIngle/Library-of-Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) – Curated Collection of Ethereum Ecosystem Resources
@@ -2248,6 +2254,8 @@
 
 ## [Python](id:python)
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) – A collection of full-stack resources for programmers.
 - [dethos/clipboard-watcher](https://github.com/dethos/clipboard-watcher) – Keep an eye on the apps that are using your clipboard
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) – A Telegram bot that forwards Tweets
@@ -2935,6 +2943,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Roadmap to becoming a developer in 2022
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
