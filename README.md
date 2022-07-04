@@ -893,7 +893,7 @@
 - [gitea-group-sync/gitea-group-sync](https://github.com/gitea-group-sync/gitea-group-sync) – Go script for syncing LDAP user group membership to Gitea
 - [peco/peco](https://github.com/peco/peco) – Simplistic interactive filtering tool
 - [jimeh/build-emacs-for-macos](https://github.com/jimeh/build-emacs-for-macos) – Somewhat hacky script to automate building of Emac.app on macOS.
-- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) – Neovim GUI written in Golang, using a Golang qt backend
+- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) – A GUI frontend for neovim.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) – A pack of various Tmux themes.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) – Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [bep/workers](https://github.com/bep/workers) – Set up tasks to be executed in parallel.
@@ -2809,7 +2809,7 @@
 - [lucasfcosta/dotfiles](https://github.com/lucasfcosta/dotfiles) – :robot: My collection of highly opinionated and amazing configs
 - [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) – 
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) – Speed up your Git workflow. :tropical_fish:
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for 🪝Fish.
 - [ttscoff/fish_files](https://github.com/ttscoff/fish_files) – 
 - [benmatselby/hugo-deploy-gh-pages](https://github.com/benmatselby/hugo-deploy-gh-pages) – 📦 A GitHub Action to build and deploy a Hugo site to GitHub Pages
 - [tony/tmux-config](https://github.com/tony/tmux-config) – :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
