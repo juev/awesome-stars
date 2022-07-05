@@ -1867,6 +1867,7 @@
 
 ## [Lua](id:lua)
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) – A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) – A configuration for Neovim beginners.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -2385,6 +2386,8 @@
 
 ## [Rust](id:rust)
 
+- [wezm/rsspls](https://github.com/wezm/rsspls) – Generate RSS feeds from websites
+- [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) – A tool to help you find unsubscribe links in your emails
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
