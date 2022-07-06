@@ -405,6 +405,7 @@
 
 ## [Go](id:go)
 
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) – A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
@@ -2003,6 +2004,7 @@
 
 ## [Others](id:others)
 
+- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) – A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) – A complete computer science study plan to become a software engineer.
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) – Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
@@ -2403,7 +2405,7 @@
 - [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) – Binary installation for rust projects
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH and HTTPS bastion that works with any SSH client
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) – A command-line tool to prevent committing secret keys into your source code
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
@@ -2812,7 +2814,7 @@
 - [lucasfcosta/dotfiles](https://github.com/lucasfcosta/dotfiles) – :robot: My collection of highly opinionated and amazing configs
 - [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) – 
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) – Speed up your Git workflow. :tropical_fish:
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for 🪝Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for Fish.
 - [ttscoff/fish_files](https://github.com/ttscoff/fish_files) – 
 - [benmatselby/hugo-deploy-gh-pages](https://github.com/benmatselby/hugo-deploy-gh-pages) – 📦 A GitHub Action to build and deploy a Hugo site to GitHub Pages
 - [tony/tmux-config](https://github.com/tony/tmux-config) – :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
@@ -2903,6 +2905,7 @@
 
 ## [Swift](id:swift)
 
+- [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [ZevEisenberg/Keyb](https://github.com/ZevEisenberg/Keyb) – Type with one hand on a Mac
