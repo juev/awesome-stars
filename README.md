@@ -486,7 +486,7 @@
 - [lightninglabs/loop](https://github.com/lightninglabs/loop) – Lightning Loop: A Non-Custodial Off/On Chain Bridge
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) – A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) – IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) – IPFS implementation in Go
 - [cenkalti/rain](https://github.com/cenkalti/rain) – 🌧 BitTorrent client and library in Go
 - [nosequeldeebee/blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) – Write and publish your own blockchain in less than 200 lines of Go
 - [mvdan/unparam](https://github.com/mvdan/unparam) – Find unused parameters in Go
