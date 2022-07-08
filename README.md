@@ -1232,7 +1232,7 @@
 - [rakyll/govalidate](https://github.com/rakyll/govalidate) – Validates your Go installation and dependencies.
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [TekWizely/run](https://github.com/TekWizely/run) – Easily manage and invoke small scripts and wrappers
+- [TekWizely/run](https://github.com/TekWizely/run) – Task runner that helps you easily manage and invoke small scripts and wrappers
 - [tj/staticgen](https://github.com/tj/staticgen) – Static website generator that lets you use HTTP servers and frameworks you already know
 - [faiface/pixel](https://github.com/faiface/pixel) – A hand-crafted 2D game library in Go
 - [goki/gi](https://github.com/goki/gi) – Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
@@ -1615,7 +1615,7 @@
 - [kim/opentracing](https://github.com/kim/opentracing) – OpenTracing (https://opentracing.io) for Haskell (EXPERIMENTAL)
 - [fourmolu/fourmolu](https://github.com/fourmolu/fourmolu) – A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) – Project templates for stack new
-- [srid/neuron](https://github.com/srid/neuron) – Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) – Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [tfausak/witch](https://github.com/tfausak/witch) – :mage_woman: Convert values from one type into another.
 - [EmaApps/ema](https://github.com/EmaApps/ema) – Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) – An HTTP client engine, intended as a base layer for more user-friendly packages.
