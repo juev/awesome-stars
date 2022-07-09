@@ -405,6 +405,9 @@
 
 ## [Go](id:go)
 
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
+- [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) – A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
@@ -3146,6 +3149,7 @@
 
 ## [Zig](id:zig)
 
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek) – 
