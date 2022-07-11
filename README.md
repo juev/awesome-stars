@@ -381,7 +381,6 @@
 ## [Erlang](id:erlang)
 
 - [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) – Delayed Messaging for RabbitMQ
-- [lfe/lfe](https://github.com/lfe/lfe) – Lisp Flavoured Erlang (LFE)
 - [erlangbureau/jamdb_oracle](https://github.com/erlangbureau/jamdb_oracle) – Oracle Database driver for Erlang
 
 ## [Fennel](id:fennel)
@@ -1591,7 +1590,6 @@
 - [emilypi/nonempty-vector](https://github.com/emilypi/nonempty-vector) – Non-empty Vectors
 - [fjvallarino/monomer](https://github.com/fjvallarino/monomer) – An easy to use, cross platform, GUI library for writing Haskell applications.
 - [runtimeverification/haskell-backend](https://github.com/runtimeverification/haskell-backend) – The symbolic execution engine powering the K Framework
-- [haskell/hackage-server](https://github.com/haskell/hackage-server) – Hackage-Server: A Haskell Package Repository
 - [yi-editor/yi](https://github.com/yi-editor/yi) – The Haskell-Scriptable Editor
 - [haskell-perf/xml](https://github.com/haskell-perf/xml) – Simple benchmarks for XML parsing libraries
 - [GaloisInc/argo](https://github.com/GaloisInc/argo) – A Haskell library for building JSON-RPC servers (work in progress), with servers for Cryptol and SAW
@@ -2742,6 +2740,7 @@
 
 ## [Shell](id:shell)
 
+- [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn) – 
 - [ipfs-shipyard/ipfs-github-action](https://github.com/ipfs-shipyard/ipfs-github-action) – Pin your site to IPFS from a GitHub Action
 - [mbologna/docker-bitlbee](https://github.com/mbologna/docker-bitlbee) – Run bitlbee with TLS and custom protocols in a container
 - [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) – Tyler Cipriani's dotfiles
@@ -3149,7 +3148,7 @@
 
 ## [Zig](id:zig)
 
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek) – 
