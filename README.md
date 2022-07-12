@@ -404,6 +404,7 @@
 
 ## [Go](id:go)
 
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
@@ -1653,7 +1654,7 @@
 - [anuyts/menkar](https://github.com/anuyts/menkar) – The multimode presheaf proof-assistant
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) – Release with confidence, state-of-the-art property testing for Haskell.
 - [sol/hpack](https://github.com/sol/hpack) – hpack: A modern format for Haskell packages
-- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) – A declarative Unix terminal UI programming library written in Haskell
+- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) – A declarative Unix terminal UI library written in Haskell
 - [haskell/text](https://github.com/haskell/text) – Haskell library for space- and time-efficient operations over Unicode text.
 - [ekmett/algebra](https://github.com/ekmett/algebra) – constructive abstract algebra
 - [hdgarrood/aeson-better-errors](https://github.com/hdgarrood/aeson-better-errors) – Better errors when decoding JSON values
