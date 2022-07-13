@@ -404,6 +404,10 @@
 
 ## [Go](id:go)
 
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code of 📖 100 Go Mistakes
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) – Go library for the WhatsApp web multidevice API
+- [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
+- [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
