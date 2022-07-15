@@ -2010,6 +2010,7 @@
 
 ## [Others](id:others)
 
+- [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) – A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) – A complete computer science study plan to become a software engineer.
@@ -2711,7 +2712,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) – A curated list of Rust code and resources.
 - [cobalt-org/liquid-rust](https://github.com/cobalt-org/liquid-rust) – Liquid templating for Rust
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) – Static site generator written in Rust
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) – A bunch of lints to catch common mistakes and improve your Rust code
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) – A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [exercism/rust](https://github.com/exercism/rust) – Exercism exercises in Rust.
 - [spacejam/sled](https://github.com/spacejam/sled) – the champagne of beta embedded databases
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) – A modern editor with a backend written in Rust.
