@@ -630,7 +630,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [go-aah/aah](https://github.com/go-aah/aah) – A secure, flexible, rapid Go web framework
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) – A workshop covering all the tools gophers use in their day to day life
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) – 
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) – A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [rakyll/events2prom](https://github.com/rakyll/events2prom) – A metric collection daemon allows you to configure aggregations in runtime
@@ -1511,6 +1511,8 @@
 
 ## [HTML](id:html)
 
+- [milafrerichs/hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) – A module for Hugo to include wikilinks style to your content
+- [juev/foam](https://github.com/juev/foam) – 
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [chrisalbon/notes](https://github.com/chrisalbon/notes) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) – Free variable writing fonts from iA
