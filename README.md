@@ -404,6 +404,7 @@
 
 ## [Go](id:go)
 
+- [ozontech/cute](https://github.com/ozontech/cute) – Library for simply creating HTTP tests in Go with Allure reports.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code of 📖 100 Go Mistakes
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) – Go library for the WhatsApp web multidevice API
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
