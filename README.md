@@ -149,7 +149,6 @@
 - [alibaba/tengine](https://github.com/alibaba/tengine) – A distribution of Nginx with some advanced features
 - [openresty/openresty](https://github.com/openresty/openresty) – High Performance Web Platform Based on Nginx and LuaJIT
 - [vision5/ngx_devel_kit](https://github.com/vision5/ngx_devel_kit) – Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules
-- [lyokha/nginx-healthcheck-plugin](https://github.com/lyokha/nginx-healthcheck-plugin) – Active health checks and monitoring of Nginx upstreams
 - [yandex/odyssey](https://github.com/yandex/odyssey) – Scalable PostgreSQL connection pooler
 - [h0mbre/Learning-C](https://github.com/h0mbre/Learning-C) – A series of mini-projects used to learn C for beginners
 - [netdata/netdata](https://github.com/netdata/netdata) – Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -404,6 +403,7 @@
 
 ## [Go](id:go)
 
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ozontech/cute](https://github.com/ozontech/cute) – Library for simply creating HTTP tests in Go with Allure reports.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code of 📖 100 Go Mistakes
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) – Go library for the WhatsApp web multidevice API
@@ -1504,7 +1504,6 @@
 
 ## [HCL](id:hcl)
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) – Example Terraform configuration
 - [cloudposse/terraform-aws-tfstate-backend](https://github.com/cloudposse/terraform-aws-tfstate-backend) – Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.
 - [cloudposse/terraform-terraform-label](https://github.com/cloudposse/terraform-terraform-label) – Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
@@ -1512,6 +1511,7 @@
 
 ## [HTML](id:html)
 
+- [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) – A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [milafrerichs/hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) – A module for Hugo to include wikilinks style to your content
 - [juev/foam](https://github.com/juev/foam) – 
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
@@ -1736,6 +1736,7 @@
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) – Applicative option parser
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
 - [thma/WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) – In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language. 
+- [lyokha/nginx-healthcheck-plugin](https://github.com/lyokha/nginx-healthcheck-plugin) – Active health checks and monitoring of Nginx upstreams
 - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) – 📖 source material for Thinking with Types
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) – A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
@@ -2013,6 +2014,7 @@
 
 ## [Others](id:others)
 
+- [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) – A collection of (mostly) technical things every software developer should know about
@@ -2296,6 +2298,7 @@
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) – backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) – Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) – UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) – a list of disposable and temporary email address domains
