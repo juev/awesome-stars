@@ -403,6 +403,8 @@
 
 ## [Go](id:go)
 
+- [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
+- [cavaliergopher/grab](https://github.com/cavaliergopher/grab) – A download manager package for Go
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ozontech/cute](https://github.com/ozontech/cute) – Library for simply creating HTTP tests in Go with Allure reports.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code of 📖 100 Go Mistakes
@@ -1511,6 +1513,7 @@
 
 ## [HTML](id:html)
 
+- [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) – Start your own digital garden using this Jekyll template 🌱
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) – A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [milafrerichs/hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) – A module for Hugo to include wikilinks style to your content
 - [juev/foam](https://github.com/juev/foam) – 
@@ -2736,6 +2739,7 @@
 
 ## [SCSS](id:scss)
 
+- [jekyll/minima](https://github.com/jekyll/minima) – Minima is a one-size-fits-all Jekyll theme for writers.
 - [haskell-cryptography/haskell-cryptography.github.io](https://github.com/haskell-cryptography/haskell-cryptography.github.io) – Website of the Haskell Cryptography Group
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) – 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
