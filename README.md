@@ -403,6 +403,7 @@
 
 ## [Go](id:go)
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) – A download manager package for Go
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
@@ -507,14 +508,14 @@
 - [huandu/xstrings](https://github.com/huandu/xstrings) – Implements string functions widely used in other languages but absent in Go.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) – A plain text note-taking assistant
 - [hherman1/gq](https://github.com/hherman1/gq) – jq but using go instead
-- [brimdata/zed](https://github.com/brimdata/zed) – Tooling for super-structured data: a new and easier way to manipulate data
+- [brimdata/zed](https://github.com/brimdata/zed) – A novel data lake based on super-structured data
 - [randall77/makefat](https://github.com/randall77/makefat) – A tool for making fat OSX binaries (a portable lipo)
 - [mocktools/go-smtp-mock](https://github.com/mocktools/go-smtp-mock) – SMTP mock server written on Golang. Mimic any 📤 SMTP server behaviour for your test environment with fake SMTP server.
 - [tailscale/hujson](https://github.com/tailscale/hujson) – HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) – Lightning Network Daemon ⚡️
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [leaanthony/clir](https://github.com/leaanthony/clir) – A Simple and Clear CLI library. Dependency free.
-- [SpectralOps/teller](https://github.com/SpectralOps/teller) – A secrets management tool for developers built in Go - never leave your command line for secrets.
+- [tellerops/teller](https://github.com/tellerops/teller) – Cloud native secrets management for developers - never leave your command line for secrets.
 - [chzyer/readline](https://github.com/chzyer/readline) – Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [esimov/triangle](https://github.com/esimov/triangle) – Convert images to computer generated art using delaunay triangulation.
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
@@ -1913,7 +1914,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) – Orgmode clone written in Lua for Neovim 0.7+.
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) – Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [Olical/conjure](https://github.com/Olical/conjure) – Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
-- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim
+- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) – Neovim motions on speed!
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) – Create beautiful and semantically meaningful articles with pandoc.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) – Find, Filter, Preview, Pick. All lua, all the time.
@@ -2249,6 +2250,7 @@
 
 ## [PHP](id:php)
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) – Your self-hosted bookmark archive. Free and open source.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) – wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) – The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [simonmichael/haskell-links](https://github.com/simonmichael/haskell-links) – Exploratory project to gather Haskell links
