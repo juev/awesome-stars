@@ -215,6 +215,7 @@
 
 ## [C++](id:c++)
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
@@ -403,6 +404,8 @@
 
 ## [Go](id:go)
 
+- [markbates/buffla](https://github.com/markbates/buffla) – URL Shortner written in Buffalo
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) – A download manager package for Go
@@ -673,7 +676,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
@@ -2387,6 +2390,8 @@
 
 ## [Ruby](id:ruby)
 
+- [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) – Add [[wikilinks]] support for jekyll.
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) – :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) – Tracking the key metrics of my life
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) – A self-hosted, anti-social RSS reader.
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) – Your home directory is your castle. Don't leave your dotfiles behind.
