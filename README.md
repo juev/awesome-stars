@@ -404,6 +404,8 @@
 
 ## [Go](id:go)
 
+- [jawher/mow.cli](https://github.com/jawher/mow.cli) – A versatile library for building CLI applications in Go
+- [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of go.
 - [markbates/buffla](https://github.com/markbates/buffla) – URL Shortner written in Buffalo
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
@@ -2253,6 +2255,7 @@
 
 ## [PHP](id:php)
 
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) – The DokuWiki Open Source Wiki Engine
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) – Your self-hosted bookmark archive. Free and open source.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) – wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) – The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -2974,6 +2977,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Roadmap to becoming a developer in 2022
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
@@ -3162,6 +3166,7 @@
 
 ## [Vue](id:vue)
 
+- [requarks/wiki](https://github.com/requarks/wiki) – Wiki.js | A modern and powerful wiki app built on Node.js
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
