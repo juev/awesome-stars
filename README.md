@@ -678,7 +678,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
@@ -2023,6 +2023,7 @@
 
 ## [Others](id:others)
 
+- [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
@@ -2255,6 +2256,8 @@
 
 ## [PHP](id:php)
 
+- [MarceauKa/shaark](https://github.com/MarceauKa/shaark) – Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
+- [cdevroe/unmark](https://github.com/cdevroe/unmark) – An open source to do app for bookmarks.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) – The DokuWiki Open Source Wiki Engine
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) – Your self-hosted bookmark archive. Free and open source.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) – wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -2933,6 +2936,7 @@
 
 ## [Swift](id:swift)
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) – Lightweight clipboard manager for macOS
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
