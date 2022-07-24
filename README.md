@@ -336,6 +336,7 @@
 
 ## [Emacs Lisp](id:emacs-lisp)
 
+- [mark-watson/emacs_setup](https://github.com/mark-watson/emacs_setup) – My Emacs setup with Straight.el
 - [dakrone/eos](https://github.com/dakrone/eos) – Welcome to the Emacs of Things, aka the Emacs Operating System
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) – Fastest LSP client for Emacs
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
@@ -876,7 +877,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) – A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) – Kubernetes Operator for Multi-instance SaaS
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) – Kubernetes Operator for Multi-instance SaaS and Managed Application delivery
 - [jonaslu/ain](https://github.com/jonaslu/ain) – A HTTP API client for the terminal
 - [csweichel/werft](https://github.com/csweichel/werft) – Just Kubernetes Native CI
 - [slok/sloth](https://github.com/slok/sloth) – 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -1862,7 +1863,6 @@
 - [mlrepa/dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) – Data Version Control (DVC) tutorial 1. Get Started
 - [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) – A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques. 
 - [Glorf/recipenlg](https://github.com/Glorf/recipenlg) – Set of scripts and notebooks used to produce results visible in RecipeNLG paper
-- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful python projects using Jupyter Notebooks
 - [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) – Jupyter adaptation of Learn You a Haskell for Great Good!
 - [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) – Hands-On Machine Learning for Algorithmic Trading, published by Packt
 - [khakhalin/Sketches](https://github.com/khakhalin/Sketches) – 
@@ -2117,6 +2117,7 @@
 - [tmcw/github-best-practices](https://github.com/tmcw/github-best-practices) – how to use this dang site!
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) – Day 9 of Advent of Haskell - Denotational Design
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
+- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful python projects using Jupyter Notebooks
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) – A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
 - [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) – Learn Haskell by building a blog generator - a book about Haskell.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) – The Open Source Data Science Masters
