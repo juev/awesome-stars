@@ -405,6 +405,7 @@
 
 ## [Go](id:go)
 
+- [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [jawher/mow.cli](https://github.com/jawher/mow.cli) – A versatile library for building CLI applications in Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of go.
 - [markbates/buffla](https://github.com/markbates/buffla) – URL Shortner written in Buffalo
@@ -1863,6 +1864,7 @@
 - [mlrepa/dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) – Data Version Control (DVC) tutorial 1. Get Started
 - [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) – A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques. 
 - [Glorf/recipenlg](https://github.com/Glorf/recipenlg) – Set of scripts and notebooks used to produce results visible in RecipeNLG paper
+- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful python projects using Jupyter Notebooks
 - [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) – Jupyter adaptation of Learn You a Haskell for Great Good!
 - [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) – Hands-On Machine Learning for Algorithmic Trading, published by Packt
 - [khakhalin/Sketches](https://github.com/khakhalin/Sketches) – 
@@ -2023,6 +2025,7 @@
 
 ## [Others](id:others)
 
+- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – OmniEdge is an Open source p2p layer 2 mesh VPN infrastructure, a traditional VPN, AWS VPC, Ngrok, DDNS alternative. No central server, easy to scale with less maintenance. What happens in intranet, stays in in intranet.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
@@ -2117,7 +2120,6 @@
 - [tmcw/github-best-practices](https://github.com/tmcw/github-best-practices) – how to use this dang site!
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) – Day 9 of Advent of Haskell - Denotational Design
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
-- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful python projects using Jupyter Notebooks
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) – A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
 - [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) – Learn Haskell by building a blog generator - a book about Haskell.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) – The Open Source Data Science Masters
@@ -2770,6 +2772,7 @@
 
 ## [Shell](id:shell)
 
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn) – 
 - [ipfs-shipyard/ipfs-github-action](https://github.com/ipfs-shipyard/ipfs-github-action) – Pin your site to IPFS from a GitHub Action
 - [mbologna/docker-bitlbee](https://github.com/mbologna/docker-bitlbee) – Run bitlbee with TLS and custom protocols in a container
