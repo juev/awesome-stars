@@ -1951,6 +1951,7 @@
 ## [Mathematica](id:mathematica)
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## [Nim](id:nim)
 
@@ -2313,7 +2314,6 @@
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) – Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) – backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) – Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
