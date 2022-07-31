@@ -1521,6 +1521,7 @@
 
 ## [HTML](id:html)
 
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) – :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) – Start your own digital garden using this Jekyll template 🌱
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) – A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [milafrerichs/hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) – A module for Hugo to include wikilinks style to your content
