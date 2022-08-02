@@ -985,7 +985,7 @@
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) – Security scanner for your Terraform code
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) – 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
-- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) – A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [tinkerbell/tink](https://github.com/tinkerbell/tink) – A workflow engine for provisioning bare metal.
 - [progrium/macdriver](https://github.com/progrium/macdriver) – Native Mac APIs for Go
@@ -2303,7 +2303,7 @@
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) – Немного о ядре Linux
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [replicate/cog](https://github.com/replicate/cog) – Containers for machine learning
-- [infobyte/faraday](https://github.com/infobyte/faraday) – Collaborative Penetration Test and Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) – Open Source Vulnerability Management Platform
 - [Aurelien-Pelissier/Medium](https://github.com/Aurelien-Pelissier/Medium) – All the code related to my medium articles
 - [pinry/pinry](https://github.com/pinry/pinry) – Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) – Automated cryptocurrency trading bot
