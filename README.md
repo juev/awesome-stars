@@ -2027,7 +2027,7 @@
 
 ## [Others](id:others)
 
-- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – OmniEdge is an Open source p2p layer 2 mesh VPN infrastructure, a traditional VPN, AWS VPC, Ngrok, DDNS alternative. No central server, easy to scale with less maintenance. What happens in intranet, stays in in intranet.
+- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
