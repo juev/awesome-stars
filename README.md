@@ -405,6 +405,12 @@
 
 ## [Go](id:go)
 
+- [eapache/go-resiliency](https://github.com/eapache/go-resiliency) – Resiliency patterns for golang
+- [kffl/speedbump](https://github.com/kffl/speedbump) – TCP proxy for simulating variable, yet predictable network latency :globe_with_meridians::hourglass_flowing_sand:
+- [go-playground/webhooks](https://github.com/go-playground/webhooks) – :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs
+- [Shpota/goxygen](https://github.com/Shpota/goxygen) – Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) – Fast and powerful Git hooks manager for any type of projects.
+- [alecthomas/participle](https://github.com/alecthomas/participle) – A parser library for Go
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) – 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [jawher/mow.cli](https://github.com/jawher/mow.cli) – A versatile library for building CLI applications in Go
@@ -1435,7 +1441,6 @@
 - [apex/log](https://github.com/apex/log) – Structured logging package for Go.
 - [moogar0880/venom](https://github.com/moogar0880/venom) – A pluggable configuration management library with zero dependencies
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) – :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [aptible/supercronic](https://github.com/aptible/supercronic) – Cron for containers
 - [google/go-cloud](https://github.com/google/go-cloud) – The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -1581,6 +1586,7 @@
 
 ## [Handlebars](id:handlebars)
 
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) – :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [rustwasm/book](https://github.com/rustwasm/book) – The Rust and WebAssembly Book
 
 ## [Haskell](id:haskell)
@@ -1764,6 +1770,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – A curated list of high quality coding style conventions and standards.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all your development needs
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) – Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
@@ -1774,7 +1781,6 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) – ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for Bionic Reading on ANY website!
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance system
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) – Actual's server
@@ -2027,6 +2033,7 @@
 
 ## [Others](id:others)
 
+- [tailscale/github-action](https://github.com/tailscale/github-action) – A GitHub Action to connect your workflow to your Tailscale network.
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
@@ -2288,6 +2295,7 @@
 
 ## [Python](id:python)
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) – A collection of full-stack resources for programmers.
 - [dethos/clipboard-watcher](https://github.com/dethos/clipboard-watcher) – Keep an eye on the apps that are using your clipboard
@@ -2436,7 +2444,7 @@
 - [barrucadu/resolved](https://github.com/barrucadu/resolved) – A simple DNS server for home networks.
 - [dflemstr/rq](https://github.com/dflemstr/rq) – Record Query - A tool for doing record analysis and transformation
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
-- [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) – Binary installation for rust projects
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH and HTTPS bastion that works with any SSH client
@@ -2774,6 +2782,7 @@
 
 ## [Shell](id:shell)
 
+- [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn) – 
 - [ipfs-shipyard/ipfs-github-action](https://github.com/ipfs-shipyard/ipfs-github-action) – Pin your site to IPFS from a GitHub Action
@@ -2993,6 +3002,7 @@
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for Bionic Reading on ANY website!
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) – Visualize your Markdown as mindmaps with Markmap.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
@@ -3186,6 +3196,7 @@
 
 ## [Zig](id:zig)
 
+- [capy-ui/capy](https://github.com/capy-ui/capy) – Cross-platform library for making true native GUIs in Zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
