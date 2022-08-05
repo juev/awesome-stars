@@ -312,6 +312,7 @@
 
 ## [Dockerfile](id:dockerfile)
 
+- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) – 
 - [savsgio/docker-rocksdb](https://github.com/savsgio/docker-rocksdb) – Alpine docker image with the pre-compiled shared library of RocksDB
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
@@ -387,7 +388,7 @@
 ## [Fennel](id:fennel)
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) – Lua Lisp Language
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) – Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) – Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [Olical/aniseed](https://github.com/Olical/aniseed) – Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 
 ## [Futhark](id:futhark)
@@ -1527,6 +1528,7 @@
 
 ## [HTML](id:html)
 
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) – Hugo theme made for documentation
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) – :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) – Start your own digital garden using this Jekyll template 🌱
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) – A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
@@ -1897,6 +1899,7 @@
 
 ## [Lua](id:lua)
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – A launch point for your personal nvim configuration
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) – A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) – A configuration for Neovim beginners.
@@ -2034,7 +2037,6 @@
 ## [Others](id:others)
 
 - [tailscale/github-action](https://github.com/tailscale/github-action) – A GitHub Action to connect your workflow to your Tailscale network.
-- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
