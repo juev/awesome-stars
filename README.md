@@ -406,6 +406,8 @@
 
 ## [Go](id:go)
 
+- [libgit2/git2go](https://github.com/libgit2/git2go) – Git to Go; bindings for libgit2. Like McDonald's but tastier.
+- [slurdge/goeland](https://github.com/slurdge/goeland) – An alternative to RSS2Email written in golang with many filters
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) – Resiliency patterns for golang
 - [kffl/speedbump](https://github.com/kffl/speedbump) – TCP proxy for simulating variable, yet predictable network latency :globe_with_meridians::hourglass_flowing_sand:
 - [go-playground/webhooks](https://github.com/go-playground/webhooks) – :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs
