@@ -406,6 +406,7 @@
 
 ## [Go](id:go)
 
+- [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
 - [libgit2/git2go](https://github.com/libgit2/git2go) – Git to Go; bindings for libgit2. Like McDonald's but tastier.
 - [slurdge/goeland](https://github.com/slurdge/goeland) – An alternative to RSS2Email written in golang with many filters
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) – Resiliency patterns for golang
@@ -690,7 +691,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) – Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
