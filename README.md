@@ -312,7 +312,6 @@
 
 ## [Dockerfile](id:dockerfile)
 
-- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) – 
 - [savsgio/docker-rocksdb](https://github.com/savsgio/docker-rocksdb) – Alpine docker image with the pre-compiled shared library of RocksDB
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
@@ -1512,7 +1511,7 @@
 - [go-stomp/stomp](https://github.com/go-stomp/stomp) – Go language library for STOMP protocol
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) – A fast Go implementation of the Jekyll blogging engine
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
-- [gravitational/teleport](https://github.com/gravitational/teleport) – Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, most secure way to access infrastructure.
 - [pkg/errors](https://github.com/pkg/errors) – Simple error handling primitives
 - [golang/dep](https://github.com/golang/dep) – Go dependency management tool experiment (deprecated)
 - [nishanths/license](https://github.com/nishanths/license) – Command-line license text generator.
@@ -1650,7 +1649,7 @@
 - [commercialhaskell/stack-templates](https://github.com/commercialhaskell/stack-templates) – Project templates for stack new
 - [srid/neuron](https://github.com/srid/neuron) – Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [tfausak/witch](https://github.com/tfausak/witch) – :mage_woman: Convert values from one type into another.
-- [EmaApps/ema](https://github.com/EmaApps/ema) – Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
+- [EmaApps/ema](https://github.com/EmaApps/ema) – Haskell static site generator that is change-aware
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) – An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) – A statically typed lisp, without a GC, for real-time applications.
 - [jimburton/scrabble](https://github.com/jimburton/scrabble) – An extended tutorial/book on Haskell development. A library for playing Scrabble is developed as well as two clients, one of which is networked and allows for remote one or two-player games over the web.
@@ -2039,7 +2038,9 @@
 
 ## [Others](id:others)
 
+- [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions) – 
 - [tailscale/github-action](https://github.com/tailscale/github-action) – A GitHub Action to connect your workflow to your Tailscale network.
+- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
@@ -2770,6 +2771,7 @@
 
 ## [SCSS](id:scss)
 
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) – A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [jekyll/minima](https://github.com/jekyll/minima) – Minima is a one-size-fits-all Jekyll theme for writers.
 - [haskell-cryptography/haskell-cryptography.github.io](https://github.com/haskell-cryptography/haskell-cryptography.github.io) – Website of the Haskell Cryptography Group
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
@@ -2956,6 +2958,7 @@
 
 ## [Swift](id:swift)
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) – Lightweight clipboard manager for macOS
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
