@@ -1486,7 +1486,7 @@
 - [golang/sys](https://github.com/golang/sys) – [mirror] Go packages for low-level interaction with the operating system
 - [paked/configure](https://github.com/paked/configure) – Configure is a Go package that gives you easy configuration of your project through redundancy
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
-- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) – A Go project template
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) – Structured, pluggable logging for Go.
@@ -1537,7 +1537,7 @@
 - [milafrerichs/hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) – A module for Hugo to include wikilinks style to your content
 - [juev/foam](https://github.com/juev/foam) – 
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
-- [chrisalbon/notes](https://github.com/chrisalbon/notes) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
+- [chrisalbon/short_notes_on_machine_learning](https://github.com/chrisalbon/short_notes_on_machine_learning) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) – Free variable writing fonts from iA
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
 - [google/fonts](https://github.com/google/fonts) – Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
