@@ -405,6 +405,8 @@
 
 ## [Go](id:go)
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
+- [muesli/markscribe](https://github.com/muesli/markscribe) – Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
 - [libgit2/git2go](https://github.com/libgit2/git2go) – Git to Go; bindings for libgit2. Like McDonald's but tastier.
 - [slurdge/goeland](https://github.com/slurdge/goeland) – An alternative to RSS2Email written in golang with many filters
@@ -1486,7 +1488,7 @@
 - [golang/sys](https://github.com/golang/sys) – [mirror] Go packages for low-level interaction with the operating system
 - [paked/configure](https://github.com/paked/configure) – Configure is a Go package that gives you easy configuration of your project through redundancy
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
-- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) – A Go project template
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) – Structured, pluggable logging for Go.
@@ -2274,6 +2276,7 @@
 
 ## [PHP](id:php)
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) – Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
 - [cdevroe/unmark](https://github.com/cdevroe/unmark) – An open source to do app for bookmarks.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) – The DokuWiki Open Source Wiki Engine
