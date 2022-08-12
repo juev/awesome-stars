@@ -405,6 +405,8 @@
 
 ## [Go](id:go)
 
+- [pingcap/tidb](https://github.com/pingcap/tidb) – TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [gojp/goreportcard](https://github.com/gojp/goreportcard) – A report card for your Go application
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [muesli/markscribe](https://github.com/muesli/markscribe) – Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
@@ -474,7 +476,7 @@
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) – OpenAPI v3 code generator for go
 - [pion/turn](https://github.com/pion/turn) – Pion TURN, an API for building TURN clients and servers
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [rakyll/go-hardware](https://github.com/rakyll/go-hardware) – A directory of hardware related libs, tools, and tutorials for Go
 - [google/gitprotocolio](https://github.com/google/gitprotocolio) – A Git protocol parser written in Go.
 - [tailscale/depaware](https://github.com/tailscale/depaware) – depaware makes you aware of your Go dependencies
@@ -3007,6 +3009,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Roadmap to becoming a developer in 2022
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
