@@ -405,6 +405,7 @@
 
 ## [Go](id:go)
 
+- [walles/moar](https://github.com/walles/moar) – Moar is a pager. It's designed to just do the right thing without any configuration.
 - [pingcap/tidb](https://github.com/pingcap/tidb) – TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) – A report card for your Go application
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
@@ -561,7 +562,7 @@
 - [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) – Fast and secure tunnels over HTTP/2
 - [quasilyte/quasigo](https://github.com/quasilyte/quasigo) – quasigo is a Go subset interpreter written in Go
 - [open2b/scriggo](https://github.com/open2b/scriggo) – The world’s most powerful template engine and Go embeddable interpreter
-- [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest file download client
+- [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [adshao/go-binance](https://github.com/adshao/go-binance) – A Go SDK for Binance API
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
@@ -2441,6 +2442,7 @@
 
 ## [Rust](id:rust)
 
+- [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [wezm/rsspls](https://github.com/wezm/rsspls) – Generate RSS feeds from websites
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) – A tool to help you find unsubscribe links in your emails
