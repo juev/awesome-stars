@@ -56,6 +56,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [Racket](#racket)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -405,6 +406,9 @@
 
 ## [Go](id:go)
 
+- [gokrazy/breakglass](https://github.com/gokrazy/breakglass) – emergency/debugging access for gokrazy installations
+- [gokrazy/syslogd](https://github.com/gokrazy/syslogd) – gokrazy remote syslog server daemon: writes to disk what it receives via remote syslog
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) – JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [walles/moar](https://github.com/walles/moar) – Moar is a pager. It's designed to just do the right thing without any configuration.
 - [pingcap/tidb](https://github.com/pingcap/tidb) – TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) – A report card for your Go application
@@ -2419,6 +2423,10 @@
 
 - [greghendershott/frog](https://github.com/greghendershott/frog) – Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 
+## [Roff](id:roff)
+
+- [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
+
 ## [Ruby](id:ruby)
 
 - [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) – Add [[wikilinks]] support for jekyll.
@@ -3011,6 +3019,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Roadmap to becoming a developer in 2022
