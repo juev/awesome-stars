@@ -96,6 +96,7 @@
 ## [Assembly](id:assembly)
 
 - [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) – An approachable introduction to assembly.
+- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) – A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## [Batchfile](id:batchfile)
@@ -406,6 +407,8 @@
 
 ## [Go](id:go)
 
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Distributed server for social and realtime games and apps.
+- [phuslu/fasttime](https://github.com/phuslu/fasttime) – fast time format for go
 - [gokrazy/breakglass](https://github.com/gokrazy/breakglass) – emergency/debugging access for gokrazy installations
 - [gokrazy/syslogd](https://github.com/gokrazy/syslogd) – gokrazy remote syslog server daemon: writes to disk what it receives via remote syslog
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) – JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -780,7 +783,6 @@
 - [uber-go/tally](https://github.com/uber-go/tally) – A Go metrics interface with fast buffered metrics and third party reporters
 - [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
-- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [simeji/jid](https://github.com/simeji/jid) – json incremental digger
@@ -1910,6 +1912,7 @@
 
 ## [Lua](id:lua)
 
+- [Kong/kong](https://github.com/Kong/kong) – 🦍 The Cloud-Native API Gateway 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – A launch point for your personal nvim configuration
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) – A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
@@ -1926,7 +1929,7 @@
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) – A Lua client library for the redis key value storage system.
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) – A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) – An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) – An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) – A starter template for a Neovim plugin written in Lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) – A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) – The Refactoring library based off the Refactoring book by Martin Fowler
@@ -2047,6 +2050,7 @@
 
 ## [Others](id:others)
 
+- [bosha/alfred-quicklinks-workflow](https://github.com/bosha/alfred-quicklinks-workflow) – Quicklist Alfred workflow
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions) – 
 - [tailscale/github-action](https://github.com/tailscale/github-action) – A GitHub Action to connect your workflow to your Tailscale network.
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
@@ -2842,7 +2846,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) – Fish-like autosuggestions for zsh
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) – 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) – 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) – 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) – Prevents you from committing secrets and credentials into git repositories
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [ChrisPenner/session-sauce](https://github.com/ChrisPenner/session-sauce) – Shell plugin for managing tmux sessions
