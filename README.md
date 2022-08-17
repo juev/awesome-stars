@@ -407,6 +407,7 @@
 
 ## [Go](id:go)
 
+- [ayntgl/discordo](https://github.com/ayntgl/discordo) – A lightweight, secure, and feature-rich Discord terminal client
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Distributed server for social and realtime games and apps.
 - [phuslu/fasttime](https://github.com/phuslu/fasttime) – fast time format for go
 - [gokrazy/breakglass](https://github.com/gokrazy/breakglass) – emergency/debugging access for gokrazy installations
