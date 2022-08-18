@@ -407,6 +407,7 @@
 
 ## [Go](id:go)
 
+- [matoous/go-nanoid](https://github.com/matoous/go-nanoid) – Golang random IDs generator.
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) – A lightweight, secure, and feature-rich Discord terminal client
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Distributed server for social and realtime games and apps.
 - [phuslu/fasttime](https://github.com/phuslu/fasttime) – fast time format for go
@@ -438,7 +439,7 @@
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) – A download manager package for Go
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ozontech/cute](https://github.com/ozontech/cute) – Library for simply creating HTTP tests in Go with Allure reports.
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code of 📖 100 Go Mistakes
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code and community space of 📖 100 Go Mistakes
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) – Go library for the WhatsApp web multidevice API
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
 - [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
@@ -2316,6 +2317,7 @@
 
 ## [Python](id:python)
 
+- [novoid/lazyblorg](https://github.com/novoid/lazyblorg) – Blogging with Org-mode for very lazy people
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) – A collection of full-stack resources for programmers.
@@ -2978,6 +2980,7 @@
 
 ## [Swift](id:swift)
 
+- [keepassium/KeePassium](https://github.com/keepassium/KeePassium) – KeePass-compatible password manager for iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) – Lightweight clipboard manager for macOS
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
