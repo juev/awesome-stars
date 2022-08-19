@@ -217,6 +217,7 @@
 
 ## [C++](id:c++)
 
+- [jank-lang/jank](https://github.com/jank-lang/jank) – A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
@@ -407,6 +408,8 @@
 
 ## [Go](id:go)
 
+- [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) – A simple feed aggregator daemon with sugar on top.
+- [sachaos/todoist](https://github.com/sachaos/todoist) – Todoist CLI Client. I ❤️ Todoist and CLI.
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) – Golang random IDs generator.
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) – A lightweight, secure, and feature-rich Discord terminal client
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Distributed server for social and realtime games and apps.
@@ -618,7 +621,6 @@
 - [progrium/go-shell](https://github.com/progrium/go-shell) – 
 - [traefik/yaegi](https://github.com/traefik/yaegi) – Yaegi is Another Elegant Go Interpreter
 - [charithe/durationcheck](https://github.com/charithe/durationcheck) – Go linter to detect erroneous multiplication of duration values
-- [netlify/binrc](https://github.com/netlify/binrc) – Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [go-acme/lego](https://github.com/go-acme/lego) – Let's Encrypt/ACME client and library written in Go
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) – Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) – With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
@@ -704,7 +706,7 @@
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) – csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [emersion/go-imap](https://github.com/emersion/go-imap) –  :inbox_tray: An IMAP library for clients and servers
 - [form3tech-oss/f1](https://github.com/form3tech-oss/f1) – A tool for writing load test scenarios in Golang with a powerful command line runner
-- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) – Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) – Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [neotoolkit/dummy](https://github.com/neotoolkit/dummy) – Run mock server based off an API contract with one command
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) – 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1026,7 +1028,7 @@
 - [snyk/driftctl](https://github.com/snyk/driftctl) – Detect, track and alert on infrastructure drift
 - [felixge/fgprof](https://github.com/felixge/fgprof) – 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
-- [gookit/config](https://github.com/gookit/config) – 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名
+- [gookit/config](https://github.com/gookit/config) – 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名
 - [dealancer/validate](https://github.com/dealancer/validate) – Go struct validation
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [alash3al/re-txt](https://github.com/alash3al/re-txt) – converts text-formats from one to another, it is very useful if you want to re-format a json file to yaml, toml to yaml, csv to yaml, ... etc
@@ -1767,7 +1769,6 @@
 - [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) – Mu (μ) is a purely functional framework for building micro services.
 - [kowainik/summoner](https://github.com/kowainik/summoner) – 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) – Haskell code prettifier
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) – Applicative option parser
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
@@ -1787,6 +1788,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) – A self-hosted bookmark + archive manager to store your useful links.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – A curated list of high quality coding style conventions and standards.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all your development needs
@@ -1963,6 +1965,7 @@
 
 ## [Makefile](id:makefile)
 
+- [netlify/binrc](https://github.com/netlify/binrc) – Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [mpereira/.emacs.d](https://github.com/mpereira/.emacs.d) – Vanilla, Evil, literate Emacs configuration
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [simonmichael/haskell-finance](https://github.com/simonmichael/haskell-finance) – Notes on Haskell programming language-related finances.
@@ -3077,6 +3080,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
