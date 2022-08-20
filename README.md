@@ -408,6 +408,8 @@
 
 ## [Go](id:go)
 
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) – Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) – A simple feed aggregator daemon with sugar on top.
 - [sachaos/todoist](https://github.com/sachaos/todoist) – Todoist CLI Client. I ❤️ Todoist and CLI.
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) – Golang random IDs generator.
@@ -2154,7 +2156,7 @@
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) – Day 9 of Advent of Haskell - Denotational Design
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) – A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
-- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) – Learn Haskell by building a blog generator - a book about Haskell.
+- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) – Learn Haskell by building a blog generator - an introductory book on Haskell.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) – The Open Source Data Science Masters
 - [tomjaguarpaw/tilapia](https://github.com/tomjaguarpaw/tilapia) – Improving all Haskell's programmer interfaces
 - [sassela/haskell-learning](https://github.com/sassela/haskell-learning) – Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
@@ -2320,6 +2322,7 @@
 
 ## [Python](id:python)
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) – A Telegram RSS bot that cares about your reading experience
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) – Blogging with Org-mode for very lazy people
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2460,11 +2463,12 @@
 
 ## [Rust](id:rust)
 
+- [brocode/fw](https://github.com/brocode/fw) – workspace productivity booster
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [wezm/rsspls](https://github.com/wezm/rsspls) – Generate RSS feeds from websites
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) – A tool to help you find unsubscribe links in your emails
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, letting you run local code in cloud conditions.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
 - [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
@@ -2814,6 +2818,7 @@
 
 ## [Shell](id:shell)
 
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn) – 
@@ -3030,6 +3035,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
