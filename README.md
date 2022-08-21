@@ -1781,6 +1781,8 @@
 
 ## [Java](id:java)
 
+- [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
+- [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 - [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) – 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
 - [stargate/stargate](https://github.com/stargate/stargate) – An open source data gateway
 - [clojure/clojure](https://github.com/clojure/clojure) – The Clojure programming language
@@ -1902,6 +1904,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [zhenyolka/DPITunnel-android](https://github.com/zhenyolka/DPITunnel-android) – DPITunnel is an app for Android made to bypass censorship, supports much desync techniques. Can be used on all Android devices that have root access: phones, tablet, TV boxes.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) – Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) – Iceraven Browser
@@ -2463,6 +2466,7 @@
 
 ## [Rust](id:rust)
 
+- [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [brocode/fw](https://github.com/brocode/fw) – workspace productivity booster
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [wezm/rsspls](https://github.com/wezm/rsspls) – Generate RSS feeds from websites
@@ -2818,6 +2822,8 @@
 
 ## [Shell](id:shell)
 
+- [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
+- [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) – Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
