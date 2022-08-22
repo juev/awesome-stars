@@ -2010,7 +2010,7 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) – Pure and reproducible nix overlay of binary distributed rust toolchains
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) – Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [kclejeune/system](https://github.com/kclejeune/system) – Declarative system configurations using nixOS, nix-darwin, and home-manager
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) – [maintainer=@mjlbach]
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) – Unmaintained
 - [chris-martin/home](https://github.com/chris-martin/home) – My home directory: Nix config, dotfiles, scripts, etc.
 - [lucperkins/nix-home-config](https://github.com/lucperkins/nix-home-config) – Nix configuration for my macOS laptop
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) – My NixOS dotfiles
@@ -2325,6 +2325,7 @@
 
 ## [Python](id:python)
 
+- [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) – A Telegram RSS bot that cares about your reading experience
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) – Blogging with Org-mode for very lazy people
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
