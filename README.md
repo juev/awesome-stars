@@ -1270,7 +1270,7 @@
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) – Tiny BitTorrent client written in Go
 - [cube2222/jql](https://github.com/cube2222/jql) – Easy JSON Query Processor with a Lispy syntax in Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity-aware access proxy.
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity and context-aware access proxy.
 - [spf13/pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [openkruise/kruise](https://github.com/openkruise/kruise) – Automate application management on Kubernetes (project under CNCF)
 - [target/goalert](https://github.com/target/goalert) – Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
@@ -1993,6 +1993,7 @@
 
 ## [Nix](id:nix)
 
+- [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) – Nix-enabled environment for your Android device.
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) – runtime decrypted age secrets for nix home manager
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
@@ -2060,6 +2061,7 @@
 
 ## [Others](id:others)
 
+- [HackerNews/API](https://github.com/HackerNews/API) – Documentation and Samples for the Official HN API
 - [bosha/alfred-quicklinks-workflow](https://github.com/bosha/alfred-quicklinks-workflow) – Quicklist Alfred workflow
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions) – 
 - [tailscale/github-action](https://github.com/tailscale/github-action) – A GitHub Action to connect your workflow to your Tailscale network.
