@@ -70,6 +70,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim script](#vim-script)
 - [VimL](#viml)
 - [Vue](#vue)
@@ -105,6 +106,7 @@
 
 ## [C](id:c)
 
+- [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) – A lightweight DNS-over-HTTPS proxy.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
 - [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher) – An easy to use, easy to deploy crypto library
@@ -408,6 +410,8 @@
 
 ## [Go](id:go)
 
+- [hazyuun/Chrono](https://github.com/hazyuun/Chrono) – A git time machine
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) – Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
@@ -906,7 +910,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌺 The flower shell. A comfy and nice little shell for Lua fans!
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) – A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) – Kubernetes Operator for Multi-instance SaaS and Managed Application delivery
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) – Kubernetes Operator to build Multi-Instance SaaS from Helm charts
 - [jonaslu/ain](https://github.com/jonaslu/ain) – A HTTP API client for the terminal
 - [csweichel/werft](https://github.com/csweichel/werft) – Just Kubernetes Native CI
 - [slok/sloth](https://github.com/slok/sloth) – 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -1334,7 +1338,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – API first services platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -2328,6 +2332,8 @@
 
 ## [Python](id:python)
 
+- [networkx/networkx](https://github.com/networkx/networkx) – Network Analysis in Python
+- [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) – A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) – A Telegram RSS bot that cares about your reading experience
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) – Blogging with Org-mode for very lazy people
@@ -3127,6 +3133,14 @@
 
 - [alainm23/planner](https://github.com/alainm23/planner) – Task manager with Todoist support designed for GNU/Linux 🚀
 
+## [Vim Script](id:vim-script)
+
+- [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
+- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
+- [vim/vim](https://github.com/vim/vim) – The official Vim repository
+
 ## [Vim script](id:vim-script)
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
@@ -3146,7 +3160,6 @@
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
-- [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [rainglow/vim](https://github.com/rainglow/vim) – 320+ color themes for VIM.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) – Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
@@ -3169,10 +3182,8 @@
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
 - [sjl/clam.vim](https://github.com/sjl/clam.vim) – A lightweight Vim plugin for working with shell commands.
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) – :heavy_plus_sign: Show a diff using Vim its sign column.
-- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) – Ranger integration in vim and neovim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
-- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
 - [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) – You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [tpope/vim-characterize](https://github.com/tpope/vim-characterize) – characterize.vim: Unicode character metadata
@@ -3186,7 +3197,6 @@
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) – unimpaired.vim: Pairs of handy bracket mappings
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) – commentary.vim: comment stuff out
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
-- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) – surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) – My cross-platform vimrc
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
@@ -3196,7 +3206,6 @@
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) – :dragon: Unite and create user interfaces
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
-- [vim/vim](https://github.com/vim/vim) – The official Vim repository
 - [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
