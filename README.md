@@ -355,7 +355,6 @@
 - [minad/consult](https://github.com/minad/consult) – consult.el - Consulting completing-read
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) – 🔔 Better solution for incremental narrowing in Emacs.
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) – Emacs package for highlighting uncommitted changes
-- [gfanton/nixpkgs](https://github.com/gfanton/nixpkgs) – My nixpkgs config
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) – System-wide popup Emacs windows for quick edits
 - [chenyanming/wallabag.el](https://github.com/chenyanming/wallabag.el) – Emacs wallabag client - A Read It Later/Web Archiving Solution in Emacs.
 - [piranha/conf](https://github.com/piranha/conf) – My configuration files
@@ -410,6 +409,7 @@
 
 ## [Go](id:go)
 
+- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
 - [hazyuun/Chrono](https://github.com/hazyuun/Chrono) – A git time machine
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
@@ -2004,6 +2004,7 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) – @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "davidtw.co".
 - [nix-community/naersk](https://github.com/nix-community/naersk) – Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @Patryk27]
+- [gfanton/nixpkgs](https://github.com/gfanton/nixpkgs) – My nixpkgs config
 - [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) – Emacs on Mac OSX. Install with Nix
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) – NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) – A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
@@ -2332,6 +2333,7 @@
 
 ## [Python](id:python)
 
+- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) – A collection of tools and files for learning new technologies
 - [networkx/networkx](https://github.com/networkx/networkx) – Network Analysis in Python
 - [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) – A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
@@ -2832,6 +2834,7 @@
 
 ## [Shell](id:shell)
 
+- [exercism/jq](https://github.com/exercism/jq) – Exercism exercises in jq.
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
 - [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) – Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -3136,10 +3139,14 @@
 ## [Vim Script](id:vim-script)
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+- [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
+- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
+- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 
 ## [Vim script](id:vim-script)
 
@@ -3160,7 +3167,6 @@
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
-- [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [rainglow/vim](https://github.com/rainglow/vim) – 320+ color themes for VIM.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) – Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :star2: Terminal manager for (neo)vim
@@ -3196,7 +3202,6 @@
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) – repeat.vim: enable repeating supported plugin maps with "."
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) – unimpaired.vim: Pairs of handy bracket mappings
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) – commentary.vim: comment stuff out
-- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) – surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) – My cross-platform vimrc
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
@@ -3225,13 +3230,11 @@
 - [vlime/vlime](https://github.com/vlime/vlime) – A Common Lisp dev environment for Vim (and Neovim)
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) – A tree explorer plugin for vim.
 - [tpope/vim-apathy](https://github.com/tpope/vim-apathy) – apathy.vim: Set the 'path' option for miscellaneous file types
-- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) – Tutorial for vim-go
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8 (and Neovim)
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) – A solid language pack for Vim.
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) – Vim configuration for Rust.
