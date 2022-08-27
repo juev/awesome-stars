@@ -409,6 +409,7 @@
 
 ## [Go](id:go)
 
+- [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
 - [hazyuun/Chrono](https://github.com/hazyuun/Chrono) – A git time machine
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
@@ -772,7 +773,7 @@
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) – Mmark: a powerful markdown processor in Go geared towards the IETF 
 - [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) – :electric_plug: Raspberry Pi GPIO library for go-lang
 - [flyingmutant/rapid](https://github.com/flyingmutant/rapid) – Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
-- [benchkram/bob](https://github.com/benchkram/bob) – A build system with Nix as it's package manager to enable hermetic builds.
+- [benchkram/bob](https://github.com/benchkram/bob) – A build system for microservices - Nix Inside™
 - [grafana/grizzly](https://github.com/grafana/grizzly) – A utility for managing Jsonnet dashboards against the Grafana API
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1338,7 +1339,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – API first services platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1412,7 +1413,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [akavel/up](https://github.com/akavel/up) – Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-- [chaseignited/goorgeous](https://github.com/chaseignited/goorgeous) – [DEPRECATED] A go org syntax parser to html
+- [curiouslychase/goorgeous](https://github.com/curiouslychase/goorgeous) – [DEPRECATED] A go org syntax parser to html
 - [harness/drone](https://github.com/harness/drone) – Drone is a Container-Native, Continuous Delivery Platform
 - [containerd/containerd](https://github.com/containerd/containerd) – An open and reliable container runtime
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) – Simplified Container System
@@ -3138,10 +3139,12 @@
 
 ## [Vim Script](id:vim-script)
 
+- [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
+- [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
@@ -3154,7 +3157,6 @@
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
-- [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) – A colour scheme for terminals, Vim and friends.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) – Easy git merge conflict resolution in Vim
@@ -3193,7 +3195,6 @@
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
 - [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) – You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [tpope/vim-characterize](https://github.com/tpope/vim-characterize) – characterize.vim: Unicode character metadata
-- [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) – Vim script for text filtering and alignment
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) – Make terminal vim and tmux work better together.
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) – seamless integration for vim and tmux's clipboard
