@@ -3148,6 +3148,8 @@
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 
@@ -3214,7 +3216,6 @@
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
-- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [preservim/vim-thematic](https://github.com/preservim/vim-thematic) – Alter Vim's appearance to suit your task & environ
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
@@ -3222,7 +3223,6 @@
 - [ervandew/supertab](https://github.com/ervandew/supertab) – Perform all your vim insert mode completions with Tab
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) – Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
-- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
