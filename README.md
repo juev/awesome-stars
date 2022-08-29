@@ -409,6 +409,7 @@
 
 ## [Go](id:go)
 
+- [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) – Finding XSS during recon
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
 - [hazyuun/Chrono](https://github.com/hazyuun/Chrono) – A git time machine
