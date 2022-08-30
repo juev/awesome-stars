@@ -143,7 +143,6 @@
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [vrogier/ocilib](https://github.com/vrogier/ocilib) – OCILIB (C and C++ Drivers for Oracle) - Open source C and C++ library for accessing Oracle databases
 - [godror/godror](https://github.com/godror/godror) – GO DRiver for ORacle DB
-- [upx/upx](https://github.com/upx/upx) – UPX - the Ultimate Packer for eXecutables
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) – FreeBSD src tree (read-only mirror)
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -263,6 +262,7 @@
 - [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) – fast, minimalistic, encrypted command line paste-bin
 - [exercism/cpp](https://github.com/exercism/cpp) – Exercism exercises in C++.
 - [kisom/gol](https://github.com/kisom/gol) – Game of Life
+- [upx/upx](https://github.com/upx/upx) – UPX - the Ultimate Packer for eXecutables
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
 
 ## [CMake](id:cmake)
@@ -2699,7 +2699,7 @@
 - [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) – A test-driven workshop to learn Rust building your own JIRA clone!
 - [softprops/goji](https://github.com/softprops/goji) – a rust interface for jira
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) – Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) – A Text User Interface library for the Rust programming language
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) – Build terminal user interfaces and dashboards using Rust
@@ -3143,6 +3143,7 @@
 - [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
+- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 - [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
@@ -3187,7 +3188,6 @@
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) – A vim plugin for communicating with a language server
 - [neomake/neomake](https://github.com/neomake/neomake) – Asynchronous linting and make framework for Neovim/Vim
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) – A Vim plugin for Prettier
-- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) – Simple templates plugin for Vim 
 - [kassio/neoterm](https://github.com/kassio/neoterm) – Wrapper of some vim/neovim's :terminal functions.
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
