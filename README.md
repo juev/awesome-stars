@@ -75,6 +75,7 @@
 - [VimL](#viml)
 - [Vue](#vue)
 - [Wikitext](#wikitext)
+- [Wren](#wren)
 - [Zig](#zig)
 
 
@@ -117,7 +118,6 @@
 - [clibs/clib](https://github.com/clibs/clib) – C package manager-ish
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
-- [wren-lang/wren](https://github.com/wren-lang/wren) – The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) – mimalloc is a compact general purpose allocator with excellent performance.
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) – 
 - [haskell-crypto/cryptonite](https://github.com/haskell-crypto/cryptonite) – lowlevel set of cryptographic primitives for haskell
@@ -409,6 +409,9 @@
 
 ## [Go](id:go)
 
+- [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
+- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
+- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) – Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
 - [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) – Finding XSS during recon
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
@@ -1340,7 +1343,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – An API first development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1788,6 +1791,7 @@
 
 ## [Java](id:java)
 
+- [guardianproject/orbot](https://github.com/guardianproject/orbot) – The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 - [devshawn/kafka-gitops](https://github.com/devshawn/kafka-gitops) – 🚀Manage Apache Kafka topics and generate ACLs through a desired state file.
@@ -1799,6 +1803,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [andryou/scriptsafe](https://github.com/andryou/scriptsafe) – a browser extension to bring security and privacy to chrome, firefox, and opera
 - [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) – A self-hosted bookmark + archive manager to store your useful links.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – A curated list of high quality coding style conventions and standards.
@@ -1896,6 +1901,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) – 10 Weeks, 20 Lessons, Data Science for All!
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [natasha/corus](https://github.com/natasha/corus) – Links to Russian corpora + Python functions for loading and parsing
@@ -2069,6 +2075,10 @@
 
 ## [Others](id:others)
 
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
+- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场 
+- [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) – The one and only one gfwlist here
 - [HackerNews/API](https://github.com/HackerNews/API) – Documentation and Samples for the Official HN API
 - [bosha/alfred-quicklinks-workflow](https://github.com/bosha/alfred-quicklinks-workflow) – Quicklist Alfred workflow
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions) – 
@@ -2335,6 +2345,7 @@
 
 ## [Python](id:python)
 
+- [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) – A collection of tools and files for learning new technologies
 - [networkx/networkx](https://github.com/networkx/networkx) – Network Analysis in Python
 - [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) – A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
@@ -2480,6 +2491,7 @@
 
 ## [Rust](id:rust)
 
+- [chshersh/tool-sync](https://github.com/chshersh/tool-sync) – 🧰 Manage your personal toolbox easily
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [brocode/fw](https://github.com/brocode/fw) – workspace productivity booster
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
@@ -3056,6 +3068,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) – Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
@@ -3261,6 +3274,10 @@
 ## [Wikitext](id:wikitext)
 
 - [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
+
+## [Wren](id:wren)
+
+- [wren-lang/wren](https://github.com/wren-lang/wren) – The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 ## [Zig](id:zig)
 
