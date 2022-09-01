@@ -18,6 +18,7 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
+- [Dart](#dart)
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -218,6 +219,7 @@
 
 ## [C++](id:c++)
 
+- [SChernykh/p2pool](https://github.com/SChernykh/p2pool) – Decentralized pool for Monero mining
 - [jank-lang/jank](https://github.com/jank-lang/jank) – A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
@@ -309,6 +311,10 @@
 - [UniMath/UniMath](https://github.com/UniMath/UniMath) – This coq library aims to formalize a substantial body of mathematics using the univalent point of view.
 - [HoTT/HoTT](https://github.com/HoTT/HoTT) – Homotopy type theory
 
+## [Dart](id:dart)
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## [Dhall](id:dhall)
 
 - [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) – Typecheck, template and modularize your Kubernetes definitions with Dhall
@@ -392,7 +398,6 @@
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) – Lua Lisp Language
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) – Configuration for Linux, i3, Kitty, Fish, Neovim and more
-- [Olical/aniseed](https://github.com/Olical/aniseed) – Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 
 ## [Futhark](id:futhark)
 
@@ -1343,7 +1348,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – An API first development platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1978,6 +1983,7 @@
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [mna/luashell](https://github.com/mna/luashell) – A small Lua module to help write what would be shell scripts in Lua. (mirror)
 - [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) – Health Checker for Nginx Upstream Servers in Pure Lua
+- [Olical/aniseed](https://github.com/Olical/aniseed) – Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) – My personal Hammerspoon configuration - mirrored from GitLab
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 
@@ -2345,6 +2351,7 @@
 
 ## [Python](id:python)
 
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) – A collection of tools and files for learning new technologies
 - [networkx/networkx](https://github.com/networkx/networkx) – Network Analysis in Python
@@ -2491,6 +2498,7 @@
 
 ## [Rust](id:rust)
 
+- [Xe/waifud](https://github.com/Xe/waifud) – For your server and all of its waifus <3
 - [chshersh/tool-sync](https://github.com/chshersh/tool-sync) – 🧰 Manage your personal toolbox easily
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [brocode/fw](https://github.com/brocode/fw) – workspace productivity booster
@@ -2544,7 +2552,6 @@
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) – A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [greyblake/envconfig-rs](https://github.com/greyblake/envconfig-rs) – Build a config structure from environment variables in Rust without boilerplate
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [epilys/rsqlite3](https://github.com/epilys/rsqlite3) – sqlite3 Rewritten in RiiR Rust 🦀🦀🦀
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) – A cross-platform, OpenGL terminal emulator.
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
@@ -3153,7 +3160,9 @@
 
 ## [Vim Script](id:vim-script)
 
+- [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
+- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
@@ -3170,7 +3179,6 @@
 
 ## [Vim script](id:vim-script)
 
-- [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
@@ -3182,7 +3190,6 @@
 - [srid/nvim.nix-archived](https://github.com/srid/nvim.nix-archived) – MOVED https://github.com/srid/nixos-config/blob/master/home/neovim.nix
 - [axvr/org.vim](https://github.com/axvr/org.vim) – Org mode syntax highlighting and folding for Vim.
 - [onivim/libvim](https://github.com/onivim/libvim) – libvim: The core Vim editing engine as a minimal C library
-- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
