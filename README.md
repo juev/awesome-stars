@@ -414,6 +414,7 @@
 
 ## [Go](id:go)
 
+- [alphadose/haxmap](https://github.com/alphadose/haxmap) – Fastest and most memory efficient golang concurrent hashmap
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) – Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
@@ -1401,7 +1402,7 @@
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) – Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
-- [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) – a microservice framework for rapid development of micro services in Go with rich eco-system
+- [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) – a cloud native application framework for Go with rich eco-system
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) – A golang ebook intro how to build a web with golang
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) – high performance JSON encoder/decoder with stream API for Golang 
 - [russross/blackfriday](https://github.com/russross/blackfriday) – Blackfriday: a markdown processor for Go
@@ -2081,6 +2082,7 @@
 
 ## [Others](id:others)
 
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场 
@@ -3028,6 +3030,7 @@
 
 ## [Swift](id:swift)
 
+- [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli) – 
 - [keepassium/KeePassium](https://github.com/keepassium/KeePassium) – KeePass-compatible password manager for iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) – Lightweight clipboard manager for macOS
