@@ -108,6 +108,7 @@
 
 ## [C](id:c)
 
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) – A lightweight DNS-over-HTTPS proxy.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
@@ -414,6 +415,8 @@
 
 ## [Go](id:go)
 
+- [bep/firstupdotenv](https://github.com/bep/firstupdotenv) – Loads env from the first firstup.env it finds.
+- [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) – Fastest and most memory efficient golang concurrent hashmap
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -1077,7 +1080,6 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) – Run Kubernetes locally
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) – k0s - The Zero Friction Kubernetes by Team Lens
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
 - [rsc/rf](https://github.com/rsc/rf) – A refactoring tool for Go
 - [americanexpress/earlybird](https://github.com/americanexpress/earlybird) – EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
@@ -1809,6 +1811,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) – The all-in-one tool to supercharge your productivity ⌨️
 - [andryou/scriptsafe](https://github.com/andryou/scriptsafe) – a browser extension to bring security and privacy to chrome, firefox, and opera
 - [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) – A self-hosted bookmark + archive manager to store your useful links.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
@@ -2212,7 +2215,7 @@
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) – List of Elixir books
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) – :books: Russian translation of "You Don't Know JS" book series
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) – Curated list of resources on HashiCorp's Terraform
-- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) – 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
+- [jasonelle-archive/jasonelle](https://github.com/jasonelle-archive/jasonelle) – 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [bradfitz/homelab](https://github.com/bradfitz/homelab) – Brad's homelab setup
 - [adrianmihalko/raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) – Install and configure WireGuard on Raspberry Pi (and others)
 - [rcarmo/til](https://github.com/rcarmo/til) – 📝 Today I Learned
@@ -2501,7 +2504,7 @@
 ## [Rust](id:rust)
 
 - [Xe/waifud](https://github.com/Xe/waifud) – For your server and all of its waifus <3
-- [chshersh/tool-sync](https://github.com/chshersh/tool-sync) – 🧰 Manage your personal toolbox easily
+- [chshersh/tool-sync](https://github.com/chshersh/tool-sync) – 🧰 Download pre-built binaries of all your favourite tools with a single command
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [brocode/fw](https://github.com/brocode/fw) – workspace productivity booster
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
@@ -2522,7 +2525,7 @@
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH and HTTPS bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) – A command-line tool to prevent committing secret keys into your source code
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
@@ -3078,6 +3081,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) – Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
