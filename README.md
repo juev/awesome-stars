@@ -415,6 +415,7 @@
 
 ## [Go](id:go)
 
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) – A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) – Loads env from the first firstup.env it finds.
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) – Fastest and most memory efficient golang concurrent hashmap
@@ -1945,7 +1946,7 @@
 
 - [Kong/kong](https://github.com/Kong/kong) – 🦍 The Cloud-Native API Gateway 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – A launch point for your personal nvim configuration
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) – A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) – A configuration for Neovim beginners.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -2580,7 +2581,7 @@
 - [jpochyla/psst](https://github.com/jpochyla/psst) – Fast and multi-platform Spotify client with native GUI
 - [snoyberg/bwbackup](https://github.com/snoyberg/bwbackup) – Create encrypted backups of your Bitwarden vault
 - [japaric/heapless](https://github.com/japaric/heapless) – Heapless, `static` friendly data structures
-- [rustsec/rustsec](https://github.com/rustsec/rustsec) – Audit Cargo.lock files for dependencies with security vulnerabilities
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [skerkour/bloom](https://github.com/skerkour/bloom) – The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [yaahc/eyre](https://github.com/yaahc/eyre) –  A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
@@ -3182,6 +3183,7 @@
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
+- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 
 ## [Vim script](id:vim-script)
@@ -3259,7 +3261,6 @@
 - [vlime/vlime](https://github.com/vlime/vlime) – A Common Lisp dev environment for Vim (and Neovim)
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) – A tree explorer plugin for vim.
 - [tpope/vim-apathy](https://github.com/tpope/vim-apathy) – apathy.vim: Set the 'path' option for miscellaneous file types
-- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) – Tutorial for vim-go
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8 (and Neovim)
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
