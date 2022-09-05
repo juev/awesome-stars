@@ -606,7 +606,7 @@
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) – GopherLua: VM and compiler for Lua in Go
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) – Go proxy that serves from S3
 - [redneckbeard/thanos](https://github.com/redneckbeard/thanos) – Ruby -> Go at the snap of your fingers
-- [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
+- [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [ubclaunchpad/cumulus](https://github.com/ubclaunchpad/cumulus) – 💸 Cryptocurrency that doesn't waste your time
 - [Lallassu/bintris](https://github.com/Lallassu/bintris) – Binary Tetris
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) – Postgres wire compatible SQLite proxy.
@@ -647,7 +647,7 @@
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) – Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) – With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) – Declarative configuration for Gmail filters
-- [bxcodec/faker](https://github.com/bxcodec/faker) – Go (Golang)  Fake Data  Generator for Struct
+- [bxcodec/faker](https://github.com/bxcodec/faker) – Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [cespare/xxhash](https://github.com/cespare/xxhash) – A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [fatih/semgroup](https://github.com/fatih/semgroup) – Like errgroup/waitgroup, but only runs a maximum of tasks at any time.
@@ -3179,12 +3179,15 @@
 - [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 
 ## [Vim script](id:vim-script)
 
@@ -3242,11 +3245,9 @@
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) – ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) – My NixOS configs
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) – :dragon: Unite and create user interfaces
-- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
-- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [preservim/vim-thematic](https://github.com/preservim/vim-thematic) – Alter Vim's appearance to suit your task & environ
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) – Vim Space Controller
@@ -3265,7 +3266,6 @@
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8 (and Neovim)
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) – A solid language pack for Vim.
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) – Vim configuration for Rust.
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) – tpope's dotfiles. DON'T USE unless you're tpope
