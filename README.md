@@ -5,6 +5,7 @@
 ## Contents
 
 - [AGS Script](#ags-script)
+- [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [AppleScript](#applescript)
 - [AsciiDoc](#asciidoc)
@@ -83,6 +84,12 @@
 ## [AGS Script](id:ags-script)
 
 - [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) – Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
+
+## [Adblock Filter List](id:adblock-filter-list)
+
+- [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard Simplified Domain names filter
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
+- [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
 
 ## [Agda](id:agda)
 
@@ -1812,6 +1819,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) – The all-in-one tool to supercharge your productivity ⌨️
 - [andryou/scriptsafe](https://github.com/andryou/scriptsafe) – a browser extension to bring security and privacy to chrome, firefox, and opera
 - [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) – A self-hosted bookmark + archive manager to store your useful links.
@@ -2134,7 +2142,6 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [github/advisory-database](https://github.com/github/advisory-database) – Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) – How to systematically secure anything: a repository about security engineering
-- [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard Simplified Domain names filter
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) – A collection of hacking tools, resources and references to practice ethical hacking.
 - [github/gitignore](https://github.com/github/gitignore) – A collection of useful .gitignore templates
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) – 📜Zig Learning & Usage Guide.
@@ -2308,7 +2315,6 @@
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) – A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) – Thoughts on Go performance optimization
 - [mkaz/working-with-go](https://github.com/mkaz/working-with-go) – A set of example golang code to start learning Go
-- [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) – Flight rules for git
 - [EFForg/dnt-guide](https://github.com/EFForg/dnt-guide) – How to Implement DNT
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
@@ -2390,7 +2396,6 @@
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
-- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) – Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) – backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -2862,6 +2867,7 @@
 
 ## [Shell](id:shell)
 
+- [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) – Firefox for Android (Fennec) with Ouinet integration
 - [exercism/jq](https://github.com/exercism/jq) – Exercism exercises in jq.
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
 - [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) – Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
@@ -3189,6 +3195,7 @@
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) – vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
@@ -3256,7 +3263,6 @@
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) – Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 - [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
 - [emilyst/home](https://github.com/emilyst/home) – My home directory's settings
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
