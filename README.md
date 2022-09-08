@@ -283,7 +283,7 @@
 ## [CSS](id:css)
 
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
-- [nikomatsakis/rustconf-2021-e44bec44](https://github.com/nikomatsakis/rustconf-2021-e44bec44) – Talk for RustConf 2021
+- [nikomatsakis/rustconf-2021](https://github.com/nikomatsakis/rustconf-2021) – Talk for RustConf 2021
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1926,7 +1926,7 @@
 - [mlrepa/dvc-1-get-started](https://github.com/mlrepa/dvc-1-get-started) – Data Version Control (DVC) tutorial 1. Get Started
 - [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) – A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques. 
 - [Glorf/recipenlg](https://github.com/Glorf/recipenlg) – Set of scripts and notebooks used to produce results visible in RecipeNLG paper
-- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful python projects using Jupyter Notebooks
+- [fastai/nbdev](https://github.com/fastai/nbdev) – Create delightful software with Jupyter Notebooks
 - [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) – Jupyter adaptation of Learn You a Haskell for Great Good!
 - [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) – Hands-On Machine Learning for Algorithmic Trading, published by Packt
 - [khakhalin/Sketches](https://github.com/khakhalin/Sketches) – 
