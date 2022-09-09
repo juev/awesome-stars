@@ -105,7 +105,7 @@
 
 ## [Assembly](id:assembly)
 
-- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) – An approachable introduction to assembly.
+- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) – 📘 An approachable introduction to Assembly, the result of our months-long quest to understand the language.
 - [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) – A pure-Go implementation of the BLAKE3 cryptographic hash function
 
@@ -939,7 +939,7 @@
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) – :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) – Minimalist Go package aimed at creating Console User Interfaces.
-- [arl/statsviz](https://github.com/arl/statsviz) – :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) – :rocket: Visualise Go program runtime metrics in real time in your browser
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [liamg/darktile](https://github.com/liamg/darktile) – :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers. 
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) – Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -1492,7 +1492,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) – The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jsha/minica](https://github.com/jsha/minica) – minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) – Protect and discover secrets using Gitleaks 🔑
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform web server with automatic HTTPS
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) – CHANGELOG generator implemented in Go (Golang).
@@ -2094,6 +2094,7 @@
 
 ## [Others](id:others)
 
+- [AzadNetCH/Clash](https://github.com/AzadNetCH/Clash) – Clash Config
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
@@ -3182,6 +3183,7 @@
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :star2: Terminal manager for (neo)vim
 - [Shougo/neovim](https://github.com/Shougo/neovim) – vim for the 21st century
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) – VimWiki addon for managing notes according to Zettelkasten method
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
@@ -3217,7 +3219,6 @@
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
 - [rainglow/vim](https://github.com/rainglow/vim) – 320+ color themes for VIM.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) – Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :star2: Terminal manager for (neo)vim
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) – :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) – OpenAI GPT-3 plugin for vim.
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) – A bunch of vim shortcuts, colors, and bundles to make your life easier
