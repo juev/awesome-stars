@@ -3177,6 +3177,7 @@
 ## [Vim Script](id:vim-script)
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
+- [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
@@ -3205,7 +3206,6 @@
 
 ## [Vim script](id:vim-script)
 
-- [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) – A colour scheme for terminals, Vim and friends.
