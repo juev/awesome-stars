@@ -2868,6 +2868,7 @@
 
 ## [Shell](id:shell)
 
+- [nezavisimost/FuckRKN1](https://github.com/nezavisimost/FuckRKN1) – FuckRKN1: freedom of speech and information
 - [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) – Firefox for Android (Fennec) with Ouinet integration
 - [exercism/jq](https://github.com/exercism/jq) – Exercism exercises in jq.
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
@@ -3090,6 +3091,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) – ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) – Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
