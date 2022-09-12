@@ -331,6 +331,8 @@
 
 ## [Dockerfile](id:dockerfile)
 
+- [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
+- [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) – 
 - [savsgio/docker-rocksdb](https://github.com/savsgio/docker-rocksdb) – Alpine docker image with the pre-compiled shared library of RocksDB
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) – 
@@ -422,6 +424,8 @@
 
 ## [Go](id:go)
 
+- [Snawoot/dumbproxy](https://github.com/Snawoot/dumbproxy) – Dumbiest HTTP proxy ever
+- [Snawoot/steady-tun](https://github.com/Snawoot/steady-tun) – Secure TLS tunnel with pool of prepared upstream connections
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) – A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) – Loads env from the first firstup.env it finds.
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
@@ -2868,6 +2872,7 @@
 
 ## [Shell](id:shell)
 
+- [juev/cronjob](https://github.com/juev/cronjob) – Github Actions
 - [nezavisimost/FuckRKN1](https://github.com/nezavisimost/FuckRKN1) – FuckRKN1: freedom of speech and information
 - [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) – Firefox for Android (Fennec) with Ouinet integration
 - [exercism/jq](https://github.com/exercism/jq) – Exercism exercises in jq.
@@ -3193,6 +3198,7 @@
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 - [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
+- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) – projectionist.vim: Granular project configuration
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
@@ -3244,7 +3250,6 @@
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) – Vim script for text filtering and alignment
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) – Make terminal vim and tmux work better together.
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) – seamless integration for vim and tmux's clipboard
-- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) – projectionist.vim: Granular project configuration
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) – vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) – repeat.vim: enable repeating supported plugin maps with "."
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) – unimpaired.vim: Pairs of handy bracket mappings
