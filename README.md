@@ -115,6 +115,7 @@
 
 ## [C](id:c)
 
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) – A lightweight DNS-over-HTTPS proxy.
@@ -424,6 +425,11 @@
 
 ## [Go](id:go)
 
+- [txthinking/socks5](https://github.com/txthinking/socks5) – SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
+- [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) – ContainerSSH: Launch containers on demand
+- [carlescere/scheduler](https://github.com/carlescere/scheduler) – Job scheduling made easy.
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, predictable shells and containers.
 - [Snawoot/dumbproxy](https://github.com/Snawoot/dumbproxy) – Dumbiest HTTP proxy ever
 - [Snawoot/steady-tun](https://github.com/Snawoot/steady-tun) – Secure TLS tunnel with pool of prepared upstream connections
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) – A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
@@ -1363,7 +1369,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – Micro services development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -2098,6 +2104,7 @@
 
 ## [Others](id:others)
 
+- [hookzof/socks5_list](https://github.com/hookzof/socks5_list) – Auto-updated SOCKS5 proxy list + proxies for Telegram
 - [AzadNetCH/Clash](https://github.com/AzadNetCH/Clash) – Clash Config
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -2243,7 +2250,7 @@
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) – A collection of postmortems. Sorry for the delay in merging PRs!
 - [miripiruni/constitution-of-russia](https://github.com/miripiruni/constitution-of-russia) – Конституция Российской Федерации
 - [thewhitetulip/awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook) – learn awk by example
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) – Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) – Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [edheltzel/vscode-better-solarized](https://github.com/edheltzel/vscode-better-solarized) – ☯ A better Solarized theme for Visual Studio Code
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) – Curated list of LaTeX awesomeness
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
@@ -2340,6 +2347,7 @@
 
 ## [PHP](id:php)
 
+- [electerious/Lychee](https://github.com/electerious/Lychee) – A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) – Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
 - [cdevroe/unmark](https://github.com/cdevroe/unmark) – An open source to do app for bookmarks.
