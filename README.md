@@ -283,6 +283,7 @@
 
 ## [CSS](id:css)
 
+- [nalgeon/sqlite-weekly](https://github.com/nalgeon/sqlite-weekly) – Weekly SQLite news, articles and extensions ✨
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [nikomatsakis/rustconf-2021](https://github.com/nikomatsakis/rustconf-2021) – Talk for RustConf 2021
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -425,6 +426,9 @@
 
 ## [Go](id:go)
 
+- [tensorchord/envd](https://github.com/tensorchord/envd) – 🏕️ Development environment for AI/ML, based on buildkit
+- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) –  A beautiful and useful low-latency prompt for your shell, written in go
+- [danvergara/dblab](https://github.com/danvergara/dblab) – The database client every command line junkie deserves.
 - [txthinking/socks5](https://github.com/txthinking/socks5) – SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 - [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) – ContainerSSH: Launch containers on demand
@@ -1369,7 +1373,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [micro/micro](https://github.com/micro/micro) – Micro services development platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -2104,6 +2108,7 @@
 
 ## [Others](id:others)
 
+- [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) – A guide to the adventurer.
 - [hookzof/socks5_list](https://github.com/hookzof/socks5_list) – Auto-updated SOCKS5 proxy list + proxies for Telegram
 - [AzadNetCH/Clash](https://github.com/AzadNetCH/Clash) – Clash Config
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
@@ -2386,7 +2391,7 @@
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) – Blogging with Org-mode for very lazy people
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) – A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) – A collection of learning resources for curious software engineers
 - [dethos/clipboard-watcher](https://github.com/dethos/clipboard-watcher) – Keep an eye on the apps that are using your clipboard
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) – A Telegram bot that forwards Tweets
@@ -2880,6 +2885,7 @@
 
 ## [Shell](id:shell)
 
+- [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [juev/cronjob](https://github.com/juev/cronjob) – Github Actions
 - [nezavisimost/FuckRKN1](https://github.com/nezavisimost/FuckRKN1) – FuckRKN1: freedom of speech and information
 - [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) – Firefox for Android (Fennec) with Ouinet integration
