@@ -426,6 +426,7 @@
 
 ## [Go](id:go)
 
+- [ovh/utask](https://github.com/ovh/utask) – µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [tensorchord/envd](https://github.com/tensorchord/envd) – 🏕️ Development environment for AI/ML, based on buildkit
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) –  A beautiful and useful low-latency prompt for your shell, written in go
 - [danvergara/dblab](https://github.com/danvergara/dblab) – The database client every command line junkie deserves.
@@ -485,7 +486,7 @@
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) – A download manager package for Go
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ozontech/cute](https://github.com/ozontech/cute) – Library for simply creating HTTP tests in Go with Allure reports.
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code and community space of 📖 100 Go Mistakes
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code and community space of 📖 100 Go Mistakes.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) – Go library for the WhatsApp web multidevice API
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
 - [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
@@ -2108,6 +2109,7 @@
 
 ## [Others](id:others)
 
+- [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) – A guide to the adventurer.
 - [hookzof/socks5_list](https://github.com/hookzof/socks5_list) – Auto-updated SOCKS5 proxy list + proxies for Telegram
 - [AzadNetCH/Clash](https://github.com/AzadNetCH/Clash) – Clash Config
