@@ -768,7 +768,6 @@
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs.
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) – Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI in Go inspired by Material Design
 - [atotto/clipboard](https://github.com/atotto/clipboard) – clipboard for golang
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) – Go Twitter REST and Streaming API v1.1
@@ -842,7 +841,7 @@
 - [go-gsm/ucp-cli](https://github.com/go-gsm/ucp-cli) – command-line interface for sending and receiving SMS via UCP protocol
 - [simplesurance/baur](https://github.com/simplesurance/baur) – baur is an incremental task runner for mono repositories.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
-- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) – Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
+- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) – Go database for fast and effortless data management
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) – a cloud native application framework for Go with rich eco-system
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) – A golang ebook intro how to build a web with golang
