@@ -7,33 +7,33 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [C](#c)
 - [C#](#c#)
-- [CSS](#css)
 - [Common Lisp](#common-lisp)
+- [Css](#css)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Gherkin](#gherkin)
 - [Go](#go)
-- [HTML](#html)
 - [Haskell](#haskell)
+- [Html](#html)
 - [Java](#java)
-- [JavaScript](#javascript)
+- [Javascript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
+- [Scss](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
-- [TeX](#tex)
-- [TypeScript](#typescript)
+- [Tex](#tex)
+- [Typescript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
-- [Vim script](#vim-script)
-- [VimL](#viml)
+- [Viml](#viml)
 - [Vue](#vue)
 - [Wikitext](#wikitext)
 - [Wren](#wren)
@@ -64,18 +64,18 @@
 
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
 
-## [CSS](id:css)
+## [Common Lisp](id:common-lisp)
+
+- [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
+- [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
+
+## [Css](id:css)
 
 - [nalgeon/sqlite-weekly](https://github.com/nalgeon/sqlite-weekly) – Weekly SQLite news, articles and extensions ✨
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-## [Common Lisp](id:common-lisp)
-
-- [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
-- [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
 
 ## [Dockerfile](id:dockerfile)
 
@@ -662,21 +662,6 @@
 - [nishanths/license](https://github.com/nishanths/license) – Command-line license text generator.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 
-## [HTML](id:html)
-
-- [juev/foam](https://github.com/juev/foam)
-- [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
-- [chrisalbon/short_notes_on_machine_learning](https://github.com/chrisalbon/short_notes_on_machine_learning) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
-- [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
-- [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
-- [go101/go101](https://github.com/go101/go101) – An online book focusing on Go syntax/semantics and runtime related things
-- [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
-- [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
-- [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) – 💡 document everything
-- [gnab/remark](https://github.com/gnab/remark) – A simple, in-browser, markdown-driven slideshow tool.
-- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
-
 ## [Haskell](id:haskell)
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
@@ -709,11 +694,26 @@
 - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) – 📖 source material for Thinking with Types
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) – A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
+## [Html](id:html)
+
+- [juev/foam](https://github.com/juev/foam)
+- [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
+- [chrisalbon/short_notes_on_machine_learning](https://github.com/chrisalbon/short_notes_on_machine_learning) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
+- [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) – An increasingly less-brief guide to Mastodon
+- [apvarun/digital-garden-hugo-theme](https://github.com/apvarun/digital-garden-hugo-theme) – Build your own personal Digital Garden effortlessly with this Hugo theme
+- [go101/go101](https://github.com/go101/go101) – An online book focusing on Go syntax/semantics and runtime related things
+- [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
+- [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
+- [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
+- [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) – 💡 document everything
+- [gnab/remark](https://github.com/gnab/remark) – A simple, in-browser, markdown-driven slideshow tool.
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
+
 ## [Java](id:java)
 
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
-## [JavaScript](id:javascript)
+## [Javascript](id:javascript)
 
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -742,6 +742,10 @@
 
 - [netlify/binrc](https://github.com/netlify/binrc) – Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
+
+## [Nix](id:nix)
+
+- [juev/nixpkgs](https://github.com/juev/nixpkgs)
 
 ## [Others](id:others)
 
@@ -1231,7 +1235,7 @@
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) – CommonMark + GFM compatible Markdown parser and renderer
 - [serde-rs/serde](https://github.com/serde-rs/serde) – Serialization framework for Rust
 
-## [SCSS](id:scss)
+## [Scss](id:scss)
 
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 
@@ -1420,7 +1424,7 @@
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) – A private messenger for iOS.
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) – A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 
-## [TeX](id:tex)
+## [Tex](id:tex)
 
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) – The book "Performance Analysis and Tuning on Modern CPU"
 - [Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis) – A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
@@ -1444,7 +1448,7 @@
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) – YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
-## [TypeScript](id:typescript)
+## [Typescript](id:typescript)
 
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
@@ -1525,50 +1529,31 @@
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
+- [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
+- [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
 - [github/copilot.vim](https://github.com/github/copilot.vim) – Neovim plugin for GitHub Copilot
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) – A colour scheme for terminals, Vim and friends.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
-- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
-- [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
-- [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
-- [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :star2: Terminal manager for (neo)vim
-- [Shougo/neovim](https://github.com/Shougo/neovim) – vim for the 21st century
-- [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) – VimWiki addon for managing notes according to Zettelkasten method
-- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
-- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
-- [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
-- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) – projectionist.vim: Granular project configuration
-- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
-- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
-- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [vim/vim](https://github.com/vim/vim) – The official Vim repository
-- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
-- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
-- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
-
-## [Vim script](id:vim-script)
-
-- [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
-- [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) – Easy git merge conflict resolution in Vim
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) – :eyes: " / @ / CTRL-R
 - [altercation/solarized](https://github.com/altercation/solarized) – precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [srid/nvim.nix-archived](https://github.com/srid/nvim.nix-archived) – MOVED https://github.com/srid/nixos-config/blob/master/home/neovim.nix
 - [axvr/org.vim](https://github.com/axvr/org.vim) – Org mode syntax highlighting and folding for Vim.
 - [onivim/libvim](https://github.com/onivim/libvim) – libvim: The core Vim editing engine as a minimal C library
+- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
+- [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
+- [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+- [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) – Auto configurations for Language Server for vim-lsp
 - [rainglow/vim](https://github.com/rainglow/vim) – 320+ color themes for VIM.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) – Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :star2: Terminal manager for (neo)vim
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) – :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) – OpenAI GPT-3 plugin for vim.
+- [Shougo/neovim](https://github.com/Shougo/neovim) – vim for the 21st century
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) – A bunch of vim shortcuts, colors, and bundles to make your life easier
+- [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) – VimWiki addon for managing notes according to Zettelkasten method
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) – Preview colours in source code while editing
 - [takac/vim-hardtime](https://github.com/takac/vim-hardtime) – Plugin to help you stop repeating the basic movement keys
 - [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) – Racer support for Vim
@@ -1576,23 +1561,30 @@
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) – A vim plugin for communicating with a language server
 - [neomake/neomake](https://github.com/neomake/neomake) – Asynchronous linting and make framework for Neovim/Vim
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) – A Vim plugin for Prettier
+- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) – Simple templates plugin for Vim 
 - [kassio/neoterm](https://github.com/kassio/neoterm) – Wrapper of some vim/neovim's :terminal functions.
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
 - [sjl/clam.vim](https://github.com/sjl/clam.vim) – A lightweight Vim plugin for working with shell commands.
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) – :heavy_plus_sign: Show a diff using Vim its sign column.
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) – Ranger integration in vim and neovim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
+- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
 - [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) – You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [tpope/vim-characterize](https://github.com/tpope/vim-characterize) – characterize.vim: Unicode character metadata
+- [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) – Vim script for text filtering and alignment
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) – Make terminal vim and tmux work better together.
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) – seamless integration for vim and tmux's clipboard
+- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) – projectionist.vim: Granular project configuration
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) – vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) – repeat.vim: enable repeating supported plugin maps with "."
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) – unimpaired.vim: Pairs of handy bracket mappings
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) – commentary.vim: comment stuff out
+- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
+- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) – surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) – My cross-platform vimrc
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
@@ -1600,31 +1592,40 @@
 - [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) – ~/.config/nvim
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) – My NixOS configs
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) – :dragon: Unite and create user interfaces
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
+- [vim/vim](https://github.com/vim/vim) – The official Vim repository
 - [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [preservim/vim-thematic](https://github.com/preservim/vim-thematic) – Alter Vim's appearance to suit your task & environ
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) – Vim Space Controller
 - [ervandew/supertab](https://github.com/ervandew/supertab) – Perform all your vim insert mode completions with Tab
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) – Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
 - [emilyst/home](https://github.com/emilyst/home) – My home directory's settings
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
 - [vlime/vlime](https://github.com/vlime/vlime) – A Common Lisp dev environment for Vim (and Neovim)
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) – A tree explorer plugin for vim.
 - [tpope/vim-apathy](https://github.com/tpope/vim-apathy) – apathy.vim: Set the 'path' option for miscellaneous file types
+- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) – Vim - the text editor - for macOS
+- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [fatih/vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) – Tutorial for vim-go
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8 (and Neovim)
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) – A solid language pack for Vim.
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) – Vim configuration for Rust.
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) – tpope's dotfiles. DON'T USE unless you're tpope
 
-## [VimL](id:viml)
+## [Viml](id:viml)
 
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) – precision colorscheme for the vim text editor
 - [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) – Automatically opens popup menu for completions
