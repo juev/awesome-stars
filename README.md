@@ -21,7 +21,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -742,10 +741,6 @@
 
 - [netlify/binrc](https://github.com/netlify/binrc) – Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
-
-## [Nix](id:nix)
-
-- [juev/nixpkgs](https://github.com/juev/nixpkgs)
 
 ## [Others](id:others)
 
