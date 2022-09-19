@@ -39,13 +39,17 @@
 - [Zig](#zig)
 
 
-## [Adblock Filter List](id:adblock-filter-list)
+<div id="adblock-filter-list"></div>
+
+## Adblock Filter List
 
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard Simplified Domain names filter
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
 
-## [C](id:c)
+<div id="c"></div>
+
+## C
 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
@@ -59,16 +63,22 @@
 - [bvinc/go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) – SQLite driver for the Go programming language
 - [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) – Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 
-## [C#](id:c#)
+<div id="c#"></div>
+
+## C#
 
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
 
-## [Common Lisp](id:common-lisp)
+<div id="common-lisp"></div>
+
+## Common Lisp
 
 - [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
 
-## [Css](id:css)
+<div id="css"></div>
+
+## Css
 
 - [nalgeon/sqlite-weekly](https://github.com/nalgeon/sqlite-weekly) – Weekly SQLite news, articles and extensions ✨
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
@@ -76,7 +86,9 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
-## [Dockerfile](id:dockerfile)
+<div id="dockerfile"></div>
+
+## Dockerfile
 
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
@@ -84,12 +96,16 @@
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
 
-## [Elixir](id:elixir)
+<div id="elixir"></div>
+
+## Elixir
 
 - [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based VPN server and firewall
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
-## [Emacs Lisp](id:emacs-lisp)
+<div id="emacs-lisp"></div>
+
+## Emacs Lisp
 
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -97,11 +113,15 @@
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [sachac/emacs-news](https://github.com/sachac/emacs-news) – Weekly Emacs news
 
-## [Gherkin](id:gherkin)
+<div id="gherkin"></div>
+
+## Gherkin
 
 - [iphoting/ovpnmcgen.rb](https://github.com/iphoting/ovpnmcgen.rb) – An OpenVPN iOS Configuration Profile (.mobileconfig) Utility—Configures OpenVPN for use with VPN-on-Demand that are not exposed through Apple Configurator 2.
 
-## [Go](id:go)
+<div id="go"></div>
+
+## Go
 
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
@@ -661,7 +681,9 @@
 - [nishanths/license](https://github.com/nishanths/license) – Command-line license text generator.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 
-## [Haskell](id:haskell)
+<div id="haskell"></div>
+
+## Haskell
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
@@ -693,7 +715,9 @@
 - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) – 📖 source material for Thinking with Types
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) – A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
-## [Html](id:html)
+<div id="html"></div>
+
+## Html
 
 - [juev/foam](https://github.com/juev/foam)
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
@@ -708,11 +732,15 @@
 - [gnab/remark](https://github.com/gnab/remark) – A simple, in-browser, markdown-driven slideshow tool.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 
-## [Java](id:java)
+<div id="java"></div>
+
+## Java
 
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
-## [Javascript](id:javascript)
+<div id="javascript"></div>
+
+## Javascript
 
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -723,26 +751,34 @@
 - [git-tips/tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 
-## [Jupyter Notebook](id:jupyter-notebook)
+<div id="jupyter-notebook"></div>
+
+## Jupyter Notebook
 
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) – 10 Weeks, 20 Lessons, Data Science for All!
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [natasha/corus](https://github.com/natasha/corus) – Links to Russian corpora + Python functions for loading and parsing
 
-## [Lua](id:lua)
+<div id="lua"></div>
+
+## Lua
 
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) – An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 
-## [Makefile](id:makefile)
+<div id="makefile"></div>
+
+## Makefile
 
 - [netlify/binrc](https://github.com/netlify/binrc) – Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
-## [Others](id:others)
+<div id="others"></div>
+
+## Others
 
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
@@ -777,7 +813,9 @@
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – List of applications and tools that make my iOS experience even more amazing
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
 
-## [Python](id:python)
+<div id="python"></div>
+
+## Python
 
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -888,11 +926,15 @@
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) – A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, support for note templates, bibliography support, support for multiple panes, etc. to make working in your Zettelkasten a joy :smile:.
 - [ranger/ranger](https://github.com/ranger/ranger) – A VIM-inspired filemanager for the console
 
-## [Ruby](id:ruby)
+<div id="ruby"></div>
+
+## Ruby
 
 - [andmetoo/dot](https://github.com/andmetoo/dot) – My dotfiles and settings
 
-## [Rust](id:rust)
+<div id="rust"></div>
+
+## Rust
 
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls)
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
@@ -1230,11 +1272,15 @@
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) – CommonMark + GFM compatible Markdown parser and renderer
 - [serde-rs/serde](https://github.com/serde-rs/serde) – Serialization framework for Rust
 
-## [Scss](id:scss)
+<div id="scss"></div>
+
+## Scss
 
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 
-## [Shell](id:shell)
+<div id="shell"></div>
+
+## Shell
 
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [juev/cronjob](https://github.com/juev/cronjob) – Github Actions
@@ -1399,7 +1445,9 @@
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) – My dotfiles. Buyer beware ;)
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) – A set of vim, zsh, git, and tmux configuration files.
 
-## [Swift](id:swift)
+<div id="swift"></div>
+
+## Swift
 
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -1419,7 +1467,9 @@
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) – A private messenger for iOS.
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) – A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 
-## [Tex](id:tex)
+<div id="tex"></div>
+
+## Tex
 
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) – The book "Performance Analysis and Tuning on Modern CPU"
 - [Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis) – A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
@@ -1443,12 +1493,14 @@
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) – YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
-## [Typescript](id:typescript)
+<div id="typescript"></div>
+
+## Typescript
 
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -1516,11 +1568,15 @@
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) – Open source monitoring and visualization UI for the TICK stack
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-## [V](id:v)
+<div id="v"></div>
+
+## V
 
 - [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
-## [Vim Script](id:vim-script)
+<div id="vim-script"></div>
+
+## Vim Script
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
@@ -1620,7 +1676,9 @@
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) – Vim configuration for Rust.
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) – tpope's dotfiles. DON'T USE unless you're tpope
 
-## [Viml](id:viml)
+<div id="viml"></div>
+
+## Viml
 
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) – precision colorscheme for the vim text editor
 - [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) – Automatically opens popup menu for completions
@@ -1629,20 +1687,28 @@
 - [junegunn/rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) – :rainbow: Simpler Rainbow Parentheses
 - [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
 
-## [Vue](id:vue)
+<div id="vue"></div>
+
+## Vue
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
-## [Wikitext](id:wikitext)
+<div id="wikitext"></div>
+
+## Wikitext
 
 - [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
 
-## [Wren](id:wren)
+<div id="wren"></div>
+
+## Wren
 
 - [wren-lang/wren](https://github.com/wren-lang/wren) – The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
-## [Zig](id:zig)
+<div id="zig"></div>
+
+## Zig
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
