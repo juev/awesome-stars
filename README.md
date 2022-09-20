@@ -123,6 +123,7 @@
 
 ## Go
 
+- [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
@@ -142,7 +143,6 @@
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
 - [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
-- [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
@@ -943,7 +943,7 @@
 - [wezm/rsspls](https://github.com/wezm/rsspls) – Generate RSS feeds from websites
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) – A tool to help you find unsubscribe links in your emails
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, letting you run local code in cloud conditions.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) – Containerize your development and continuous integration environments. 🥂
 - [brxken128/dexios](https://github.com/brxken128/dexios) – A secure file encryption utility, written in Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
@@ -1256,7 +1256,6 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) – A curated list of Rust code and resources.
 - [cobalt-org/liquid-rust](https://github.com/cobalt-org/liquid-rust) – Liquid templating for Rust
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) – Static site generator written in Rust
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) – A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [exercism/rust](https://github.com/exercism/rust) – Exercism exercises in Rust.
 - [spacejam/sled](https://github.com/spacejam/sled) – the champagne of beta embedded databases
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) – A modern editor with a backend written in Rust.
@@ -1282,6 +1281,7 @@
 
 ## Shell
 
+- [juev/docker-compose](https://github.com/juev/docker-compose) – Docker compose files
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [juev/cronjob](https://github.com/juev/cronjob) – Github Actions
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
