@@ -8,7 +8,6 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
-- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -23,7 +22,6 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [V](#v)
 - [Vim Script](#vim-script)
 - [VimL](#viml)
 - [Zig](#zig)
@@ -63,12 +61,6 @@
 
 - [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based VPN server and firewall
 
-<div id="emacs-lisp"></div>
-
-## Emacs Lisp
-
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
-
 <div id="go"></div>
 
 ## Go
@@ -92,9 +84,6 @@
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
-- [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
-- [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
-- [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
 - [hacdias/webdav](https://github.com/hacdias/webdav) – Simple Go WebDAV server.
@@ -123,10 +112,6 @@
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
-- [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) – Decentralized VPN
-- [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) – Exporter for Consul metrics
-- [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
-- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
 
 <div id="html"></div>
 
@@ -210,7 +195,6 @@
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
@@ -231,7 +215,6 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn)
 - [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
-- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 
@@ -265,8 +248,6 @@
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for Bionic Reading on ANY website!
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [markmap/markmap](https://github.com/markmap/markmap) – Visualize your Markdown as mindmaps with Markmap.
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
-- [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) – Visual Studio Code extension for zk
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
@@ -276,21 +257,12 @@
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim-mode for VS Code using embedded Neovim
-- [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
-
-<div id="v"></div>
-
-## V
-
-- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 <div id="vim-script"></div>
 
 ## Vim Script
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
-- [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) – VimWiki addon for managing notes according to Zettelkasten method
-- [ap/vim-css-color](https://github.com/ap/vim-css-color) – Preview colours in source code while editing
 - [takac/vim-hardtime](https://github.com/takac/vim-hardtime) – Plugin to help you stop repeating the basic movement keys
 - [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) – Racer support for Vim
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) – :rocket: Modern Task System for Project Building, Testing and Deploying !!
@@ -306,7 +278,6 @@
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) – Ranger integration in vim and neovim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
-- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 
 <div id="viml"></div>
 
@@ -320,7 +291,6 @@
 ## Zig
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
