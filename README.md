@@ -10,11 +10,9 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
-- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Makefile](#makefile)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -36,8 +34,6 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-- [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
-- [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
 
 <div id="css"></div>
 
@@ -53,7 +49,6 @@
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 
 <div id="elixir"></div>
 
@@ -84,34 +79,26 @@
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
-- [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
-- [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
-- [hacdias/webdav](https://github.com/hacdias/webdav) – Simple Go WebDAV server.
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-- [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
-- [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
-- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) – general purpose extensions to golang's database/sql
-- [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
-- [valyala/quicktemplate](https://github.com/valyala/quicktemplate) – Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
-- [uber-go/config](https://github.com/uber-go/config) – Configuration for Go applications
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
-- [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
-- [blang/semver](https://github.com/blang/semver) – Semantic Versioning (semver) library written in golang
-- [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) – A Golang Job Scheduling Package.
-- [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
-- [spf13/pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
-- [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [tj/staticgen](https://github.com/tj/staticgen) – Static website generator that lets you use HTTP servers and frameworks you already know
-- [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [kelseyhightower/confd](https://github.com/kelseyhightower/confd) – Manage local application configuration files using templates and data from etcd or consul
-- [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
-- [francoispqt/onelog](https://github.com/francoispqt/onelog) – Dead simple, super fast, zero allocation logger for Golang
-- [CGamesPlay/dfm](https://github.com/CGamesPlay/dfm) – dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
-- [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
+- [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) – Decentralized VPN
+- [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) – Exporter for Consul metrics
+- [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
+- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
+- [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
+- [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea, painless self-hosted git service
+- [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
+- [eko/gocache](https://github.com/eko/gocache) – ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Synchronize your DNS to multiple providers from a simple DSL
+- [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
+- [BurntSushi/toml](https://github.com/BurntSushi/toml) – TOML parser for Golang with reflection.
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
+- [go-kit/kit](https://github.com/go-kit/kit) – A standard library for microservices.
+- [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
+- [bep/s3deploy](https://github.com/bep/s3deploy) – A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
+- [howeyc/ledger](https://github.com/howeyc/ledger) – Command line double-entry accounting program
 
 <div id="html"></div>
 
@@ -119,13 +106,7 @@
 
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [chrisalbon/short_notes_on_machine_learning](https://github.com/chrisalbon/short_notes_on_machine_learning) – Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
-- [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-
-<div id="haskell"></div>
-
-## Haskell
-
-- [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 
 <div id="java"></div>
 
@@ -140,18 +121,13 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 
 <div id="jupyter-notebook"></div>
 
 ## Jupyter Notebook
 
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
-
-<div id="makefile"></div>
-
-## Makefile
-
-- [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
 <div id="others"></div>
 
@@ -170,10 +146,8 @@
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
-- [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
-- [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) – A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) – A curated list of awesome jq tools and resources.
+- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) – Curated List of Privacy Respecting Services and Software
+- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – List of applications and tools that make my iOS experience even more amazing
 
 <div id="python"></div>
 
@@ -183,7 +157,6 @@
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark service
 
 <div id="rust"></div>
 
@@ -195,11 +168,10 @@
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
-- [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
-- [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
+- [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 
 <div id="shell"></div>
 
@@ -215,23 +187,22 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn)
 - [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
-- [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 
 <div id="swift"></div>
 
 ## Swift
 
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
-- [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
-- [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
+- [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 
 <div id="tex"></div>
 
 ## TeX
 
-- [LenaVolzhina/about.me](https://github.com/LenaVolzhina/about.me) – Extended CV
+- [hmemcpy/cv](https://github.com/hmemcpy/cv) – My CV / Resume
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) – :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+- [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) – YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 <div id="typescript"></div>
 
@@ -248,49 +219,74 @@
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for Bionic Reading on ANY website!
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Serverless Telegram Bot on CloudFlare Workers
 - [markmap/markmap](https://github.com/markmap/markmap) – Visualize your Markdown as mindmaps with Markmap.
-- [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
-- [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
-- [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
-- [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
-- [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
-- [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
-- [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim-mode for VS Code using embedded Neovim
+- [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
+- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
+- [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
+- [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
+- [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) – VS Code extension for Haskell, powered by haskell-language-server
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 
 <div id="vim-script"></div>
 
 ## Vim Script
 
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
-- [takac/vim-hardtime](https://github.com/takac/vim-hardtime) – Plugin to help you stop repeating the basic movement keys
-- [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) – Racer support for Vim
-- [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) – :rocket: Modern Task System for Project Building, Testing and Deploying !!
-- [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) – A vim plugin for communicating with a language server
-- [neomake/neomake](https://github.com/neomake/neomake) – Asynchronous linting and make framework for Neovim/Vim
-- [prettier/vim-prettier](https://github.com/prettier/vim-prettier) – A Vim plugin for Prettier
-- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) – Vim and Neovim plugin to reveal the commit messages under the cursor
-- [aperezdc/vim-template](https://github.com/aperezdc/vim-template) – Simple templates plugin for Vim 
-- [kassio/neoterm](https://github.com/kassio/neoterm) – Wrapper of some vim/neovim's :terminal functions.
-- [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
-- [sjl/clam.vim](https://github.com/sjl/clam.vim) – A lightweight Vim plugin for working with shell commands.
-- [mhinz/vim-signify](https://github.com/mhinz/vim-signify) – :heavy_plus_sign: Show a diff using Vim its sign column.
-- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) – Ranger integration in vim and neovim
-- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
+- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
+- [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
+- [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) – You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
+- [tpope/vim-characterize](https://github.com/tpope/vim-characterize) – characterize.vim: Unicode character metadata
+- [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
+- [godlygeek/tabular](https://github.com/godlygeek/tabular) – Vim script for text filtering and alignment
+- [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) – Make terminal vim and tmux work better together.
+- [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) – seamless integration for vim and tmux's clipboard
+- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) – projectionist.vim: Granular project configuration
+- [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) – vinegar.vim: Combine with netrw to create a delicious salad dressing
+- [tpope/vim-repeat](https://github.com/tpope/vim-repeat) – repeat.vim: enable repeating supported plugin maps with "."
+- [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) – unimpaired.vim: Pairs of handy bracket mappings
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) – commentary.vim: comment stuff out
+- [tpope/vim-sensible](https://github.com/tpope/vim-sensible) – sensible.vim: Defaults everyone can agree on
+- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) – pathogen.vim: manage your runtimepath
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) – surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
+- [saaguero/dotvim](https://github.com/saaguero/dotvim) – My cross-platform vimrc
+- [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
+- [sonph/onehalf](https://github.com/sonph/onehalf) – Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
+- [fukamachi/neovim-config](https://github.com/fukamachi/neovim-config) – ~/.config/nvim
+- [denisshevchenko/.files](https://github.com/denisshevchenko/.files) – My NixOS configs
+- [Shougo/unite.vim](https://github.com/Shougo/unite.vim) – :dragon: Unite and create user interfaces
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
+- [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) – :art: Light & Dark Vim color schemes inspired by Google's Material Design
+- [vim/vim](https://github.com/vim/vim) – The official Vim repository
+- [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
+- [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
+- [preservim/vim-thematic](https://github.com/preservim/vim-thematic) – Alter Vim's appearance to suit your task & environ
+- [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
+- [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) – Vim Space Controller
+- [ervandew/supertab](https://github.com/ervandew/supertab) – Perform all your vim insert mode completions with Tab
+- [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
+- [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) – Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
+- [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
+- [emilyst/home](https://github.com/emilyst/home) – My home directory's settings
+- [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
+- [vlime/vlime](https://github.com/vlime/vlime) – A Common Lisp dev environment for Vim (and Neovim)
 
 <div id="viml"></div>
 
 ## VimL
 
-- [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) – Automatically opens popup menu for completions
-- [wikitopian/hardmode](https://github.com/wikitopian/hardmode) – Vim: Hard Mode (deprecated)
+- [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) – A Go bundle for Vundle or Pathogen
+- [junegunn/rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) – :rainbow: Simpler Rainbow Parentheses
+- [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
 
 <div id="zig"></div>
 
 ## Zig
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
