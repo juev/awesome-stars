@@ -329,6 +329,7 @@
 
 ## Makefile
 
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
 <div id="others"></div>
