@@ -122,6 +122,7 @@
 
 ## Go
 
+- [SlyMarbo/rss](https://github.com/SlyMarbo/rss) – A Go library for fetching, parsing, and updating RSS feeds.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
