@@ -494,7 +494,7 @@
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -516,7 +516,6 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) – 📦 GitHub Action for Rust `cargo` command
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) – Backup your Obsidian.md vault with git
