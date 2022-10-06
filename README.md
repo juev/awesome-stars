@@ -156,7 +156,7 @@
 - [felixge/benchmore](https://github.com/felixge/benchmore)
 - [mitchellh/cli](https://github.com/mitchellh/cli) – A Go library for implementing command-line interfaces.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting infrastructure, fully automated from empty disk to operating services.
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Collection of handy tools for Go projects
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [juev/counter](https://github.com/juev/counter)
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
@@ -341,6 +341,7 @@
 
 ## Others
 
+- [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
