@@ -5,6 +5,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -46,6 +47,12 @@
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard Simplified Domain names filter
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
+
+<div id="astro"></div>
+
+## Astro
+
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 <div id="c"></div>
 
@@ -699,7 +706,6 @@
 ## Vue
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 <div id="wikitext"></div>
 
