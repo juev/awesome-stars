@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Ocaml](#ocaml)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -136,6 +137,8 @@
 
 ## Go
 
+- [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) – ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) – Design patterns in Golang
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) – Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
@@ -353,6 +356,12 @@
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
+<div id="ocaml"></div>
+
+## Ocaml
+
+- [comby-tools/comby](https://github.com/comby-tools/comby) – A code rewrite tool for structural search and replace that supports ~every language.
+
 <div id="others"></div>
 
 ## Others
@@ -384,6 +393,7 @@
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) – A curated list of awesome jq tools and resources.
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) – Curated List of Privacy Respecting Services and Software
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – List of applications and tools that make my iOS experience even more amazing
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
 
 <div id="python"></div>
@@ -491,7 +501,6 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 <div id="tex"></div>
 
