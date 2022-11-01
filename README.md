@@ -159,7 +159,7 @@
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – Source code and community space of 📖 100 Go Mistakes.
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
@@ -427,6 +427,7 @@
 
 ## Rust
 
+- [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
