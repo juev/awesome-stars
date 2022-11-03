@@ -289,7 +289,7 @@
 - [howeyc/ledger](https://github.com/howeyc/ledger) – Command line double-entry accounting program
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
