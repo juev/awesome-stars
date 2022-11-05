@@ -21,6 +21,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [LUA](#lua)
 - [Makefile](#makefile)
 - [Ocaml](#ocaml)
 - [Others](#others)
@@ -350,6 +351,12 @@
 
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
+
+<div id="lua"></div>
+
+## LUA
+
+- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – Simon’s Improved Layout Engine
 
 <div id="makefile"></div>
 
