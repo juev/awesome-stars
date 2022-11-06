@@ -322,6 +322,7 @@
 
 ## Haskell
 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunneling over websocket protocol - Static binary available 
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
@@ -471,6 +472,7 @@
 
 ## Shell
 
+- [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
 - [johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox) – 厌倦了总是需要手动输入命令安装博客，网盘，RSS，邮箱，影音，代理了吗？VPSToolBox提供了一整套全自动化的解决方案，解放双手，从今天开始！
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
