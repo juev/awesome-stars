@@ -26,7 +26,6 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -376,6 +375,7 @@
 
 ## Others
 
+- [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
@@ -425,12 +425,6 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark service
-
-<div id="ruby"></div>
-
-## Ruby
-
-- [andmetoo/dot](https://github.com/andmetoo/dot) – My dotfiles and settings
 
 <div id="rust"></div>
 
