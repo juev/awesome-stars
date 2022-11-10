@@ -137,6 +137,7 @@
 
 ## Go
 
+- [mattn/go-mastodon](https://github.com/mattn/go-mastodon) – mastodon client for golang
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – A tasty, self-hostable Git server for the command line🍦
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
