@@ -159,7 +159,7 @@
 - [octeep/wireproxy](https://github.com/octeep/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
-- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+- [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
