@@ -139,6 +139,8 @@
 
 ## Go
 
+- [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
+- [chriswalz/bit](https://github.com/chriswalz/bit) – Bit is a modern Git CLI
 - [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
 - [go-gost/gost](https://github.com/go-gost/gost) – GO Simple Tunnel - a simple tunnel written in golang
