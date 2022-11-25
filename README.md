@@ -139,6 +139,7 @@
 
 ## Go
 
+- [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [chriswalz/bit](https://github.com/chriswalz/bit) – Bit is a modern Git CLI
 - [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
