@@ -387,6 +387,7 @@
 
 ## Others
 
+- [juev/links](https://github.com/juev/links)
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
