@@ -483,6 +483,7 @@
 
 ## Shell
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
 - [johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox) – 厌倦了总是需要手动输入命令安装博客，网盘，RSS，邮箱，影音，代理了吗？VPSToolBox提供了一整套全自动化的解决方案，解放双手，从今天开始！
