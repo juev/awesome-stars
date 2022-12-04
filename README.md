@@ -445,6 +445,7 @@
 
 ## Rust
 
+- [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A trusted and real TLS proxy
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) – Delicately-TUICed high-performance proxy built on top of the QUIC protocol
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
@@ -547,6 +548,7 @@
 
 ## TypeScript
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
 - [teaxyz/cli](https://github.com/teaxyz/cli) – the unified package manager (brew2)
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
