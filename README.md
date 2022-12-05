@@ -139,6 +139,7 @@
 
 ## Go
 
+- [ent/ent](https://github.com/ent/ent) – An entity framework for Go
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
