@@ -139,6 +139,8 @@
 
 ## Go
 
+- [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) – IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
