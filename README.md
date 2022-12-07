@@ -139,6 +139,7 @@
 
 ## Go
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) – IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
@@ -230,6 +231,7 @@
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – Gitpod automates the provisioning of ready-to-code development environments. 
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) – Gopher Artwork by Ashley McNamara
@@ -588,7 +590,6 @@
 - [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) – The knowledge IDE
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) – Turn GitHub into a bookmark manager
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – Gitpod automates the provisioning of ready-to-code development environments. 
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) – Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – GitHub style split diffs in your terminal
