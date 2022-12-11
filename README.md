@@ -139,6 +139,9 @@
 
 ## Go
 
+- [bep/gomaintemplate](https://github.com/bep/gomaintemplate) – Just a simple main() program template.
+- [bep/golibtemplate](https://github.com/bep/golibtemplate) – Template project for Go libraries.
+- [bep/lazycache](https://github.com/bep/lazycache) – Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.
 - [sipt/shuttle](https://github.com/sipt/shuttle) – A web proxy in Golang with amazing features.
 - [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI an open source client for container development
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
