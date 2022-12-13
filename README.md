@@ -20,6 +20,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jq](#jq)
 - [Jupyter Notebook](#jupyter-notebook)
 - [LUA](#lua)
 - [Makefile](#makefile)
@@ -139,6 +140,8 @@
 
 ## Go
 
+- [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
+- [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [rsc/github](https://github.com/rsc/github)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
@@ -369,6 +372,12 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
+
+<div id="jq"></div>
+
+## Jq
+
+- [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) – Solving Advent of Code with jq
 
 <div id="jupyter-notebook"></div>
 
