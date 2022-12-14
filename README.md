@@ -140,6 +140,7 @@
 
 ## Go
 
+- [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
