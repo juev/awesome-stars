@@ -543,6 +543,8 @@
 
 ## Swift
 
+- [passepartoutvpn/passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) – VPN client for iOS and macOS.
+- [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) – VPN client library for Apple platforms.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [temochka/Anykey](https://github.com/temochka/Anykey) – A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
