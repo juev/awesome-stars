@@ -60,6 +60,7 @@
 
 ## C
 
+- [riyaz-ali/sqlite](https://github.com/riyaz-ali/sqlite) – Golang library to build sqlite extensions
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
@@ -140,6 +141,7 @@
 
 ## Go
 
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
@@ -507,6 +509,7 @@
 
 ## Shell
 
+- [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
