@@ -141,6 +141,8 @@
 
 ## Go
 
+- [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git, written in go
+- [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
