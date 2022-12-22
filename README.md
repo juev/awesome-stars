@@ -141,6 +141,7 @@
 
 ## Go
 
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) – 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git, written in go
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
@@ -414,6 +415,7 @@
 
 ## Others
 
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
 - [juev/links](https://github.com/juev/links)
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon
@@ -578,6 +580,7 @@
 
 ## TypeScript
 
+- [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
 - [teaxyz/cli](https://github.com/teaxyz/cli) – the unified package manager (brew2)
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
