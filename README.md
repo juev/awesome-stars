@@ -141,6 +141,8 @@
 
 ## Go
 
+- [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) – Simple golang mitm proxy implementation
+- [google/martian](https://github.com/google/martian) – Martian is a library for building custom HTTP/S proxies
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git, written in go
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
@@ -210,7 +212,7 @@
 - [Pallinder/go-randomdata](https://github.com/Pallinder/go-randomdata) – A tiny generator of random data for golang, also known as a faker 
 - [felixge/benchmore](https://github.com/felixge/benchmore)
 - [mitchellh/cli](https://github.com/mitchellh/cli) – A Go library for implementing command-line interfaces.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [juev/counter](https://github.com/juev/counter)
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
