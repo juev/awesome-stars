@@ -481,6 +481,7 @@
 
 ## Rust
 
+- [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A trusted and real TLS proxy
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) – Delicately-TUICed high-performance proxy built on top of the QUIC protocol
