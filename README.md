@@ -54,6 +54,7 @@
 
 ## Astro
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 <div id="c"></div>
@@ -141,6 +142,8 @@
 
 ## Go
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, ActivityPub server, powered by Go.
+- [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) – The golang implementation of the bitswap protocol
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) – A BNB Smart Chain client based on the go-ethereum fork
@@ -595,7 +598,6 @@
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
