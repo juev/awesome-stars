@@ -142,6 +142,7 @@
 
 ## Go
 
+- [procyon-projects/chrono](https://github.com/procyon-projects/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, ActivityPub server, powered by Go.
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
