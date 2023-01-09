@@ -142,6 +142,7 @@
 
 ## Go
 
+- [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
 - [procyon-projects/chrono](https://github.com/procyon-projects/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, ActivityPub server, powered by Go.
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
@@ -355,6 +356,7 @@
 
 ## HTML
 
+- [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
