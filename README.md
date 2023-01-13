@@ -142,6 +142,7 @@
 
 ## Go
 
+- [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [felixge/traceutils](https://github.com/felixge/traceutils) – Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
 - [procyon-projects/chrono](https://github.com/procyon-projects/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
