@@ -411,6 +411,7 @@
 
 ## LUA
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – Simon’s Improved Layout Engine
 
 <div id="makefile"></div>
