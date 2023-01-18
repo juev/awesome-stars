@@ -27,6 +27,7 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -141,6 +142,7 @@
 
 ## Go
 
+- [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) – K-Sortable Globally Unique IDs
@@ -489,6 +491,12 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark service
+
+<div id="ruby"></div>
+
+## Ruby
+
+- [ttscoff/searchlink](https://github.com/ttscoff/searchlink)
 
 <div id="rust"></div>
 
