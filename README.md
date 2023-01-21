@@ -543,6 +543,7 @@
 
 ## Shell
 
+- [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
