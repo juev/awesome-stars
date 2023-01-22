@@ -7,13 +7,10 @@ jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
+    container: ghcr.io/juev/starred:latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-go@v3
-      with:
-        go-version: '>=1.19.0'
-    - run: go install github.com/juev/starred@latest
-    - name: update repo
+    - 
+      name: 🚀 Run Starred
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
