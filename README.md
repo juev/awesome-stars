@@ -498,12 +498,14 @@
 
 ## Ruby
 
+- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) – A command line tool that draw plots on the terminal.
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink)
 
 <div id="rust"></div>
 
 ## Rust
 
+- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A trusted and real TLS proxy
