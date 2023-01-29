@@ -63,6 +63,7 @@
 
 ## C
 
+- [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) – A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
@@ -145,6 +146,8 @@
 
 ## Go
 
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) – Generate type-safe code from SQL
+- [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs.
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
@@ -814,6 +817,7 @@
 
 ## Vue
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
