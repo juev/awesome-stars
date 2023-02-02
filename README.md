@@ -485,6 +485,7 @@
 
 ## Python
 
+- [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using GPT-3
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -553,6 +554,7 @@
 
 ## Shell
 
+- [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
@@ -705,6 +707,7 @@
 
 ## Vim Script
 
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) – Free, ultrafast Copilot alternative for Vim and Neovim
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
