@@ -146,6 +146,8 @@
 
 ## Go
 
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [antonmedv/expr](https://github.com/antonmedv/expr) – Expression language and expression evaluation for Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) – Generate type-safe code from SQL
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs.
@@ -370,6 +372,8 @@
 
 ## HTML
 
+- [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
+- [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
