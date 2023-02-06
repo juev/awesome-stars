@@ -147,6 +147,7 @@
 
 ## Go
 
+- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) – Seamless authentication for every tool in your terminal.
 - [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
@@ -453,6 +454,7 @@
 
 ## Others
 
+- [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
 - [juev/links](https://github.com/juev/links)
@@ -562,6 +564,7 @@
 
 ## Shell
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GPG and SSH
 - [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
