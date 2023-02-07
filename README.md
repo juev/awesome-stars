@@ -26,6 +26,7 @@
 - [Makefile](#makefile)
 - [Ocaml](#ocaml)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -112,6 +113,7 @@
 
 ## Dockerfile
 
+- [dockage/tor-privoxy](https://github.com/dockage/tor-privoxy) – Docker Tor proxy (http and shell) built on Alpine Linux
 - [juev/tools](https://github.com/juev/tools)
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
@@ -147,6 +149,7 @@
 
 ## Go
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) – Seamless authentication for every tool in your terminal.
 - [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
@@ -490,6 +493,12 @@
 - [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – List of applications and tools that make my iOS experience even more amazing
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
+
+<div id="php"></div>
+
+## PHP
+
+- [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
 <div id="python"></div>
 
