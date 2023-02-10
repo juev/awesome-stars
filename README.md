@@ -149,6 +149,7 @@
 
 ## Go
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) – improved rss feed for reddit
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) – Seamless authentication for every tool in your terminal.
@@ -458,6 +459,7 @@
 
 ## Others
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
@@ -533,6 +535,7 @@
 
 ## Rust
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your network traffic
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -651,6 +654,7 @@
 
 ## TypeScript
 
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
 - [teaxyz/cli](https://github.com/teaxyz/cli) – the next-generation, cross‐platform package manager
