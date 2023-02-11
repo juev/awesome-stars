@@ -149,6 +149,7 @@
 
 ## Go
 
+- [yohamta/dagu](https://github.com/yohamta/dagu) – Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) – improved rss feed for reddit
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
@@ -535,6 +536,7 @@
 
 ## Rust
 
+- [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your network traffic
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
@@ -654,6 +656,7 @@
 
 ## TypeScript
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
