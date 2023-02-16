@@ -505,6 +505,7 @@
 
 ## PHP
 
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – Nextcloud AIO stands for Nextcloud All In One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
 <div id="python"></div>
