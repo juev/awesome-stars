@@ -149,6 +149,7 @@
 
 ## Go
 
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation sharing platform built on top of OpenZiti.
 - [yohamta/dagu](https://github.com/yohamta/dagu) – Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
@@ -463,6 +464,7 @@
 
 ## Others
 
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – A curated list of nostr projects and resources  
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
