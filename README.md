@@ -149,6 +149,8 @@
 
 ## Go
 
+- [Snawoot/hola-proxy](https://github.com/Snawoot/hola-proxy) – Standalone Hola proxy client
+- [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation sharing platform built on top of OpenZiti.
@@ -418,6 +420,7 @@
 
 ## JavaScript
 
+- [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -464,6 +467,7 @@
 
 ## Others
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – A curated list of nostr projects and resources  
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
