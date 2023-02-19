@@ -149,6 +149,8 @@
 
 ## Go
 
+- [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
+- [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
 - [Snawoot/hola-proxy](https://github.com/Snawoot/hola-proxy) – Standalone Hola proxy client
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
@@ -427,6 +429,7 @@
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build full-stack serverless apps.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 
 <div id="jq"></div>
@@ -712,7 +715,6 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build full-stack serverless apps.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
