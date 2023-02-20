@@ -99,7 +99,6 @@
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 <div id="common-lisp"></div>
@@ -149,6 +148,7 @@
 
 ## Go
 
+- [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
 - [Snawoot/hola-proxy](https://github.com/Snawoot/hola-proxy) – Standalone Hola proxy client
@@ -588,6 +588,7 @@
 ## SCSS
 
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 
 <div id="shell"></div>
 
@@ -670,6 +671,7 @@
 
 ## TypeScript
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
