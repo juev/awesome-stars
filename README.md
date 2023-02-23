@@ -471,6 +471,7 @@
 
 ## Others
 
+- [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) – A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – A curated list of nostr projects and resources  
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
