@@ -148,6 +148,7 @@
 
 ## Go
 
+- [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for tailscale users
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
