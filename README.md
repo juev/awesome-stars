@@ -148,6 +148,7 @@
 
 ## Go
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
