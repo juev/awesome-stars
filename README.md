@@ -148,6 +148,7 @@
 
 ## Go
 
+- [FiloSottile/keygen](https://github.com/FiloSottile/keygen) – Deterministic key generation for Go.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
@@ -617,7 +618,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
-- [johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox) – 厌倦了总是需要手动输入命令安装博客，网盘，RSS，邮箱，影音，代理了吗？VPSToolBox提供了一整套全自动化的解决方案，解放双手，从今天开始！
+- [johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox) – 一键在 Linux VPS 上安装 Trojan-GFW。Trojan-GFW script designed for Debian based Linux virtual private server.
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) – 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [juev/docker-compose](https://github.com/juev/docker-compose) – Docker compose files
