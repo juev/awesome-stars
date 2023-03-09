@@ -148,6 +148,7 @@
 
 ## Go
 
+- [tailscale/sqlite](https://github.com/tailscale/sqlite) – work in progress
 - [FiloSottile/keygen](https://github.com/FiloSottile/keygen) – Deterministic key generation for Go.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
@@ -401,7 +402,6 @@
 ## HTML
 
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
-- [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
@@ -433,6 +433,7 @@
 ## JavaScript
 
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
+- [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
