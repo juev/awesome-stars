@@ -468,6 +468,7 @@
 
 ## Makefile
 
+- [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – Small docker of Tor client
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
@@ -482,6 +483,7 @@
 
 ## Others
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) – A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
@@ -537,6 +539,7 @@
 
 ## Python
 
+- [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using GPT-3
