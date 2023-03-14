@@ -148,6 +148,7 @@
 
 ## Go
 
+- [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) – work in progress
 - [FiloSottile/keygen](https://github.com/FiloSottile/keygen) – Deterministic key generation for Go.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
@@ -616,6 +617,7 @@
 
 ## Shell
 
+- [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) – ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
@@ -821,7 +823,6 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) – async language server protocol plugin for vim and neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
-- [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) – You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [tpope/vim-characterize](https://github.com/tpope/vim-characterize) – characterize.vim: Unicode character metadata
 - [tony/vim-config-framework](https://github.com/tony/vim-config-framework) – :green_book: VIM / Neovim configuration framework
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) – Vim script for text filtering and alignment
