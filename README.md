@@ -24,6 +24,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [LUA](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
@@ -474,6 +475,13 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
+<div id="nix"></div>
+
+## Nix
+
+- [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
+
 <div id="ocaml"></div>
 
 ## Ocaml
@@ -543,7 +551,7 @@
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
-- [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using GPT-3
+- [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
