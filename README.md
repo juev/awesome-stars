@@ -246,7 +246,7 @@
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [DataDog/gostackparse](https://github.com/DataDog/gostackparse) – Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s.
-- [octeep/wireproxy](https://github.com/octeep/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
+- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
