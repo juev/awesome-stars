@@ -70,7 +70,7 @@
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) – Unprivileged sandboxing tool
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
@@ -149,6 +149,10 @@
 
 ## Go
 
+- [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+- [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
+- [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
+- [go-rod/rod](https://github.com/go-rod/rod) – A Devtools driver for web automation and scraping
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) – work in progress
 - [FiloSottile/keygen](https://github.com/FiloSottile/keygen) – Deterministic key generation for Go.
