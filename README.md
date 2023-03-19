@@ -149,6 +149,9 @@
 
 ## Go
 
+- [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) – A client implementation for the Tailscale HTTP API
+- [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
+- [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) – A highly experimental exploration of integrating Tailscale and Caddy.
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
