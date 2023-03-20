@@ -149,6 +149,9 @@
 
 ## Go
 
+- [fatih/starhook](https://github.com/fatih/starhook) – Manage & Analyze repositories at scale
+- [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
+- [icyphox/go-vite](https://github.com/icyphox/go-vite) – vite, but in Go; powers https://icyphox.sh
 - [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) – A client implementation for the Tailscale HTTP API
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) – A highly experimental exploration of integrating Tailscale and Caddy.
@@ -486,6 +489,7 @@
 
 ## Nix
 
+- [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 
@@ -683,8 +687,6 @@
 ## Swift
 
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
-- [passepartoutvpn/passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) – VPN client for iOS and macOS.
-- [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) – VPN client library for Apple platforms.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [temochka/Anykey](https://github.com/temochka/Anykey) – A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
@@ -713,6 +715,7 @@
 
 ## TypeScript
 
+- [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
