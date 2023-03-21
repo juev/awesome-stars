@@ -149,6 +149,8 @@
 
 ## Go
 
+- [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [fatih/starhook](https://github.com/fatih/starhook) – Manage & Analyze repositories at scale
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [icyphox/go-vite](https://github.com/icyphox/go-vite) – vite, but in Go; powers https://icyphox.sh
@@ -489,6 +491,7 @@
 
 ## Nix
 
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
@@ -590,6 +593,7 @@
 
 ## Rust
 
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf rust clone)
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your network traffic
