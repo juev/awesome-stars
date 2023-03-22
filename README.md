@@ -149,6 +149,8 @@
 
 ## Go
 
+- [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
+- [serjs/socks5-server](https://github.com/serjs/socks5-server)
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [fatih/starhook](https://github.com/fatih/starhook) – Manage & Analyze repositories at scale
@@ -289,7 +291,7 @@
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [fatih/faillint](https://github.com/fatih/faillint) – Report unwanted import path and declaration usages
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – Open Source, MongoDB-compatible document database
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) – Auto-generated Google APIs for Go.
@@ -562,6 +564,7 @@
 
 ## Python
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
@@ -719,6 +722,7 @@
 
 ## TypeScript
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
