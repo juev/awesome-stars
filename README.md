@@ -133,6 +133,7 @@
 
 ## Emacs Lisp
 
+- [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
@@ -149,6 +150,7 @@
 
 ## Go
 
+- [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) – A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
 - [serjs/socks5-server](https://github.com/serjs/socks5-server)
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
@@ -319,7 +321,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – Go library for the Cloudflare v4 API
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [cue-lang/cue](https://github.com/cue-lang/cue) – The new home of the CUE language! Validate and define text-based and dynamic configuration
+- [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
@@ -589,6 +591,7 @@
 
 ## Ruby
 
+- [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) – Emacs Plus formulae for the Homebrew package manager
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) – A command line tool that draw plots on the terminal.
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink)
 
@@ -596,6 +599,7 @@
 
 ## Rust
 
+- [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf rust clone)
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
