@@ -387,7 +387,7 @@
 - [leominov/prometheus-actions](https://github.com/leominov/prometheus-actions) – Actions based on Prometheus metrics
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
 - [eko/gocache](https://github.com/eko/gocache) – ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
