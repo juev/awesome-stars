@@ -150,6 +150,8 @@
 
 ## Go
 
+- [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
+- [julien040/gut](https://github.com/julien040/gut) – An easy-to-use git client for Windows, macOS, and Linux
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
 - [valyala/fastjson](https://github.com/valyala/fastjson) – Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [json-iterator/go](https://github.com/json-iterator/go) – A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -516,6 +518,7 @@
 
 ## Others
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
