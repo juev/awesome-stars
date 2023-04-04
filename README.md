@@ -36,6 +36,7 @@
 - [Starlark](#starlark)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
@@ -150,6 +151,7 @@
 
 ## Go
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [julien040/gut](https://github.com/julien040/gut) – An easy-to-use git client for Windows, macOS, and Linux
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
@@ -301,7 +303,7 @@
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [fatih/faillint](https://github.com/fatih/faillint) – Report unwanted import path and declaration usages
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – Open Source, MongoDB-compatible document database
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – A truly Open Source MongoDB alternative
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) – Auto-generated Google APIs for Go.
@@ -430,7 +432,6 @@
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
@@ -657,6 +658,7 @@
 
 ## Shell
 
+- [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  docker image. Supports ARMv7(32-bit), ARMv8 (64-bit ) and x86 (64-Bit). 
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) – ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
@@ -730,6 +732,12 @@
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) – :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) – YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+
+<div id="text"></div>
+
+## Text
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 
 <div id="typescript"></div>
 
