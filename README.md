@@ -151,6 +151,11 @@
 
 ## Go
 
+- [multiformats/go-multiaddr](https://github.com/multiformats/go-multiaddr) – Composable and future-proof network addresses
+- [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) – A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
+- [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
+- [gookit/color](https://github.com/gookit/color) – 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [julien040/gut](https://github.com/julien040/gut) – An easy-to-use git client for Windows, macOS, and Linux
@@ -576,6 +581,7 @@
 
 ## Python
 
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
