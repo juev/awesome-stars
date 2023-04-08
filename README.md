@@ -151,6 +151,7 @@
 
 ## Go
 
+- [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [multiformats/go-multiaddr](https://github.com/multiformats/go-multiaddr) – Composable and future-proof network addresses
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) – A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
