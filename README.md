@@ -151,6 +151,7 @@
 
 ## Go
 
+- [gobwas/ws](https://github.com/gobwas/ws) – Tiny WebSocket library for Go.
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [multiformats/go-multiaddr](https://github.com/multiformats/go-multiaddr) – Composable and future-proof network addresses
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) – A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
@@ -966,7 +967,7 @@
 
 ## Zig
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek)
