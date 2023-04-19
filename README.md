@@ -135,6 +135,7 @@
 
 ## Emacs Lisp
 
+- [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
 - [xenodium/dotsies](https://github.com/xenodium/dotsies) – Dot files, Emacs config, etc
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
@@ -584,7 +585,7 @@
 
 ## PHP
 
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – Nextcloud AIO stands for Nextcloud All In One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
 <div id="python"></div>
