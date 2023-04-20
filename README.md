@@ -155,6 +155,10 @@
 
 ## Go
 
+- [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) – µDiff - a micro Go diff library
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [showa-93/go-mask](https://github.com/showa-93/go-mask) – go-mask is a simple, customizable Go library for masking sensitive information.
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [samber/do](https://github.com/samber/do) – ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
@@ -209,7 +213,7 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation sharing platform built on top of OpenZiti.
-- [dagu-labs/dagu](https://github.com/dagu-labs/dagu) – Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [dagu-labs/dagu](https://github.com/dagu-labs/dagu) – Just another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) – improved rss feed for reddit
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
