@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -111,6 +112,12 @@
 - [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
 
+<div id="dart"></div>
+
+## Dart
+
+- [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
+
 <div id="dockerfile"></div>
 
 ## Dockerfile
@@ -135,6 +142,7 @@
 
 ## Emacs Lisp
 
+- [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
 - [xenodium/dotsies](https://github.com/xenodium/dotsies) – Dot files, Emacs config, etc
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
@@ -155,6 +163,7 @@
 
 ## Go
 
+- [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) – µDiff - a micro Go diff library
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
