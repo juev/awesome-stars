@@ -100,6 +100,7 @@
 
 ## CSS
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -163,6 +164,7 @@
 
 ## Go
 
+- [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go)
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) – µDiff - a micro Go diff library
@@ -548,7 +550,6 @@
 
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
-- [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
