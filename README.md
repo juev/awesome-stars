@@ -67,6 +67,7 @@
 
 ## C
 
+- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) – A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
@@ -164,7 +165,7 @@
 
 ## Go
 
-- [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go)
+- [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) – µDiff - a micro Go diff library
@@ -466,6 +467,7 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 
@@ -830,7 +832,6 @@
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
