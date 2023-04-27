@@ -165,6 +165,7 @@
 
 ## Go
 
+- [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
@@ -344,7 +345,7 @@
 - [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for datetime
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) – Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud! - https://ddosify.com 🚀
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Golang
@@ -642,6 +643,7 @@
 
 ## Rust
 
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
