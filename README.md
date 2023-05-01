@@ -559,6 +559,7 @@
 
 ## Others
 
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – Tips and recipes for Fish, from shell to plate. 🍣
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
