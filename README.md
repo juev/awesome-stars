@@ -164,6 +164,7 @@
 
 ## Go
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite
 - [redis/rueidis](https://github.com/redis/rueidis) – A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [bep/simplecobra](https://github.com/bep/simplecobra) – A simpler API for the popular Cobra CLI.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
@@ -529,6 +530,7 @@
 
 ## LUA
 
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – Simon’s Improved Layout Engine
@@ -706,6 +708,7 @@
 
 ## Shell
 
+- [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi. 
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Client with docker, podman and systemd support. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
