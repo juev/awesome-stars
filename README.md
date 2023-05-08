@@ -164,6 +164,7 @@
 
 ## Go
 
+- [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite
 - [redis/rueidis](https://github.com/redis/rueidis) – A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [bep/simplecobra](https://github.com/bep/simplecobra) – A simpler API for the popular Cobra CLI.
