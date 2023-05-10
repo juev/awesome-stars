@@ -164,6 +164,7 @@
 
 ## Go
 
+- [go-jet/jet](https://github.com/go-jet/jet) – Type safe SQL builder with code generation and automatic query result data mapping
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite
 - [redis/rueidis](https://github.com/redis/rueidis) – A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
