@@ -164,6 +164,8 @@
 
 ## Go
 
+- [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
+- [muesli/termenv](https://github.com/muesli/termenv) – Advanced ANSI style & color support for your terminal applications
 - [go-jet/jet](https://github.com/go-jet/jet) – Type safe SQL builder with code generation and automatic query result data mapping
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite
