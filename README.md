@@ -164,6 +164,8 @@
 
 ## Go
 
+- [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
+- [m13253/dns-over-https](https://github.com/m13253/dns-over-https) – High performance DNS over HTTPS client & server
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) – panicwrap is a Go library for catching and handling panics in Go applications.
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [muesli/termenv](https://github.com/muesli/termenv) – Advanced ANSI style & color support for your terminal applications
