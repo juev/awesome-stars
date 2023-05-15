@@ -163,6 +163,8 @@
 
 ## Go
 
+- [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
+- [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [m13253/dns-over-https](https://github.com/m13253/dns-over-https) – High performance DNS over HTTPS client & server
@@ -504,6 +506,7 @@
 
 ## JavaScript
 
+- [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -571,7 +574,7 @@
 
 ## Others
 
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – Catch, Cook, and Conquer: Unleashing the flavor of Fish 🦞
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
