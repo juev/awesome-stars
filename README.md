@@ -163,6 +163,9 @@
 
 ## Go
 
+- [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
+- [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
