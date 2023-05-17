@@ -163,6 +163,7 @@
 
 ## Go
 
+- [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
