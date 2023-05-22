@@ -164,6 +164,10 @@
 
 ## Go
 
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
+- [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
+- [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
+- [DHowett/go-plist](https://github.com/DHowett/go-plist) – A pure Go Apple Property List transcoder
 - [go-echarts/statsview](https://github.com/go-echarts/statsview) – 🚀 A real-time Golang runtime stats visualization profiler
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) – Web Scraper in Go, similar to BeautifulSoup
