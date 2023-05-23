@@ -164,6 +164,7 @@
 
 ## Go
 
+- [kevincobain2000/re](https://github.com/kevincobain2000/re) – Parse commands from markdown README.md tool.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
@@ -392,7 +393,7 @@
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) – Gopher Artwork by Ashley McNamara
@@ -691,7 +692,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf rust clone)
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your network traffic
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
