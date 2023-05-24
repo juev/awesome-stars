@@ -164,7 +164,7 @@
 
 ## Go
 
-- [kevincobain2000/re](https://github.com/kevincobain2000/re) – Parse commands from markdown README.md tool.
+- [kevincobain2000/re](https://github.com/kevincobain2000/re) – Command Line Tool to execute commands in README.md file.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
@@ -521,6 +521,7 @@
 
 ## JavaScript
 
+- [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
