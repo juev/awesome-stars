@@ -164,6 +164,9 @@
 
 ## Go
 
+- [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
+- [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
+- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
 - [kevincobain2000/re](https://github.com/kevincobain2000/re) – Command Line Tool to execute commands in README.md file.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
@@ -521,6 +524,7 @@
 
 ## JavaScript
 
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
@@ -650,6 +654,7 @@
 
 ## Python
 
+- [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
