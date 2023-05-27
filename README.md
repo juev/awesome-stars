@@ -164,6 +164,7 @@
 
 ## Go
 
+- [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
@@ -561,7 +562,7 @@
 
 ## LUA
 
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – Simon’s Improved Layout Engine
@@ -1044,7 +1045,7 @@
 
 ## Zig
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek)
