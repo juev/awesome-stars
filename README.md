@@ -699,7 +699,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf rust clone)
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -913,6 +913,7 @@
 
 ## Vim Script
 
+- [ziglang/zig.vim](https://github.com/ziglang/zig.vim) – Vim configuration for Zig
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) – Free, ultrafast Copilot alternative for Vim and Neovim
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
