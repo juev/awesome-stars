@@ -164,6 +164,7 @@
 
 ## Go
 
+- [tidwall/jj](https://github.com/tidwall/jj) – JSON Stream Editor (command line utility)
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
