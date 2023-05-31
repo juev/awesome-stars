@@ -656,6 +656,7 @@
 
 ## Python
 
+- [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – A reverse shell based on sshd  supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies 
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -691,6 +692,7 @@
 
 ## Rust
 
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
