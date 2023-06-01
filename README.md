@@ -164,6 +164,10 @@
 
 ## Go
 
+- [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
+- [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) – 🔑 v3 .onion vanity URL generator written in Go
+- [tidwall/sjson](https://github.com/tidwall/sjson) – Set JSON values very quickly in Go
+- [mattn/go-isatty](https://github.com/mattn/go-isatty)
 - [tidwall/jj](https://github.com/tidwall/jj) – JSON Stream Editor (command line utility)
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
