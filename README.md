@@ -164,6 +164,7 @@
 
 ## Go
 
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
 - [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) – 🔑 v3 .onion vanity URL generator written in Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) – Set JSON values very quickly in Go
