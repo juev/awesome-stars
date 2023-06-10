@@ -165,6 +165,7 @@
 
 ## Go
 
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
