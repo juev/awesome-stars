@@ -165,6 +165,7 @@
 
 ## Go
 
+- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
@@ -467,7 +468,7 @@
 - [leominov/isdayoff_exporter](https://github.com/leominov/isdayoff_exporter)
 - [leominov/prometheus-actions](https://github.com/leominov/prometheus-actions) – Actions based on Prometheus metrics
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) – A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
 - [eko/gocache](https://github.com/eko/gocache) – ☔️ A complete Go cache library that brings you multiple ways of managing your caches
