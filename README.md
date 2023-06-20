@@ -67,6 +67,7 @@
 
 ## C
 
+- [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
 - [libsql/libsql](https://github.com/libsql/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
@@ -165,6 +166,7 @@
 
 ## Go
 
+- [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
@@ -393,7 +395,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) – Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
-- [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Golang
+- [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) – :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
