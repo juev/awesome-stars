@@ -166,6 +166,8 @@
 
 ## Go
 
+- [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
