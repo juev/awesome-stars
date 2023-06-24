@@ -167,6 +167,7 @@
 
 ## Go
 
+- [frankban/quicktest](https://github.com/frankban/quicktest) – Quick helpers for testing Go applications
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [tidwall/btree](https://github.com/tidwall/btree) – B-tree implementation for Go
