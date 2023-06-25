@@ -167,6 +167,8 @@
 
 ## Go
 
+- [multiformats/multiaddr](https://github.com/multiformats/multiaddr) – Composable and future-proof network addresses
+- [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [frankban/quicktest](https://github.com/frankban/quicktest) – Quick helpers for testing Go applications
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
@@ -622,6 +624,7 @@
 
 ## Others
 
+- [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) – HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
@@ -866,7 +869,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
