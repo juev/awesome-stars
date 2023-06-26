@@ -167,6 +167,7 @@
 
 ## Go
 
+- [elliotchance/pie](https://github.com/elliotchance/pie) – 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [multiformats/multiaddr](https://github.com/multiformats/multiaddr) – Composable and future-proof network addresses
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [frankban/quicktest](https://github.com/frankban/quicktest) – Quick helpers for testing Go applications
