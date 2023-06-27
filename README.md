@@ -146,6 +146,7 @@
 
 ## Emacs Lisp
 
+- [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) – An Emacs major mode for Hledger
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
 - [xenodium/dotsies](https://github.com/xenodium/dotsies) – Dot files, Emacs config, etc
@@ -549,6 +550,7 @@
 
 ## JavaScript
 
+- [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) – HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
@@ -605,6 +607,7 @@
 ## Mdx
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 
 <div id="nix"></div>
 
@@ -625,7 +628,6 @@
 
 ## Others
 
-- [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) – HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
@@ -1063,7 +1065,6 @@
 ## Vue
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 <div id="wikitext"></div>
