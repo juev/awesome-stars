@@ -607,7 +607,7 @@
 ## Mdx
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
 
 <div id="nix"></div>
 
