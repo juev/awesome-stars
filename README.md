@@ -168,6 +168,7 @@
 
 ## Go
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [elliotchance/pie](https://github.com/elliotchance/pie) – 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [multiformats/multiaddr](https://github.com/multiformats/multiaddr) – Composable and future-proof network addresses
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
@@ -175,7 +176,7 @@
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [tidwall/btree](https://github.com/tidwall/btree) – B-tree implementation for Go
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) – Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
@@ -628,6 +629,7 @@
 
 ## Others
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
