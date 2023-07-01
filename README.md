@@ -614,6 +614,7 @@
 
 ## Nix
 
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
