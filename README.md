@@ -168,6 +168,8 @@
 
 ## Go
 
+- [hionay/tailer](https://github.com/hionay/tailer) – tailer is a CLI tool to insert lines when command output stops
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [elliotchance/pie](https://github.com/elliotchance/pie) – 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [multiformats/multiaddr](https://github.com/multiformats/multiaddr) – Composable and future-proof network addresses
@@ -726,6 +728,7 @@
 
 ## Rust
 
+- [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
