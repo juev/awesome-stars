@@ -168,6 +168,9 @@
 
 ## Go
 
+- [uber/mock](https://github.com/uber/mock) – GoMock is a mocking framework for the Go programming language.
+- [ariga/atlas](https://github.com/ariga/atlas) – A modern tool for managing database schemas
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [hionay/tailer](https://github.com/hionay/tailer) – tailer is a CLI tool to insert lines when command output stops
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -178,7 +181,7 @@
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [tidwall/btree](https://github.com/tidwall/btree) – B-tree implementation for Go
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
@@ -318,7 +321,7 @@
 - [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) – Simple golang mitm proxy implementation
 - [google/martian](https://github.com/google/martian) – Martian is a library for building custom HTTP/S proxies
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git, written in go
+- [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
 - [riyaz-ali/sqlite](https://github.com/riyaz-ali/sqlite) – Golang library to build sqlite extensions
@@ -728,6 +731,7 @@
 
 ## Rust
 
+- [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
