@@ -168,6 +168,8 @@
 
 ## Go
 
+- [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
+- [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
 - [uber/mock](https://github.com/uber/mock) – GoMock is a mocking framework for the Go programming language.
 - [ariga/atlas](https://github.com/ariga/atlas) – A modern tool for managing database schemas
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
