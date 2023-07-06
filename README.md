@@ -168,6 +168,7 @@
 
 ## Go
 
+- [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
 - [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
 - [uber/mock](https://github.com/uber/mock) – GoMock is a mocking framework for the Go programming language.
@@ -637,6 +638,7 @@
 
 ## Others
 
+- [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite package registry
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
