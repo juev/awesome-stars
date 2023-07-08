@@ -562,7 +562,6 @@
 
 ## JavaScript
 
-- [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) – HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
