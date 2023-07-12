@@ -168,6 +168,8 @@
 
 ## Go
 
+- [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -795,6 +797,7 @@
 
 ## Shell
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi. 
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
@@ -884,6 +887,7 @@
 
 ## TypeScript
 
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
@@ -934,7 +938,7 @@
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build full-stack serverless apps.
-- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
