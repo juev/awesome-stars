@@ -168,6 +168,7 @@
 
 ## Go
 
+- [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
 - [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -887,6 +888,7 @@
 
 ## TypeScript
 
+- [usememos/memos](https://github.com/usememos/memos) – A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
