@@ -800,6 +800,7 @@
 
 ## Shell
 
+- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi. 
