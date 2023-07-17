@@ -68,6 +68,7 @@
 
 ## C
 
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
 - [libsql/libsql](https://github.com/libsql/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
@@ -169,6 +170,7 @@
 
 ## Go
 
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – Check DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
 - [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
@@ -567,6 +569,7 @@
 
 ## JavaScript
 
+- [hkgnp/firefox-extension-logseq-quickcapture](https://github.com/hkgnp/firefox-extension-logseq-quickcapture) – firefox-extension-logseq-quickcapture
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
