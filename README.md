@@ -68,6 +68,7 @@
 
 ## C
 
+- [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
 - [libsql/libsql](https://github.com/libsql/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -170,6 +171,7 @@
 
 ## Go
 
+- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) – Go library for decoding generic map values into native Go structures and vice versa.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – Check DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -648,6 +650,7 @@
 
 ## Others
 
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite package registry
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
