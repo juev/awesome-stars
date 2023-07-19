@@ -171,6 +171,7 @@
 
 ## Go
 
+- [antifuchs/tsnsrv](https://github.com/antifuchs/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) – Go library for decoding generic map values into native Go structures and vice versa.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – Check DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
