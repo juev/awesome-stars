@@ -170,6 +170,7 @@
 
 ## Go
 
+- [beevik/ntp](https://github.com/beevik/ntp) – a simple ntp client package for go
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [antifuchs/tsnsrv](https://github.com/antifuchs/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) – Go library for decoding generic map values into native Go structures and vice versa.
@@ -572,6 +573,7 @@
 
 ## JavaScript
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – user.js file to harden Firefox and optimize privacy, security, and speed
 - [hkgnp/firefox-extension-logseq-quickcapture](https://github.com/hkgnp/firefox-extension-logseq-quickcapture) – firefox-extension-logseq-quickcapture
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
@@ -651,6 +653,7 @@
 
 ## Others
 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite package registry
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
