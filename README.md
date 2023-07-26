@@ -170,6 +170,7 @@
 
 ## Go
 
+- [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -322,7 +323,7 @@
 - [antonmedv/expr](https://github.com/antonmedv/expr) – Expression language and expression evaluation for Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) – Generate type-safe code from SQL
-- [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs.
+- [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
@@ -842,7 +843,7 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [BrodyBuster/docker-wireguard-vpn](https://github.com/BrodyBuster/docker-wireguard-vpn)
-- [syndbg/goenv](https://github.com/syndbg/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
