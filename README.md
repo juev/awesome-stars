@@ -170,6 +170,8 @@
 
 ## Go
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
+- [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
@@ -322,7 +324,7 @@
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [antonmedv/expr](https://github.com/antonmedv/expr) – Expression language and expression evaluation for Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) – Generate type-safe code from SQL
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
