@@ -170,6 +170,9 @@
 
 ## Go
 
+- [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
+- [barnacs/compy](https://github.com/barnacs/compy) – HTTP/HTTPS compression proxy
+- [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -724,6 +727,7 @@
 
 ## Python
 
+- [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – A reverse shell based on sshd  supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies 
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
