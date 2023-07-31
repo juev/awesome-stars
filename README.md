@@ -170,6 +170,7 @@
 
 ## Go
 
+- [qiniu/goc](https://github.com/qiniu/goc) – A Comprehensive Coverage Testing System for The Go Programming Language
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
 - [barnacs/compy](https://github.com/barnacs/compy) – HTTP/HTTPS compression proxy
 - [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
@@ -770,7 +771,7 @@
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [psarna/edgemail](https://github.com/psarna/edgemail)
-- [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
