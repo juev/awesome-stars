@@ -122,6 +122,7 @@
 
 ## Dart
 
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
 <div id="dockerfile"></div>
@@ -186,7 +187,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [beevik/ntp](https://github.com/beevik/ntp) – a simple ntp client package for go
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
-- [antifuchs/tsnsrv](https://github.com/antifuchs/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
+- [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) – Go library for decoding generic map values into native Go structures and vice versa.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – Check DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
@@ -782,7 +783,7 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf 2.0)
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) – Runtime Executor (asdf-plugin compatible)
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
@@ -920,7 +921,6 @@
 ## TypeScript
 
 - [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
