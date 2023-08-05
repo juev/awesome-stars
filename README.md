@@ -149,6 +149,7 @@
 
 ## Emacs Lisp
 
+- [novoid/dot-emacs](https://github.com/novoid/dot-emacs) – My GNU/Emacs configuration
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) – An Emacs major mode for Hledger
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
@@ -171,6 +172,7 @@
 
 ## Go
 
+- [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [Jigsaw-Code/outline-go-tun2socks](https://github.com/Jigsaw-Code/outline-go-tun2socks)
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
