@@ -31,6 +31,7 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Prolog](#prolog)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -172,6 +173,9 @@
 
 ## Go
 
+- [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
+- [lesismal/nbio](https://github.com/lesismal/nbio) – Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
+- [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [Jigsaw-Code/outline-go-tun2socks](https://github.com/Jigsaw-Code/outline-go-tun2socks)
@@ -731,10 +735,17 @@
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
+<div id="prolog"></div>
+
+## Prolog
+
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) – TerminusDB is a distributed database with a collaboration model
+
 <div id="python"></div>
 
 ## Python
 
+- [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – A reverse shell based on sshd  supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies 
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
@@ -831,6 +842,7 @@
 
 ## Shell
 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
@@ -922,6 +934,7 @@
 
 ## TypeScript
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
