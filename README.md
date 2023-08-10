@@ -173,6 +173,7 @@
 
 ## Go
 
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [lesismal/nbio](https://github.com/lesismal/nbio) – Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
@@ -985,7 +986,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
-- [sst/sst](https://github.com/sst/sst) – 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) – SST makes it easy to build full-stack apps on AWS.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
