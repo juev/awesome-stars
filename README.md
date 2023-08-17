@@ -26,6 +26,7 @@
 - [Kotlin](#kotlin)
 - [LUA](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mdx](#mdx)
 - [Nix](#nix)
 - [Ocaml](#ocaml)
@@ -130,6 +131,7 @@
 
 ## Dockerfile
 
+- [b4tman/docker-squid](https://github.com/b4tman/docker-squid) – Squid in docker container based on Alpine Linux
 - [dockage/tor-privoxy](https://github.com/dockage/tor-privoxy) – Docker Tor proxy (http and shell) built on Alpine Linux
 - [juev/tools](https://github.com/juev/tools)
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
@@ -652,6 +654,12 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
+<div id="markdown"></div>
+
+## Markdown
+
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) – Protect your data against global mass surveillance programs.
+
 <div id="mdx"></div>
 
 ## Mdx
@@ -804,7 +812,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
-- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
+- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
