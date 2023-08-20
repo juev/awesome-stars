@@ -176,6 +176,7 @@
 
 ## Go
 
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing.
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
