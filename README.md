@@ -108,6 +108,7 @@
 
 ## CSS
 
+- [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -176,6 +177,10 @@
 
 ## Go
 
+- [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.
+- [Antonboom/nilnil](https://github.com/Antonboom/nilnil) – The Golang linter that checks that there is no simultaneous return of `nil` error and an invalid value.
+- [frantchessico/zogo](https://github.com/frantchessico/zogo)
+- [tailscale/hujson](https://github.com/tailscale/hujson) – HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [IBM/fp-go](https://github.com/IBM/fp-go) – functional programming library for golang
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing.
