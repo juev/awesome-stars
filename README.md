@@ -177,6 +177,9 @@
 
 ## Go
 
+- [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
+- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
+- [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) – Modern Shadowsocks in Go
 - [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.
 - [Antonboom/nilnil](https://github.com/Antonboom/nilnil) – The Golang linter that checks that there is no simultaneous return of `nil` error and an invalid value.
 - [frantchessico/zogo](https://github.com/frantchessico/zogo)
@@ -380,7 +383,7 @@
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
-- [riyaz-ali/sqlite](https://github.com/riyaz-ali/sqlite) – Golang library to build sqlite extensions
+- [riyaz-ali/sqlite](https://github.com/riyaz-ali/sqlite) – Golang library to build sqlite extensions :rocket:
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
@@ -663,7 +666,6 @@
 
 - [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – Small docker of Tor client
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
 <div id="markdown"></div>
@@ -738,6 +740,7 @@
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) – Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
