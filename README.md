@@ -177,6 +177,7 @@
 
 ## Go
 
+- [Shopify/ghostferry](https://github.com/Shopify/ghostferry) – The swiss army knife of live data migrations
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) – Modern Shadowsocks in Go
