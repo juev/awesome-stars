@@ -177,6 +177,8 @@
 
 ## Go
 
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) – The swiss army knife of live data migrations
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -220,6 +222,7 @@
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – Check DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
+- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -616,6 +619,7 @@
 
 ## JavaScript
 
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [hkgnp/firefox-extension-logseq-quickcapture](https://github.com/hkgnp/firefox-extension-logseq-quickcapture) – firefox-extension-logseq-quickcapture
@@ -680,7 +684,7 @@
 ## Mdx
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 <div id="nix"></div>
 
@@ -964,8 +968,8 @@
 
 ## TypeScript
 
+- [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
