@@ -125,7 +125,6 @@
 
 ## Dart
 
-- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
 <div id="dockerfile"></div>
@@ -619,6 +618,7 @@
 
 ## JavaScript
 
+- [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
@@ -970,6 +970,7 @@
 
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
