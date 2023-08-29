@@ -177,6 +177,8 @@
 
 ## Go
 
+- [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
+- [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) – The swiss army knife of live data migrations
@@ -352,7 +354,7 @@
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation sharing platform built on top of OpenZiti.
+- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) – improved rss feed for reddit
@@ -414,7 +416,7 @@
 - [go-gost/gost](https://github.com/go-gost/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) – mastodon client for golang
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) – ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -707,6 +709,7 @@
 
 ## Others
 
+- [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) – Verified darknet market and darknet service links on the Tor Network
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities.
