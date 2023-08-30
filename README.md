@@ -110,6 +110,7 @@
 
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
+- [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) – Get Things Done with Emacs
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -177,6 +178,7 @@
 
 ## Go
 
+- [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
@@ -278,7 +280,7 @@
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -343,7 +345,6 @@
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) – A Nostr relay server framework.
-- [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
@@ -451,7 +452,7 @@
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) – Go proxy that serves from S3
-- [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+- [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [Pallinder/go-randomdata](https://github.com/Pallinder/go-randomdata) – A tiny generator of random data for golang, also known as a faker 
 - [felixge/benchmore](https://github.com/felixge/benchmore)
 - [mitchellh/cli](https://github.com/mitchellh/cli) – A Go library for implementing command-line interfaces.
@@ -1023,7 +1024,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
-- [sst/sst](https://github.com/sst/sst) – Build modern full-stack applications on AWS.
+- [sst/sst](https://github.com/sst/sst) – Build modern full-stack applications on AWS
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
