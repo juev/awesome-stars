@@ -822,6 +822,7 @@
 
 ## Rust
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
@@ -881,6 +882,7 @@
 
 ## Shell
 
+- [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [dperson/torproxy](https://github.com/dperson/torproxy)
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
