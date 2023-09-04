@@ -623,6 +623,7 @@
 
 ## JavaScript
 
+- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
@@ -711,6 +712,7 @@
 
 ## Others
 
+- [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) – Verified darknet market and darknet service links on the Tor Network
@@ -940,6 +942,7 @@
 
 ## Swift
 
+- [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
