@@ -177,6 +177,7 @@
 
 ## Go
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
@@ -883,6 +884,7 @@
 
 ## Shell
 
+- [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [dperson/torproxy](https://github.com/dperson/torproxy)
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
