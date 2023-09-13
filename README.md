@@ -70,6 +70,7 @@
 
 ## C
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
@@ -176,6 +177,7 @@
 
 ## Go
 
+- [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -823,6 +825,7 @@
 
 ## Rust
 
+- [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
@@ -1146,7 +1149,7 @@
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) – Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) – :zap: Dark powered Vim/Neovim plugin manager
 - [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
 - [emilyst/home](https://github.com/emilyst/home) – My home directory's settings
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
