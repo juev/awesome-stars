@@ -215,7 +215,7 @@
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
 - [barnacs/compy](https://github.com/barnacs/compy) – HTTP/HTTPS compression proxy
 - [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
-- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
@@ -927,7 +927,7 @@
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) – WireGuard VPN installer for Linux servers
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager allows you to effortlessly set up and manage your own VPN in under a minute.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) – Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) – Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
