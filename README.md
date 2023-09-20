@@ -85,7 +85,7 @@
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
-- [clibs/clib](https://github.com/clibs/clib) – C package manager-ish
+- [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
 - [bvinc/go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) – SQLite driver for the Go programming language
