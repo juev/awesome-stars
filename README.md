@@ -74,7 +74,7 @@
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
-- [libsql/libsql](https://github.com/libsql/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) – A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -477,7 +477,7 @@
 - [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for datetime
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) – "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) – "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
@@ -889,7 +889,7 @@
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [dperson/torproxy](https://github.com/dperson/torproxy)
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – mack-a 一键脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray多合一一键脚本
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
@@ -991,7 +991,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Markdown as a platform
