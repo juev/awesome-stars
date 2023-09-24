@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -122,6 +123,12 @@
 - [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
 
+<div id="crystal"></div>
+
+## Crystal
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) – Invidious is an alternative front-end to YouTube
+
 <div id="dart"></div>
 
 ## Dart
@@ -177,6 +184,10 @@
 
 ## Go
 
+- [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
+- [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
+- [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) – Fault tolerance and resilience patterns for Go
+- [avamsi/climate](https://github.com/avamsi/climate) – "CLI Mate" autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
@@ -713,6 +724,7 @@
 
 ## Others
 
+- [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
