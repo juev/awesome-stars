@@ -184,6 +184,8 @@
 
 ## Go
 
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
+- [google/capslock](https://github.com/google/capslock)
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) – Fault tolerance and resilience patterns for Go
