@@ -155,7 +155,7 @@
 ## Elixir
 
 - [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based VPN server and firewall
-- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="emacs-lisp"></div>
 
@@ -283,7 +283,6 @@
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
 - [kevincobain2000/re](https://github.com/kevincobain2000/re) – Command Line Tool to execute commands in README.md file.
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) – A pure Go Apple Property List transcoder
@@ -847,6 +846,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
