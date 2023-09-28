@@ -184,6 +184,7 @@
 
 ## Go
 
+- [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) – A Go linter to check that errors from external packages are wrapped
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
 - [google/capslock](https://github.com/google/capslock)
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
