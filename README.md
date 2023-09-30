@@ -184,6 +184,9 @@
 
 ## Go
 
+- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) – An in-memory cache with item expiration and generics
+- [99designs/keyring](https://github.com/99designs/keyring) – Go library providing a uniform interface across a range of secure credential stores
+- [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) – A Go linter to check that errors from external packages are wrapped
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
 - [google/capslock](https://github.com/google/capslock)
@@ -997,6 +1000,7 @@
 
 ## TypeScript
 
+- [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
