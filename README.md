@@ -184,6 +184,8 @@
 
 ## Go
 
+- [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) – GoCrack is a management frontend for password cracking tools written in Go
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) – An in-memory cache with item expiration and generics
 - [99designs/keyring](https://github.com/99designs/keyring) – Go library providing a uniform interface across a range of secure credential stores
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
@@ -641,6 +643,7 @@
 
 ## JavaScript
 
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
