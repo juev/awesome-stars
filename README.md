@@ -184,6 +184,7 @@
 
 ## Go
 
+- [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) – GoCrack is a management frontend for password cracking tools written in Go
