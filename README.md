@@ -184,6 +184,7 @@
 
 ## Go
 
+- [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
