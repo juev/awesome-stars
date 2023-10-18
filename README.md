@@ -311,7 +311,7 @@
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -819,9 +819,10 @@
 
 ## Python
 
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
-- [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – A reverse shell based on sshd  supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies 
+- [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
