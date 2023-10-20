@@ -184,6 +184,8 @@
 
 ## Go
 
+- [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) – A tool for generating self-contained, type-safe test doubles in go
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
 - [mfridman/tparse](https://github.com/mfridman/tparse) – CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
