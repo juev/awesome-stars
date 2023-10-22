@@ -133,6 +133,7 @@
 
 ## Dart
 
+- [localsend/localsend](https://github.com/localsend/localsend) – An open source cross-platform alternative to AirDrop
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
 <div id="dockerfile"></div>
@@ -641,7 +642,6 @@
 
 ## Haskell
 
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunneling over websocket protocol - Static binary available 
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
@@ -886,6 +886,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) – Delicately-TUICed 0-RTT proxy protocol
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunneling over websocket protocol - Static binary available 
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
