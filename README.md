@@ -185,6 +185,7 @@
 
 ## Go
 
+- [uber-go/multierr](https://github.com/uber-go/multierr) – Combine one or more Go errors together
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) – A tool for generating self-contained, type-safe test doubles in go
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
 - [mfridman/tparse](https://github.com/mfridman/tparse) – CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
