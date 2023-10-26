@@ -766,7 +766,7 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) – A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – A curated list of nostr projects and resources  
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
@@ -796,7 +796,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [golovers/effective-go](https://github.com/golovers/effective-go) – a list of effective go, best practices and go idiomatic
+- [pthethanh/effective-go](https://github.com/pthethanh/effective-go) – a list of effective go, best practices and go idiomatic
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – A curated list of cryptography resources and links.
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
