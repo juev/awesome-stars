@@ -102,6 +102,7 @@
 
 ## C++
 
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
@@ -185,6 +186,8 @@
 
 ## Go
 
+- [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [uber-go/multierr](https://github.com/uber-go/multierr) – Combine one or more Go errors together
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) – A tool for generating self-contained, type-safe test doubles in go
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
