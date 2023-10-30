@@ -186,6 +186,8 @@
 
 ## Go
 
+- [antchfx/jsonquery](https://github.com/antchfx/jsonquery) – JSON xpath query for Go. Golang XPath query for JSON query.
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [uber-go/multierr](https://github.com/uber-go/multierr) – Combine one or more Go errors together
@@ -266,7 +268,7 @@
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
-- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -661,6 +663,7 @@
 
 ## JavaScript
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
