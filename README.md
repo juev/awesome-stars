@@ -134,6 +134,7 @@
 
 ## Dart
 
+- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform proxy client made with Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) – An open source cross-platform alternative to AirDrop
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
@@ -186,6 +187,7 @@
 
 ## Go
 
+- [madflojo/tasks](https://github.com/madflojo/tasks) – Package tasks is an easy to use in-process scheduler for recurring tasks in Go
 - [antchfx/jsonquery](https://github.com/antchfx/jsonquery) – JSON xpath query for Go. Golang XPath query for JSON query.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
