@@ -187,6 +187,11 @@
 
 ## Go
 
+- [maxpert/marmot](https://github.com/maxpert/marmot) – A distributed SQLite replicator built on top of NATS
+- [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
+- [qustavo/dotsql](https://github.com/qustavo/dotsql) – A Golang library for using SQL.
+- [bojanz/currency](https://github.com/bojanz/currency) – Currency handling for Go.
+- [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) – Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
 - [madflojo/tasks](https://github.com/madflojo/tasks) – Package tasks is an easy to use in-process scheduler for recurring tasks in Go
 - [antchfx/jsonquery](https://github.com/antchfx/jsonquery) – JSON xpath query for Go. Golang XPath query for JSON query.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -756,6 +761,7 @@
 
 ## Others
 
+- [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) – The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
