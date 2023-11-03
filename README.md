@@ -187,6 +187,7 @@
 
 ## Go
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [maxpert/marmot](https://github.com/maxpert/marmot) – A distributed SQLite replicator built on top of NATS
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
 - [qustavo/dotsql](https://github.com/qustavo/dotsql) – A Golang library for using SQL.
@@ -487,7 +488,6 @@
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
@@ -664,6 +664,7 @@
 
 ## Java
 
+- [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) – Дампер и парсер памяти карты Тройка
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
 <div id="javascript"></div>
@@ -1019,7 +1020,6 @@
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) – Selective Functors & Probabilistic Programming
 - [igrishaev/clj-book](https://github.com/igrishaev/clj-book) – Книга «Clojure на производстве»
 - [opieters/business-card](https://github.com/opieters/business-card) – A business card in LaTeX. 
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) – Open book about math and programming.
 - [LenaVolzhina/about.me](https://github.com/LenaVolzhina/about.me) – Extended CV
 - [hmemcpy/cv](https://github.com/hmemcpy/cv) – My CV / Resume
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) – :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
