@@ -790,6 +790,7 @@
 - [juev/links](https://github.com/juev/links)
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon
+- [EAimTY/tuic](https://github.com/EAimTY/tuic)
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
@@ -903,7 +904,6 @@
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
-- [EAimTY/tuic](https://github.com/EAimTY/tuic) – Delicately-TUICed 0-RTT proxy protocol
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunneling over websocket protocol - Static binary available 
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
