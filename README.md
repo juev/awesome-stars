@@ -841,6 +841,7 @@
 
 ## Python
 
+- [UPB-SysSec/DPYProxy](https://github.com/UPB-SysSec/DPYProxy) – Python Proxy that implements DPI evasion mechanisms 
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
