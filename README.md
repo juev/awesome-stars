@@ -766,6 +766,7 @@
 
 ## Others
 
+- [DeepWebOnion/darkweb-links](https://github.com/DeepWebOnion/darkweb-links) – Verified links to darknet markets and darkweb sites on the Tor Network
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) – Awesome things about htmx
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
