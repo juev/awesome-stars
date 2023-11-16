@@ -720,7 +720,7 @@
 
 ## LUA
 
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – Simon’s Improved Layout Engine
@@ -775,7 +775,7 @@
 - [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
-- [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) – Verified darknet market and darknet service links on the Tor Network
+- [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) – Links to darknet markets, vendor stores and darknet services on the Tor Network. All links verified by us.
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite package registry
