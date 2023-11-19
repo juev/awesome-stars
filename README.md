@@ -187,6 +187,7 @@
 
 ## Go
 
+- [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
