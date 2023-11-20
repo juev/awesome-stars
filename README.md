@@ -187,6 +187,7 @@
 
 ## Go
 
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static Analysis tool to detect potential Nil panics in Go code
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
@@ -1049,7 +1050,8 @@
 
 ## TypeScript
 
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open Source API Key Management
+- [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
