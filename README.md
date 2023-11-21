@@ -134,7 +134,7 @@
 
 ## Dart
 
-- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client made with Flutter, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH and many more. It’s an open-source, secure and ads-free app.
+- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) – An open source cross-platform alternative to AirDrop
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
