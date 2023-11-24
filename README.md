@@ -954,6 +954,7 @@
 
 ## Shell
 
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility 
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [dperson/torproxy](https://github.com/dperson/torproxy)
