@@ -675,6 +675,7 @@
 ## Java
 
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) – Дампер и парсер памяти карты Тройка
+- [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
 <div id="javascript"></div>
@@ -972,7 +973,6 @@
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GPG and SSH
-- [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
