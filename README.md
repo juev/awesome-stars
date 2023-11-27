@@ -188,6 +188,7 @@
 
 ## Go
 
+- [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static Analysis tool to detect potential Nil panics in Go code
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
