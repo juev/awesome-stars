@@ -188,6 +188,7 @@
 
 ## Go
 
+- [emirpasic/gods](https://github.com/emirpasic/gods) – GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static Analysis tool to detect potential Nil panics in Go code
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
@@ -958,6 +959,7 @@
 
 ## Shell
 
+- [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv) – [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility 
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
@@ -1000,7 +1002,7 @@
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) – WireGuard VPN installer for Linux servers
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager allows you to effortlessly set up and manage your own VPN in under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) – Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) – Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
@@ -1258,6 +1260,7 @@
 
 ## Vue
 
+- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation with Docker and user web-panel management.
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
