@@ -188,6 +188,8 @@
 
 ## Go
 
+- [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
 - [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) – Generate Go structs from multiple JSON objects.
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
@@ -441,7 +443,7 @@
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [felixge/traceutils](https://github.com/felixge/traceutils) – Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
-- [procyon-projects/chrono](https://github.com/procyon-projects/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
+- [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, ActivityPub server, powered by Go.
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
