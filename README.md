@@ -188,6 +188,10 @@
 
 ## Go
 
+- [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
+- [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
+- [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) – Rapid, easy full-stack web development starter kit in Go
+- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) – </> Build awesome HTMX + Go projects faster.
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
 - [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) – Generate Go structs from multiple JSON objects.
@@ -431,7 +435,7 @@
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
-- [antonmedv/expr](https://github.com/antonmedv/expr) – Expression language and expression evaluation for Go
+- [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
@@ -903,6 +907,7 @@
 
 ## Rust
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
@@ -1061,6 +1066,7 @@
 
 ## TypeScript
 
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub action for golangci-lint from its authors
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
