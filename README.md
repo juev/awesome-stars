@@ -188,6 +188,7 @@
 
 ## Go
 
+- [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) – Rapid, easy full-stack web development starter kit in Go
@@ -969,6 +970,7 @@
 
 ## Shell
 
+- [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager
 - [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv) – [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility 
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
