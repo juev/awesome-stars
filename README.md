@@ -188,6 +188,8 @@
 
 ## Go
 
+- [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
+- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
@@ -1088,7 +1090,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – Workshop for the mind
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – “run anything” from the creator of `brew`
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
