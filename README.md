@@ -136,7 +136,7 @@
 ## Dart
 
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-- [localsend/localsend](https://github.com/localsend/localsend) – An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
 <div id="dockerfile"></div>
@@ -935,7 +935,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunneling over websocket protocol - Static binary available 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available 
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
