@@ -188,6 +188,7 @@
 
 ## Go
 
+- [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
