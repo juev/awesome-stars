@@ -188,6 +188,7 @@
 
 ## Go
 
+- [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
 - [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
@@ -967,6 +968,7 @@
 
 ## SCSS
 
+- [picocss/pico](https://github.com/picocss/pico) – Minimal CSS Framework for semantic HTML
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 
