@@ -188,6 +188,8 @@
 
 ## Go
 
+- [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
+- [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) – Golang library for managing configuration data from environment variables
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
 - [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
