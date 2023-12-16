@@ -188,6 +188,8 @@
 
 ## Go
 
+- [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
+- [miguelmota/go-ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) – Ethereum HD Wallet derivations in Go (golang)
 - [segmentio/golines](https://github.com/segmentio/golines) – A golang formatter that fixes long lines
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
@@ -704,6 +706,7 @@
 ## JavaScript
 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
@@ -875,6 +878,7 @@
 
 ## Python
 
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal news aggregator and Mastodon client
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) – A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [UPB-SysSec/DPYProxy](https://github.com/UPB-SysSec/DPYProxy) – Python Proxy that implements DPI evasion mechanisms 
@@ -1082,7 +1086,6 @@
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub action for golangci-lint from its authors
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
