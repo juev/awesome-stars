@@ -188,6 +188,7 @@
 
 ## Go
 
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 - [jessicatarra/refactoring-greenlight](https://github.com/jessicatarra/refactoring-greenlight) – Refactor Greenlight application by implementing clean architecture and SOLID principles
 - [yep/eth-tweet](https://github.com/yep/eth-tweet) – Decentralized Twitter: A microblogging service running on the Ethereum blockchain
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) – Go implementation of Ethereum proof of stake
