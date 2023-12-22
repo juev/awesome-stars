@@ -817,7 +817,7 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite package registry
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
+- [foldmap/cookbook.fish](https://github.com/foldmap/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
