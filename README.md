@@ -188,6 +188,8 @@
 
 ## Go
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) – Arbitrary-precision fixed-point decimal numbers in go
+- [huandu/go-clone](https://github.com/huandu/go-clone) – Clone any Go data structure deeply and thoroughly.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 - [jessicatarra/refactoring-greenlight](https://github.com/jessicatarra/refactoring-greenlight) – Refactor Greenlight application by implementing clean architecture and SOLID principles
 - [yep/eth-tweet](https://github.com/yep/eth-tweet) – Decentralized Twitter: A microblogging service running on the Ethereum blockchain
@@ -712,6 +714,7 @@
 
 ## JavaScript
 
+- [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
