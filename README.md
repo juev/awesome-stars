@@ -158,7 +158,7 @@
 
 ## Elixir
 
-- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="emacs-lisp"></div>
@@ -1005,7 +1005,7 @@
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
-- [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi. 
+- [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi, which also runs on Debian and Ubuntu based systems.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Client with docker, podman and systemd support. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
