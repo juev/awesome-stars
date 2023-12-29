@@ -188,6 +188,7 @@
 
 ## Go
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for docker containers. 
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [Permify/permify](https://github.com/Permify/permify) – Permify is an open-source authorization service inspired by Google Zanzibar.
 - [shopspring/decimal](https://github.com/shopspring/decimal) – Arbitrary-precision fixed-point decimal numbers in go
