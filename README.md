@@ -54,6 +54,7 @@
 
 
 <div id="adblock-filter-list"></div>
+
 ## Adblock Filter List
 
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard DNS filter
@@ -61,11 +62,13 @@
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
 
 <div id="astro"></div>
+
 ## Astro
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 <div id="c"></div>
+
 ## C
 
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -91,11 +94,13 @@
 - [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) – Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 
 <div id="c#"></div>
+
 ## C#
 
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
 
 <div id="c++"></div>
+
 ## C++
 
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -104,6 +109,7 @@
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 
 <div id="css"></div>
+
 ## CSS
 
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
@@ -113,17 +119,20 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 <div id="common-lisp"></div>
+
 ## Common Lisp
 
 - [roswell/roswell](https://github.com/roswell/roswell) – intended to be a launcher for a major lisp environment that just works.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) – The software behind a Ultralisp.org Common Lisp repository
 
 <div id="crystal"></div>
+
 ## Crystal
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) – Invidious is an alternative front-end to YouTube
 
 <div id="dart"></div>
+
 ## Dart
 
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -131,6 +140,7 @@
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 
 <div id="dockerfile"></div>
+
 ## Dockerfile
 
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – :calling: Docker image with 3proxy - Tiny free proxy server
@@ -145,12 +155,14 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
 
 <div id="elixir"></div>
+
 ## Elixir
 
 - [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="emacs-lisp"></div>
+
 ## Emacs Lisp
 
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) – My GNU/Emacs configuration
@@ -167,11 +179,13 @@
 - [sachac/emacs-news](https://github.com/sachac/emacs-news) – Weekly Emacs news
 
 <div id="gherkin"></div>
+
 ## Gherkin
 
 - [iphoting/ovpnmcgen.rb](https://github.com/iphoting/ovpnmcgen.rb) – An OpenVPN iOS Configuration Profile (.mobileconfig) Utility—Configures OpenVPN for use with VPN-on-Demand that are not exposed through Apple Configurator 2.
 
 <div id="go"></div>
+
 ## Go
 
 - [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for docker containers. 
@@ -666,6 +680,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 
 <div id="html"></div>
+
 ## HTML
 
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -682,6 +697,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 
 <div id="haskell"></div>
+
 ## Haskell
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
@@ -690,6 +706,7 @@
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
 
 <div id="java"></div>
+
 ## Java
 
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) – Дампер и парсер памяти карты Тройка
@@ -697,6 +714,7 @@
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
 <div id="javascript"></div>
+
 ## JavaScript
 
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
@@ -723,22 +741,26 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 
 <div id="jq"></div>
+
 ## Jq
 
 - [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) – Solving Advent of Code with jq
 
 <div id="jupyter-notebook"></div>
+
 ## Jupyter Notebook
 
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 
 <div id="kotlin"></div>
+
 ## Kotlin
 
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloud Flare scanner
 
 <div id="lua"></div>
+
 ## LUA
 
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
@@ -748,6 +770,7 @@
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 
 <div id="makefile"></div>
+
 ## Makefile
 
 - [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – Small docker of Tor client
@@ -755,16 +778,19 @@
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 
 <div id="markdown"></div>
+
 ## Markdown
 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) – Protect your data against global mass surveillance programs.
 
 <div id="mdx"></div>
+
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 <div id="nix"></div>
+
 ## Nix
 
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -774,11 +800,13 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 
 <div id="ocaml"></div>
+
 ## Ocaml
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) – A code rewrite tool for structural search and replace that supports ~every language.
 
 <div id="others"></div>
+
 ## Others
 
 - [DeepWebOnion/darkweb-links](https://github.com/DeepWebOnion/darkweb-links) – Verified links to darknet markets and darkweb sites on the Tor Network
@@ -846,17 +874,20 @@
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
 
 <div id="php"></div>
+
 ## PHP
 
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
 <div id="prolog"></div>
+
 ## Prolog
 
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) – TerminusDB is a distributed database with a collaboration model
 
 <div id="python"></div>
+
 ## Python
 
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal news aggregator and Mastodon client
@@ -891,6 +922,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
 <div id="ruby"></div>
+
 ## Ruby
 
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) – Emacs Plus formulae for the Homebrew package manager
@@ -898,6 +930,7 @@
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink)
 
 <div id="rust"></div>
+
 ## Rust
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
@@ -952,6 +985,7 @@
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 
 <div id="scss"></div>
+
 ## SCSS
 
 - [picocss/pico](https://github.com/picocss/pico) – Minimal CSS Framework for semantic HTML
@@ -959,6 +993,7 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 
 <div id="shell"></div>
+
 ## Shell
 
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager
@@ -1014,11 +1049,13 @@
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) – A set of vim, zsh, git, and tmux configuration files.
 
 <div id="starlark"></div>
+
 ## Starlark
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
 <div id="swift"></div>
+
 ## Swift
 
 - [CleanCocoa/OpenAny](https://github.com/CleanCocoa/OpenAny) – macOS app and file launching springboard
@@ -1033,6 +1070,7 @@
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 
 <div id="tex"></div>
+
 ## TeX
 
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) – The book "Performance Analysis and Tuning on Modern CPU"
@@ -1048,11 +1086,13 @@
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 <div id="text"></div>
+
 ## Text
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 
 <div id="typescript"></div>
+
 ## TypeScript
 
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub action for golangci-lint from its authors
@@ -1140,11 +1180,13 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 <div id="v"></div>
+
 ## V
 
 - [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 <div id="vim-script"></div>
+
 ## Vim Script
 
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) – Vim configuration for Zig
@@ -1245,6 +1287,7 @@
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) – tpope's dotfiles. DON'T USE unless you're tpope
 
 <div id="viml"></div>
+
 ## VimL
 
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) – precision colorscheme for the vim text editor
@@ -1255,6 +1298,7 @@
 - [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
 
 <div id="vue"></div>
+
 ## Vue
 
 - [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation with Docker and user web-panel management.
@@ -1262,16 +1306,19 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 <div id="wikitext"></div>
+
 ## WikiText
 
 - [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
 
 <div id="wren"></div>
+
 ## Wren
 
 - [wren-lang/wren](https://github.com/wren-lang/wren) – The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 <div id="zig"></div>
+
 ## Zig
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
