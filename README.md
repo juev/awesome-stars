@@ -954,7 +954,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
-- [jdx/rtx](https://github.com/jdx/rtx) – dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
