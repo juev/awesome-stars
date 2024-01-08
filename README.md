@@ -591,6 +591,7 @@
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) – Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
+- [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
