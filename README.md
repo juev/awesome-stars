@@ -158,7 +158,7 @@
 
 ## Elixir
 
-- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="emacs-lisp"></div>
@@ -668,6 +668,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [urfave/cli](https://github.com/urfave/cli) – A simple, fast, and fun package for building command line apps in Go
 - [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [valyala/fastjson](https://github.com/valyala/fastjson) – Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
