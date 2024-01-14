@@ -81,6 +81,7 @@
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
@@ -371,6 +372,7 @@
 - [gin-contrib/cors](https://github.com/gin-contrib/cors) – Official CORS gin's middleware
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) – Request ID middleware for Gin Framework
 - [gin-contrib/sessions](https://github.com/gin-contrib/sessions) – Gin middleware for session management
+- [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -705,6 +707,7 @@
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 <div id="haskell"></div>
 
@@ -1049,6 +1052,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi, which also runs on Debian and Ubuntu based systems.
+- [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) – WireGuard support for some Synology NAS drives
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) – spf13's dotfiles
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
