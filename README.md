@@ -285,6 +285,7 @@
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
+- [brimdata/zed](https://github.com/brimdata/zed) – A novel data lake based on super-structured data
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
 - [buger/goreplay](https://github.com/buger/goreplay) – GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
@@ -552,7 +553,6 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
-- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
@@ -929,6 +929,7 @@
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
+- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
