@@ -516,7 +516,7 @@
 - [mfridman/tparse](https://github.com/mfridman/tparse) – CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
-- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [micro/micro](https://github.com/micro/micro) – API first development platform
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
@@ -710,7 +710,6 @@
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 <div id="haskell"></div>
 
@@ -754,6 +753,7 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 
 <div id="jq"></div>
