@@ -1173,7 +1173,7 @@
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) – Hosting read-only SQLite databases on static file hosters like Github Pages
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – the last thing you’ll install
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
