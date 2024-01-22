@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [Dart](#dart)
@@ -120,6 +121,12 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 
+<div id="clojure"></div>
+
+## Clojure
+
+- [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 <div id="common-lisp"></div>
 
 ## Common Lisp
@@ -153,6 +160,7 @@
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – :calling: Docker image with 3proxy - Tiny free proxy server
 
@@ -435,6 +443,7 @@
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) – A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
+- [icio/actiongraph](https://github.com/icio/actiongraph) – Go build actiongraph debug visualiser.
 - [icyphox/go-vite](https://github.com/icyphox/go-vite) – vite, but in Go; powers https://icyphox.sh
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git
 - [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
@@ -863,8 +872,6 @@
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
-- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) – Apps/tools I use on iOS
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) – Apps/tools I use on macOS
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) – Curated List of Privacy Respecting Services and Software
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1051,8 +1058,8 @@
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) – 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hy2、sing-box 八合一一键脚本
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) – Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
@@ -1162,6 +1169,7 @@
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) – Personal website
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
