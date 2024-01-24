@@ -251,6 +251,7 @@
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
+- [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
 - [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
@@ -710,6 +711,7 @@
 
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
+- [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
@@ -790,6 +792,7 @@
 ## LUA
 
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
@@ -975,7 +978,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
@@ -1123,6 +1126,7 @@
 
 ## TypeScript
 
+- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) – Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
@@ -1195,7 +1199,6 @@
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
-- [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) – Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
