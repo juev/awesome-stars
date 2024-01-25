@@ -297,6 +297,7 @@
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [brimdata/zed](https://github.com/brimdata/zed) – A novel data lake based on super-structured data
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
+- [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
 - [buger/goreplay](https://github.com/buger/goreplay) – GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [buger/jsonparser](https://github.com/buger/jsonparser) – One of the fastest alternative JSON parser for Go that does not require schema
@@ -304,8 +305,6 @@
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) – HTTP requests for Gophers
-- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
@@ -350,6 +349,8 @@
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
+- [earthboundkid/requests](https://github.com/earthboundkid/requests) – HTTP requests for Gophers
+- [earthboundkid/versioninfo](https://github.com/earthboundkid/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [eko/gocache](https://github.com/eko/gocache) – ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [elliotchance/pie](https://github.com/elliotchance/pie) – 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
@@ -398,6 +399,7 @@
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) – Package macaron is a high productive and modular web framework in Go.
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram 
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) – Distributed mutual exclusion lock using Redis for Go
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
 - [go-rod/rod](https://github.com/go-rod/rod) – A Devtools driver for web automation and scraping
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
@@ -435,6 +437,7 @@
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
+- [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
 - [hionay/tailer](https://github.com/hionay/tailer) – tailer is a CLI tool to insert lines when command output stops
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) – Custom, realtime RSS feeds for Hacker News
@@ -638,6 +641,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) – Code AI platform with Code Search & Cody
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
@@ -780,6 +784,7 @@
 
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
+- [mlarocca/AlgorithmsAndDataStructuresInAction](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) – Advanced Data Structures Implementation
 
 <div id="kotlin"></div>
 
@@ -1011,6 +1016,7 @@
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
+- [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 
 <div id="scss"></div>
