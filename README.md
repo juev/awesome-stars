@@ -408,6 +408,7 @@
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
+- [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package originally forked from github.com/satori/go.uuid
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
 - [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for time
@@ -428,6 +429,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
+- [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
