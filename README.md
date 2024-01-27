@@ -305,6 +305,7 @@
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [casbin/casbin](https://github.com/casbin/casbin) – An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
@@ -333,7 +334,7 @@
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
-- [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing.
+- [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) – Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -382,6 +383,7 @@
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [gin-contrib/authz](https://github.com/gin-contrib/authz) – gin-authz is an authorization middleware for Gin
 - [gin-contrib/cors](https://github.com/gin-contrib/cors) – Official CORS gin's middleware
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) – Request ID middleware for Gin Framework
 - [gin-contrib/sessions](https://github.com/gin-contrib/sessions) – Gin middleware for session management
