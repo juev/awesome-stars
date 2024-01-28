@@ -788,6 +788,7 @@
 
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) – Neural Networks: Zero to Hero
 - [mlarocca/AlgorithmsAndDataStructuresInAction](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) – Advanced Data Structures Implementation
 
 <div id="kotlin"></div>
