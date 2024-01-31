@@ -775,7 +775,7 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 
 <div id="jq"></div>
 
@@ -1246,13 +1246,13 @@
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) – Preview colours in source code while editing
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) – Simple templates plugin for Vim 
 - [axvr/org.vim](https://github.com/axvr/org.vim) – Org mode syntax highlighting and folding for Vim.
+- [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) – A bunch of vim shortcuts, colors, and bundles to make your life easier
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) – Easy git merge conflict resolution in Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
 - [cloudhead/dotfiles](https://github.com/cloudhead/dotfiles) – ~cloudhead
 - [denisshevchenko/.files](https://github.com/denisshevchenko/.files) – My NixOS configs
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [emilyst/home](https://github.com/emilyst/home) – My home directory's settings
 - [ervandew/supertab](https://github.com/ervandew/supertab) – Perform all your vim insert mode completions with Tab
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
