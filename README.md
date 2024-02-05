@@ -30,6 +30,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mdx](#mdx)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Ocaml](#ocaml)
 - [Others](#others)
@@ -432,6 +433,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
+- [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
@@ -440,6 +442,7 @@
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
+- [hashicorp/mdns](https://github.com/hashicorp/mdns) – Simple mDNS client/server library in Golang
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
@@ -830,6 +833,12 @@
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+
+<div id="nim"></div>
+
+## Nim
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) – Alternative Twitter front-end
 
 <div id="nix"></div>
 
