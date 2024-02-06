@@ -262,6 +262,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for docker containers. 
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) – Web Scraper in Go, similar to BeautifulSoup
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) – </> Build awesome HTMX + Go projects faster.
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) – Simple, modular, and observable Go framework for backend applications.
 - [antchfx/jsonquery](https://github.com/antchfx/jsonquery) – JSON xpath query for Go. Golang XPath query for JSON query.
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
@@ -731,6 +732,7 @@
 - [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
+- [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
