@@ -244,7 +244,7 @@
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
 - [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Infrastructure as code for DNS!
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
@@ -321,6 +321,7 @@
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [chriswalz/bit](https://github.com/chriswalz/bit) – Bit is a modern Git CLI
+- [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – Go library for the Cloudflare v4 API
@@ -1077,6 +1078,7 @@
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux 3.19.0 container for the iCloud Photos Downloader command line utility 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
+- [dperson/openvpn-client](https://github.com/dperson/openvpn-client)
 - [dperson/torproxy](https://github.com/dperson/torproxy)
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GPG and SSH
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
@@ -1110,6 +1112,7 @@
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Client with docker, podman and systemd support. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+- [wfg/docker-openvpn-client](https://github.com/wfg/docker-openvpn-client) – OpenVPN client with killswitch and proxy servers; built on Alpine
 
 <div id="starlark"></div>
 
