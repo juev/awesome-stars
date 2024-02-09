@@ -366,6 +366,7 @@
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Official Go implementation of the Ethereum protocol
+- [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
 - [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) – Fault tolerance and resilience patterns for Go
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) – tunnels to localhost and other ssh plumbing
@@ -445,6 +446,7 @@
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [hacdias/webdav](https://github.com/hacdias/webdav) – Simple Go WebDAV server.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
+- [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
 - [hashicorp/mdns](https://github.com/hashicorp/mdns) – Simple mDNS client/server library in Golang
@@ -523,6 +525,7 @@
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) – Practical concurrency guide in Go, communication by channels, patterns
+- [lxc/incus](https://github.com/lxc/incus) – Powerful system container and virtual machine manager 
 - [m13253/dns-over-https](https://github.com/m13253/dns-over-https) – High performance DNS over HTTPS client & server
 - [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) – A cross-platform proxy client/server for Linux/Windows/macOS
@@ -677,6 +680,7 @@
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+- [things-go/go-socks5](https://github.com/things-go/go-socks5) – socks5 server in pure Golang with much custom optional. Full TCP/UDP and IPv4/IPv6 support. 
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) – A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
