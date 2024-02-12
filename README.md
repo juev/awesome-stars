@@ -794,6 +794,7 @@
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 
 <div id="jq"></div>
 
@@ -1091,6 +1092,7 @@
 - [gaomd/docker-ikev2-vpn-server](https://github.com/gaomd/docker-ikev2-vpn-server) – IKEv2 VPN Server on Docker, with .mobileconfig for iOS & macOS.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
+- [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) – This script automates setting up proxy related tools in Linux.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) – Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv) – [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) – My dotfiles. Buyer beware ;)
@@ -1098,6 +1100,7 @@
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) – IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
 - [juev/docker-compose](https://github.com/juev/docker-compose) – Docker compose files
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) – 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) – Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
@@ -1245,6 +1248,7 @@
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
+- [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
