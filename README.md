@@ -171,7 +171,7 @@
 
 ## Elixir
 
-- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="emacs-lisp"></div>
@@ -271,6 +271,7 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [ariga/atlas](https://github.com/ariga/atlas) – A modern tool for managing database schemas
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
@@ -729,6 +730,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
+- [zsais/go-gin-prometheus](https://github.com/zsais/go-gin-prometheus) – Gin Web Framework Prometheus metrics exporter
 
 <div id="html"></div>
 
