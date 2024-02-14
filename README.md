@@ -588,6 +588,7 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
+- [orijtech/structslop](https://github.com/orijtech/structslop) – structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
@@ -883,12 +884,13 @@
 - [EAimTY/tuic](https://github.com/EAimTY/tuic)
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) – 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) – The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场 
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
