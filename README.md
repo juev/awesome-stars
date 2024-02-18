@@ -330,6 +330,7 @@
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) – Go error library with error portability over the network
+- [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
@@ -586,6 +587,7 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
+- [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [orijtech/structslop](https://github.com/orijtech/structslop) – structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
@@ -729,6 +731,7 @@
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
 - [zsais/go-gin-prometheus](https://github.com/zsais/go-gin-prometheus) – Gin Web Framework Prometheus metrics exporter
@@ -783,6 +786,7 @@
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
@@ -824,6 +828,7 @@
 
 ## LUA
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
@@ -965,6 +970,7 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) – Proxy over your Docker socket to restrict which requests it accepts
+- [Textualize/toolong](https://github.com/Textualize/toolong) – A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) – A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [UPB-SysSec/DPYProxy](https://github.com/UPB-SysSec/DPYProxy) – Python Proxy that implements DPI evasion mechanisms 
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
