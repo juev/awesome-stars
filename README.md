@@ -107,6 +107,7 @@
 
 ## C++
 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search, hexdumps, searches nested archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
@@ -358,6 +359,7 @@
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
@@ -1010,6 +1012,7 @@
 ## Ruby
 
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) – Emacs Plus formulae for the Homebrew package manager
+- [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) – A command line tool that draw plots on the terminal.
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink)
 
