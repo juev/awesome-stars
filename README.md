@@ -299,7 +299,6 @@
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
 - [blang/semver](https://github.com/blang/semver) – Semantic Versioning (semver) library written in golang
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) – A BNB Smart Chain client based on the go-ethereum fork
-- [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [bojanz/currency](https://github.com/bojanz/currency) – Currency handling for Go.
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
@@ -876,6 +875,7 @@
 ## Nix
 
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
+- [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GnuPG and SSH
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
@@ -953,7 +953,7 @@
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) – A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 
 <div id="php"></div>
@@ -1052,6 +1052,7 @@
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
