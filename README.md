@@ -16,6 +16,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Gherkin](#gherkin)
 - [Go](#go)
@@ -176,6 +177,12 @@
 - [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
+<div id="elm"></div>
+
+## Elm
+
+- [eikek/docspell](https://github.com/eikek/docspell) – Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+
 <div id="emacs-lisp"></div>
 
 ## Emacs Lisp
@@ -248,6 +255,7 @@
 - [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Infrastructure as code for DNS!
+- [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) – The Evolution of a Go Programmer
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
@@ -318,6 +326,8 @@
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
+- [cdzombak/mailto-things](https://github.com/cdzombak/mailto-things) – Allow sending emails to Things.app with attachments (kind of).
+- [cdzombak/runner](https://github.com/cdzombak/runner) – Lightweight wrapper for better cron jobs and containers
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
@@ -726,6 +736,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [valyala/fastjson](https://github.com/valyala/fastjson) – Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) – Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
@@ -974,6 +985,7 @@
 
 ## Python
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
