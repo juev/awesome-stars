@@ -540,6 +540,7 @@
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
 - [lesismal/nbio](https://github.com/lesismal/nbio) – Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
+- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) – :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) – Caddy as a reverse proxy for Docker
