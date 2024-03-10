@@ -1090,6 +1090,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
+- [sekey/sekey](https://github.com/sekey/sekey) – Use Touch ID / Secure Enclave for SSH Authentication!
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
