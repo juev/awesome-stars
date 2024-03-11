@@ -77,6 +77,7 @@
 ## C
 
 - [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
+- [SoftEtherVPN/SoftEtherVPN_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable) – Cross-platform multi-protocol VPN software. This repository is officially managed by Daiyuu Nobori, the founder of the project. Pull requests should be sent to the master repository at https://github.com/SoftEtherVPN/SoftEtherVPN.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
@@ -314,6 +315,7 @@
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [brimdata/zed](https://github.com/brimdata/zed) – A novel data lake based on super-structured data
+- [brunoga/deep](https://github.com/brunoga/deep) – Support for doing deep copies of (almost all) Go types.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
@@ -1163,6 +1165,7 @@
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi, which also runs on Debian and Ubuntu based systems.
 - [raycast/script-commands](https://github.com/raycast/script-commands) – Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) – WireGuard support for some Synology NAS drives
+- [siomiz/SoftEtherVPN](https://github.com/siomiz/SoftEtherVPN) – A Docker Automated Build Repository for SoftEther VPN
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) – spf13's dotfiles
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
