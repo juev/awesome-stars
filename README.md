@@ -342,7 +342,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – The official Go library for the Cloudflare API
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -1054,7 +1054,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
