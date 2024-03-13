@@ -77,6 +77,7 @@
 ## C
 
 - [0xdea/exploits](https://github.com/0xdea/exploits) – A handy collection of my public exploits, all in one place.
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) – A highly customizable macOS status bar replacement
 - [SoftEtherVPN/SoftEtherVPN_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable) – Cross-platform multi-protocol VPN software. This repository is officially managed by Daiyuu Nobori, the founder of the project. Pull requests should be sent to the master repository at https://github.com/SoftEtherVPN/SoftEtherVPN.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -782,6 +783,7 @@
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
+- [xz/new.css](https://github.com/xz/new.css) – A classless CSS framework to write modern websites using only HTML.
 
 <div id="haskell"></div>
 
