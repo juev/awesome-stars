@@ -37,6 +37,7 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Plpgsql](#plpgsql)
 - [Prolog](#prolog)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -829,7 +830,6 @@
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – It's like Hacker News but we pay you Bitcoin.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
@@ -991,6 +991,12 @@
 
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
+
+<div id="plpgsql"></div>
+
+## Plpgsql
+
+- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet Communities with Bitcoin Economies
 
 <div id="prolog"></div>
 
@@ -1439,7 +1445,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
-- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation with Docker and user web-panel management.
+- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation and user web-panel management.
 
 <div id="wikitext"></div>
 
