@@ -288,7 +288,6 @@
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
-- [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [ariga/atlas](https://github.com/ariga/atlas) – A modern tool for managing database schemas
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
@@ -820,6 +819,7 @@
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
+- [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
@@ -1039,6 +1039,7 @@
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
+- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation and user web-panel management.
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
@@ -1065,7 +1066,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -1200,9 +1201,9 @@
 ## Swift
 
 - [CleanCocoa/OpenAny](https://github.com/CleanCocoa/OpenAny) – macOS app and file launching springboard
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
@@ -1304,7 +1305,7 @@
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The hacker's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The hackable notebook
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sst/sst](https://github.com/sst/sst) – Build modern full-stack applications on AWS
@@ -1449,7 +1450,6 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
-- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation and user web-panel management.
 
 <div id="wikitext"></div>
 
