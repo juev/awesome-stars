@@ -417,6 +417,7 @@
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [gin-contrib/authz](https://github.com/gin-contrib/authz) – gin-authz is an authorization middleware for Gin
@@ -777,6 +778,7 @@
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GnuPG and SSH
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
@@ -911,7 +913,6 @@
 - [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Guide to using YubiKey for GnuPG and SSH
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
@@ -1274,7 +1275,7 @@
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) – VS Code extension for Haskell, powered by haskell-language-server
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) – Open source monitoring and visualization UI for the TICK stack
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
