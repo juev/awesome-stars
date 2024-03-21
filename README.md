@@ -37,7 +37,6 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
-- [Plpgsql](#plpgsql)
 - [Prolog](#prolog)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -219,6 +218,7 @@
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) – Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) – Seamless authentication for every tool in your terminal.
 - [99designs/keyring](https://github.com/99designs/keyring) – Go library providing a uniform interface across a range of secure credential stores
+- [9seconds/mtg](https://github.com/9seconds/mtg) – Highly opinionated MTPROTO proxy for Telegram
 - [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) – Simple golang mitm proxy implementation
 - [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) – Design patterns in Golang
 - [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.
@@ -352,6 +352,7 @@
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) – Go error library with error portability over the network
 - [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
+- [cohesivestack/valgo](https://github.com/cohesivestack/valgo) – Valgo is a type-safe, expressive, and extensible validator library for Golang. Supports localization and is built with generics.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
@@ -764,6 +765,7 @@
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
@@ -837,6 +839,7 @@
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Communities with Bitcoin Economies
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
@@ -997,12 +1000,6 @@
 
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
-
-<div id="plpgsql"></div>
-
-## Plpgsql
-
-- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Communities with Bitcoin Economies
 
 <div id="prolog"></div>
 
