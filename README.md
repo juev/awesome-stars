@@ -829,7 +829,7 @@
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
-- [balzack/databag](https://github.com/balzack/databag) – A tiny selfhosted federated messenger for the decentralized web.
+- [balzack/databag](https://github.com/balzack/databag) – A tiny self-hosted federated messenger for the decentralized web.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
@@ -1036,6 +1036,7 @@
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) –  Make ad blocking dns using Cloudflare Gateway Zero Trust
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
