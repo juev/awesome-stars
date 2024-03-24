@@ -469,6 +469,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
+- [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
