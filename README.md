@@ -583,6 +583,7 @@
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micromata/dave](https://github.com/micromata/dave) – A totally simple and very easy to configure stand alone webdav server
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
 - [miguelmota/go-ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) – Ethereum HD Wallet derivations in Go (golang)
