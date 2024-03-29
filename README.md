@@ -798,6 +798,7 @@
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
+- [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) – magically playful, yet simple styling. all in one file.
 - [xz/new.css](https://github.com/xz/new.css) – A classless CSS framework to write modern websites using only HTML.
 
 <div id="haskell"></div>
