@@ -180,7 +180,7 @@
 
 ## Elixir
 
-- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="elm"></div>
@@ -505,6 +505,7 @@
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) – ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) – The golang implementation of the bitswap protocol
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
+- [ivaaaan/smug](https://github.com/ivaaaan/smug) – Session manager and task runner for tmux. Start your development environment within one command.
 - [izniburak/pipeline-go](https://github.com/izniburak/pipeline-go) – Pipeline pattern for your jobs, tasks, etc.. (Golang)
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
@@ -1123,6 +1124,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
+- [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with GPT-3.
