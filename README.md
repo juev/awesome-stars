@@ -455,6 +455,7 @@
 - [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package originally forked from github.com/satori/go.uuid
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) – Database migrations. CLI and Golang library.
 - [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for time
 - [golang/go](https://github.com/golang/go) – The Go programming language
 - [golang/mock](https://github.com/golang/mock) – GoMock is a mocking framework for the Go programming language.
