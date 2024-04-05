@@ -994,6 +994,7 @@
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) – Awesome things about htmx
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) – The docker-compose files for setting up a SearXNG instance with docker.
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
