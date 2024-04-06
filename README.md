@@ -267,6 +267,7 @@
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) – gomonkey is a library to make monkey patching in unit tests easy
@@ -448,6 +449,7 @@
 - [go-rod/rod](https://github.com/go-rod/rod) – A Devtools driver for web automation and scraping
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
+- [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [gobwas/ws](https://github.com/gobwas/ws) – Tiny WebSocket library for Go.
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
