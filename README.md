@@ -316,6 +316,7 @@
 - [blang/semver](https://github.com/blang/semver) – Semantic Versioning (semver) library written in golang
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) – A BNB Smart Chain client based on the go-ethereum fork
 - [bojanz/currency](https://github.com/bojanz/currency) – Currency handling for Go.
+- [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) – 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
