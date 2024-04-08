@@ -44,6 +44,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
@@ -771,6 +772,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Enable function trap in go, provide trace and mock to help write unit test and debug faster
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -1213,6 +1215,12 @@
 ## Starlark
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
+
+<div id="svelte"></div>
+
+## Svelte
+
+- [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams
 
 <div id="swift"></div>
 
