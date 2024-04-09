@@ -439,6 +439,7 @@
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
 - [go-echarts/statsview](https://github.com/go-echarts/statsview) – 🚀 A real-time Golang runtime stats visualization profiler
+- [go-fuego/fuego](https://github.com/go-fuego/fuego) – Golang Fuego - web framework generating OpenAPI 3 spec from source code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [go-gost/gost](https://github.com/go-gost/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [go-jet/jet](https://github.com/go-jet/jet) – Type safe SQL builder with code generation and automatic query result data mapping
@@ -449,7 +450,6 @@
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) – Distributed mutual exclusion lock using Redis for Go
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
 - [go-rod/rod](https://github.com/go-rod/rod) – A Devtools driver for web automation and scraping
-- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [gobwas/ws](https://github.com/gobwas/ws) – Tiny WebSocket library for Go.
@@ -772,7 +772,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Enable function trap in go, provide trace and mock to help write unit test and debug faster
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Enable function trap in go, provide trace and mock to help write and debug unit test faster
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -918,6 +918,7 @@
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 
 <div id="nim"></div>
 
