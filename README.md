@@ -521,7 +521,7 @@
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) – An in-memory cache with item expiration and generics
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
 - [jessicatarra/refactoring-greenlight](https://github.com/jessicatarra/refactoring-greenlight) – Refactor Greenlight application by implementing clean architecture and SOLID principles
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [jinzhu/now](https://github.com/jinzhu/now) – Now is a time toolkit for golang
@@ -1052,6 +1052,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
+- [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) – check links in web documents or full websites
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) –  Make ad blocking dns using Cloudflare Gateway Zero Trust
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
