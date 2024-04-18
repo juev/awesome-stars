@@ -116,6 +116,7 @@
 
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search, hexdumps, searches nested archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
+- [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
@@ -180,7 +181,7 @@
 
 ## Elixir
 
-- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
 - [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="elm"></div>
@@ -293,7 +294,7 @@
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
-- [ariga/atlas](https://github.com/ariga/atlas) – A modern tool for managing database schemas
+- [ariga/atlas](https://github.com/ariga/atlas) – Manage your database schema as code
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
@@ -754,7 +755,7 @@
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
 - [uber-go/mock](https://github.com/uber-go/mock) – GoMock is a mocking framework for the Go programming language.
 - [uber-go/multierr](https://github.com/uber-go/multierr) – Combine one or more Go errors together
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static Analysis tool to detect potential Nil panics in Go code
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static analysis tool to detect potential nil panics in Go code
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
