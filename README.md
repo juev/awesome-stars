@@ -972,6 +972,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) – A curated list of awesome jq tools and resources.
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
+- [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) – In this repository we have collected all awesome tools for iranian people
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [joplin/plugins](https://github.com/joplin/plugins) – Joplin official plugin repository
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
@@ -1020,6 +1021,7 @@
 
 ## PHP
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
@@ -1183,6 +1185,7 @@
 - [gaomd/docker-ikev2-vpn-server](https://github.com/gaomd/docker-ikev2-vpn-server) – IKEv2 VPN Server on Docker, with .mobileconfig for iOS & macOS.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) – This script automates setting up proxy related tools in Linux.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) – Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) – Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
