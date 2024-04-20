@@ -1355,7 +1355,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev is the open source background jobs platform for TypeScript.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API authentication and authorization
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API management platform
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
