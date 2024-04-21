@@ -591,7 +591,7 @@
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – A Go API development platform
 - [micromata/dave](https://github.com/micromata/dave) – A totally simple and very easy to configure stand alone webdav server
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
@@ -851,6 +851,7 @@
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
+- [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
