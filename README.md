@@ -44,7 +44,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
@@ -114,7 +113,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search, hexdumps, searches nested archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
@@ -319,6 +318,7 @@
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) – A BNB Smart Chain client based on the go-ethereum fork
 - [bojanz/currency](https://github.com/bojanz/currency) – Currency handling for Go.
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) – 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
+- [boyter/scc](https://github.com/boyter/scc) – Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
@@ -435,7 +435,6 @@
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
@@ -1049,6 +1048,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [akhater/Lupin](https://github.com/akhater/Lupin)
+- [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
@@ -1227,12 +1227,6 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
-<div id="svelte"></div>
-
-## Svelte
-
-- [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams
-
 <div id="swift"></div>
 
 ## Swift
@@ -1303,6 +1297,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
