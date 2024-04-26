@@ -383,6 +383,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
+- [dlclark/regexp2](https://github.com/dlclark/regexp2) – A full-featured regex engine in pure Go based on the .NET engine
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -673,7 +674,7 @@
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
-- [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) – 🔑 v3 .onion vanity URL generator written in Go
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [redis/go-redis](https://github.com/redis/go-redis) – Redis Go client
@@ -774,7 +775,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Enable function trap in go, provide trace and mock to help write and debug unit test faster
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – An extension to go. Advanced debugging, tracing and mocking functionalities out of box.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
