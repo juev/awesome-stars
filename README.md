@@ -653,6 +653,7 @@
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [picosh/pico](https://github.com/picosh/pico) – hacker labs - open source and managed web services leveraging SSH
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
@@ -1063,7 +1064,7 @@
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) – check links in web documents or full websites
