@@ -377,7 +377,6 @@
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) – Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
@@ -393,6 +392,7 @@
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) – 🧟 The modern PHP app server
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) – HTTP requests for Gophers
 - [earthboundkid/versioninfo](https://github.com/earthboundkid/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
@@ -423,12 +423,13 @@
 - [francoispqt/onelog](https://github.com/francoispqt/onelog) – Dead simple, super fast, zero allocation logger for Golang
 - [frankban/quicktest](https://github.com/frankban/quicktest) – Quick helpers for testing Go applications
 - [frantchessico/zogo](https://github.com/frantchessico/zogo)
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
+- [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [gin-contrib/authz](https://github.com/gin-contrib/authz) – gin-authz is an authorization middleware for Gin
@@ -621,6 +622,7 @@
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples for documentation, education and fun
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
@@ -861,6 +863,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
+- [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) – Everything I know
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet communities that pay you Bitcoin
@@ -1057,6 +1060,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) – fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal news aggregator and Mastodon client
