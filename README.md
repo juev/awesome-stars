@@ -736,6 +736,7 @@
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) – work in progress
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) – A client implementation for the Tailscale HTTP API
+- [talostrading/sonic](https://github.com/talostrading/sonic) – Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
@@ -1080,6 +1081,7 @@
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation and user web-panel management.
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
+- [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
