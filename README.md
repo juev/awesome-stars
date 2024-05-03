@@ -250,7 +250,7 @@
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
 - [Pallinder/go-randomdata](https://github.com/Pallinder/go-randomdata) – A tiny generator of random data for golang, also known as a faker 
-- [Permify/permify](https://github.com/Permify/permify) – Permify is an open-source authorization service inspired by Google Zanzibar.
+- [Permify/permify](https://github.com/Permify/permify) – Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) – Go implementation of Fowler's Money pattern
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
@@ -443,6 +443,7 @@
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
 - [go-echarts/statsview](https://github.com/go-echarts/statsview) – 🚀 A real-time Golang runtime stats visualization profiler
+- [go-faker/faker](https://github.com/go-faker/faker) – Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
 - [go-fuego/fuego](https://github.com/go-fuego/fuego) – Golang Fuego - web framework generating OpenAPI 3 spec from source code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [go-gost/gost](https://github.com/go-gost/gost) – GO Simple Tunnel - a simple tunnel written in golang
@@ -1256,6 +1257,7 @@
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) – VPN client for Apple platforms.
+- [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
 - [temochka/Anykey](https://github.com/temochka/Anykey) – A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
 
@@ -1286,6 +1288,7 @@
 ## TypeScript
 
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) – Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
