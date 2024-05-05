@@ -774,7 +774,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [valyala/fastjson](https://github.com/valyala/fastjson) – Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) – Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
-- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
@@ -1317,7 +1317,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub action for golangci-lint from its authors
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) – VS Code extension for Haskell, powered by haskell-language-server
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
