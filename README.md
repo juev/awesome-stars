@@ -581,6 +581,7 @@
 - [madflojo/tasks](https://github.com/madflojo/tasks) – Package tasks is an easy to use in-process scheduler for recurring tasks in Go
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) – GoCrack is a management frontend for password cracking tools written in Go
+- [maragudk/goqite](https://github.com/maragudk/goqite) – Go queue library built on SQLite and inspired by AWS SQS.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -680,6 +681,7 @@
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) – Enterprise ready REST API microservice in golang
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) – 🔑 v3 .onion vanity URL generator written in Go
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
@@ -1011,6 +1013,7 @@
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pthethanh/effective-go](https://github.com/pthethanh/effective-go) – a list of effective go, best practices and go idiomatic
+- [r3nya/r3nya](https://github.com/r3nya/r3nya)
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) – Awesome things about htmx
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
@@ -1297,6 +1300,7 @@
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
+- [abi/secret-llama](https://github.com/abi/secret-llama) – Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) – 📦 GitHub Action for Rust `cargo` command
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) – 📎 GitHub Action for PR annotations with clippy warnings
 - [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
