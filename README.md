@@ -44,6 +44,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
@@ -113,10 +114,11 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) – Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 
@@ -767,6 +769,7 @@
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) – Static analysis tool to detect potential nil panics in Go code
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [ugorji/go](https://github.com/ugorji/go) – idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
+- [umputun/feed-master](https://github.com/umputun/feed-master) – Pulls multiple podcast feeds (RSS) and republishes as a common feed, properly sorted and podcast-client friendly.
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [urfave/cli](https://github.com/urfave/cli) – A simple, fast, and fun package for building command line apps in Go
@@ -1169,6 +1172,7 @@
 
 ## SCSS
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 
@@ -1244,6 +1248,12 @@
 ## Starlark
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
+
+<div id="svelte"></div>
+
+## Svelte
+
+- [serge-chat/serge](https://github.com/serge-chat/serge) – A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 <div id="swift"></div>
 
