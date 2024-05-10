@@ -789,7 +789,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) – An extension to go. Advanced debugging, tracing and mocking functionalities out of box.
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Extending go with advanced debugging, tracing and mocking functionalities out of box.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -1027,6 +1027,7 @@
 - [r3nya/r3nya](https://github.com/r3nya/r3nya)
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) – Awesome things about htmx
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) – Learn the Zig programming language by fixing tiny broken programs.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) – The docker-compose files for setting up a SearXNG instance with docker.
@@ -1552,7 +1553,6 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) – Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
