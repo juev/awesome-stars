@@ -789,7 +789,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Extending go with advanced debugging, tracing and mocking functionalities out of box.
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Extending go with advanced debugging, tracing and mocking functionalities.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -1072,7 +1072,7 @@
 - [UPB-SysSec/DPYProxy](https://github.com/UPB-SysSec/DPYProxy) – Python Proxy that implements DPI evasion mechanisms 
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework • Ngrok Alternative
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
