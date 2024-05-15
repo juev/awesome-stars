@@ -85,7 +85,7 @@
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-- [bol-van/zapret](https://github.com/bol-van/zapret) – Обход DPI в linux
+- [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [bvinc/go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) – SQLite driver for the Go programming language
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -119,6 +119,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) – Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) – Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
@@ -833,6 +834,7 @@
 
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
+- [jgm/gitit](https://github.com/jgm/gitit) – A wiki using HAppS, pandoc, and git
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
