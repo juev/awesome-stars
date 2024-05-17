@@ -695,6 +695,7 @@
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
+- [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [riyaz-ali/sqlite](https://github.com/riyaz-ali/sqlite) – Golang library to build sqlite extensions :rocket:
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) – Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
@@ -928,7 +929,7 @@
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) – Collection of log/slog related projects.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
-- [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – Small docker of Tor client
+- [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – [MIRROR] Small docker of Tor client
 
 <div id="markdown"></div>
 
@@ -1210,7 +1211,7 @@
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
-- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux 3.19.0 container for the iCloud Photos Downloader command line utility 
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client)
@@ -1361,6 +1362,7 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [markmap/markmap](https://github.com/markmap/markmap) – Build mindmaps with plain text
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) – 🔥 Turn entire websites into LLM-ready markdown
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
