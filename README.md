@@ -1362,7 +1362,7 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [markmap/markmap](https://github.com/markmap/markmap) – Build mindmaps with plain text
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) – 🔥 Turn entire websites into LLM-ready markdown
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) – 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
