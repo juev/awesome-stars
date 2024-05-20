@@ -423,6 +423,7 @@
 - [felixge/traceutils](https://github.com/felixge/traceutils) – Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) – A Nostr relay server framework.
+- [flipt-io/reverst](https://github.com/flipt-io/reverst) – Reverse Tunnels in Go over HTTP/3 and QUIC
 - [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [francoispqt/onelog](https://github.com/francoispqt/onelog) – Dead simple, super fast, zero allocation logger for Golang
@@ -671,7 +672,7 @@
 - [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
-- [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
+- [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) – Exporter for Consul metrics
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) – Go implementation of Ethereum proof of stake
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
