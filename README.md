@@ -73,6 +73,7 @@
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
+- [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
 
 <div id="c"></div>
 
@@ -785,6 +786,7 @@
 - [valyala/fastjson](https://github.com/valyala/fastjson) – Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) – Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [vas3k/pepic](https://github.com/vas3k/pepic) – Image and video proxy for my pet-projects
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
