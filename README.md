@@ -640,6 +640,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
+- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) – yet another rss reader
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
