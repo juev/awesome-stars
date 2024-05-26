@@ -230,6 +230,7 @@
 - [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) – Design patterns in Golang
 - [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.
 - [Antonboom/nilnil](https://github.com/Antonboom/nilnil) – The Golang linter that checks that there is no simultaneous return of `nil` error and an invalid value.
+- [BooleanCat/option](https://github.com/BooleanCat/option) – Support user-friendly, type-safe optionals in Go.
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) – TOML parser for Golang with reflection.
 - [CGamesPlay/dfm](https://github.com/CGamesPlay/dfm) – dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
@@ -732,6 +733,7 @@
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [solo-io/protoc-gen-openapi](https://github.com/solo-io/protoc-gen-openapi) – Compile Google protobufs to openAPI v3 specs
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) – Code AI platform with Code Search & Cody
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
@@ -923,7 +925,7 @@
 
 ## LUA
 
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
@@ -1179,6 +1181,7 @@
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
