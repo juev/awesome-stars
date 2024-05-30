@@ -5,6 +5,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
@@ -66,6 +67,12 @@
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) – AdGuard DNS filter
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) – AdGuard Content Blocking Filters
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) – Block lists to prevent JavaScript miners 
+
+<div id="assembly"></div>
+
+## Assembly
+
+- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 
 <div id="astro"></div>
 
@@ -569,6 +576,7 @@
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
+- [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) – Ethereum implementation on the efficiency frontier
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
@@ -801,7 +809,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) – Extending go with advanced debugging, tracing and mocking functionalities.
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) – All-in-one go testing library
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC 
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -1139,6 +1147,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
