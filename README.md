@@ -178,6 +178,7 @@
 
 - [angristan/feedbin-docker](https://github.com/angristan/feedbin-docker) – Self-host your own Feedbin RSS reader in Docker
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) – Squid in docker container based on Alpine Linux
+- [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) – Run Cloudflare WARP in Docker.
 - [dockage/tor-privoxy](https://github.com/dockage/tor-privoxy) – Docker Tor proxy (http and shell) built on Alpine Linux
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
@@ -388,6 +389,7 @@
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
