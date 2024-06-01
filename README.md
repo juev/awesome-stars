@@ -671,8 +671,8 @@
 - [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) – Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [panjf2000/ants](https://github.com/panjf2000/ants) – 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [panjf2000/ants](https://github.com/panjf2000/ants) – 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go.
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
@@ -947,6 +947,7 @@
 
 ## Makefile
 
+- [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) – Cross compilation framework to create native packages for the Synology's NAS
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) – Collection of log/slog related projects.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
