@@ -312,6 +312,7 @@
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [ariga/atlas](https://github.com/ariga/atlas) – Manage your database schema as code
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) – Gopher Artwork by Ashley McNamara
