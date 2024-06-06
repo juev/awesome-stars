@@ -398,7 +398,6 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
@@ -478,7 +477,7 @@
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram 
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) – Distributed mutual exclusion lock using Redis for Go
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
-- [go-rod/rod](https://github.com/go-rod/rod) – A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) – A Chrome DevTools Protocol driver for web automation and scraping.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
@@ -664,6 +663,7 @@
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) – yet another rss reader
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
