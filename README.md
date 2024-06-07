@@ -287,7 +287,7 @@
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Go binaries, providing insight into their impact on the final build.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) – GUI frontend for Delve
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
@@ -495,6 +495,7 @@
 - [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
 - [google/capslock](https://github.com/google/capslock)
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
+- [google/go-querystring](https://github.com/google/go-querystring) – go-querystring is Go library for encoding structs into URL query strings.
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
 - [google/martian](https://github.com/google/martian) – Martian is a library for building custom HTTP/S proxies
@@ -1297,6 +1298,7 @@
 
 ## Svelte
 
+- [0x2E/fusion](https://github.com/0x2E/fusion) – A lightweight, self-hosted friendly RSS aggregator and reader
 - [serge-chat/serge](https://github.com/serge-chat/serge) – A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 <div id="swift"></div>
@@ -1350,6 +1352,7 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
+- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
