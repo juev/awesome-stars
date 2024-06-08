@@ -253,6 +253,7 @@
 - [FiloSottile/keygen](https://github.com/FiloSottile/keygen) – Deterministic key generation for Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) – golang analyzer that finds structures with uninitialized fields
 - [IBM/fp-go](https://github.com/IBM/fp-go) – functional programming library for golang
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
@@ -486,6 +487,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
 - [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package originally forked from github.com/satori/go.uuid
+- [gogo/letmegrpc](https://github.com/gogo/letmegrpc) – [maintainer wanted] generates a web form gui from a grpc specification
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) – Database migrations. CLI and Golang library.
@@ -570,6 +572,7 @@
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [julien040/gut](https://github.com/julien040/gut) – An alternative git CLI for Windows, macOS, and Linux
+- [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -872,6 +875,7 @@
 ## Java
 
 - [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) – Дампер и парсер памяти карты Тройка
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
@@ -1315,6 +1319,7 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) – VPN client for Apple platforms.
 - [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
@@ -1377,7 +1382,6 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
