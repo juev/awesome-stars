@@ -1029,6 +1029,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) – A curated list of awesome jq tools and resources.
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
@@ -1116,7 +1117,6 @@
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) – fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal news aggregator and Mastodon client
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
