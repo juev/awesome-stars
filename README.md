@@ -399,6 +399,7 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
+- [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) – Kubernetes platform from Flant
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
@@ -553,6 +554,7 @@
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) – An in-memory cache with item expiration and generics
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jessicatarra/refactoring-greenlight](https://github.com/jessicatarra/refactoring-greenlight) – Refactor Greenlight application by implementing clean architecture and SOLID principles
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
@@ -893,7 +895,7 @@
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
-- [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Chromium extension for bypassing censorship in Russia
+- [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Web-extension for bypassing censorship in Russia
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
