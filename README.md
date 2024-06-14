@@ -586,6 +586,7 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
 - [klauspost/compress](https://github.com/klauspost/compress) – Optimized Go Compression Packages
+- [ko-build/ko](https://github.com/ko-build/ko) – Build and deploy Go applications
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1254,6 +1255,7 @@
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
+- [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) – 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client)
 - [dperson/torproxy](https://github.com/dperson/torproxy)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
