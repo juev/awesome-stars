@@ -488,7 +488,7 @@
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
-- [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package originally forked from github.com/satori/go.uuid
+- [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package for Go
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc) – [maintainer wanted] generates a web form gui from a grpc specification
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
@@ -756,6 +756,7 @@
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) – Modern Shadowsocks in Go
 - [shopspring/decimal](https://github.com/shopspring/decimal) – Arbitrary-precision fixed-point decimal numbers in Go
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) – go-mask is a simple, customizable Go library for masking sensitive information.
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) – A beautiful terminal dashboard for hledger 💰
 - [sipt/shuttle](https://github.com/sipt/shuttle) – A web proxy in Golang with amazing features.
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1133,7 +1134,7 @@
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) – check links in web documents or full websites
-- [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) –  Make ad blocking dns using Cloudflare Gateway Zero Trust
+- [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) – Make ad blocking dns using Cloudflare Gateway Zero Trust
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
