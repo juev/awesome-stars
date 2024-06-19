@@ -246,7 +246,7 @@
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) – A pure Go Apple Property List transcoder
 - [DataDog/gostackparse](https://github.com/DataDog/gostackparse) – Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s.
-- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) – Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
+- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) – Embeddable Distributed in-memory alternative to Redis.
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – A truly Open Source MongoDB alternative
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -671,6 +671,7 @@
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
+- [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) – yet another rss reader
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
@@ -1298,6 +1299,7 @@
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Docker Image. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+- [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) – Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
 - [wallabag/docker](https://github.com/wallabag/docker) – Official docker-composer for wallabag. 
 - [wfg/docker-openvpn-client](https://github.com/wfg/docker-openvpn-client) – OpenVPN client with killswitch and proxy servers; built on Alpine
 
