@@ -261,6 +261,7 @@
 - [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) – Outline Shadowsocks server
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Clash, Trojan-Go, Leaf and Hysteria, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
 - [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
@@ -440,6 +441,7 @@
 - [felixge/traceutils](https://github.com/felixge/traceutils) – Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) – A Nostr relay server framework.
+- [flant/addon-operator](https://github.com/flant/addon-operator) – A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) – Reverse Tunnels in Go over HTTP/3 and QUIC
 - [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
 - [fossabot/clash](https://github.com/fossabot/clash) – A rule based proxy in Go.
@@ -883,7 +885,6 @@
 ## Java
 
 - [0xdea/ghidra-scripts](https://github.com/0xdea/ghidra-scripts) – A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) – Дампер и парсер памяти карты Тройка
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) – Powerful and extensible proxy server with anti-censorship functionality
 
@@ -1394,6 +1395,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
