@@ -116,7 +116,7 @@
 
 ## C#
 
-- [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) – Sync server for Notesnook (not yet self-hostable)
 
 <div id="c++"></div>
@@ -289,7 +289,7 @@
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Go binaries, providing insight into their impact on the final build.
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for determining the extent to which dependencies contribute to the bloated size of compiled Go binaries.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) – GUI frontend for Delve
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
@@ -442,6 +442,7 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
 - [fiatjaf/relayer](https://github.com/fiatjaf/relayer) – A Nostr relay server framework.
 - [flant/addon-operator](https://github.com/flant/addon-operator) – A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
+- [flant/shell-operator](https://github.com/flant/shell-operator) – Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) – Reverse Tunnels in Go over HTTP/3 and QUIC
 - [fortytw2/leaktest](https://github.com/fortytw2/leaktest) – Goroutine Leak Detector
 - [fossabot/clash](https://github.com/fossabot/clash) – A rule based proxy in Go.
@@ -466,6 +467,7 @@
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
@@ -1384,7 +1386,7 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) – Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) – A Browser Extension for faster reading on ANY website!
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
-- [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [calcom/cal.com](https://github.com/calcom/cal.com) – Scheduling infrastructure for absolutely everyone.
@@ -1395,7 +1397,6 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
