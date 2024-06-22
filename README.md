@@ -402,6 +402,7 @@
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) – Kubernetes platform from Flant
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
+- [destel/rill](https://github.com/destel/rill) – Go concurrency with channel transformations: a toolkit for streaming, batching, pipelines, and error handling
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
@@ -527,7 +528,9 @@
 - [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) – A Go (golang) package for representing a list of errors as a single error.
+- [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) – Golang plugin system over RPC.
 - [hashicorp/mdns](https://github.com/hashicorp/mdns) – Simple mDNS client/server library in Golang
+- [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
@@ -829,6 +832,8 @@
 - [vas3k/pepic](https://github.com/vas3k/pepic) – Image and video proxy for my pet-projects
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
+- [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) – Playing around with Go 1.8 plugin system
+- [vladimirvivien/gosh](https://github.com/vladimirvivien/gosh) – Gosh -  a pluggable framework for building command shell programs
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
 - [wabarc/wayback](https://github.com/wabarc/wayback) – An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -844,6 +849,7 @@
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
+- [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zk-org/zk](https://github.com/zk-org/zk) – A plain text note-taking assistant
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
@@ -1327,6 +1333,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) – Window management made elegant.
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
