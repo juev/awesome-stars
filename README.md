@@ -172,6 +172,7 @@
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
+- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) – Calling Go Functions from Other Languages using C Shared Libraries
 
 <div id="dockerfile"></div>
 
@@ -294,6 +295,7 @@
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) – gomonkey is a library to make monkey patching in unit tests easy
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) – Faster way to switch between clusters and namespaces in kubectl
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
@@ -579,7 +581,7 @@
 - [juev/gclone](https://github.com/juev/gclone) – Organized repository storage
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
-- [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
+- [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [julien040/gut](https://github.com/julien040/gut) – An alternative git CLI for Windows, macOS, and Linux
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
@@ -597,6 +599,7 @@
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) – 📦 Find and install kubectl plugins
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
@@ -1058,6 +1061,7 @@
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [juev/links](https://github.com/juev/links)
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) – Bootstrap Kubernetes the hard way. No scripts.
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
@@ -1224,6 +1228,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
