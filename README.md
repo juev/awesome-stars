@@ -27,6 +27,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jq](#jq)
+- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
@@ -587,6 +588,7 @@
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [julien040/gut](https://github.com/julien040/gut) – An alternative git CLI for Windows, macOS, and Linux
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -693,6 +695,7 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) – A management framework for extending Kubernetes with Operators
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [orijtech/structslop](https://github.com/orijtech/structslop) – structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
@@ -753,7 +756,7 @@
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
-- [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI is an open source client for container development
 - [samber/do](https://github.com/samber/do) – ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -949,6 +952,12 @@
 ## Jq
 
 - [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) – Solving Advent of Code with jq
+
+<div id="jsonnet"></div>
+
+## Jsonnet
+
+- [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) – Cluster monitoring stack for clusters based on Prometheus Operator
 
 <div id="jupyter-notebook"></div>
 
