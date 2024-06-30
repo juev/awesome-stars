@@ -378,6 +378,7 @@
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) – A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -473,6 +474,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) – 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
@@ -675,6 +677,7 @@
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples for documentation, education and fun
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
+- [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) – readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
