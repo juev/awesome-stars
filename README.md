@@ -521,7 +521,7 @@
 - [gookit/color](https://github.com/gookit/color) – 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
@@ -557,6 +557,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) – Fast and secure standalone server for resizing and converting remote images
 - [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) – ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) – Get public TCP LoadBalancers for local Kubernetes clusters
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) – The golang implementation of the bitswap protocol
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) – Session manager and task runner for tmux. Start your development environment within one command.
@@ -663,6 +664,7 @@
 - [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [muesli/termenv](https://github.com/muesli/termenv) – Advanced ANSI style & color support for your terminal applications
@@ -1022,7 +1024,6 @@
 
 ## Nix
 
-- [Xe/nixos-configs](https://github.com/Xe/nixos-configs) – My NixOS configs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
