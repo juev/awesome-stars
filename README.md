@@ -272,7 +272,7 @@
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
 - [Pallinder/go-randomdata](https://github.com/Pallinder/go-randomdata) – A tiny generator of random data for golang, also known as a faker 
-- [Permify/permify](https://github.com/Permify/permify) – Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
+- [Permify/permify](https://github.com/Permify/permify) – An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) – Go implementation of Fowler's Money pattern
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
@@ -328,6 +328,7 @@
 - [avamsi/climate](https://github.com/avamsi/climate) – "CLI Mate" autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)
 - [avast/retry-go](https://github.com/avast/retry-go) – Simple golang library for retry mechanism
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
+- [awalterschulze/goderive](https://github.com/awalterschulze/goderive) – Derives and generates mundane golang functions that you do not want to maintain yourself
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) – Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) – µDiff - a micro Go diffing library
 - [barnacs/compy](https://github.com/barnacs/compy) – HTTP/HTTPS compression proxy
@@ -358,7 +359,7 @@
 - [buger/jsonparser](https://github.com/buger/jsonparser) – One of the fastest alternative JSON parser for Go that does not require schema
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
-- [caarlos0/env](https://github.com/caarlos0/env) – A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) – A simple, zero-dependencies library to parse environment variables into structs
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [casbin/casbin](https://github.com/casbin/casbin) – An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
@@ -882,7 +883,6 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -1436,6 +1436,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) – Open source monitoring and visualization UI for the TICK stack
 - [intuit/auto](https://github.com/intuit/auto) – Generate releases based on semantic version labels on pull requests.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) – A tiny (~400 B) & modern library for keybindings.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
