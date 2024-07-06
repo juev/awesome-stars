@@ -714,7 +714,7 @@
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design
+- [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for short text and mixed-language text
