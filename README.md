@@ -82,6 +82,7 @@
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
 
 <div id="c"></div>
 
@@ -131,6 +132,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) – Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) – Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) – Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 
@@ -786,6 +788,7 @@
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) – go-mask is a simple, customizable Go library for masking sensitive information.
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) – A beautiful terminal dashboard for hledger 💰
 - [sipt/shuttle](https://github.com/sipt/shuttle) – A web proxy in Golang with amazing features.
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) – Structured, pluggable logging for Go.
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
