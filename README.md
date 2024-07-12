@@ -693,7 +693,7 @@
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) – readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wazero
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
