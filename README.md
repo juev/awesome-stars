@@ -250,7 +250,7 @@
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) – A pure Go Apple Property List transcoder
 - [DataDog/gostackparse](https://github.com/DataDog/gostackparse) – Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s.
-- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) – Embeddable Distributed in-memory alternative to Redis.
+- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) – Embeddable and distributed in-memory alternative to Redis.
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) – Golang weaponization for red teamers.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) – A truly Open Source MongoDB alternative
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
