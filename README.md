@@ -387,6 +387,7 @@
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) – Go error library with error portability over the network
+- [coder/quartz](https://github.com/coder/quartz) – A Go time testing library for writing deterministic unit tests
 - [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [cohesivestack/valgo](https://github.com/cohesivestack/valgo) – Valgo is a type-safe, expressive, and extensible validator library for Golang. Supports localization and is built with generics.
@@ -516,6 +517,7 @@
 - [golang/mock](https://github.com/golang/mock) – GoMock is a mocking framework for the Go programming language.
 - [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
 - [google/capslock](https://github.com/google/capslock)
+- [google/go-cmp](https://github.com/google/go-cmp) – Package for comparing Go values in tests
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [google/go-querystring](https://github.com/google/go-querystring) – go-querystring is Go library for encoding structs into URL query strings.
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
@@ -817,6 +819,7 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) – A client implementation for the Tailscale HTTP API
 - [talostrading/sonic](https://github.com/talostrading/sonic) – Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
+- [taubyte/tau](https://github.com/taubyte/tau) – Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
