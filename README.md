@@ -439,6 +439,7 @@
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
+- [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Go implementation of the Ethereum protocol
 - [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
@@ -622,7 +623,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
-- [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) – Ethereum implementation on the efficiency frontier
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
 - [leominov/gitlab_activity_exporter](https://github.com/leominov/gitlab_activity_exporter) – Server that exports date of last user activity on GitLab
 - [leominov/gitlab_license_exporter](https://github.com/leominov/gitlab_license_exporter) – Server that exports GitLab's license metrics
@@ -721,7 +721,7 @@
 - [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) – Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [panjf2000/ants](https://github.com/panjf2000/ants) – 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go.
+- [panjf2000/ants](https://github.com/panjf2000/ants) – 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
