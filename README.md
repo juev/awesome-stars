@@ -540,7 +540,7 @@
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
-- [hacdias/webdav](https://github.com/hacdias/webdav) – Simple Go WebDAV server.
+- [hacdias/webdav](https://github.com/hacdias/webdav) – A simple and standalone WebDAV server.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -771,6 +771,7 @@
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) – Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
+- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
