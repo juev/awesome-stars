@@ -362,6 +362,7 @@
 - [buger/jsonparser](https://github.com/buger/jsonparser) – One of the fastest alternative JSON parser for Go that does not require schema
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) – Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple, zero-dependencies library to parse environment variables into structs
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [casbin/casbin](https://github.com/casbin/casbin) – An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
@@ -439,7 +440,7 @@
 - [ent/ent](https://github.com/ent/ent) – An entity framework for Go
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
-- [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier
+- [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Go implementation of the Ethereum protocol
 - [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
