@@ -125,7 +125,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
