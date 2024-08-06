@@ -268,7 +268,6 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
 - [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
 - [Mikescher/firefox-sync-client](https://github.com/Mikescher/firefox-sync-client) – A cli for firefox-sync (firefox bookmarks, passwords, account, ...)
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -484,6 +483,7 @@
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) – 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -604,7 +604,7 @@
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
-- [julien040/gut](https://github.com/julien040/gut) – An alternative git CLI for Windows, macOS, and Linux
+- [julien040/gut](https://github.com/julien040/gut) – A beginner friendly porcelain for git
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
@@ -885,6 +885,7 @@
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
@@ -1227,6 +1228,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
@@ -1517,7 +1519,6 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
