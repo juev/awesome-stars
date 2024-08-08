@@ -125,7 +125,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
@@ -778,7 +778,7 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, distributed relational database built on SQLite.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
@@ -1671,6 +1671,7 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open and introductory book for the Zig programming language (🚧 in construction 🚧)
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
