@@ -82,7 +82,6 @@
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
 
 <div id="c"></div>
 
@@ -613,6 +612,7 @@
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) – Manage local application configuration files using templates and data from etcd or consul
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) – Golang library for managing configuration data from environment variables
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
 - [kevincobain2000/re](https://github.com/kevincobain2000/re) – Command Line Tool to execute commands in README.md file.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
