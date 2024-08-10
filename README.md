@@ -192,7 +192,6 @@
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
-- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – :calling: Docker image with 3proxy - Tiny free proxy server
 
 <div id="elixir"></div>
@@ -1347,6 +1346,7 @@
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi, which also runs on Debian and Ubuntu based systems.
 - [raycast/script-commands](https://github.com/raycast/script-commands) – Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) – WireGuard support for some Synology NAS drives
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
 - [siomiz/SoftEtherVPN](https://github.com/siomiz/SoftEtherVPN) – A Docker Automated Build Repository for SoftEther VPN
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) – spf13's dotfiles
@@ -1391,7 +1391,7 @@
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
-- [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) – VPN client for Apple platforms.
+- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – VPN client for Apple platforms.
 - [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
 - [temochka/Anykey](https://github.com/temochka/Anykey) – A free macOS app for binding shell commands to system-wide or app-specific hotkeys.
