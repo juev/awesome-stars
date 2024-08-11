@@ -781,6 +781,7 @@
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
+- [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
 - [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI is an open source client for container development
 - [samber/do](https://github.com/samber/do) – ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
