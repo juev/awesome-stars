@@ -564,7 +564,7 @@
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
 - [icio/actiongraph](https://github.com/icio/actiongraph) – Go build actiongraph debug visualiser.
-- [icyphox/go-vite](https://github.com/icyphox/go-vite) – vite, but in Go; powers https://icyphox.sh
+- [icyphox/go-vite](https://github.com/icyphox/go-vite) – fast static site generator; powers https://anirudh.fi
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) – Fast and secure standalone server for resizing and converting remote images
 - [imroc/req](https://github.com/imroc/req) – Simple Go HTTP client with Black Magic
@@ -885,7 +885,6 @@
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
@@ -1520,6 +1519,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
