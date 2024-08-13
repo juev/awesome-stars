@@ -261,7 +261,7 @@
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [Jigsaw-Code/outline-go-tun2socks](https://github.com/Jigsaw-Code/outline-go-tun2socks)
 - [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) – Outline Shadowsocks server
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Clash, Trojan-Go, Leaf and Hysteria, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, etc.
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
@@ -430,9 +430,11 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) – 🧟 The modern PHP app server
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
+- [eapache/go-resiliency](https://github.com/eapache/go-resiliency) – Resiliency patterns for golang
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) – HTTP requests for Gophers
 - [earthboundkid/versioninfo](https://github.com/earthboundkid/versioninfo) – Importable package that parses version info from debug.ReadBuildInfo().
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+- [egonelbre/gophers](https://github.com/egonelbre/gophers) – Free gophers
 - [eko/gocache](https://github.com/eko/gocache) – ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [elliotchance/pie](https://github.com/elliotchance/pie) – 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [emirpasic/gods](https://github.com/emirpasic/gods) – GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -1035,6 +1037,7 @@
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+- [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
 
 <div id="nim"></div>
 
