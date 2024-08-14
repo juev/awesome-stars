@@ -183,7 +183,6 @@
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) – 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
 - [angristan/feedbin-docker](https://github.com/angristan/feedbin-docker) – Self-host your own Feedbin RSS reader in Docker
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) – Squid in docker container based on Alpine Linux
-- [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) – Run Cloudflare WARP in Docker.
 - [dockage/tor-privoxy](https://github.com/dockage/tor-privoxy) – Docker Tor proxy (http and shell) built on Alpine Linux
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
@@ -404,7 +403,7 @@
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
-- [daguflow/dagu](https://github.com/daguflow/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1316,6 +1315,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
+- [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) – Run Cloudflare WARP in Docker.
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-library/official-images](https://github.com/docker-library/official-images) – Primary source of truth for the Docker "Official Images" program
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) – 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
