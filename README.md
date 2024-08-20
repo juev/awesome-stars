@@ -287,6 +287,7 @@
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) – The Evolution of a Go Programmer
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) – Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+- [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [VictoriaMetrics/metrics](https://github.com/VictoriaMetrics/metrics) – Lightweight alternative to github.com/prometheus/client_golang
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) – A collection of useful, performant, and threadsafe Go datastructures.
@@ -808,7 +809,7 @@
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [solo-io/protoc-gen-openapi](https://github.com/solo-io/protoc-gen-openapi) – Compile Google protobufs to openAPI v3 specs
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) – Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) – Code AI platform with Code Search & Cody
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
@@ -887,6 +888,7 @@
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
@@ -1523,7 +1525,6 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
@@ -1671,7 +1672,7 @@
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
 - [drcode/zek](https://github.com/drcode/zek)
-- [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) – readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig
+- [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) – AWS SDK for Zig. This is a readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig, although Issues/PRs are welcome!
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
