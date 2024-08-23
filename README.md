@@ -215,6 +215,7 @@
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
+- [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
@@ -910,7 +911,6 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [google/docsy](https://github.com/google/docsy) – A set of Hugo doc templates for launching open source content.
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
-- [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
@@ -1307,6 +1307,7 @@
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) – A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
+- [Nybkox/tmux-kanagawa](https://github.com/Nybkox/tmux-kanagawa) – 🌊 Dark theme for tmux 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
@@ -1396,6 +1397,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
+- [moderato-app/approf](https://github.com/moderato-app/approf) – A native macOS app for pprof
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – VPN client for Apple platforms.
