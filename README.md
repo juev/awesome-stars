@@ -275,6 +275,7 @@
 - [Permify/permify](https://github.com/Permify/permify) – An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) – Go implementation of Fowler's Money pattern
+- [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) – 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) – The swiss army knife of live data migrations
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) – :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
