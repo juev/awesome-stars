@@ -173,6 +173,7 @@
 
 ## Dart
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
@@ -408,7 +409,7 @@
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
-- [daguflow/dagu](https://github.com/daguflow/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
