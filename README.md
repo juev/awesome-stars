@@ -880,7 +880,7 @@
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) – Playing around with Go 1.8 plugin system
 - [vladimirvivien/gosh](https://github.com/vladimirvivien/gosh) – Gosh -  a pluggable framework for building command shell programs
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
-- [wabarc/wayback](https://github.com/wabarc/wayback) – An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
+- [wabarc/wayback](https://github.com/wabarc/wayback) – An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [werf/kubedog](https://github.com/werf/kubedog) – Library to watch and follow kubernetes resources in CI/CD deploy pipelines
@@ -1449,6 +1449,7 @@
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
@@ -1536,6 +1537,8 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
+- [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) – Customize your Zotero workflow.
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
