@@ -109,7 +109,6 @@
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, distributed relational database built on SQLite.
 - [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) – Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) – A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -786,6 +785,7 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, distributed relational database built on SQLite.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
