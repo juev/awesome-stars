@@ -711,6 +711,7 @@
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wazero
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
@@ -1232,7 +1233,7 @@
 ## Rust
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
-- [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+- [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://www.merklemap.com/
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
