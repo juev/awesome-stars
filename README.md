@@ -878,6 +878,7 @@
 - [vas3k/pepic](https://github.com/vas3k/pepic) – Image and video proxy for my pet-projects
 - [vektra/mockery](https://github.com/vektra/mockery) – A mock code autogenerator for Go
 - [veqryn/slog-context](https://github.com/veqryn/slog-context) – Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.
+- [versity/versitygw](https://github.com/versity/versitygw) – versity s3 gateway
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) – Playing around with Go 1.8 plugin system
 - [vladimirvivien/gosh](https://github.com/vladimirvivien/gosh) – Gosh -  a pluggable framework for building command shell programs
 - [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
