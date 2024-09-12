@@ -306,6 +306,7 @@
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) – Faster way to switch between clusters and namespaces in kubectl
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
+- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) – CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [alecthomas/kong](https://github.com/alecthomas/kong) – Kong is a command-line parser for Go
 - [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
 - [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
@@ -583,6 +584,7 @@
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) – Session manager and task runner for tmux. Start your development environment within one command.
 - [izniburak/pipeline-go](https://github.com/izniburak/pipeline-go) – Pipeline pattern for your jobs, tasks, etc.. (Golang)
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
+- [jackc/puddle](https://github.com/jackc/puddle) – Generic resource pool for Go
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) – A Golang Job Scheduling Package.
@@ -633,6 +635,7 @@
 - [kubernetes/code-generator](https://github.com/kubernetes/code-generator) – Generators for kube-like API types
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
+- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) – Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 - [kyoh86/richgo](https://github.com/kyoh86/richgo) – Enrich `go test` outputs with text decorations.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [leominov/cmdwrapper](https://github.com/leominov/cmdwrapper) – Metrics for Shell commands via Pushgateway 💫
@@ -826,6 +829,7 @@
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
