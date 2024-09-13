@@ -431,6 +431,7 @@
 - [dlclark/regexp2](https://github.com/dlclark/regexp2) – A full-featured regex engine in pure Go based on the .NET engine
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
@@ -959,7 +960,7 @@
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard) 
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
