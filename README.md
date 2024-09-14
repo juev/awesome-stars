@@ -302,6 +302,7 @@
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) – GUI frontend for Delve
 - [abice/go-enum](https://github.com/abice/go-enum) – An enum generator for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
+- [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) – A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources 
 - [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) – gomonkey is a library to make monkey patching in unit tests easy
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) – Faster way to switch between clusters and namespaces in kubectl
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
@@ -327,6 +328,7 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) – Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+- [ardanlabs/conf](https://github.com/ardanlabs/conf) – Package conf provides support for using environmental variables and command line arguments for configuration.
 - [ariga/atlas](https://github.com/ariga/atlas) – Manage your database schema as code
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
@@ -499,6 +501,7 @@
 - [go-delve/delve](https://github.com/go-delve/delve) – Delve is a debugger for the Go programming language.
 - [go-echarts/statsview](https://github.com/go-echarts/statsview) – 🚀 A real-time Golang runtime stats visualization profiler
 - [go-faker/faker](https://github.com/go-faker/faker) – Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
+- [go-fed/activity](https://github.com/go-fed/activity) – ActivityStreams & ActivityPub in golang, oh my!
 - [go-fuego/fuego](https://github.com/go-fuego/fuego) – Golang Fuego - web framework generating OpenAPI 3 spec from source code
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -631,6 +634,7 @@
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) – Tools to use with the controller-runtime libraries
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) – 📦 Find and install kubectl plugins
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) – Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [kubernetes/code-generator](https://github.com/kubernetes/code-generator) – Generators for kube-like API types
