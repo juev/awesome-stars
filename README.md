@@ -987,6 +987,7 @@
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
+- [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet communities that pay you Bitcoin
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1140,7 +1141,6 @@
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) – Curated List of Privacy Respecting Services and Software
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) – Everything I know
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
@@ -1200,6 +1200,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [akhater/Lupin](https://github.com/akhater/Lupin)
+- [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
 - [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) – docker-compose for testing any-sync
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
@@ -1685,6 +1686,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) – All kinds of things
 
 <div id="wikitext"></div>
 
