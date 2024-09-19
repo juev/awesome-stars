@@ -219,6 +219,7 @@
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
@@ -412,6 +413,7 @@
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) – A Go OpenID Connect client.
 - [coroot/coroot](https://github.com/coroot/coroot) – Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.
+- [crawshaw/httpts](https://github.com/crawshaw/httpts) – Serve HTTP on a tailnet
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [cucumber/godog](https://github.com/cucumber/godog) – Cucumber for golang
