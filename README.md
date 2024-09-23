@@ -536,6 +536,7 @@
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
+- [gofrs/flock](https://github.com/gofrs/flock) – Thread-safe file locking library in Go
 - [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package for Go
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc) – [maintainer wanted] generates a web form gui from a grpc specification
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
@@ -879,7 +880,7 @@
 - [tomnomnom/fff](https://github.com/tomnomnom/fff) – The Fairly Fast Fetcher. Requests a bunch of URLs provided on stdin fairly quickly.
 - [trashhalo/reddit-rss](https://github.com/trashhalo/reddit-rss) – improved rss feed for reddit
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) – Manage your dotfiles across multiple diverse machines, securely.
-- [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) – Generate Go structs from multiple JSON objects.
+- [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) – Generate Go structs from multiple JSON or YAML objects.
 - [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
 - [uber-go/config](https://github.com/uber-go/config) – Configuration for Go applications
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
@@ -954,6 +955,8 @@
 ## Haskell
 
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
+- [gwern/archiver-bot](https://github.com/gwern/archiver-bot) – Background daemon which archives a list of URLs to the Internet Archive, archive.is, and other services
+- [gwern/gwern.net](https://github.com/gwern/gwern.net) – Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
 - [jgm/gitit](https://github.com/jgm/gitit) – A wiki using HAppS, pandoc, and git
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
@@ -1528,6 +1531,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) – Build mindmaps with plain text
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) – 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
