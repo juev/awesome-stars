@@ -279,6 +279,7 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) – Fluent SQL generation for golang
 - [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) – Bare metal to production ready in mins; your own fly server on your VPS.
 - [Mikescher/firefox-sync-client](https://github.com/Mikescher/firefox-sync-client) – A cli for firefox-sync (firefox bookmarks, passwords, account, ...)
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -1205,6 +1206,7 @@
 ## Python
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ByteMysticRogue/Hiddify-Warp](https://github.com/ByteMysticRogue/Hiddify-Warp) – Warp Sub - Updating Every 12 Hours!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -1368,6 +1370,7 @@
 - [dperson/openvpn-client](https://github.com/dperson/openvpn-client)
 - [dperson/torproxy](https://github.com/dperson/torproxy)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
+- [ecliptik/tailscale-privacy-frontends](https://github.com/ecliptik/tailscale-privacy-frontends) – Privacy Friendly Frontends With Tailscale
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [gaomd/docker-ikev2-vpn-server](https://github.com/gaomd/docker-ikev2-vpn-server) – IKEv2 VPN Server on Docker, with .mobileconfig for iOS & macOS.
@@ -1574,6 +1577,7 @@
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API management platform
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
+- [voideditor/void](https://github.com/voideditor/void)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) – Vim mode for VSCode, powered by Neovim
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) – Emacs Org Mode for Visual Studio Code
