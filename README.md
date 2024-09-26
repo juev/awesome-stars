@@ -893,7 +893,7 @@
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [urfave/cli](https://github.com/urfave/cli) – A simple, fast, and fun package for building command line apps in Go
-- [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1446,7 +1446,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
-- [moderato-app/approf](https://github.com/moderato-app/approf) – A native macOS app for pprof
+- [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – Your go-to app for VPN and privacy.
