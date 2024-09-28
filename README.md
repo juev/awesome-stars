@@ -216,8 +216,11 @@
 
 ## Emacs Lisp
 
+- [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) – A sensible base Emacs configuration.
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) – MinEmacs: an Emacs configuration framework for daily use
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
@@ -361,7 +364,6 @@
 - [bep/s3deploy](https://github.com/bep/s3deploy) – A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
 - [bep/simplecobra](https://github.com/bep/simplecobra) – A simpler API for the popular Cobra CLI.
 - [berty/weshnet](https://github.com/berty/weshnet) – Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) – The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
 - [blang/semver](https://github.com/blang/semver) – Semantic Versioning (semver) library written in golang
@@ -993,6 +995,7 @@
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [benjypng/firefox-extension-logseq-quickcapture](https://github.com/benjypng/firefox-extension-logseq-quickcapture) – firefox-extension-logseq-quickcapture
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) – The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – </> htmx - high power tools for HTML
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -1073,6 +1076,7 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) – Protect your data against global mass surveillance programs.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – 📚 Collaborative cheatsheets for console commands
 
 <div id="mdx"></div>
 
