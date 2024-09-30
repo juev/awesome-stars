@@ -1008,6 +1008,7 @@
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
+- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) – Deploy Revolt using Docker.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet communities that pay you Bitcoin
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1176,7 +1177,6 @@
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) – Awesome things about htmx
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) – Learn the Zig programming language by fixing tiny broken programs.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) – Deploy Revolt using Docker.
 - [rumyantseva/devenv](https://github.com/rumyantseva/devenv) – Configuration of my local development environment
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) – The docker-compose files for setting up a SearXNG instance with docker.
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
