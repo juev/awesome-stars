@@ -196,6 +196,7 @@
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – :calling: Docker image with 3proxy - Tiny free proxy server
 
@@ -1119,6 +1120,7 @@
 ## Others
 
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [BlockChainCaffe/Nostr-Relay-Setup-Guide](https://github.com/BlockChainCaffe/Nostr-Relay-Setup-Guide) – A complete step by step setup guide for Nostr relay based on nostr-rs-relay
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) – Links to darknet markets, vendor stores and darknet services on the Tor Network. All links verified by us.
 - [DeepWebOnion/darkweb-links](https://github.com/DeepWebOnion/darkweb-links) – Verified links to darknet markets and darkweb sites on the Tor Network
 - [EAimTY/tuic](https://github.com/EAimTY/tuic)
@@ -1142,6 +1144,7 @@
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) – In this repository we have collected all awesome tools for iranian people
+- [hzrd149/blossom](https://github.com/hzrd149/blossom) – Blobs stored simply on mediaservers
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [joplin/plugins](https://github.com/joplin/plugins) – Joplin official plugin repository
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
@@ -1164,6 +1167,7 @@
 - [nerd-one/VPN-OnDemand](https://github.com/nerd-one/VPN-OnDemand)
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) – Curated List of Privacy Respecting Services and Software
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) – 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) – Nostr Implementation Possibilities
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) – Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -1319,7 +1323,9 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
+- [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) – Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [sekey/sekey](https://github.com/sekey/sekey) – Use Touch ID / Secure Enclave for SSH Authentication!
+- [servuscms/servus](https://github.com/servuscms/servus) – Self-contained CMS, Personal Nostr Relay & Blossom server
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
@@ -1565,7 +1571,7 @@
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The knowledge hacker's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The knowledge tinkerer's notebook
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
