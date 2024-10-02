@@ -767,6 +767,7 @@
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) – Group peer to peer video calls for everyone written in Go and TypeScript
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
@@ -1136,6 +1137,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场 
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
+- [caisah/emacs.dz](https://github.com/caisah/emacs.dz) – Awesome emacs config files
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) – sing-box 配置示例
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
