@@ -1494,7 +1494,7 @@
 ## TypeScript
 
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) – Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – Elegant frontend and infrastructure for in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
@@ -1575,6 +1575,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The knowledge tinkerer's notebook
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sst/sst](https://github.com/sst/sst) – SST v2
@@ -1744,6 +1745,7 @@
 
 - [Vexu/routez](https://github.com/Vexu/routez) – Http server for Zig
 - [batiati/mustache-zig](https://github.com/batiati/mustache-zig) – Logic-less templates for Zig
+- [dee0xeed/learning-zig-rus](https://github.com/dee0xeed/learning-zig-rus) – Karl Seguin's "Learning Zig" in Russian
 - [drcode/zek](https://github.com/drcode/zek)
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) – AWS SDK for Zig. This is a readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig, although Issues/PRs are welcome!
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
