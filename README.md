@@ -257,7 +257,7 @@
 - [9seconds/mtg](https://github.com/9seconds/mtg) – Highly opinionated MTPROTO proxy for Telegram
 - [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) – Simple golang mitm proxy implementation
 - [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) – Design patterns in Golang
-- [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.
+- [Antonboom/errname](https://github.com/Antonboom/errname) – The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error` or `Errors`.
 - [Antonboom/nilnil](https://github.com/Antonboom/nilnil) – The Golang linter that checks that there is no simultaneous return of `nil` error and an invalid value.
 - [BooleanCat/option](https://github.com/BooleanCat/option) – Support user-friendly, type-safe optionals in Go.
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) – TOML parser for Golang with reflection.
