@@ -364,6 +364,7 @@
 - [bep/lazycache](https://github.com/bep/lazycache) – Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.
 - [bep/s3deploy](https://github.com/bep/s3deploy) – A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
 - [bep/simplecobra](https://github.com/bep/simplecobra) – A simpler API for the popular Cobra CLI.
+- [bepass-org/bepass](https://github.com/bepass-org/bepass) – A simple DPI bypass tool written in go
 - [berty/weshnet](https://github.com/berty/weshnet) – Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
@@ -868,6 +869,7 @@
 - [talostrading/sonic](https://github.com/talostrading/sonic) – Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 - [taubyte/tau](https://github.com/taubyte/tau) – Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
+- [tebeka/selenium](https://github.com/tebeka/selenium) – Selenium/Webdriver client for Go
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
