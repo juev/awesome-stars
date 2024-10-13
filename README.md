@@ -1285,8 +1285,8 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://www.merklemap.com/
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
@@ -1758,7 +1758,7 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open and introductory book for the Zig programming language (🚧 in construction 🚧)
+- [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open, technical and introductory book for the Zig programming language
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
