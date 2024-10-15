@@ -368,6 +368,7 @@
 - [berty/weshnet](https://github.com/berty/weshnet) – Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) – Go package implementing bitsets
+- [bjesus/pipet](https://github.com/bjesus/pipet) – Swiss-army tool for scraping and extracting data from online assets, made for hackers 
 - [blang/semver](https://github.com/blang/semver) – Semantic Versioning (semver) library written in golang
 - [bnb-chain/bsc](https://github.com/bnb-chain/bsc) – A BNB Smart Chain client based on the go-ethereum fork
 - [bojanz/currency](https://github.com/bojanz/currency) – Currency handling for Go.
@@ -376,7 +377,7 @@
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
-- [brimdata/zed](https://github.com/brimdata/zed) – A novel data lake based on super-structured data
+- [brimdata/super](https://github.com/brimdata/super) – A novel data lake based on super-structured data
 - [brunoga/deep](https://github.com/brunoga/deep) – Support for doing deep copies of (almost all) Go types.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
@@ -684,6 +685,7 @@
 - [magefile/mage](https://github.com/magefile/mage) – a Make/rake-like dev tool using Go
 - [mailru/easyjson](https://github.com/mailru/easyjson) – Fast JSON serializer for golang.
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) – GoCrack is a management frontend for password cracking tools written in Go
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) – HTML components in pure Go.
 - [maragudk/goqite](https://github.com/maragudk/goqite) – Go queue library built on SQLite and inspired by AWS SQS.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -1192,6 +1194,7 @@
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – A curated list of cryptography resources and links.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
+- [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) – Tips, Examples, and Resources for Writing with Emacs
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1293,6 +1296,7 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
+- [altsem/gitu](https://github.com/altsem/gitu) – A TUI Git client inspired by Magit
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
@@ -1488,6 +1492,7 @@
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) – :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [opieters/business-card](https://github.com/opieters/business-card) – A business card in LaTeX. 
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) – A template for writing your Bachelor, Master or PhD thesis.
+- [winitzki/sofp](https://github.com/winitzki/sofp) – A free book: "The Science of Functional Programming"
 
 <div id="text"></div>
 
