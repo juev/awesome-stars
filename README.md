@@ -218,6 +218,8 @@
 ## Emacs Lisp
 
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) – A sensible base Emacs configuration.
+- [abo-abo/hydra](https://github.com/abo-abo/hydra) – make Emacs bindings that stick around
+- [abo-abo/oremacs](https://github.com/abo-abo/oremacs) – My Emacs config
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) – MinEmacs: an Emacs configuration framework for daily use
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
