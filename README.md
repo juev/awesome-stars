@@ -458,6 +458,7 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
+- [dromara/carbon](https://github.com/dromara/carbon) – A simple, semantic and developer-friendly golang package for time
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) – 🧟 The modern PHP app server
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
@@ -550,7 +551,6 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) – The world’s fastest framework for building websites.
 - [gojuno/minimock](https://github.com/gojuno/minimock) – Powerful mock generation tool for Go programming language
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) – Database migrations. CLI and Golang library.
-- [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for time
 - [golang/go](https://github.com/golang/go) – The Go programming language
 - [golang/mock](https://github.com/golang/mock) – GoMock is a mocking framework for the Go programming language.
 - [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
