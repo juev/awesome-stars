@@ -1021,6 +1021,7 @@
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) – Deploy Revolt using Docker.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet communities that pay you Bitcoin
+- [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
