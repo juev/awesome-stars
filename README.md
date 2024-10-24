@@ -1058,6 +1058,7 @@
 
 ## Kotlin
 
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloud Flare scanner
 
 <div id="lua"></div>
@@ -1144,7 +1145,7 @@
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
-- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场 
+- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – Find the best VPN/proxy 免费 订阅 代理  账号 翻墙 科学上网 梯子 机场  
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) – Awesome emacs config files
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) – sing-box 配置示例
@@ -1466,7 +1467,7 @@
 ## Swift
 
 - [CleanCocoa/OpenAny](https://github.com/CleanCocoa/OpenAny) – macOS app and file launching springboard
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) – 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) – Window management made elegant.
@@ -1593,7 +1594,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The knowledge tinkerer's notebook
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
