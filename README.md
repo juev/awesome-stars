@@ -445,7 +445,7 @@
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) – Kubernetes platform from Flant
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
-- [destel/rill](https://github.com/destel/rill) – Go concurrency with channel transformations: a toolkit for streaming, batching, pipelines, and error handling
+- [destel/rill](https://github.com/destel/rill) – Go toolkit for clean, composable, channel-based concurrency
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
@@ -1071,6 +1071,7 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) – A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
@@ -1342,6 +1343,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) – Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
@@ -1391,6 +1393,7 @@
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 - [Nybkox/tmux-kanagawa](https://github.com/Nybkox/tmux-kanagawa) – 🌊 Dark theme for tmux 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+- [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) – Docker images for openvpn-as
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) – Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1681,6 +1684,7 @@
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8+ (and Neovim)
 - [kassio/neoterm](https://github.com/kassio/neoterm) – Wrapper of some vim/neovim's :terminal functions.
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
+- [ledger/vim-ledger](https://github.com/ledger/vim-ledger) – Vim plugin for Ledger
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) – :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
