@@ -575,6 +575,7 @@
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
+- [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
@@ -589,6 +590,7 @@
 - [hashicorp/mdns](https://github.com/hashicorp/mdns) – Simple mDNS client/server library in Golang
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
+- [helm/helm](https://github.com/helm/helm) – The Kubernetes Package Manager
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
@@ -959,6 +961,7 @@
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- [simonw/til](https://github.com/simonw/til) – Today I Learned
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) – A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) – magically playful, yet simple styling. all in one file.
@@ -1069,12 +1072,14 @@
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – A completion plugin for neovim coded in Lua.
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) – A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
 
 <div id="makefile"></div>
 
@@ -1348,7 +1353,7 @@
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) – Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [sekey/sekey](https://github.com/sekey/sekey) – Use Touch ID / Secure Enclave for SSH Authentication!
-- [servuscms/servus](https://github.com/servuscms/servus) – Self-contained CMS, Personal Nostr Relay & Blossom server
+- [servuscms/servus](https://github.com/servuscms/servus) – Minimalist social media server
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
