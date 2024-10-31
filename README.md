@@ -178,7 +178,7 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
-- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) – Calling Go Functions from Other Languages using C Shared Libraries
 
@@ -1257,7 +1257,7 @@
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal news aggregator and Mastodon client
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
@@ -1307,6 +1307,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
+- [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
@@ -1351,6 +1352,7 @@
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
+- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) – Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [sekey/sekey](https://github.com/sekey/sekey) – Use Touch ID / Secure Enclave for SSH Authentication!
 - [servuscms/servus](https://github.com/servuscms/servus) – Minimalist social media server
@@ -1476,6 +1478,8 @@
 ## Svelte
 
 - [0x2E/fusion](https://github.com/0x2E/fusion) – A lightweight, self-hosted friendly RSS aggregator and reader
+- [GoodiesHQ/headscale-admin](https://github.com/GoodiesHQ/headscale-admin) – Admin Web Interface for juanfont/headscale
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) – A web frontend for the headscale Tailscale-compatible coordination server
 - [serge-chat/serge](https://github.com/serge-chat/serge) – A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 <div id="swift"></div>
