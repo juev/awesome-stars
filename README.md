@@ -343,6 +343,7 @@
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
+- [anyproto/any-sync](https://github.com/anyproto/any-sync) – An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
@@ -380,7 +381,7 @@
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) – An alternative to stack traces for your Go errors
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
-- [brimdata/super](https://github.com/brimdata/super) – A novel data lake based on super-structured data
+- [brimdata/super](https://github.com/brimdata/super) – An analytics database that puts JSON and relational tables on equal footing
 - [brunoga/deep](https://github.com/brunoga/deep) – Support for doing deep copies of (almost all) Go types.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
@@ -391,6 +392,7 @@
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) – Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple, zero-dependencies library to parse environment variables into structs
+- [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) – Caddy module: dns.providers.cloudflare
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [casbin/casbin](https://github.com/casbin/casbin) – An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
@@ -1063,7 +1065,7 @@
 ## Kotlin
 
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
-- [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloud Flare scanner
+- [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloudflare scanner
 
 <div id="lua"></div>
 
