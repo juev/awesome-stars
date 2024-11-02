@@ -481,7 +481,7 @@
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Go implementation of the Ethereum protocol
 - [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
-- [facundoolano/jorge](https://github.com/facundoolano/jorge) – jorge is a personal site generator with org-mode support
+- [facundoolano/jorge](https://github.com/facundoolano/jorge) – A personal site generator with org-mode support
 - [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) – Fault tolerance and resilience patterns for Go
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) – tunnels to localhost and other ssh plumbing
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
