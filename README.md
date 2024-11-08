@@ -637,6 +637,7 @@
 - [joho/godotenv](https://github.com/joho/godotenv) – A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [josephburnett/jd](https://github.com/josephburnett/jd) – JSON diff and patch
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
+- [jsiebens/ionscale](https://github.com/jsiebens/ionscale) – A lightweight implementation of a Tailscale control server
 - [json-iterator/go](https://github.com/json-iterator/go) – A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [juev/counter](https://github.com/juev/counter)
@@ -786,7 +787,7 @@
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [picosh/git-pr](https://github.com/picosh/git-pr) – the easiest git collaboration tool
-- [picosh/pico](https://github.com/picosh/pico) – hacker labs - open source and managed web services leveraging SSH
+- [picosh/pico](https://github.com/picosh/pico) – services that empower developers using ssh
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
