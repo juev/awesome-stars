@@ -227,6 +227,7 @@
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
+- [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
@@ -350,6 +351,7 @@
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) – Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [ardanlabs/conf](https://github.com/ardanlabs/conf) – Package conf provides support for using environmental variables and command line arguments for configuration.
+- [ariary/Notionion](https://github.com/ariary/Notionion) – Notion as an HTTP proxy
 - [ariga/atlas](https://github.com/ariga/atlas) – Manage your database schema as code
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
@@ -861,6 +863,7 @@
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) – Code AI platform with Code Search & Cody
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) – Stateless cluster local OCI registry mirror.
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
 - [spf13/pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [spf13/viper](https://github.com/spf13/viper) – Go configuration with fangs
