@@ -461,6 +461,7 @@
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
+- [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
@@ -637,6 +638,7 @@
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) – Painless deployment of wireguard on kubernetes
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [joho/godotenv](https://github.com/joho/godotenv) – A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+- [joomcode/errorx](https://github.com/joomcode/errorx) – A comprehensive error handling library for Go
 - [josephburnett/jd](https://github.com/josephburnett/jd) – JSON diff and patch
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
 - [jsiebens/ionscale](https://github.com/jsiebens/ionscale) – A lightweight implementation of a Tailscale control server
