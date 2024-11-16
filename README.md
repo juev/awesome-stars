@@ -109,6 +109,7 @@
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
+- [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Transparent proxy server and traffic wrapper
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
@@ -567,6 +568,7 @@
 - [google/go-cmp](https://github.com/google/go-cmp) – Package for comparing Go values in tests
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [google/go-querystring](https://github.com/google/go-querystring) – go-querystring is Go library for encoding structs into URL query strings.
+- [google/go-safeweb](https://github.com/google/go-safeweb) – Secure-by-default HTTP servers in Go.
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
 - [google/martian](https://github.com/google/martian) – Martian is a library for building custom HTTP/S proxies
@@ -581,6 +583,7 @@
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
+- [grafana/k6](https://github.com/grafana/k6) – A modern load testing tool, using Go and JavaScript - https://k6.io
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
@@ -1030,6 +1033,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
+- [mellow-io/mellow](https://github.com/mellow-io/mellow) – Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
@@ -1234,6 +1238,7 @@
 
 ## PHP
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) – A free, self-hostable news aggregator…
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
