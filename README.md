@@ -1279,6 +1279,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -1448,7 +1449,6 @@
 - [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) – OSS-Fuzz - continuous fuzzing for open source software.
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) – A collection of configs for various VPN providers
-- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) – This script automates setting up proxy related tools in Linux.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) – Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) – Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
