@@ -581,6 +581,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
+- [gorilla/feeds](https://github.com/gorilla/feeds) – Package gorilla/feeds is a golang rss/atom generator library
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
 - [grafana/k6](https://github.com/grafana/k6) – A modern load testing tool, using Go and JavaScript - https://k6.io
