@@ -1272,7 +1272,6 @@
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
 - [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) – docker-compose for testing any-sync
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
@@ -1430,6 +1429,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) – Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) – WireGuard VPN installer for Linux servers
+- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) – docker-compose for testing any-sync
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
