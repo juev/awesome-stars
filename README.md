@@ -1024,6 +1024,7 @@
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) – The open source Zapier alternative. Build workflow automation without spending time and money.
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [benjypng/firefox-extension-logseq-quickcapture](https://github.com/benjypng/firefox-extension-logseq-quickcapture) – firefox-extension-logseq-quickcapture
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) – The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -1648,6 +1649,7 @@
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) – A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
+- [tale/headplane](https://github.com/tale/headplane) – An advanced UI for juanfont/headscale
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
