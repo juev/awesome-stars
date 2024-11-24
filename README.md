@@ -709,6 +709,7 @@
 - [maragudk/goqite](https://github.com/maragudk/goqite) – Go queue library built on SQLite and inspired by AWS SQS.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
+- [matryer/is](https://github.com/matryer/is) – Professional lightweight testing mini-framework for Go.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
 - [mattn/go-isatty](https://github.com/mattn/go-isatty)
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) – mastodon client for golang
@@ -737,6 +738,7 @@
 - [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+- [motemen/go-pocket](https://github.com/motemen/go-pocket) – Pocket (getpocket.com) API client for Go (golang).
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
