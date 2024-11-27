@@ -226,6 +226,7 @@
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) – MinEmacs: an Emacs configuration framework for daily use
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) – An unofficial Copilot plugin for Emacs.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
@@ -578,6 +579,7 @@
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) – Auto-generated Google APIs for Go.
 - [gookit/color](https://github.com/gookit/color) – 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
+- [gookit/slog](https://github.com/gookit/slog) – 📑 Lightweight, configurable, extensible logging library written in Go. Support multi level, multi outputs and built-in multi file logger, buffers, clean, rotate-file handling.一个易于使用的，轻量级、可配置、可扩展的日志库。支持多个级别，输出到多文件；内置文件日志处理、自动切割、清理、压缩等增强功能
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
@@ -946,6 +948,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [werf/kubedog](https://github.com/werf/kubedog) – Library to watch and follow kubernetes resources in CI/CD deploy pipelines
+- [werf/trdl](https://github.com/werf/trdl) – The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.
 - [werf/werf](https://github.com/werf/werf) – A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) – All-in-one go testing library
@@ -956,6 +959,7 @@
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) – An experiment in scalable routing as an encrypted IPv6 overlay network
 - [yhat/scrape](https://github.com/yhat/scrape) – A simple, higher level interface for Go web scraping.
+- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) – A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -1455,6 +1459,7 @@
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) – OSS-Fuzz - continuous fuzzing for open source software.
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) – OpenTelemetry backend in a Docker image
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) – A collection of configs for various VPN providers
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) – This script automates setting up proxy related tools in Linux.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) – Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
