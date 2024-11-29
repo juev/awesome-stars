@@ -1804,6 +1804,7 @@
 ## Vue
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [bjesus/teatime](https://github.com/bjesus/teatime) – A fully static distributed library system powered by IPFS, SQLite and GitHub 
 - [elk-zone/elk](https://github.com/elk-zone/elk) – A nimble Mastodon web client
 - [nikitavoloboev/data](https://github.com/nikitavoloboev/data) – All kinds of things
 
