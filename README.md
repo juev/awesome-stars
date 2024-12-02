@@ -678,6 +678,7 @@
 - [koding/kite](https://github.com/koding/kite) – Micro-service framework in Go
 - [koki-develop/gat](https://github.com/koki-develop/gat) – 🐱 cat alternative written in Go.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) – Reduces repetitive interactions with kubectl
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) – Tools to use with the controller-runtime libraries
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) – 📦 Find and install kubectl plugins
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) – Kubebuilder - SDK for building Kubernetes APIs using CRDs
