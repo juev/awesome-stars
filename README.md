@@ -905,6 +905,7 @@
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+- [thejerf/suture](https://github.com/thejerf/suture) – Supervisor trees for Go.
 - [things-go/go-socks5](https://github.com/things-go/go-socks5) – socks5 server in pure Golang with much custom optional. Full TCP/UDP and IPv4/IPv6 support. 
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1097,6 +1098,7 @@
 
 ## LUA
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
