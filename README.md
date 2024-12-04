@@ -447,6 +447,7 @@
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) – fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [darccio/mergo](https://github.com/darccio/mergo) – Mergo: merging Go structs and maps since 2013
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) – Implements a deep pretty printer for Go data structures to aid in debugging
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
