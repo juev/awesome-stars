@@ -145,6 +145,7 @@
 
 ## CSS
 
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [davidcava/shadowsocks-libev-dsm](https://github.com/davidcava/shadowsocks-libev-dsm) –  Synology DSM packages for Shadowsocks-libev.
@@ -1656,7 +1657,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – The knowledge tinkerer's notebook
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
