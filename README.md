@@ -231,6 +231,7 @@
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
+- [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) – Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
@@ -640,6 +641,7 @@
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) – An in-memory cache with item expiration and generics
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jessicatarra/refactoring-greenlight](https://github.com/jessicatarra/refactoring-greenlight) – Refactor Greenlight application by implementing clean architecture and SOLID principles
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
@@ -1100,15 +1102,19 @@
 
 ## LUA
 
+- [LazyVim/starter](https://github.com/LazyVim/starter) – Starter template for LazyVim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) – An interactive and powerful Git interface for Neovim, inspired by Magit
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) – 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – A completion plugin for neovim coded in Lua.
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) – A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
+- [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) – Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
@@ -1447,6 +1453,7 @@
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
