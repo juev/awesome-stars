@@ -104,8 +104,8 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [darkk/redsocks](https://github.com/darkk/redsocks) – transparent TCP-to-proxy redirector
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
-- [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) – A high-performance socks5 server for Unix (Linux/Android/BSD/macOS/iOS)
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) – A socks5 server for Unix (Linux/Android/BSD/macOS/iOS)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
@@ -1105,6 +1105,7 @@
 - [LazyVim/starter](https://github.com/LazyVim/starter) – Starter template for LazyVim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) – An interactive and powerful Git interface for Neovim, inspired by Magit
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) – The superior project management solution for neovim.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
