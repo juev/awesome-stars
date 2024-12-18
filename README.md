@@ -202,7 +202,7 @@
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Docker image with 3proxy - Tiny free proxy server
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) – 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 
 <div id="elixir"></div>
@@ -587,7 +587,7 @@
 - [gookit/color](https://github.com/gookit/color) – 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 - [gookit/slog](https://github.com/gookit/slog) – 📑 Lightweight, configurable, extensible logging library written in Go. Support multi level, multi outputs and built-in multi file logger, buffers, clean, rotate-file handling.一个易于使用的，轻量级、可配置、可扩展的日志库。支持多个级别，输出到多文件；内置文件日志处理、自动切割、清理、压缩等增强功能
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Release engineering, simplified
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
 - [gorilla/feeds](https://github.com/gorilla/feeds) – Package gorilla/feeds is a golang rss/atom generator library
@@ -1381,12 +1381,12 @@
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
-- [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
