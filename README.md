@@ -600,6 +600,7 @@
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
+- [h2337/rssnix](https://github.com/h2337/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [hacdias/webdav](https://github.com/hacdias/webdav) – A simple and standalone WebDAV server.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
@@ -637,7 +638,6 @@
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
 - [jackc/puddle](https://github.com/jackc/puddle) – Generic resource pool for Go
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
-- [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) – A Golang Job Scheduling Package.
 - [jaswdr/faker](https://github.com/jaswdr/faker) – :rocket: Ultimate fake data generator for Go with zero dependencies
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) – Generative Art in Go
