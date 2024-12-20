@@ -1335,6 +1335,7 @@
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 <div id="ruby"></div>
 
