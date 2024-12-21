@@ -471,7 +471,7 @@
 - [dolthub/swiss](https://github.com/dolthub/swiss) – Golang port of Abseil's SwissTable
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) – Go execution trace frontend
-- [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
+- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) – Hacker tools on Go (Golang)
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
@@ -491,7 +491,7 @@
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) – Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) – An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. 
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
-- [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
+- [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier https://docs.erigon.tech
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Go implementation of the Ethereum protocol
 - [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
@@ -796,7 +796,7 @@
 - [orijtech/structslop](https://github.com/orijtech/structslop) – structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
-- [ory/kratos](https://github.com/ory/kratos) – The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+- [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go. Runs best on Ory Network and available to self-host
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) – Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [palark/ovpn-admin](https://github.com/palark/ovpn-admin) – Simple web UI to manage OpenVPN users.
