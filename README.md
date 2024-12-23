@@ -942,6 +942,7 @@
 - [umputun/feed-master](https://github.com/umputun/feed-master) – Pulls multiple podcast feeds (RSS) and republishes as a common feed, properly sorted and podcast-client friendly.
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
+- [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A simple, fast, and fun package for building command line apps in Go
 - [usememos/memos](https://github.com/usememos/memos) – An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
