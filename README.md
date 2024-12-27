@@ -112,6 +112,7 @@
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
 - [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Transparent proxy server and traffic wrapper
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
+- [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) – OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
@@ -767,7 +768,6 @@
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
-- [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) – readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wazero
@@ -1345,6 +1345,7 @@
 
 ## Ruby
 
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) – A self hosted music streaming server
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) – Emacs Plus formulae for the Homebrew package manager
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) – A nice place to read on the web.
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1634,6 +1635,7 @@
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) – VS Code extension for Haskell, powered by haskell-language-server
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) – Open source monitoring and visualization UI for the TICK stack
