@@ -957,7 +957,7 @@
 - [versity/versitygw](https://github.com/versity/versitygw) – versity s3 gateway
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) – Playing around with Go 1.8 plugin system
 - [vladimirvivien/gosh](https://github.com/vladimirvivien/gosh) – Gosh -  a pluggable framework for building command shell programs
-- [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin, Lightning and Liquid cookings  
+- [vulpemventures/nigiri](https://github.com/vulpemventures/nigiri) – 🍣 A delicious docker box for special Bitcoin cookings
 - [wabarc/wayback](https://github.com/wabarc/wayback) – An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
@@ -1324,7 +1324,7 @@
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
-- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – ocserv installation and user web-panel management.
+- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – An easy-to-install solution for setting up OpenConnect VPN server (ocserv), with a web panel for managing users and user groups
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
@@ -1856,6 +1856,7 @@
 - [dee0xeed/learning-zig-rus](https://github.com/dee0xeed/learning-zig-rus) – Karl Seguin's "Learning Zig" in Russian
 - [drcode/zek](https://github.com/drcode/zek)
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) – AWS SDK for Zig. This is a readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig, although Issues/PRs are welcome!
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) – 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
