@@ -550,6 +550,7 @@
 - [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) – A mutation testing tool for Go.
 - [go-jet/jet](https://github.com/go-jet/jet) – Type safe SQL builder with code generation and automatic query result data mapping
 - [go-kit/kit](https://github.com/go-kit/kit) – A standard library for microservices.
+- [go-logr/logr](https://github.com/go-logr/logr) – A simple logging interface for Go
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) – Package macaron is a high productive and modular web framework in Go.
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram 
@@ -573,6 +574,7 @@
 - [golang/go](https://github.com/golang/go) – The Go programming language
 - [golang/mock](https://github.com/golang/mock) – GoMock is a mocking framework for the Go programming language.
 - [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [google/capslock](https://github.com/google/capslock)
 - [google/go-cmp](https://github.com/google/go-cmp) – Package for comparing Go values in tests
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
@@ -889,6 +891,7 @@
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) – Stateless cluster local OCI registry mirror.
 - [spf13/cast](https://github.com/spf13/cast) – safe and easy casting from one type to another in Go 
+- [spf13/cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions
 - [spf13/pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [spf13/viper](https://github.com/spf13/viper) – Go configuration with fangs
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
