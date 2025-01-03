@@ -652,6 +652,7 @@
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) – A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
+- [jinzhu/copier](https://github.com/jinzhu/copier) – Copier for golang, copy value from struct to struct and more
 - [jinzhu/now](https://github.com/jinzhu/now) – Now is a time toolkit for golang
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) – general purpose extensions to golang's database/sql
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) – Painless deployment of wireguard on kubernetes
