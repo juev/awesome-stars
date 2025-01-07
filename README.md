@@ -235,7 +235,7 @@
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) – Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
@@ -1116,7 +1116,7 @@
 
 - [LazyVim/starter](https://github.com/LazyVim/starter) – Starter template for LazyVim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) – An interactive and powerful Git interface for Neovim, inspired by Magit
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) – The superior project management solution for neovim.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
