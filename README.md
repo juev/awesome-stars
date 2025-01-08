@@ -180,7 +180,7 @@
 
 ## Dart
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) – The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
@@ -779,7 +779,6 @@
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) – Go tools, libraries and other code
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
@@ -1155,6 +1154,7 @@
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs)
 - [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
 
 <div id="nim"></div>
@@ -1639,7 +1639,7 @@
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
 - [haskell/actions](https://github.com/haskell/actions) – Github actions for Haskell CI
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) – VS Code extension for Haskell, powered by haskell-language-server
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
