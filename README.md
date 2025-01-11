@@ -554,6 +554,7 @@
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) – Package macaron is a high productive and modular web framework in Go.
 - [go-perf/go-perftuner](https://github.com/go-perf/go-perftuner) – Helper tool for manual Go code optimization.
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram 
+- [go-playground/validator](https://github.com/go-playground/validator) – :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) – Distributed mutual exclusion lock using Redis for Go
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
 - [go-rod/rod](https://github.com/go-rod/rod) – A Chrome DevTools Protocol driver for web automation and scraping.
@@ -670,6 +671,7 @@
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
+- [juev/sync](https://github.com/juev/sync) – Sync Pocket links to Linkding
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [julien040/gut](https://github.com/julien040/gut) – A beginner friendly porcelain for git
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
@@ -1121,10 +1123,12 @@
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) – 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+- [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) – Reliable Neotest adapter for running Go tests in Neovim.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – A completion plugin for neovim coded in Lua.
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) – A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) – An extensible framework for interacting with tests within NeoVim.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) – Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
@@ -1275,6 +1279,7 @@
 ## PHP
 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) – A free, self-hostable news aggregator…
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) – A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
@@ -1710,6 +1715,7 @@
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) – Customize your Zotero workflow.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) – A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
