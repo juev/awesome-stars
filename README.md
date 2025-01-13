@@ -1715,7 +1715,7 @@
 - [vv-vim/vv](https://github.com/vv-vim/vv) – Neovim client for macOS
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) – Customize your Zotero workflow.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) – A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) – Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
