@@ -916,7 +916,6 @@
 - [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) – A client implementation for the Tailscale HTTP API
 - [talostrading/sonic](https://github.com/talostrading/sonic) – Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 - [taubyte/tau](https://github.com/taubyte/tau) – Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
-- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [tebeka/selenium](https://github.com/tebeka/selenium) – Selenium/Webdriver client for Go
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) – A book about the internals of the Go programming language.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
@@ -1071,6 +1070,7 @@
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) – Deploy Revolt using Docker.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Internet communities that pay you Bitcoin
+- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -1413,6 +1413,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1680,7 +1681,6 @@
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) – Hosting read-only SQLite databases on static file hosters like Github Pages
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
