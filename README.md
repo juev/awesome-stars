@@ -133,7 +133,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 7.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 7.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
@@ -838,6 +838,7 @@
 - [qiniu/goc](https://github.com/qiniu/goc) – A Comprehensive Coverage Testing System for The Go Programming Language
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) – Learn Go with test-driven development
 - [qustavo/dotsql](https://github.com/qustavo/dotsql) – A Golang library for using SQL.
+- [r3labs/diff](https://github.com/r3labs/diff) – A library for diffing golang structures
 - [rakyll/golambda](https://github.com/rakyll/golambda) – AWS Lambda Go functions made easy...
 - [rakyll/goproxy-s3](https://github.com/rakyll/goproxy-s3) – Go proxy that serves from S3
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
