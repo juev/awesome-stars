@@ -192,6 +192,7 @@
 ## Dockerfile
 
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) – 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
+- [SoftEtherVPN/SoftetherVPN-docker](https://github.com/SoftEtherVPN/SoftetherVPN-docker)
 - [aminvakil/docker-ocserv](https://github.com/aminvakil/docker-ocserv) – OpenConnect VPN Server Docker
 - [angristan/feedbin-docker](https://github.com/angristan/feedbin-docker) – Self-host your own Feedbin RSS reader in Docker
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) – Squid in docker container based on Alpine Linux
