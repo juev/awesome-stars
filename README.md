@@ -559,7 +559,7 @@
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram 
 - [go-playground/validator](https://github.com/go-playground/validator) – :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) – Distributed mutual exclusion lock using Redis for Go
-- [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
+- [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP, REST, and SSE client library for Go
 - [go-rod/rod](https://github.com/go-rod/rod) – A Chrome DevTools Protocol driver for web automation and scraping.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
