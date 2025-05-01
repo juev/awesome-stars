@@ -210,7 +210,7 @@
 ## Elixir
 
 - [firezone/firezone](https://github.com/firezone/firezone) – Enterprise-ready zero-trust access platform built on WireGuard®.
-- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 <div id="elm"></div>
 
@@ -255,6 +255,7 @@
 
 ## Gherkin
 
+- [git-town/git-town](https://github.com/git-town/git-town) – Git branches made easy
 - [iphoting/ovpnmcgen.rb](https://github.com/iphoting/ovpnmcgen.rb) – An OpenVPN iOS Configuration Profile (.mobileconfig) Utility—Configures OpenVPN for use with VPN-on-Demand that are not exposed through Apple Configurator 2.
 
 <div id="go"></div>
@@ -540,7 +541,6 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
-- [git-town/git-town](https://github.com/git-town/git-town) – Git branches made easy
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) – 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
