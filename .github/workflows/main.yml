@@ -13,4 +13,5 @@ jobs:
       name: 🚀 Run Starred
       # env:
       #   GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      # run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      run: starred --username juev --repository awesome-stars --sort --message 'update stars'
