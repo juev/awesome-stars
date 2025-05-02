@@ -884,6 +884,7 @@
 - [samber/slog-echo](https://github.com/samber/slog-echo) – 🚨 Echo middleware for slog logger
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
+- [sanity-io/litter](https://github.com/sanity-io/litter) – Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
