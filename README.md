@@ -779,7 +779,7 @@
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
-- [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples for documentation, education and fun
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
@@ -1148,6 +1148,7 @@
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) – Reliable Neotest adapter for running Go tests in Neovim.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – A completion plugin for neovim coded in Lua.
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) – A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) – An extensible framework for interacting with tests within NeoVim.
@@ -1800,7 +1801,6 @@
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
-- [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) – OpenAI GPT-3 plugin for vim.
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
