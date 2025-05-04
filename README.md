@@ -689,6 +689,7 @@
 - [julien040/gut](https://github.com/julien040/gut) – A beginner friendly porcelain for git
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) – Lightweight Kubernetes
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -834,6 +835,7 @@
 - [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
+- [portainer/k2d](https://github.com/portainer/k2d) – Kubernetes to Docker translator
 - [posener/goaction](https://github.com/posener/goaction) – Write Github actions in Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) – 🧵 CLI tool for directly patching container images!
