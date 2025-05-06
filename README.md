@@ -243,6 +243,7 @@
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) – My GNU/Emacs configuration
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
 - [sachac/emacs-news](https://github.com/sachac/emacs-news) – Weekly Emacs news
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) – A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [xenodium/dotsies](https://github.com/xenodium/dotsies) – Dot files, Emacs config, etc
 
 <div id="erlang"></div>
