@@ -332,6 +332,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) – Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) – Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) – GUI frontend for Delve
@@ -750,7 +751,7 @@
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
-- [micro/micro](https://github.com/micro/micro) – A Go microservices toolkit
+- [micro/micro](https://github.com/micro/micro) – A microservices toolkit
 - [micromata/dave](https://github.com/micromata/dave) – A totally simple and very easy to configure stand alone webdav server
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
@@ -831,7 +832,7 @@
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [picosh/git-pr](https://github.com/picosh/git-pr) – A pastebin supercharged for git collaboration
-- [picosh/pico](https://github.com/picosh/pico) – services that empower developers using ssh
+- [picosh/pico](https://github.com/picosh/pico) – The ultimate ssh powered services for developers
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
