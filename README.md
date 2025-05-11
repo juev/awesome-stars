@@ -234,7 +234,7 @@
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) – Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - Starter-Kit with Better Emacs Defaults and Faster Startup
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
