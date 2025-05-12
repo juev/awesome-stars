@@ -228,6 +228,7 @@
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) – MinEmacs: an Emacs configuration framework for daily use
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [conao3/leaf.el](https://github.com/conao3/leaf.el) – Flexible, declarative, and modern init.el package configuration
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) – An unofficial Copilot plugin for Emacs.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) – An Emacs framework for the stubborn martian hacker
@@ -747,6 +748,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) – A distributed SQLite replicator built on top of NATS
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) – Decentralized VPN
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) – Writing kubernetes controllers can be simple
 - [mfridman/tparse](https://github.com/mfridman/tparse) – CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
@@ -1200,7 +1202,6 @@
 ## Nix
 
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
-- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
@@ -1423,6 +1424,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
