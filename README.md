@@ -543,7 +543,7 @@
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) – 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) – Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -1202,6 +1202,7 @@
 ## Nix
 
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
@@ -1424,7 +1425,6 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
