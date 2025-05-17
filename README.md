@@ -617,6 +617,7 @@
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [h2337/rssnix](https://github.com/h2337/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
+- [h2non/gock](https://github.com/h2non/gock) – HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽
 - [hacdias/webdav](https://github.com/hacdias/webdav) – A simple and standalone WebDAV server.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
 - [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
