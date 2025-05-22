@@ -1605,6 +1605,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
+- [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
 - [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
