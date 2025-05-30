@@ -1355,6 +1355,7 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
@@ -1685,7 +1686,6 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [docmost/docmost](https://github.com/docmost/docmost) – Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
