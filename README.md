@@ -1238,6 +1238,7 @@
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) – The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) – all of the workflows of n8n i could find (also from the site itself)
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
