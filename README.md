@@ -1665,6 +1665,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
+- [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
@@ -1755,7 +1756,6 @@
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [tale/headplane](https://github.com/tale/headplane) – A feature-complete Web UI for Headscale
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) – 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – open source background jobs and AI infrastructure
