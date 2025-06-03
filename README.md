@@ -578,6 +578,7 @@
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) – YAML support for the Go language
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) – Go Doctor - The Golang Refactoring Engine
+- [goforj/godump](https://github.com/goforj/godump) – A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [gofrs/flock](https://github.com/gofrs/flock) – Thread-safe file locking library in Go
 - [gofrs/uuid](https://github.com/gofrs/uuid) – A UUID package for Go
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc) – [maintainer wanted] generates a web form gui from a grpc specification
@@ -1454,6 +1455,7 @@
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
