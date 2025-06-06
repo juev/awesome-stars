@@ -235,10 +235,12 @@
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) – Help keeping ~/.config/emacs clean
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) – Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
+- [iocanel/emacs.d](https://github.com/iocanel/emacs.d) – My emacs setup
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
+- [karthink/gptel](https://github.com/karthink/gptel) – A simple LLM client for Emacs
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) – An Emacs major mode for Hledger
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) – My GNU/Emacs configuration
@@ -449,7 +451,7 @@
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) – A Go OpenID Connect client.
 - [coroot/coroot](https://github.com/coroot/coroot) – Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.
 - [crawshaw/httpts](https://github.com/crawshaw/httpts) – Serve HTTP on a tailnet
-- [crhuber/kelp](https://github.com/crhuber/kelp) – A simple alternative to homebrew for installing binary packages on MacOS written in Go.
+- [crhuber/kelp](https://github.com/crhuber/kelp) – A simple alternative to homebrew for installing binary packages on MacOS & Linux written in Go.
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [cucumber/godog](https://github.com/cucumber/godog) – Cucumber for golang
