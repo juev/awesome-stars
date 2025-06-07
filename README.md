@@ -490,7 +490,6 @@
 - [driftprogramming/pgxpoolmock](https://github.com/driftprogramming/pgxpoolmock) – pgx postgresql pool
 - [dromara/carbon](https://github.com/dromara/carbon) – A simple, semantic and developer-friendly  time  package for golang
 - [duke-git/lancet](https://github.com/duke-git/lancet) – A comprehensive, efficient, and reusable util function library of Go.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) – 🧟 The modern PHP app server
 - [dvcrn/maskedemail-cli](https://github.com/dvcrn/maskedemail-cli) – CLI to create fastmail masked emails
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) – Resiliency patterns for golang
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) – HTTP requests for Gophers
@@ -837,6 +836,7 @@
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [php/frankenphp](https://github.com/php/frankenphp) – 🧟 The modern PHP app server
 - [picosh/git-pr](https://github.com/picosh/git-pr) – A pastebin supercharged for git collaboration
 - [picosh/pico](https://github.com/picosh/pico) – The ultimate ssh powered services for developers
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
