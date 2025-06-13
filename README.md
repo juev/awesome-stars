@@ -965,6 +965,7 @@
 - [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) – Generate Go structs from multiple JSON or YAML objects.
 - [uber-go/atomic](https://github.com/uber-go/atomic) – Wrapper types for sync/atomic which enforce atomic access
 - [uber-go/config](https://github.com/uber-go/config) – Configuration for Go applications
+- [uber-go/fx](https://github.com/uber-go/fx) – A dependency injection based application framework for Go.
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
 - [uber-go/mock](https://github.com/uber-go/mock) – GoMock is a mocking framework for the Go programming language.
 - [uber-go/multierr](https://github.com/uber-go/multierr) – Combine one or more Go errors together
