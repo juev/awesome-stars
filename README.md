@@ -127,7 +127,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.4 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.4 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) – A fast and flexible keyboard launcher
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
@@ -461,7 +461,7 @@
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, light-weight, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, powerful, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -612,7 +612,7 @@
 - [gorilla/feeds](https://github.com/gorilla/feeds) – Package gorilla/feeds is a golang rss/atom generator library
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
-- [grafana/k6](https://github.com/grafana/k6) – A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) – A modern load testing tool, using Go and JavaScript
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
@@ -1094,7 +1094,7 @@
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) – a single-user bookmarking website designed to live on the Fediverse
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) – fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
