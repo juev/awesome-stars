@@ -127,7 +127,7 @@
 
 ## C++
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.4 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) – A fast and flexible keyboard launcher
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
@@ -461,7 +461,7 @@
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, powerful, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1235,6 +1235,7 @@
 ## Others
 
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [BlockChainCaffe/Nostr-Relay-Setup-Guide](https://github.com/BlockChainCaffe/Nostr-Relay-Setup-Guide) – A complete step by step setup guide for Nostr relay based on nostr-rs-relay
 - [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) – 小火箭规则🚀，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽（REJECT）规则，自动构建，每日更新
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) – Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -1443,6 +1444,7 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
+- [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [flox/flox](https://github.com/flox/flox) – Developer environments you can take with you
