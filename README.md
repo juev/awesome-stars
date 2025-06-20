@@ -612,6 +612,7 @@
 - [gorilla/feeds](https://github.com/gorilla/feeds) – Package gorilla/feeds is a golang rss/atom generator library
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
+- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) – 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [grafana/k6](https://github.com/grafana/k6) – A modern load testing tool, using Go and JavaScript
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) – mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
