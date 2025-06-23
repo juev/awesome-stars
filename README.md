@@ -244,6 +244,7 @@
 - [karthink/gptel](https://github.com/karthink/gptel) – A simple LLM client for Emacs
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) – An Emacs major mode for Hledger
+- [noctuid/general.el](https://github.com/noctuid/general.el) – More convenient key definitions in emacs
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) – My GNU/Emacs configuration
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) – An elisp package manager
 - [sachac/emacs-news](https://github.com/sachac/emacs-news) – Weekly Emacs news
@@ -818,6 +819,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
+- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
 - [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) – A management framework for extending Kubernetes with Operators
