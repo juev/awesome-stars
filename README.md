@@ -850,6 +850,7 @@
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [portainer/k2d](https://github.com/portainer/k2d) – Kubernetes to Docker translator
+- [portainer/kubesolo](https://github.com/portainer/kubesolo) – Ultra-lightweight Kubernetes
 - [posener/goaction](https://github.com/posener/goaction) – Write Github actions in Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) – 🧵 CLI tool for directly patching container images!
@@ -1681,7 +1682,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) – Build your personal knowledge base with Trilium Notes
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) – Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
