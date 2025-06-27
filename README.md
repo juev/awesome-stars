@@ -137,6 +137,7 @@
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) – Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) – Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) – Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) – Utility to convert between various subscription format
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) – An unidentifiable mechanism that helps you bypass GFW.
 - [zcash/zcash](https://github.com/zcash/zcash) – Zcash - Internet Money
 
@@ -859,6 +860,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) – Exporter for Consul metrics
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) – Push docker images directly to remote servers without an external registry
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1496,7 +1498,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Turso Database is a project to build the next evolution of SQLite.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
