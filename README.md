@@ -319,6 +319,7 @@
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) – Go implementation of Fowler's Money pattern
 - [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) – 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
+- [SagerNet/sing-geoip](https://github.com/SagerNet/sing-geoip) – GeoIP database and rule sets for sing-box.
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) – The swiss army knife of live data migrations
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) – :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
@@ -358,6 +359,7 @@
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) – Tailscale Docker Proxy
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
@@ -1498,7 +1500,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso Database is a project to build the next evolution of SQLite.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
