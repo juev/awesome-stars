@@ -1105,6 +1105,7 @@
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) – a single-user bookmarking website designed to live on the Fediverse
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) – ZeroTier network controller UI
@@ -1375,7 +1376,6 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
@@ -1411,7 +1411,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) – Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) – [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -1714,6 +1714,7 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [docmost/docmost](https://github.com/docmost/docmost) – Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
