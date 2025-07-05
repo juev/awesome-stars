@@ -1039,6 +1039,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) – all of the workflows of n8n i could find (also from the site itself)
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -1367,7 +1368,6 @@
 - [UPB-SysSec/DPYProxy](https://github.com/UPB-SysSec/DPYProxy) – Python Proxy that implements DPI evasion mechanisms 
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) – Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) – all of the workflows of n8n i could find (also from the site itself)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
@@ -1633,6 +1633,7 @@
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
+- [kickingvegas/scrim](https://github.com/kickingvegas/scrim) – An Org Protocol Proxy for Emacs on macOS.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
