@@ -134,6 +134,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) – The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
+- [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) – A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) – Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) – Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) – Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
@@ -475,7 +476,7 @@
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) – Implements a deep pretty printer for Go data structures to aid in debugging
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
-- [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
+- [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) – Kubernetes platform from Flant
 - [deckhouse/dmt](https://github.com/deckhouse/dmt)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) – Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption
@@ -935,6 +936,7 @@
 - [spf13/viper](https://github.com/spf13/viper) – Go configuration with fangs
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
+- [sst/opencode](https://github.com/sst/opencode) – AI coding agent, built for the terminal.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
@@ -1634,7 +1636,6 @@
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
-- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) – bluetooth mesh chat, IRC vibes
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [kickingvegas/scrim](https://github.com/kickingvegas/scrim) – An Org Protocol Proxy for Emacs on macOS.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
@@ -1644,6 +1645,7 @@
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – Your go-to app for VPN and privacy.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) – bluetooth mesh chat, IRC vibes
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) – Securely synchronize files with your devices on iOS using Syncthing
 - [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
