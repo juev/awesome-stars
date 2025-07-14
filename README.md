@@ -800,7 +800,7 @@
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples
-- [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
+- [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQL
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
