@@ -1029,7 +1029,7 @@
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) – An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – The Airgap Native Packager Manager for Kubernetes
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zk-org/zk](https://github.com/zk-org/zk) – A plain text note-taking assistant
