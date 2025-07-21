@@ -203,7 +203,6 @@
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Docker image with 3proxy - Tiny free proxy server
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) – 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 
@@ -1590,6 +1589,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) – Apps/CLIs/configs I use on macOS/iOS
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
@@ -1788,7 +1788,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – The open source Sourcegraph alternative. Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
