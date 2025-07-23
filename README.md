@@ -224,6 +224,7 @@
 ## Emacs Lisp
 
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) – A Pure Emacs (no external packages) IDE like configuration.
+- [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) – A starting point for Gnu Emacs with good defaults and packages that most people may want to use.
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) – A sensible base Emacs configuration.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) – make Emacs bindings that stick around
 - [abo-abo/oremacs](https://github.com/abo-abo/oremacs) – My Emacs config
@@ -1791,6 +1792,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
@@ -1803,7 +1805,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – open source background jobs and AI infrastructure
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – Open source API management platform
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
 - [voideditor/void](https://github.com/voideditor/void)
