@@ -469,7 +469,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A feature-full workflow engine for enterprise & small teams. Low-code and language agnostic, making it easy to integrate with any existing software.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A dead simple but feature-full workflow engine for enterprise. Low-code and language agnostic, making it easy to integrate with any existing software.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -656,7 +656,7 @@
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) – Fast key-value DB in Go.
 - [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) – A high performance memory-bound Go cache
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
-- [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history from the command line.
+- [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history  across all browsers from the command line.
 - [icio/actiongraph](https://github.com/icio/actiongraph) – Go build actiongraph debug visualiser.
 - [icyphox/go-vite](https://github.com/icyphox/go-vite) – fast static site generator; powers https://anirudh.fi
 - [icyphox/legit](https://github.com/icyphox/legit) – web frontend for git
@@ -1789,13 +1789,14 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot gives you a powerful interface to search though all your repos and branches across multiple code hosts.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
+- [stravu/crystal](https://github.com/stravu/crystal) – Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) – A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [tale/headplane](https://github.com/tale/headplane) – A feature-complete Web UI for Headscale
