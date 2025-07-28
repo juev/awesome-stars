@@ -1767,6 +1767,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nikitavoloboev/ui](https://github.com/nikitavoloboev/ui) – React components
