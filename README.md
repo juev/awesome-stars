@@ -729,7 +729,7 @@
 - [kubernetes/code-generator](https://github.com/kubernetes/code-generator) – Generators for kube-like API types
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
-- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) – Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
+- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) – Install Kubernetes/K3s, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 - [kyoh86/richgo](https://github.com/kyoh86/richgo) – Enrich `go test` outputs with text decorations.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
@@ -1053,6 +1053,7 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
+- [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [siddhantgoel/awesome-beancount](https://github.com/siddhantgoel/awesome-beancount) – Awesome Beancount Resources
@@ -1111,7 +1112,6 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) – a single-user bookmarking website designed to live on the Fediverse
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) – Claude Code Subagents Collection
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1530,7 +1530,6 @@
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) – 🦊 I respect proton UI and aim to improve it.
-- [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 
 <div id="shell"></div>
 
@@ -1731,6 +1730,7 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) – Claude Code Subagents & Commands Collection
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
