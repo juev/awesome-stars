@@ -766,6 +766,7 @@
 - [mfridman/tparse](https://github.com/mfridman/tparse) – CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) – A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.
+- [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) – WebDAV handler module for Caddy
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [micro/micro](https://github.com/micro/micro) – A microservices toolkit
 - [micromata/dave](https://github.com/micromata/dave) – A totally simple and very easy to configure stand alone webdav server
@@ -1126,6 +1127,7 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Trying to fix online communities with economics
+- [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) – Claude Code as one-shot MCP server to have an agent in your agent.
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
