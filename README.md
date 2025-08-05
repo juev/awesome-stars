@@ -198,6 +198,7 @@
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
+- [juev/caddy](https://github.com/juev/caddy)
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
@@ -1726,7 +1727,7 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) – Claude Code Subagents & Commands Collection
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) – Claude Code Subagents & Commands Collection + CLI Tool
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
