@@ -1585,6 +1585,7 @@
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
+- [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) – Apps/CLIs/configs I use on macOS/iOS
