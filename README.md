@@ -801,6 +801,7 @@
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
 - [nalgeon/be](https://github.com/nalgeon/be) – Minimal test assertions in Go
+- [nalgeon/chans](https://github.com/nalgeon/chans) – Building blocks for idiomatic Go pipelines
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQL
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
@@ -912,7 +913,7 @@
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [sanity-io/litter](https://github.com/sanity-io/litter) – Litter is a pretty printer library for Go data structures to aid in debugging and testing.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 - [segmentio/golines](https://github.com/segmentio/golines) – A golang formatter that fixes long lines
@@ -939,7 +940,6 @@
 - [spf13/viper](https://github.com/spf13/viper) – Go configuration with fangs
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
-- [sst/opencode](https://github.com/sst/opencode) – AI coding agent, built for the terminal.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
@@ -1382,6 +1382,7 @@
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
+- [denizsafak/abogen](https://github.com/denizsafak/abogen) – Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
@@ -1442,7 +1443,7 @@
 ## Rust
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
-- [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://www.merklemap.com/
+- [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -1649,6 +1650,7 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
+- [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) – The *faster than your launcher* launcher
 - [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
@@ -1704,6 +1706,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – qwen-code is a coding agent that lives in digital world.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
@@ -1798,6 +1801,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [sst/opencode](https://github.com/sst/opencode) – AI coding agent, built for the terminal.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
