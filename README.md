@@ -1056,6 +1056,7 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
+- [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
