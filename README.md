@@ -1414,6 +1414,7 @@
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
+- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) – Curated list of awesome Cursor Rules .mdc files
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/llm-gguf](https://github.com/simonw/llm-gguf) – Run models distributed as GGUF files using LLM
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -1740,6 +1741,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) – Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -1768,7 +1770,6 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
 - [markmap/markmap](https://github.com/markmap/markmap) – Build mindmaps with plain text
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) – Firefox extension for managing tabs and bookmarks in sidebar.
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) – 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
