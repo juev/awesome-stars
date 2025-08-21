@@ -58,6 +58,7 @@
 - [Vue](#vue)
 - [WikiText](#wikitext)
 - [Wren](#wren)
+- [Yaml](#yaml)
 - [Zig](#zig)
 
 
@@ -381,7 +382,7 @@
 - [ardanlabs/conf](https://github.com/ardanlabs/conf) – Package conf provides support for using environmental variables and command line arguments for configuration.
 - [ariary/Notionion](https://github.com/ariary/Notionion) – Notion as an HTTP proxy
 - [ariga/atlas](https://github.com/ariga/atlas) – Manage your database schema as code
-- [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise Go runtime metrics in real time
 - [armon/go-socks5](https://github.com/armon/go-socks5) – SOCKS5 server in Golang
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) – [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) – Go linter for forbidding identifiers
@@ -456,7 +457,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) – A Go OpenID Connect client.
-- [coroot/coroot](https://github.com/coroot/coroot) – Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.
+- [coroot/coroot](https://github.com/coroot/coroot) – Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.
 - [crawshaw/httpts](https://github.com/crawshaw/httpts) – Serve HTTP on a tailnet
 - [crhuber/kelp](https://github.com/crhuber/kelp) – A simple alternative to homebrew for installing binary packages on MacOS & Linux written in Go.
 - [cristalhq/glob](https://github.com/cristalhq/glob) – Glob pattern matching in Go.
@@ -1480,7 +1481,6 @@
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
-- [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
@@ -1658,7 +1658,6 @@
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – Your go-to app for VPN and privacy.
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) – bluetooth mesh chat, IRC vibes
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) – Securely synchronize files with your devices on iOS using Syncthing
 - [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
@@ -1970,6 +1969,12 @@
 ## Wren
 
 - [wren-lang/wren](https://github.com/wren-lang/wren) – The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
+
+<div id="yaml"></div>
+
+## Yaml
+
+- [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 
 <div id="zig"></div>
 
