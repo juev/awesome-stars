@@ -103,7 +103,7 @@
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
-- [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Transparent proxy server and traffic wrapper
+- [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Transparent SOCKS5/4, HTTP, and SSH proxy server and client for macOS, Linux, FreeBSD, and Windows with WSL2
 - [mity/md4c](https://github.com/mity/md4c) – C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
@@ -469,7 +469,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A workflow orchestration engine that works on your local. It's for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts on a schedule.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A local-first workflow orchestration engine with single binary & Web UI. It can run arbitrary workflows defined in a simple YAML format. It can run scripts, containers, and remote commands via SSH.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1744,7 +1744,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
