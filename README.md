@@ -469,7 +469,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A local-first workflow orchestration engine with single binary & Web UI. It can run arbitrary workflows defined in a simple YAML format. It can run scripts, containers, and remote commands via SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – ⚡ Universal Workflow Orchestration Platform Built for Simplicity and Power — Execute any command, scripts, run anywhere. No complex infrastructure. For data infrastructure, and AI automation.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1380,6 +1380,7 @@
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
 - [amalshaji/portr](https://github.com/amalshaji/portr) – Expose local http, tcp or websocket connections to the public internet
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
@@ -1795,6 +1796,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) – A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
