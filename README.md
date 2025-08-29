@@ -469,7 +469,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A lightweight workflow engine packaged in a single binary, with a modern Web UI. Workflows are defined in a simple, declarative YAML format and can be executed on schedule. It supports shell commands, remote execution via SSH, and Docker images. Lightweight alternative to Airflow & Cron.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Lightweight, powerful workflow engine with Web UI.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1174,7 +1174,6 @@
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) – An interactive and powerful Git interface for Neovim, inspired by Magit
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) – The superior project management solution for neovim.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) – Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) – 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -1185,6 +1184,7 @@
 - [jessfraz/.vim](https://github.com/jessfraz/.vim) – My .vim dotfiles and configurations.
 - [luakit/luakit](https://github.com/luakit/luakit) – Fast, small, webkit based browser framework extensible by Lua.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) – A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) – Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) – An extensible framework for interacting with tests within NeoVim.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) – Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -1491,7 +1491,7 @@
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Self-hosted plaform for secure execution of untrusted user/AI code
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
