@@ -1745,7 +1745,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
