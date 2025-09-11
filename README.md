@@ -470,7 +470,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A lightweight and powerful workflow engine with a Web UI that makes workflow execution and management simple.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A powerful Cron alternative with a Web UI. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively supports running Docker containers, making HTTP requests, and executing commands over SSH.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1048,7 +1048,7 @@
 
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard) 
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) 
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) – all of the workflows of n8n i could find (also from the site itself)
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) – Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
@@ -1389,7 +1389,7 @@
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) – Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) – RSS + Mastodon feed reader
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome commands, files, and workflows for Claude Code
@@ -1543,6 +1543,7 @@
 - [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) – Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
+- [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) – State of Linux on the MacBook Pro 2016 & 2017
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) – Dockerfile for LanguageTool server - configurable
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) – A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [HirbodBehnam/Shadowsocks-Cloak-Installer](https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer) – A one-key script to setup Cloak plugin with Shadowsocks on your server
