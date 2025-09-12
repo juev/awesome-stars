@@ -1297,6 +1297,7 @@
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
 - [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
+- [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) – A curated list of static web site generators.
@@ -1310,7 +1311,6 @@
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) – a truly censorship-resistant alternative to Twitter that has a chance of working
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) – Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-- [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) – A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
