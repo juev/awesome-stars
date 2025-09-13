@@ -479,7 +479,6 @@
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
-- [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) – Kubernetes platform from Flant
 - [deckhouse/dmt](https://github.com/deckhouse/dmt)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) – Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption
 - [derailed/k9s](https://github.com/derailed/k9s) – 🐶 Kubernetes CLI To Manage Your Clusters In Style!
