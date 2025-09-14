@@ -1656,7 +1656,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [kickingvegas/scrim](https://github.com/kickingvegas/scrim) – An Org Protocol Proxy for Emacs on macOS.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Protect your SSH keys with your Mac's Secure Enclave
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) – The *faster than your launcher* launcher
 - [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
