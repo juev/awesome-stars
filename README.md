@@ -470,7 +470,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A powerful Cron alternative with a Web UI. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively supports running Docker containers, making HTTP requests, and executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Lightweight Workflow Engine Alternative to Airflow & Cron. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively supports running containers, making HTTP requests, and executing commands over SSH.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -688,7 +688,6 @@
 - [jinzhu/now](https://github.com/jinzhu/now) – Now is a time toolkit for golang
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) – Generate type-safe Go converters by defining function signatures.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) – general purpose extensions to golang's database/sql
-- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) – Painless deployment of wireguard on kubernetes
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [joho/godotenv](https://github.com/joho/godotenv) – A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [joomcode/errorx](https://github.com/joomcode/errorx) – A comprehensive error handling library for Go
@@ -709,6 +708,7 @@
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) – Lightweight Kubernetes
+- [k8s-essentials/wireguard-operator](https://github.com/k8s-essentials/wireguard-operator) – Painless deployment of wireguard on kubernetes
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
