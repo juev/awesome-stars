@@ -33,6 +33,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mdx](#mdx)
+- [Moonbit](#moonbit)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -479,7 +480,6 @@
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
-- [deckhouse/dmt](https://github.com/deckhouse/dmt)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) – Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption
 - [derailed/k9s](https://github.com/derailed/k9s) – 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) – Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.
@@ -942,7 +942,6 @@
 - [spf13/viper](https://github.com/spf13/viper) – Go configuration with fangs
 - [spyzhov/ajson](https://github.com/spyzhov/ajson) – Abstract JSON for Golang with JSONPath support 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) – Generate type-safe code from SQL
-- [sst/opencode](https://github.com/sst/opencode) – AI coding agent, built for the terminal.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
@@ -1221,6 +1220,12 @@
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) – Personal website, docs, tools
 - [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
 
+<div id="moonbit"></div>
+
+## Moonbit
+
+- [nikitavoloboev/moonbit](https://github.com/nikitavoloboev/moonbit) – MoonBit tools, libraries and other code
+
 <div id="nim"></div>
 
 ## Nim
@@ -1457,6 +1462,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [altsem/gitu](https://github.com/altsem/gitu) – A TUI Git client inspired by Magit
@@ -1598,7 +1604,7 @@
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) – Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) – Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
@@ -1782,7 +1788,6 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [nikitavoloboev/ui](https://github.com/nikitavoloboev/ui) – React components
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
@@ -1810,6 +1815,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [sst/opencode](https://github.com/sst/opencode) – AI coding agent, built for the terminal.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
