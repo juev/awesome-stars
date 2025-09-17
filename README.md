@@ -948,7 +948,7 @@
 - [stretchr/objx](https://github.com/stretchr/objx) – Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) – Wireshark for Docker containers
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) – Network inspector for your backend
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
@@ -1189,7 +1189,7 @@
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) – An extensible framework for interacting with tests within NeoVim.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) – A file explorer tree for neovim written in lua
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) – Edit and review GitHub issues and pull requests from the comfort of your favorite editor
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
 
@@ -1753,7 +1753,6 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
@@ -1841,6 +1840,7 @@
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) – Customize your Zotero workflow.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) – Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
+- [winfunc/opcode](https://github.com/winfunc/opcode) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) – Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
