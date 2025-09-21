@@ -131,6 +131,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) –  🛡 I2P: End-to-End encrypted and anonymous Internet
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) – A fast and flexible keyboard launcher
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
+- [freelan-developers/freelan](https://github.com/freelan-developers/freelan) – The main freelan repository.
 - [jank-lang/jank](https://github.com/jank-lang/jank) – The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
@@ -545,7 +546,7 @@
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
-- [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) – OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
@@ -554,7 +555,7 @@
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) – Request ID middleware for Gin Framework
 - [gin-contrib/sessions](https://github.com/gin-contrib/sessions) – Gin middleware for session management
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) – Alternative logging through zap
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
