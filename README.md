@@ -1417,6 +1417,7 @@
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – An easy-to-install solution for setting up OpenConnect VPN server (ocserv), with a web panel for managing users and user groups
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
