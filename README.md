@@ -901,7 +901,7 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
@@ -1821,7 +1821,7 @@
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
-- [stravu/crystal](https://github.com/stravu/crystal) – Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [stravu/crystal](https://github.com/stravu/crystal) – Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) – A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
 - [tale/headplane](https://github.com/tale/headplane) – A feature-complete Web UI for Headscale
