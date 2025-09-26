@@ -1158,6 +1158,7 @@
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) – Neural Networks: Zero to Hero
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) – 🦜🔗 Build context-aware reasoning applications
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) – A simple screen parsing tool towards pure vision based GUI agent
 - [mlarocca/AlgorithmsAndDataStructuresInAction](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) – Advanced Data Structures Implementation
 
@@ -1510,6 +1511,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
+- [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
