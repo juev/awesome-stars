@@ -1381,6 +1381,7 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) – Proxy over your Docker socket to restrict which requests it accepts
 - [Textualize/toolong](https://github.com/Textualize/toolong) – A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -1530,6 +1531,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
+- [sigoden/aichat](https://github.com/sigoden/aichat) – All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -1675,7 +1677,7 @@
 - [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) – Your go-to app for VPN and privacy.
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) – Your go-to app for VPN and privacy.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) – Securely synchronize files with your devices on iOS using Syncthing
 - [quoid/userscripts](https://github.com/quoid/userscripts) – An open-source userscript manager for Safari
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) – Next Generation of ShadowsocksX
@@ -1849,6 +1851,7 @@
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) – Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [winfunc/opcode](https://github.com/winfunc/opcode) – A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [ymichael/open-codex](https://github.com/ymichael/open-codex) – Lightweight coding agent that runs in your terminal
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) – Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
