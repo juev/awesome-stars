@@ -33,7 +33,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mdx](#mdx)
-- [Moonbit](#moonbit)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -472,7 +471,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Lightweight Workflow Engine Alternative to Airflow & Cron. It natively supports running containers and executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Lightweight and powerful workflow engine alternative to Airflow & Cron. Single binary with Web UI. It natively supports running containers and executing commands over SSH.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -818,6 +817,7 @@
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) – Translate your Go program into multiple languages.
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) – Go tools, libraries and other code
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
@@ -1224,12 +1224,6 @@
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) – Personal website, docs, tools
 - [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
-
-<div id="moonbit"></div>
-
-## Moonbit
-
-- [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) – MoonBit tools, libraries and other code
 
 <div id="nim"></div>
 
