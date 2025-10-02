@@ -824,7 +824,7 @@
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) – yet another rss reader
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [octelium/octelium](https://github.com/octelium/octelium) – A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
+- [octelium/octelium](https://github.com/octelium/octelium) – A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
@@ -1712,6 +1712,7 @@
 ## TypeScript
 
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) – Supercharge your Obsidian note-taking through AI-powered insights and suggestions
+- [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) – WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
@@ -1719,6 +1720,7 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) – Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
@@ -1789,6 +1791,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+- [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
