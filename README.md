@@ -1501,7 +1501,7 @@
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -1531,7 +1531,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
