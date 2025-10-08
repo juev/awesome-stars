@@ -817,7 +817,6 @@
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) – Translate your Go program into multiple languages.
-- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) – Do things fast
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
@@ -1128,12 +1127,12 @@
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) – DNS over HTTPS config profiles for iOS & macOS
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) – Instructions and resources to deploy Revolt using Docker.
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Trying to fix online communities with economics
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) – Claude Code as one-shot MCP server to have an agent in your agent.
+- [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) – Deploy Stoat on your own infrastructure!
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
@@ -1796,6 +1795,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) – Do things fast
 - [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) – Place to share & store what you use
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
@@ -1907,7 +1907,7 @@
 - [k-takata/minpac](https://github.com/k-takata/minpac) – A minimal package manager for Vim 8+ (and Neovim)
 - [kassio/neoterm](https://github.com/kassio/neoterm) – Wrapper of some vim/neovim's :terminal functions.
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) – Plugin to toggle, display and navigate marks
-- [ledger/vim-ledger](https://github.com/ledger/vim-ledger) – Vim plugin for Ledger
+- [ledger/vim-ledger](https://github.com/ledger/vim-ledger) – Vim plugin for Ledger / Hledger
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) – Optimized Solarized colorschemes. Best served with true-color terminals!
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) – :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) – :tulip: Vim plugin that shows keybindings in popup
