@@ -951,7 +951,6 @@
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) – Network inspector for your backend
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) – High performance JSON decoder in Go
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) – Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) – A highly experimental exploration of integrating Tailscale and Caddy.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
@@ -1425,6 +1424,7 @@
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) – Curated list of awesome Cursor Rules .mdc files
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [simonw/datasette](https://github.com/simonw/datasette) – An open source multi-tool for exploring and publishing data
 - [simonw/llm-gguf](https://github.com/simonw/llm-gguf) – Run models distributed as GGUF files using LLM
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
