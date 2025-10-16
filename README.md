@@ -1425,6 +1425,7 @@
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) – Curated list of awesome Cursor Rules .mdc files
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/datasette](https://github.com/simonw/datasette) – An open source multi-tool for exploring and publishing data
+- [simonw/llm](https://github.com/simonw/llm) – Access large language models from the command-line
 - [simonw/llm-gguf](https://github.com/simonw/llm-gguf) – Run models distributed as GGUF files using LLM
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
