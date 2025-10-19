@@ -486,6 +486,7 @@
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) – Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
 - [destel/rill](https://github.com/destel/rill) – Go toolkit for clean, composable, channel-based concurrency
+- [devops-land/wireguard-operator](https://github.com/devops-land/wireguard-operator) – Painless deployment of wireguard on kubernetes
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
@@ -711,7 +712,6 @@
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) – Lightweight Kubernetes
-- [k8s-essentials/wireguard-operator](https://github.com/k8s-essentials/wireguard-operator) – Painless deployment of wireguard on kubernetes
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
