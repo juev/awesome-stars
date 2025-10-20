@@ -1156,6 +1156,7 @@
 ## Jupyter Notebook
 
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) – felixge's notes on the various go profiling methods that are available.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) – A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) – Anthropic's Interactive Prompt Engineering Tutorial
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) – Pre-crisis Risk Management for Personal Finance
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) – Neural Networks: Zero to Hero
@@ -1266,6 +1267,7 @@
 - [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) – MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) – Practical Ethical Hacking Labs 🗡🛡
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) – Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [YubicoLabs/sign-git-commits-yubikey](https://github.com/YubicoLabs/sign-git-commits-yubikey) – Sign git commits with a YubiKey
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) – The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
@@ -1334,6 +1336,7 @@
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) – Tips, Examples, and Resources for Writing with Emacs
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) – Delicately-TUICed 0-RTT proxy protocol
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) – A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -1502,6 +1505,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
+- [katanemo/archgw](https://github.com/katanemo/archgw) – The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
