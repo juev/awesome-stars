@@ -637,7 +637,7 @@
 - [h2337/rssnix](https://github.com/h2337/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [h2non/gock](https://github.com/h2non/gock) – HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽
 - [hacdias/webdav](https://github.com/hacdias/webdav) – A simple and standalone WebDAV server.
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game engine for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – A dead simple 2D game engine for Go
 - [haochen233/socks5](https://github.com/haochen233/socks5) – A Go library about socks5, supports all socks5 commands. That Provides server and client and easy to use. Compatible with socks4 and socks4a.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog) – A common logging package for HashiCorp tools
@@ -1673,6 +1673,7 @@
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) – Window management made elegant.
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) – An ultra-light MacOS utility that helps hide menu bar icons
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
