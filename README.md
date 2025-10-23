@@ -39,6 +39,7 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Plpgsql](#plpgsql)
 - [Prolog](#prolog)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -437,6 +438,7 @@
 - [cdzombak/mailto-things](https://github.com/cdzombak/mailto-things) – Allow sending emails to Things.app with attachments (kind of).
 - [cdzombak/runner](https://github.com/cdzombak/runner) – Lightweight wrapper for better cron jobs and containers
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
+- [centrifugal/gocent](https://github.com/centrifugal/gocent) – Go library to communicate with Centrifugo HTTP API
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
@@ -1133,7 +1135,6 @@
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Trying to fix online communities with economics
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) – Claude Code as one-shot MCP server to have an agent in your agent.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) – Deploy Stoat on your own infrastructure!
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -1261,7 +1262,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [BlockChainCaffe/Nostr-Relay-Setup-Guide](https://github.com/BlockChainCaffe/Nostr-Relay-Setup-Guide) – A complete step by step setup guide for Nostr relay based on nostr-rs-relay
-- [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) – 小火箭规则🚀，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽（REJECT）规则，自动构建，每日更新
+- [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) – 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽（REJECT）规则，自动构建，每日更新
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) – Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) – 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
@@ -1357,6 +1358,12 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
+
+<div id="plpgsql"></div>
+
+## Plpgsql
+
+- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Trying to fix online communities with economics
 
 <div id="prolog"></div>
 
@@ -1562,7 +1569,6 @@
 ## Shell
 
 - [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) – Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
-- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) – A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) – State of Linux on the MacBook Pro 2016 & 2017
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) – Dockerfile for LanguageTool server - configurable
@@ -1586,6 +1592,7 @@
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
 - [brodybuster/docker-wireguard-vpn](https://github.com/brodybuster/docker-wireguard-vpn)
+- [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) – Run Cloudflare WARP in Docker.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
