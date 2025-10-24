@@ -1001,7 +1001,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
-- [usememos/memos](https://github.com/usememos/memos) – A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1304,7 +1304,6 @@
 - [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
-- [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) – A curated list of static web site generators.
@@ -1423,6 +1422,7 @@
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) – Make ad blocking dns using Cloudflare Gateway Zero Trust
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
+- [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) – This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
@@ -1513,7 +1513,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/archgw](https://github.com/katanemo/archgw) – The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
+- [katanemo/archgw](https://github.com/katanemo/archgw) – The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
