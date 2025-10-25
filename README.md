@@ -1442,6 +1442,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) – An open source multi-tool for exploring and publishing data
 - [simonw/llm](https://github.com/simonw/llm) – Access large language models from the command-line
 - [simonw/llm-gguf](https://github.com/simonw/llm-gguf) – Run models distributed as GGUF files using LLM
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) – Python CLI utility and library for manipulating SQLite databases
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
