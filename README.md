@@ -468,7 +468,6 @@
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [cucumber/godog](https://github.com/cucumber/godog) – Cucumber for golang
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
-- [cunicu/go-rosenpass](https://github.com/cunicu/go-rosenpass) – A port of Rosenpass post-quantum key-exchange protocol to Go.
 - [cvilsmeier/go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench) – Benchmarks for Golang SQLite Drivers
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
@@ -489,6 +488,8 @@
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
 - [destel/rill](https://github.com/destel/rill) – Go toolkit for clean, composable, channel-based concurrency
 - [devops-land/wireguard-operator](https://github.com/devops-land/wireguard-operator) – Painless deployment of wireguard on kubernetes
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
@@ -661,8 +662,6 @@
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) – IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
 - [huandu/go-clone](https://github.com/huandu/go-clone) – Clone any Go data structure deeply and thoroughly.
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) – A flexible and powerful SQL string builder library plus a zero-config ORM.
-- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) – Fast key-value DB in Go.
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) – A high performance memory-bound Go cache
 - [iamseth/oracledb_exporter](https://github.com/iamseth/oracledb_exporter) – Prometheus Oracle database exporter.
 - [iansinnott/browser-gopher](https://github.com/iansinnott/browser-gopher) – Search, aggregate, backup your browsing history  across all browsers from the command line.
 - [icio/actiongraph](https://github.com/icio/actiongraph) – Go build actiongraph debug visualiser.
@@ -817,7 +816,7 @@
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wazero
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
+- [neuralink/tsui](https://github.com/neuralink/tsui) – An (experimental) elegant TUI for configuring Tailscale.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) – Translate your Go program into multiple languages.
@@ -1001,7 +1000,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1551,7 +1550,7 @@
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
-- [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
