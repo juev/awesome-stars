@@ -440,6 +440,7 @@
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
 - [centrifugal/gocent](https://github.com/centrifugal/gocent) – Go library to communicate with Centrifugo HTTP API
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) – Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – Backup and restore Ed25519 SSH keys with seed words 🫠
@@ -1420,7 +1421,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) – The best ChatGPT that $100 can buy.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) – 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) – 🦜🔗 The platform for reliable agents.
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) – check links in web documents or full websites
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) – Make ad blocking dns using Cloudflare Gateway Zero Trust
@@ -1432,7 +1433,6 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
-- [mmtaee/ocserv-users-management](https://github.com/mmtaee/ocserv-users-management) – An easy-to-install solution for setting up OpenConnect VPN server (ocserv), with a web panel for managing users and user groups
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -1816,6 +1816,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
+- [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
