@@ -315,6 +315,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -1174,7 +1175,7 @@
 
 ## Kotlin
 
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloudflare scanner
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) – 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 
