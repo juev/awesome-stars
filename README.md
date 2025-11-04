@@ -315,7 +315,6 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -594,6 +593,7 @@
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
+- [goadesign/goa](https://github.com/goadesign/goa) – Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
 - [gobuffalo/plush](https://github.com/gobuffalo/plush) – The powerful template system that Go needs
 - [gobwas/ws](https://github.com/gobwas/ws) – Tiny WebSocket library for Go.
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -1389,6 +1389,7 @@
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
+- [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1407,6 +1408,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
+- [camel-ai/camel](https://github.com/camel-ai/camel) – 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) – Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
@@ -1535,7 +1537,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [psarna/edgemail](https://github.com/psarna/edgemail)
@@ -1752,6 +1754,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – Qwen Code is a coding agent that lives in the digital world.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -1789,7 +1792,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based, multi-site remote access platform using WireGuard®
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
@@ -1867,6 +1870,7 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) – 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [toon-format/toon](https://github.com/toon-format/toon) – 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
