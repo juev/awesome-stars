@@ -105,7 +105,7 @@
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
-- [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Transparent SOCKS5/4, HTTP, and SSH proxy server and client for macOS, Linux, FreeBSD, and Windows with WSL2
+- [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Cross-platform proxy client and server for SOCKS, HTTP, and SSH protocols with transparent mode, policy-based routing and multi-proxy rules.
 - [mity/md4c](https://github.com/mity/md4c) – C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) – The ultimate set of SQLite extensions
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) – Nostr library for Golang
