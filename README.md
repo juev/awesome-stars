@@ -1361,7 +1361,7 @@
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) – 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) – A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) – The RSS feed for websites missing it
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
 
@@ -1427,7 +1427,6 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) – The best ChatGPT that $100 can buy.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) – 🦜🔗 The platform for reliable agents.
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) – check links in web documents or full websites
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) – Make ad blocking dns using Cloudflare Gateway Zero Trust
