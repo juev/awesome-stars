@@ -1064,7 +1064,6 @@
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
-- [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
 - [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
@@ -1128,6 +1127,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) – ZeroTier network controller UI
@@ -1146,6 +1146,7 @@
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [upstash/context7](https://github.com/upstash/context7) – Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [websockets/wscat](https://github.com/websockets/wscat) – WebSocket cat
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 
@@ -1561,6 +1562,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
+- [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
@@ -1781,8 +1783,8 @@
 - [cloudflare/orange](https://github.com/cloudflare/orange)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
-- [coder/cmux](https://github.com/coder/cmux) – A desktop app for isolated, parallel agentic development
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
+- [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) – Claude Code Subagents & Commands Collection + CLI Tool
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
