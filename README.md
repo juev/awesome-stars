@@ -315,7 +315,6 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -824,7 +823,6 @@
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) – Translate your Go program into multiple languages.
-- [nikivdev/ghost](https://github.com/nikivdev/ghost) – Watch over things + stream your mac to remote server
 - [nikivdev/go](https://github.com/nikivdev/go) – Go tools, libraries and other code
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
@@ -1535,6 +1533,7 @@
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
+- [nikivdev/flow](https://github.com/nikivdev/flow) – Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
@@ -1757,6 +1756,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – Qwen Code is a coding agent that lives in the digital world.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -1794,7 +1794,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
@@ -1832,7 +1832,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [nikivdev/flow](https://github.com/nikivdev/flow) – Place to share & store what you use. Full sync up tool.
+- [nikivdev/research](https://github.com/nikivdev/research) – Research (code, docs, ..)
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
