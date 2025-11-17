@@ -247,7 +247,7 @@
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
-- [karthink/gptel](https://github.com/karthink/gptel) – A simple LLM client for Emacs
+- [karthink/gptel](https://github.com/karthink/gptel) – A simple, extensible LLM client for Emacs
 - [meow-edit/meow](https://github.com/meow-edit/meow) – Yet another modal editing on Emacs / 猫态编辑
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) – An Emacs major mode for Hledger
 - [noctuid/general.el](https://github.com/noctuid/general.el) – More convenient key definitions in emacs
@@ -892,7 +892,7 @@
 - [rakyll/gotest](https://github.com/rakyll/gotest) – go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) – HTTP load generator, ApacheBench (ab) replacement
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
-- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) – Enterprise ready REST API microservice in golang
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) – Production-ready Go REST APIs without the enterprise bloat
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) – 🔑 v3 .onion vanity URL generator written in Go
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
