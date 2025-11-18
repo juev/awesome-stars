@@ -453,10 +453,11 @@
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – The official Go library for the Cloudflare API
 - [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) – A Kubernetes ingress controller for Cloudflare's Argo Tunnels
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) – Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) – Go error library with error portability over the network
+- [coder/agentapi](https://github.com/coder/agentapi) – HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [coder/quartz](https://github.com/coder/quartz) – A Go time testing library for writing deterministic unit tests
 - [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
@@ -612,6 +613,7 @@
 - [golang/mock](https://github.com/golang/mock) – GoMock is a mocking framework for the Go programming language.
 - [golang/tools](https://github.com/golang/tools) – [mirror] Go Tools
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
+- [google/adk-go](https://github.com/google/adk-go) – An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [google/capslock](https://github.com/google/capslock)
 - [google/go-cmp](https://github.com/google/go-cmp) – Package for comparing Go values in tests
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
@@ -793,6 +795,7 @@
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) – panicwrap is a Go library for catching and handling panics in Go applications.
 - [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) – The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [mohae/deepcopy](https://github.com/mohae/deepcopy) – Deep copy things
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [motemen/go-pocket](https://github.com/motemen/go-pocket) – Pocket (getpocket.com) API client for Go (golang).
@@ -955,6 +958,7 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
+- [steveyegge/beads](https://github.com/steveyegge/beads) – Beads - A memory upgrade for your coding agent
 - [stretchr/objx](https://github.com/stretchr/objx) – Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
@@ -1405,6 +1409,7 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [anthropics/skills](https://github.com/anthropics/skills) – Public repository for Skills
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1641,7 +1646,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – The official Pi-hole Docker image from pi-hole.net
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) – The Simplest VPN installer, designed for Raspberry Pi
 - [radio24/TorBox](https://github.com/radio24/TorBox) – TorBox is an easy to use, anonymizing router based on Raspberry Pi, which also runs on Debian and Ubuntu based systems.
@@ -1771,7 +1776,6 @@
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) – Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
