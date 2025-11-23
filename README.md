@@ -772,7 +772,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) – mastodon client for golang
 - [mattn/goreman](https://github.com/mattn/goreman) – foreman clone written in go language
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) – A tool for generating self-contained, type-safe test doubles in go
-- [maxpert/marmot](https://github.com/maxpert/marmot) – A distributed SQLite replicator built on top of NATS
+- [maxpert/marmot](https://github.com/maxpert/marmot) – A distributed SQLite server with MySQL wire compatible interface
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) – Decentralized VPN
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) – Writing kubernetes controllers can be simple
@@ -958,7 +958,6 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
-- [steveyegge/beads](https://github.com/steveyegge/beads) – Beads - A memory upgrade for your coding agent
 - [stretchr/objx](https://github.com/stretchr/objx) – Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
