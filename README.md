@@ -1137,7 +1137,6 @@
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
-- [obra/superpowers](https://github.com/obra/superpowers) – Claude Code superpowers: core skills library
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) – DNS over HTTPS config profiles for iOS & macOS
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
@@ -1645,6 +1644,7 @@
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
+- [obra/superpowers](https://github.com/obra/superpowers) – Claude Code superpowers: core skills library
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – The official Pi-hole Docker image from pi-hole.net
