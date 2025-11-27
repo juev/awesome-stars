@@ -315,7 +315,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -1458,6 +1458,7 @@
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) – Python CLI utility and library for manipulating SQLite databases
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) – A bridge between Streamable HTTP and stdio MCP transports
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -2053,7 +2054,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open, technical and introductory book for the Zig programming language 📚📖
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
-- [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) – Moved to Codeberg
 
 
 ## License
