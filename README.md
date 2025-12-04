@@ -492,7 +492,7 @@
 - [derekg/ts-ssh](https://github.com/derekg/ts-ssh) – Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) – Own webarchive service
 - [destel/rill](https://github.com/destel/rill) – Go toolkit for clean, composable, channel-based concurrency
-- [devops-land/wireguard-operator](https://github.com/devops-land/wireguard-operator) – Painless deployment of wireguard on kubernetes
+- [devops-land/wireguard-operator](https://github.com/devops-land/wireguard-operator) – Project is now maintained by Namecheap on https://github.com/nccloud/wireguard-operator. This repo is archived.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
@@ -913,7 +913,7 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [rsc/github](https://github.com/rsc/github)
@@ -923,7 +923,7 @@
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [samber/oops](https://github.com/samber/oops) – 🔥 Error handling library with context, assertion, stack trace and source fragments
-- [samber/ro](https://github.com/samber/ro) – 🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications
+- [samber/ro](https://github.com/samber/ro) – 🏎️ Streams & Reactive Programming paradigm for Go: declarative and composable API for event-driven applications
 - [samber/slog-echo](https://github.com/samber/slog-echo) – 🚨 Echo middleware for slog logger
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
@@ -1705,7 +1705,7 @@
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) – Powerful menu bar manager for macOS
 - [kickingvegas/scrim](https://github.com/kickingvegas/scrim) – An Org Protocol Proxy for Emacs on macOS.
-- [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) – Protect your SSH keys with your Mac's Secure Enclave
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) – The *faster than your launcher* launcher
@@ -1841,7 +1841,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters
-- [nikivdev/research](https://github.com/nikivdev/research) – Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research)
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
