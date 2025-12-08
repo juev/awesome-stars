@@ -1528,7 +1528,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/archgw](https://github.com/katanemo/archgw) – Delivery infrastructure for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & orchestration, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and deliver them reliably to production.
+- [katanemo/archgw](https://github.com/katanemo/archgw) – Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1538,7 +1538,7 @@
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
-- [nikivdev/flow](https://github.com/nikivdev/flow) – Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) – Project level config for insanely fast feedback loops
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
