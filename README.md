@@ -1761,7 +1761,6 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) – Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
