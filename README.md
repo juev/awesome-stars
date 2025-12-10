@@ -91,6 +91,7 @@
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) – 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- [asmvik/skhd](https://github.com/asmvik/skhd) –  Simple hotkey daemon for macOS
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) – Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) – A censorship circumvention tool
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -103,7 +104,6 @@
 - [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) – A lightweight, fast and reliable socks5 server
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A lightweight, fast and reliable tun2socks
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) –  Simple hotkey daemon for macOS
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) – sqlite3 driver for go using database/sql
 - [mezantrop/ts-warp](https://github.com/mezantrop/ts-warp) – Cross-platform proxy client and server for SOCKS, HTTP, and SSH protocols with transparent mode, policy-based routing and multi-proxy rules.
 - [mity/md4c](https://github.com/mity/md4c) – C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
