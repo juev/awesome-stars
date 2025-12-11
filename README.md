@@ -1145,6 +1145,7 @@
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) – Claude Code as one-shot MCP server to have an agent in your agent.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) – Deploy Stoat on your own infrastructure!
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) – A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [websockets/wscat](https://github.com/websockets/wscat) – WebSocket cat
