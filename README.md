@@ -316,7 +316,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
@@ -1336,6 +1336,7 @@
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) – The docker-compose files for setting up a SearXNG instance with docker.
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [sgharlow/claude-code-recipes](https://github.com/sgharlow/claude-code-recipes) – 100 ready-to-use Claude Code recipes for knowledge workers. Transform meetings into action items, draft executive    communications, analyze data, write reports, and automate documentation. Step-by-step prompts with examples for managers,    analysts, HR, sales, and operations. From zero to productive in minutes. Built for busy professionals.
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – A curated list of cryptography resources and links.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1799,7 +1800,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
