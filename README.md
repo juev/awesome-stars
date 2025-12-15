@@ -482,6 +482,7 @@
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [darccio/mergo](https://github.com/darccio/mergo) – Mergo: merging Go structs and maps since 2013
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) – Implements a deep pretty printer for Go data structures to aid in debugging
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
@@ -786,7 +787,7 @@
 - [miekg/dns](https://github.com/miekg/dns) – DNS library in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) – 📖 A little guide book on Ethereum Development with Go (golang)
 - [miguelmota/go-ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) – Ethereum HD Wallet derivations in Go (golang)
-- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) – Rapid, easy full-stack web development starter kit and admin panel in Go
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
@@ -1125,7 +1126,6 @@
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) – Breakthrough Method for Agile Ai Driven Development
 - [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
 - [ckolderup/postmarks](https://github.com/ckolderup/postmarks) – a single-user bookmarking website designed to live on the Fediverse
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) – 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
@@ -1754,7 +1754,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) – Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) – WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
