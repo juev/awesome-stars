@@ -74,7 +74,6 @@
 
 ## Astro
 
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
 - [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – No you don't need a 64GB RAM and ElasticSearch. An all in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
@@ -149,6 +148,7 @@
 ## CSS
 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [davidcava/shadowsocks-libev-dsm](https://github.com/davidcava/shadowsocks-libev-dsm) –  Synology DSM packages for Shadowsocks-libev.
@@ -989,6 +989,7 @@
 - [tidwall/jj](https://github.com/tidwall/jj) – JSON Stream Editor (command line utility)
 - [tidwall/sjson](https://github.com/tidwall/sjson) – Set JSON values very quickly in Go
 - [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) – Fast deep-copy library for Go
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [tj/staticgen](https://github.com/tj/staticgen) – Static website generator that lets you use HTTP servers and frameworks you already know
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) – A Go linter to check that errors from external packages are wrapped
@@ -1035,7 +1036,7 @@
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) – All-in-one go testing library
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
-- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) –  A Crypto-Secure Reliable-UDP Library for golang with FEC 
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) – A crypto-secure Reliable-UDP library for Golang with FEC support.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – Simple and fast anti-censorship tool written in Go
 - [yep/eth-tweet](https://github.com/yep/eth-tweet) – Decentralized Twitter: A microblogging service running on the Ethereum blockchain
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) – To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
@@ -1109,6 +1110,7 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
@@ -1448,6 +1450,7 @@
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) – CV/resume generator for academics and engineers, YAML to PDF
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) – NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) – Curated list of awesome Cursor Rules .mdc files
