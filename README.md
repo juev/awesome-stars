@@ -1673,6 +1673,7 @@
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) – Persists tmux environment across system restarts.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) – ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Docker Image. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
+- [tw93/Mole](https://github.com/tw93/Mole) – 🐹 Deep clean and optimize your Mac.
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) – Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
