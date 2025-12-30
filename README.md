@@ -74,6 +74,7 @@
 
 ## Astro
 
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
 - [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – No you don't need a 64GB RAM and ElasticSearch. An all in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
@@ -148,7 +149,6 @@
 ## CSS
 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [davidcava/shadowsocks-libev-dsm](https://github.com/davidcava/shadowsocks-libev-dsm) –  Synology DSM packages for Shadowsocks-libev.
