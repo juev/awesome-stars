@@ -123,6 +123,7 @@
 
 - [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) – Sync server for Notesnook (self-hosting in alpha)
+- [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
 
 <div id="c++"></div>
 
@@ -1428,6 +1429,7 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) – The best ChatGPT that $100 can buy.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
@@ -1463,14 +1465,12 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) – A bridge between Streamable HTTP and stdio MCP transports
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) – Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
-- [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 <div id="ruby"></div>
@@ -1531,7 +1531,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/plano](https://github.com/katanemo/plano) – Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) – Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1875,6 +1875,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) – 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Combines search, AI responses, content processing, and enhancement features through a single interface.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [sst/opencode](https://github.com/sst/opencode) – The open source coding agent.
 - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
