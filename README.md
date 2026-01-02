@@ -1759,6 +1759,7 @@
 
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) – Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) – WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) – Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
