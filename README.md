@@ -1576,7 +1576,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) – opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) – opensource self-hosted sandboxes for ai agents
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with LLMs.
 
 <div id="scss"></div>
@@ -1787,6 +1787,8 @@
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
 - [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) – A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) – Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
+- [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
@@ -1878,8 +1880,6 @@
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) – 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Combines search, AI responses, content processing, and enhancement features through a single interface.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-- [sst/opencode](https://github.com/sst/opencode) – The open source coding agent.
-- [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [stravu/crystal](https://github.com/stravu/crystal) – Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
