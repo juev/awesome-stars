@@ -875,6 +875,7 @@
 - [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity and context-aware access proxy.
 - [portainer/k2d](https://github.com/portainer/k2d) – Kubernetes to Docker translator
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) – Ultra-lightweight Kubernetes
 - [posener/goaction](https://github.com/posener/goaction) – Write Github actions in Go
@@ -1179,7 +1180,7 @@
 
 ## Kotlin
 
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloudflare scanner
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) – 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 
@@ -1532,7 +1533,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/plano](https://github.com/katanemo/plano) – Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) – Ship agents faster. Plano is delivery infrastructure for agentic applications - The AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1802,7 +1803,7 @@
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – Claude Code Subagents & Commands Collection + CLI Tool
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces Collection for Claude Code
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1956,6 +1957,7 @@
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) – :flashlight: Improved incremental searching for Vim
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) – Easily locate the cursor after a search
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) – This script implements transparent editing of gpg encrypted files.
+- [jbranchaud/til](https://github.com/jbranchaud/til) – :memo: Today I Learned
 - [jessfraz/openai.vim](https://github.com/jessfraz/openai.vim) – OpenAI GPT-3 plugin for vim.
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
