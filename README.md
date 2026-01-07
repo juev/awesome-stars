@@ -100,6 +100,7 @@
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [darkk/redsocks](https://github.com/darkk/redsocks) – transparent TCP-to-proxy redirector
+- [haad/proxychains](https://github.com/haad/proxychains) – proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) – Small utilities that are useful in advanced password cracking
 - [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) – A lightweight, fast and reliable socks5 server
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A lightweight, fast and reliable tun2socks
@@ -304,7 +305,6 @@
 - [IBM/fp-go](https://github.com/IBM/fp-go) – functional programming library for golang
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
-- [Jigsaw-Code/outline-go-tun2socks](https://github.com/Jigsaw-Code/outline-go-tun2socks)
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) – Visualize Go Dependency Trees
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) – ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
@@ -320,6 +320,7 @@
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
+- [OutlineFoundation/outline-go-tun2socks](https://github.com/OutlineFoundation/outline-go-tun2socks)
 - [OutlineFoundation/tunnel-server](https://github.com/OutlineFoundation/tunnel-server) – Outline Shadowsocks server
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) – Expression evaluation in golang
 - [Pallinder/go-randomdata](https://github.com/Pallinder/go-randomdata) – A tiny generator of random data for golang, also known as a faker 
@@ -480,7 +481,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A versatile, lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A lightweight Airflow alternative for small teams. Builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -725,6 +726,7 @@
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) – Lightweight Kubernetes
 - [kamstrup/fn](https://github.com/kamstrup/fn) – Functional programming in Go
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) – a prettier way to inspect network connections
 - [keegancsmith/sqlf](https://github.com/keegancsmith/sqlf) – sqlf generates parameterized SQL statements in Go, sprintf style
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) – Manage local application configuration files using templates and data from etcd or consul
@@ -962,6 +964,7 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) – Gas Town - multi-agent workspace manager
 - [stretchr/objx](https://github.com/stretchr/objx) – Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
@@ -1143,7 +1146,7 @@
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) – DNS over HTTPS config profiles for iOS & macOS
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) – Claude Code as one-shot MCP server to have an agent in your agent.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) – Deploy Stoat on your own infrastructure!
 - [timvisee/send](https://github.com/timvisee/send) – :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -1451,6 +1454,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [oraios/serena](https://github.com/oraios/serena) – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) – Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) – Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
