@@ -1312,7 +1312,6 @@
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) – Obsidian Web Clipper templates for various sites.
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) – My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) – Claude Skills for Obsidian
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
