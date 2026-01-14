@@ -208,7 +208,7 @@
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
-- [juev/caddy](https://github.com/juev/caddy)
+- [juev/caddy](https://github.com/juev/caddy) – Custom Caddy build with additional plugins for enhanced functionality
 - [juev/links-on-fly](https://github.com/juev/links-on-fly) – Create linkding instance on fly.io
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
@@ -1377,7 +1377,7 @@
 
 ## Plpgsql
 
-- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – Trying to fix online communities with economics
+- [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – moderating forums with money
 
 <div id="prolog"></div>
 
@@ -1390,7 +1390,6 @@
 ## Python
 
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) – Run Claude Code on OpenAI models
-- [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ByteMysticRogue/Hiddify-Warp](https://github.com/ByteMysticRogue/Hiddify-Warp) – Warp Sub - Updating Every 12 Hours!
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) – Caddy Docker image with Cloudflare DNS module
@@ -1475,6 +1474,7 @@
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) – Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
@@ -1776,7 +1776,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
-- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand crafted Claude code plugin marketplace focused on agent results quality improvement. Designed to be easy to install and use, while maintaining minimal token footprint.
+- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Handcrafted plugin marketplace focused on improving agent result quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI agent that lives in your terminal.
