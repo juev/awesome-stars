@@ -719,6 +719,7 @@
 - [juev/fortune-go](https://github.com/juev/fortune-go)
 - [juev/gclone](https://github.com/juev/gclone) –   Smart Git repository cloner that organizes repos into structured directories based on URL paths. Perfect for developers who want clean, predictable project organization.
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
+- [juev/hledger-lsp](https://github.com/juev/hledger-lsp) – Language Server Protocol (LSP) implementation for hledger journal files
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/sync](https://github.com/juev/sync) – Sync Pocket links to Linkding
