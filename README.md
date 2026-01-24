@@ -848,7 +848,7 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) – Update outdated Go dependencies interactively
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
@@ -1296,7 +1296,6 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
-- [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) – A curated list of awesome jq tools and resources.
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) – In this repository we have collected all awesome tools for iranian people
@@ -1304,6 +1303,7 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [joplin/plugins](https://github.com/joplin/plugins) – Joplin official plugin repository
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
+- [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) – A curated list of awesome jq tools and resources.
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [juev/links](https://github.com/juev/links)
