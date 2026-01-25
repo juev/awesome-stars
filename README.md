@@ -724,7 +724,7 @@
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/sync](https://github.com/juev/sync) – Sync Pocket links to Linkding
 - [juev/tor-relay-scanner-go](https://github.com/juev/tor-relay-scanner-go) – Tor Relay availability checker, for using it as a bridge in countries with censorship
-- [julien040/gut](https://github.com/julien040/gut) – A beginner friendly porcelain for git
+- [julien040/gut](https://github.com/julien040/gut) – A beginner friendly CLI for git
 - [justinas/alice](https://github.com/justinas/alice) – Painless middleware chaining for Go
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) – Little helper to run CNCF's k3s in Docker
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) – Lightweight Kubernetes
@@ -897,6 +897,7 @@
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [qiniu/goc](https://github.com/qiniu/goc) – A Comprehensive Coverage Testing System for The Go Programming Language
+- [qmuntal/stateless](https://github.com/qmuntal/stateless) – Go library for creating finite state machines
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) – Learn Go with test-driven development
 - [qustavo/dotsql](https://github.com/qustavo/dotsql) – A Golang library for using SQL.
 - [r3labs/diff](https://github.com/r3labs/diff) – A library for diffing golang structures
