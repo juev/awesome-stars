@@ -848,7 +848,7 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) – Update outdated Go dependencies interactively
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
