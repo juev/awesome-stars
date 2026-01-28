@@ -429,7 +429,6 @@
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
-- [buger/goreplay](https://github.com/buger/goreplay) – GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [buger/jsonparser](https://github.com/buger/jsonparser) – One of the fastest alternative JSON parser for Go that does not require schema
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
@@ -599,7 +598,7 @@
 - [go-rod/rod](https://github.com/go-rod/rod) – A Chrome DevTools Protocol driver for web automation and scraping.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) – Swagger 2.0 implementation for go
-- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) – A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [goadesign/goa](https://github.com/goadesign/goa) – Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
@@ -886,6 +885,7 @@
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) – Ultra-lightweight Kubernetes
 - [posener/goaction](https://github.com/posener/goaction) – Write Github actions in Go
 - [pressly/goose](https://github.com/pressly/goose) – A database migration tool. Supports SQL migrations and Go functions. 
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) – GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) – 🧵 CLI tool for directly patching container images!
 - [projectcalico/calico](https://github.com/projectcalico/calico) – Cloud native networking and network security
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
@@ -1546,6 +1546,7 @@
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) – A drop-in, 5-20x faster, experimental Homebrew alternative
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
