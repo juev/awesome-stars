@@ -318,7 +318,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) – Go implementation of Ethereum proof of stake
 - [OutlineFoundation/outline-go-tun2socks](https://github.com/OutlineFoundation/outline-go-tun2socks)
@@ -1774,7 +1774,7 @@
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) – Autonomous multi-session AI coding
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) – Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows. 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
