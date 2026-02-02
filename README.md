@@ -233,7 +233,7 @@
 ## Emacs Lisp
 
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) – A Pure Emacs (no external packages) IDE like configuration.
-- [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) – A starting point for Gnu Emacs with good defaults and packages that most people may want to use.
+- [MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs) – Blazingly fast starting point for your Emacs  configuration
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) – A sensible base Emacs configuration.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) – make Emacs bindings that stick around
 - [abo-abo/oremacs](https://github.com/abo-abo/oremacs) – My Emacs config
@@ -846,7 +846,7 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) – Update outdated Go dependencies interactively
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
@@ -1783,7 +1783,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
-- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Handcrafted plugin marketplace focused on improving agent result quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline.
+- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI agent that lives in your terminal.
