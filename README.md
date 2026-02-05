@@ -1314,6 +1314,7 @@
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) – Obsidian Web Clipper templates for various sites.
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) – My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) – Agent skills for Obsidian
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
@@ -1360,7 +1361,7 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [woodlyer/gostExample](https://github.com/woodlyer/gostExample) – Some examples for building proxy and tunnel  with gost.
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills and tips/tricks 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
 
 <div id="php"></div>
 
@@ -1449,6 +1450,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
+- [maruel/md](https://github.com/maruel/md) – My Development container
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) – This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
@@ -1459,7 +1461,6 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [oraios/serena](https://github.com/oraios/serena) – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
-- [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) – Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
@@ -1804,6 +1805,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) – AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -1904,6 +1906,7 @@
 - [tale/headplane](https://github.com/tale/headplane) – A feature-complete Web UI for Headscale
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) – 📝  ‎ A web-based notes app for developers.
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) – Plain text accounting in Obsidian.md
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) – A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) – 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [toon-format/toon](https://github.com/toon-format/toon) – 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
