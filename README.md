@@ -124,7 +124,6 @@
 
 - [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) – Sync server for Notesnook (self-hosting in alpha)
-- [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
 
 <div id="c++"></div>
 
@@ -1482,6 +1481,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
+- [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 <div id="ruby"></div>
@@ -1538,6 +1538,7 @@
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) – Scalable datastore for metrics, events, and real-time analytics
+- [j178/prek](https://github.com/j178/prek) – ⚡ Better `pre-commit`, re-engineered in Rust
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
