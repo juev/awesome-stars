@@ -486,6 +486,7 @@
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) – Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [darccio/mergo](https://github.com/darccio/mergo) – Mergo: merging Go structs and maps since 2013
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) – Implements a deep pretty printer for Go data structures to aid in debugging
 - [davecheney/pub](https://github.com/davecheney/pub) – pub, a tiny ActivityPub to Mastodon bridge
 - [ddollar/forego](https://github.com/ddollar/forego) – Foreman in Go
@@ -1292,7 +1293,6 @@
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) – Awesome emacs config files
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) – sing-box 配置示例
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
