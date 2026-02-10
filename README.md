@@ -35,6 +35,7 @@
 - [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Ocaml](#ocaml)
 - [Others](#others)
@@ -1255,6 +1256,12 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
+
+<div id="nushell"></div>
+
+## Nushell
+
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) – A community trust management system based on explicit vouches to participate.
 
 <div id="objective-c"></div>
 
