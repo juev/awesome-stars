@@ -1057,7 +1057,7 @@
 - [yolo-pkgs/gore](https://github.com/yolo-pkgs/gore) – "npm list/update -g" for golang
 - [yuin/goldmark](https://github.com/yuin/goldmark) – :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [zalando/gin-oauth2](https://github.com/zalando/gin-oauth2) – Middleware for Gin Framework users who also want to use OAuth2
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – The Airgap Native Packager Manager for Kubernetes
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – The Airgap Native Package Manager for Kubernetes
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zk-org/zk](https://github.com/zk-org/zk) – A plain text note-taking assistant
@@ -1410,7 +1410,6 @@
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) – Proxy over your Docker socket to restrict which requests it accepts
 - [Textualize/toolong](https://github.com/Textualize/toolong) – A terminal application to view, tail, merge, and search log files (plus JSONL).
