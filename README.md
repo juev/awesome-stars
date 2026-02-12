@@ -279,7 +279,6 @@
 
 ## Go
 
-- [0x2E/fusion](https://github.com/0x2E/fusion) – A lightweight, self-hosted friendly RSS reader
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) – Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) – Seamless authentication for every tool in your terminal.
 - [99designs/keyring](https://github.com/99designs/keyring) – Go library providing a uniform interface across a range of secure credential stores
@@ -773,6 +772,7 @@
 - [maragudk/goqite](https://github.com/maragudk/goqite) – Go queue library built on SQLite and inspired by AWS SQS.
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) – A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
+- [maruel/md](https://github.com/maruel/md) – My Development container
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [matryer/is](https://github.com/matryer/is) – Professional lightweight testing mini-framework for Go.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -1453,7 +1453,6 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
-- [maruel/md](https://github.com/maruel/md) – My Development container
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) – This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
@@ -1777,6 +1776,7 @@
 
 ## TypeScript
 
+- [0x2E/fusion](https://github.com/0x2E/fusion) – A lightweight, self-hosted friendly RSS reader
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) – Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) – WebSearchMCP using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) – Autonomous multi-session AI coding
@@ -1825,7 +1825,7 @@
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
