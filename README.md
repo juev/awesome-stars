@@ -423,7 +423,7 @@
 - [bradfitz/iter](https://github.com/bradfitz/iter) – Range over integers [0,n). Seriously, that's it.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [brimdata/super](https://github.com/brimdata/super) – An analytics database that puts JSON and relational tables on equal footing
-- [brunoga/deep](https://github.com/brunoga/deep) – Support for doing deep copies of (almost all) Go types.
+- [brunoga/deep](https://github.com/brunoga/deep) – Deep: High-Performance Data Manipulation for Go
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
@@ -1782,7 +1782,7 @@
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) – Autonomous multi-session AI coding
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) – Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – The Stack Frontendstack for Agents. Connect to any agent framework & build Chat UI, Generative UI, Frontend Actions, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
