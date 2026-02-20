@@ -562,6 +562,7 @@
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
 - [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) – OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getlantern/samizdat](https://github.com/getlantern/samizdat) – Censorship resistant protocol using latest research and practice.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [gin-contrib/authz](https://github.com/gin-contrib/authz) – gin-authz is an authorization middleware for Gin
@@ -1422,6 +1423,7 @@
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) – A Model Context Protocol server for searching and analyzing arXiv papers
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [camel-ai/camel](https://github.com/camel-ai/camel) – 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
@@ -1448,7 +1450,6 @@
 - [luxysiv/Cloudflare-Gateway-Pihole](https://github.com/luxysiv/Cloudflare-Gateway-Pihole) – Make ad blocking dns using Cloudflare Gateway Zero Trust
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
-- [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) – This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
@@ -1459,6 +1460,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) – A MCP for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.
 - [oraios/serena](https://github.com/oraios/serena) – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
@@ -1666,6 +1668,7 @@
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) – 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+- [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
