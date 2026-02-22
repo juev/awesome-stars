@@ -1673,7 +1673,6 @@
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
-- [obra/superpowers](https://github.com/obra/superpowers) – An agentic skills framework & software development methodology that works.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – The official Pi-hole Docker image from pi-hole.net
