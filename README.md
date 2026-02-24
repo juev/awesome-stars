@@ -436,7 +436,8 @@
 - [caarlos0/env](https://github.com/caarlos0/env) – A simple, zero-dependencies library to parse environment variables into structs
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) – Caddy module: dns.providers.cloudflare
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [casbin/casbin](https://github.com/casbin/casbin) – An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [caic-xyz/md](https://github.com/caic-xyz/md) – My Development container
+- [casbin/casbin](https://github.com/casbin/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
@@ -562,6 +563,7 @@
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
 - [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) – OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getlantern/geneva](https://github.com/getlantern/geneva) – Port of Geneva to Go
 - [getlantern/samizdat](https://github.com/getlantern/samizdat) – Censorship resistant protocol using latest research and practice.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
@@ -774,7 +776,6 @@
 - [maragudk/goqite](https://github.com/maragudk/goqite) – Go queue library built on SQLite and inspired by AWS SQS.
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) – A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) – A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
-- [maruel/md](https://github.com/maruel/md) – My Development container
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
 - [matryer/is](https://github.com/matryer/is) – Professional lightweight testing mini-framework for Go.
 - [matryer/moq](https://github.com/matryer/moq) – Interface mocking tool for go generate
@@ -1368,6 +1369,7 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) – A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [woodlyer/gostExample](https://github.com/woodlyer/gostExample) – Some examples for building proxy and tunnel  with gost.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) – FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
 
@@ -1437,8 +1439,8 @@
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
-- [huggingface/skills](https://github.com/huggingface/skills)
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) – Like Vercel, but open source and for all languages.
+- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Ouroboros — self-creating AI agent. Born Feb 16, 2026.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
