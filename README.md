@@ -952,6 +952,7 @@
 - [shopspring/decimal](https://github.com/shopspring/decimal) – Arbitrary-precision fixed-point decimal numbers in Go
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) – go-mask is a simple, customizable Go library for masking sensitive information.
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) – A beautiful terminal dashboard for hledger 💰
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) – Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [sipt/shuttle](https://github.com/sipt/shuttle) – A web proxy in Golang with amazing features.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) – Structured, pluggable logging for Go.
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) – :sparkles: QR Code encoder (Go)
@@ -1304,6 +1305,7 @@
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) – Awesome emacs config files
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) – sing-box 配置示例
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) – Integrate the DeepSeek API into popular software
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
@@ -1369,7 +1371,6 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) – A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) – Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [woodlyer/gostExample](https://github.com/woodlyer/gostExample) – Some examples for building proxy and tunnel  with gost.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) – FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) – Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
 
@@ -1425,7 +1426,6 @@
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) – A Model Context Protocol server for searching and analyzing arXiv papers
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) – Primary Block Lists
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [camel-ai/camel](https://github.com/camel-ai/camel) – 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
@@ -1463,7 +1463,6 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) – A MCP for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.
 - [oraios/serena](https://github.com/oraios/serena) – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
@@ -1589,6 +1588,7 @@
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
