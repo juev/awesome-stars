@@ -846,6 +846,7 @@
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) – Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) – A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [octelium/octelium](https://github.com/octelium/octelium) – A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
+- [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) – Pure Go tree-sitter runtime
 - [ohler55/ojg](https://github.com/ohler55/ojg) – Optimized JSON for Go
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
@@ -994,6 +995,7 @@
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 - [thejerf/suture](https://github.com/thejerf/suture) – Supervisor trees for Go.
+- [thellimist/clihub](https://github.com/thellimist/clihub)
 - [things-go/go-socks5](https://github.com/things-go/go-socks5) – socks5 server in pure Golang with much custom optional. Full TCP/UDP and IPv4/IPv6 support. 
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1910,7 +1912,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
-- [stravu/crystal](https://github.com/stravu/crystal) – Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [stravu/crystal](https://github.com/stravu/crystal) – (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) – A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) – Upload files to a GitHub release
