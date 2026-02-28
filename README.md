@@ -1643,6 +1643,7 @@
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
 - [brodybuster/docker-wireguard-vpn](https://github.com/brodybuster/docker-wireguard-vpn)
+- [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) – Creates Wireguard configuration for hub and peers with ease
 - [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) – This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) – Run Cloudflare WARP in Docker.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
@@ -1896,7 +1897,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) – A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
