@@ -722,6 +722,7 @@
 - [juev/gclone](https://github.com/juev/gclone) –   Smart Git repository cloner that organizes repos into structured directories based on URL paths. Perfect for developers who want clean, predictable project organization.
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [juev/hledger-lsp](https://github.com/juev/hledger-lsp) – Language Server Protocol (LSP) implementation for hledger journal files
+- [juev/instapaper-collector](https://github.com/juev/instapaper-collector) – Instapaper RSS link collector — fetches articles, deduplicates, generates weekly markdown pages
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/sync](https://github.com/juev/sync) – Sync Pocket links to Linkding
@@ -1552,7 +1553,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/plano](https://github.com/katanemo/plano) – Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
+- [katanemo/plano](https://github.com/katanemo/plano) – Plano is an AI-native proxy server and data plane for agentic apps — centralizing orchestration, safety, observability, and smart LLM routing so you can deliver agents faster. 
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1600,7 +1601,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) – Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) – Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) – opensource self-hosted sandboxes for ai agents
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with LLMs.
 
@@ -1796,7 +1797,7 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine.
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
