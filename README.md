@@ -304,7 +304,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) – golang analyzer that finds structures with uninitialized fields
-- [IBM/fp-go](https://github.com/IBM/fp-go) – functional programming library for golang
+- [IBM/fp-go](https://github.com/IBM/fp-go) – Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) – Visualize Go Dependency Trees
@@ -483,7 +483,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Local-first CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1028,7 +1028,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1150,6 +1150,7 @@
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) – ZeroTier network controller UI
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) – Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) – MCP is the protocol for tool access. We're the virtualization layer for context.
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
@@ -1534,6 +1535,7 @@
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
+- [containers/podlet](https://github.com/containers/podlet) – Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [doy/rbw](https://github.com/doy/rbw) – unofficial bitwarden cli
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
@@ -1862,7 +1864,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
-- [kepano/defuddle](https://github.com/kepano/defuddle) – Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
@@ -1874,7 +1876,6 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) – MCP is the protocol for tool access. We're the virtualization layer for context.
 - [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
