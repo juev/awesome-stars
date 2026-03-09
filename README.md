@@ -337,7 +337,6 @@
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
 - [Skarlso/data-structures-and-algorithms](https://github.com/Skarlso/data-structures-and-algorithms) – Go based code for the book Data Structures and Algorithms
 - [SlyMarbo/rss](https://github.com/SlyMarbo/rss) – A Go library for fetching, parsing, and updating RSS feeds.
-- [Snawoot/hola-proxy](https://github.com/Snawoot/hola-proxy) – Standalone Hola proxy client
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
 - [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
@@ -373,7 +372,6 @@
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) – Tailscale Docker Proxy
-- [amalshaji/portr](https://github.com/amalshaji/portr) – Expose local http, tcp or websocket connections to the public internet
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
@@ -857,7 +855,7 @@
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
-- [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) – A management framework for extending Kubernetes with Operators
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
@@ -996,7 +994,7 @@
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) – 📖 100 Go Mistakes and How to Avoid Them
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 - [thejerf/suture](https://github.com/thejerf/suture) – Supervisor trees for Go.
-- [thellimist/clihub](https://github.com/thellimist/clihub)
+- [thellimist/clihub](https://github.com/thellimist/clihub) – Turn any MCP server into CLI
 - [things-go/go-socks5](https://github.com/things-go/go-socks5) – socks5 server in pure Golang with much custom optional. Full TCP/UDP and IPv4/IPv6 support. 
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1440,7 +1438,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) – Claude Code to OpenAI API Proxy
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
@@ -1819,6 +1817,7 @@
 - [actions/setup-go](https://github.com/actions/setup-go) – Set up your GitHub Actions workflow with a specific version of Go
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) – Yarle - The ultimate converter of Evernote notes to Markdown
 - [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) – A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank.
+- [amalshaji/portr](https://github.com/amalshaji/portr) – Expose local http, tcp or websocket connections to the public internet
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) – Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
