@@ -338,7 +338,6 @@
 - [Skarlso/data-structures-and-algorithms](https://github.com/Skarlso/data-structures-and-algorithms) – Go based code for the book Data Structures and Algorithms
 - [SlyMarbo/rss](https://github.com/SlyMarbo/rss) – A Go library for fetching, parsing, and updating RSS feeds.
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
-- [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) – Standalone client for proxies of Windscribe browser extension
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Infrastructure as code for DNS!
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) – The Evolution of a Go Programmer
@@ -384,6 +383,7 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) – An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client
+- [apache/casbin](https://github.com/apache/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) – Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -436,7 +436,6 @@
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) – Caddy module: dns.providers.cloudflare
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caic-xyz/md](https://github.com/caic-xyz/md) – My Development container
-- [casbin/casbin](https://github.com/casbin/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) – Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [catenacyber/ngolo-fuzzing](https://github.com/catenacyber/ngolo-fuzzing) – Automatic fuzz targets generation for Golang packages
 - [catenacyber/perfsprint](https://github.com/catenacyber/perfsprint) – Golang linter to use strconv
@@ -818,7 +817,7 @@
 - [multiformats/multiaddr](https://github.com/multiformats/multiaddr) – Composable and future-proof network addresses
 - [multiprocessio/fakegen](https://github.com/multiprocessio/fakegen) – Single binary CLI for generating structured JSON, CSV, Excel, etc.
 - [multiprocessio/go-sqlite3-stdlib](https://github.com/multiprocessio/go-sqlite3-stdlib) – A standard library for mattn/go-sqlite3 including best-effort date parsing, url parsing, math/string functions, and stats aggregation functions
-- [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
@@ -897,7 +896,7 @@
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) – Exporter for Consul metrics
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) – Push docker images directly to remote servers without an external registry
-- [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) – ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [qiniu/goc](https://github.com/qiniu/goc) – A Comprehensive Coverage Testing System for The Go Programming Language
@@ -1084,6 +1083,7 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
+- [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) – practice made claude perfect
@@ -1572,7 +1572,7 @@
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
@@ -1795,7 +1795,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) – Vane is an AI-powered answering engine.
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -1863,7 +1863,6 @@
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
-- [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
@@ -1929,7 +1928,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
-- [upstash/context7](https://github.com/upstash/context7) – Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
 - [voideditor/void](https://github.com/voideditor/void)
