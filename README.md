@@ -207,6 +207,7 @@
 - [dockage/tor-privoxy](https://github.com/dockage/tor-privoxy) – Docker Tor proxy (http and shell) built on Alpine Linux
 - [frequenz-floss/contai](https://github.com/frequenz-floss/contai) – A very opinionated Docker-based sandbox for AI CLI tools
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) – 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [indirect/flyapp-mastodon](https://github.com/indirect/flyapp-mastodon) – mastodon on fly.io
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
 - [juev/caddy](https://github.com/juev/caddy) – Custom Caddy build with additional plugins for enhanced functionality
@@ -1313,7 +1314,6 @@
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) – In this repository we have collected all awesome tools for iranian people
 - [hzrd149/blossom](https://github.com/hzrd149/blossom) – Blobs stored simply on mediaservers
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [joplin/plugins](https://github.com/joplin/plugins) – Joplin official plugin repository
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) – From Shell to Plate: Savor the Zest of Fish 🦞
 - [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) – A curated list of awesome jq tools and resources.
@@ -1576,6 +1576,7 @@
 - [psarna/edgemail](https://github.com/psarna/edgemail)
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) – CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
