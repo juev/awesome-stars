@@ -384,7 +384,7 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) – An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client
-- [apache/casbin](https://github.com/apache/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [apache/casbin](https://github.com/apache/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) – Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -1026,7 +1026,7 @@
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) – Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) – Community managed domain list. Generate geosite.dat for V2Ray.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) – A platform for building proxies to bypass network restrictions.
@@ -1320,6 +1320,7 @@
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [juev/links](https://github.com/juev/links)
+- [juev/podman-quadlet](https://github.com/juev/podman-quadlet) – Podman Quadlet service definitions for systemd — rootless, compose-free alternative to docker-compose
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions)
 - [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) – 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) – Bootstrap Kubernetes the hard way. No scripts.
@@ -1524,7 +1525,7 @@
 - [altsem/gitu](https://github.com/altsem/gitu) – A TUI Git client inspired by Magit
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Making your shell magical
 - [block/goose](https://github.com/block/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -1635,7 +1636,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) – Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) – WireGuard VPN installer for Linux servers
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) – docker-compose for testing any-sync
+- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) – Deploy your own any-sync network with Docker Compose - self-host Anytype backend
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager [maintainer=@kennyp]
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [ax/apk.sh](https://github.com/ax/apk.sh) – Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
@@ -1791,7 +1792,7 @@
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) – Autonomous multi-session AI coding
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) – Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) – Open Source Alternative to Vercel, Netlify and Heroku.
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
@@ -1863,7 +1864,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
