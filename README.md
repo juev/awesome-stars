@@ -338,7 +338,6 @@
 - [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) – Go(lang) examples - (explain the basics of #golang)
 - [Skarlso/data-structures-and-algorithms](https://github.com/Skarlso/data-structures-and-algorithms) – Go based code for the book Data Structures and Algorithms
 - [SlyMarbo/rss](https://github.com/SlyMarbo/rss) – A Go library for fetching, parsing, and updating RSS feeds.
-- [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) – Standalone client for proxies of Opera VPN
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) – Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) – Infrastructure as code for DNS!
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) – The Evolution of a Go Programmer
@@ -1603,7 +1602,7 @@
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) – Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) – opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) – opensource secure local-first sandboxes for ai agents
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with LLMs.
 
 <div id="scss"></div>
