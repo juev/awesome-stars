@@ -446,7 +446,7 @@
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) – ⏱ The exponential backoff algorithm in Go
 - [centrifugal/gocent](https://github.com/centrifugal/gocent) – Go library to communicate with Centrifugo HTTP API
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) – Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) – Build AI agents with Go. Multiple providers, multiple models, one API 🧙
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) – Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – Backup and restore Ed25519 SSH keys with seed words 🫠
@@ -1125,7 +1125,7 @@
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) – ⚡️ Quickly generate a disposable email straight from terminal.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -1149,7 +1149,7 @@
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) – ZeroTier network controller UI
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) – Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) – MCP is the protocol for tool access. We're the virtualization layer for context.
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) – Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
@@ -1405,6 +1405,7 @@
 - [CodeAlive-AI/agents-reflection-skills](https://github.com/CodeAlive-AI/agents-reflection-skills) – A comprehensive collection of meta-skills for Claude Code that enable self-management and reflection capabilities
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – CLI-Anything: Making ALL Software Agent-Native
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -1439,6 +1440,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) – Claude Code to OpenAI API Proxy
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
@@ -1531,6 +1533,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
+- [cjpais/Handy](https://github.com/cjpais/Handy) – A free, open source, and extensible speech-to-text application that works completely offline.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [containers/podlet](https://github.com/containers/podlet) – Generate Podman Quadlet files from a Podman command, compose file, or existing object
@@ -1678,6 +1681,7 @@
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) – A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
@@ -1800,11 +1804,11 @@
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [LuminPulse-AI/Prismer](https://github.com/LuminPulse-AI/Prismer) – Open Source Research Claw
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) – Open Source Research Claw
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI agent that lives in your terminal.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
@@ -1844,7 +1848,7 @@
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
