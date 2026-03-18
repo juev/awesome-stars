@@ -666,7 +666,7 @@
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) – simple sshclient with go
 - [helm/helm](https://github.com/helm/helm) – The Kubernetes Package Manager
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Distributed server for social and realtime games and apps.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) – Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [hexops/autogold](https://github.com/hexops/autogold) – Automatically update your Go tests
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) – manager http、socks4、socks4a、socks5、shadowsocks 
