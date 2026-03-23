@@ -831,7 +831,7 @@
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) – readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
-- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wazero
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wasm2go
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [neuralink/tsui](https://github.com/neuralink/tsui) – An (experimental) elegant TUI for configuring Tailscale.
@@ -1300,7 +1300,6 @@
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) – An overview of Go syntax and features.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
-- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – Free proxy,VPN,免费代理,网络加速,科学上网,机场订阅,翻墙,梯子 無料プロキシ 무료 프록시 Gratis gratuit Бесплатный прокси gratuito Gratis  Darmowe  Ücretsiz  بروكسي مجاني मुफ्त प्रॉक्सी พร็อกซีฟรี miễn phí
 - [brave/brave-browser](https://github.com/brave/brave-browser) – Brave browser for Android, iOS, Linux, macOS, Windows.
 - [brodi1/activitypub-relays](https://github.com/brodi1/activitypub-relays) – A sorted list of ActivityPub relays for Mastodon or Pleroma....
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) – Awesome emacs config files
@@ -1427,6 +1426,7 @@
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
 - [anthropics/skills](https://github.com/anthropics/skills) – Public repository for Agent Skills
+- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1441,7 +1441,6 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) – Claude Code to OpenAI API Proxy
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
@@ -1483,7 +1482,7 @@
 - [simonw/llm-gguf](https://github.com/simonw/llm-gguf) – Run models distributed as GGUF files using LLM
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) – Python CLI utility and library for manipulating SQLite databases
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) – A bridge between Streamable HTTP and stdio MCP transports
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -1849,6 +1848,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
