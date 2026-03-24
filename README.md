@@ -933,6 +933,7 @@
 - [rsc/github](https://github.com/rsc/github)
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
 - [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI is an open source client for container development
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) – 🧑‍🎨 A collection of Golang agentic skills that works
 - [samber/do](https://github.com/samber/do) – ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -1081,6 +1082,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
@@ -1848,7 +1850,6 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) – Official GitHub Action for golangci-lint from its authors
