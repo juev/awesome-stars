@@ -1066,7 +1066,7 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – The Airgap Native Package Manager for Kubernetes
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
-- [zk-org/zk](https://github.com/zk-org/zk) – A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) – Plain text note-taking assistant
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
 - [zsais/go-gin-prometheus](https://github.com/zsais/go-gin-prometheus) – Gin Web Framework Prometheus metrics exporter
 
@@ -1082,7 +1082,6 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
@@ -1443,6 +1442,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) – A personal feed reader
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) – Claude Code to OpenAI API Proxy
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
@@ -1451,6 +1451,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) – The best ChatGPT that $100 can buy.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -1868,7 +1869,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
