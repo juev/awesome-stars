@@ -155,6 +155,7 @@
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [davidcava/shadowsocks-libev-dsm](https://github.com/davidcava/shadowsocks-libev-dsm) –  Synology DSM packages for Shadowsocks-libev.
+- [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) – A distraction-free and highly customizable theme for Obsidian.
 - [mayank99/reset.css](https://github.com/mayank99/reset.css) – a css reset for 2024 and beyond.
 - [picocss/pico](https://github.com/picocss/pico) – Minimal CSS Framework for semantic HTML
@@ -1311,6 +1312,7 @@
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
+- [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) – In this repository we have collected all awesome tools for iranian people
 - [hzrd149/blossom](https://github.com/hzrd149/blossom) – Blobs stored simply on mediaservers
 - [joplin/plugins](https://github.com/joplin/plugins) – Joplin official plugin repository
@@ -1451,7 +1453,6 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) – The best ChatGPT that $100 can buy.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kislyuk/yq](https://github.com/kislyuk/yq) – Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -2105,7 +2106,6 @@
 - [drcode/zek](https://github.com/drcode/zek)
 - [elerch/aws-sdk-for-zig](https://github.com/elerch/aws-sdk-for-zig) – AWS SDK for Zig. This is a readonly mirror of https://git.lerch.org/lobo/aws-sdk-for-zig, although Issues/PRs are welcome!
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) – 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) – Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
