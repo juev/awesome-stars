@@ -243,7 +243,7 @@
 - [abo-abo/oremacs](https://github.com/abo-abo/oremacs) – My Emacs config
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) – MinEmacs: an Emacs configuration framework for daily use
 - [bbatsov/crux](https://github.com/bbatsov/crux) – A Collection of Ridiculously Useful eXtensions for Emacs
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) – Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [conao3/leaf.el](https://github.com/conao3/leaf.el) – Flexible, declarative, and modern init.el package configuration
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) – An unofficial Copilot plugin for Emacs.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) – An example of a fully custom Emacs configuration developed live on YouTube!
@@ -857,7 +857,6 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
 - [openziti/ziti](https://github.com/openziti/ziti) – The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
-- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) – A management framework for extending Kubernetes with Operators
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) – a thread-safe concurrent map for go
 - [orijtech/structslop](https://github.com/orijtech/structslop) – structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
@@ -1472,6 +1471,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [oraios/serena](https://github.com/oraios/serena) – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
