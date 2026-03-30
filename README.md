@@ -839,7 +839,7 @@
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) – gRPC Test Utilities for Golang
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) – Translate your Go program into multiple languages.
-- [nikivdev/go](https://github.com/nikivdev/go) – Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) – Go tools, libraries
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) – 🎄 Go code coverage to SVG treemap
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) – 🦩 Tools for Go projects
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
@@ -1573,7 +1573,7 @@
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
 - [nikivdev/flow](https://github.com/nikivdev/flow) – Everything you need to move your project faster
-- [nikivdev/rust](https://github.com/nikivdev/rust) – Rust tools, libraries and other code
+- [nikivdev/rust](https://github.com/nikivdev/rust) – Rust tools, libraries
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
@@ -1611,7 +1611,6 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [xen0n/autojump-rs](https://github.com/xen0n/autojump-rs) – A fast drop-in replacement of autojump written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) – Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) – A git prepare-commit-msg hook for authoring commit messages with LLMs.
 
 <div id="scss"></div>
