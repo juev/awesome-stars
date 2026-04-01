@@ -558,6 +558,7 @@
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gastownhall/gastown](https://github.com/gastownhall/gastown) – Gas Town - multi-agent workspace manager
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
@@ -976,7 +977,6 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) – KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [stamblerre/advent-of-code-2024](https://github.com/stamblerre/advent-of-code-2024)
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) – A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
-- [steveyegge/gastown](https://github.com/steveyegge/gastown) – Gas Town - multi-agent workspace manager
 - [stretchr/objx](https://github.com/stretchr/objx) – Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) – Load environment variables from `.env` or `io.Reader` in Go.
@@ -1129,7 +1129,7 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
@@ -1310,6 +1310,7 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) – Integrate the DeepSeek API into popular software
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) – Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
@@ -1603,7 +1604,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – secure, local-first and programmable sandboxes for AI agents
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
@@ -1822,6 +1823,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) – Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) – Teams-first Multi-agent orchestration for Claude Code
 - [abi/secret-llama](https://github.com/abi/secret-llama) – Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) – 📦 GitHub Action for Rust `cargo` command
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) – 📎 GitHub Action for PR annotations with clippy warnings
@@ -1851,7 +1853,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
