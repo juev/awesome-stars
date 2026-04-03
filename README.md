@@ -1131,6 +1131,7 @@
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) – The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Web-extension for bypassing censorship in Russia
@@ -1322,7 +1323,6 @@
 - [juev/awesome-stars](https://github.com/juev/awesome-stars) – 🌟 Denis's starred repos, updated daily!
 - [juev/gitea-on-fly](https://github.com/juev/gitea-on-fly) – Gitea server with fly.io
 - [juev/links](https://github.com/juev/links)
-- [juev/podman-quadlet](https://github.com/juev/podman-quadlet) – Podman Quadlet service definitions for systemd — rootless, compose-free alternative to docker-compose
 - [juev/tailscale-github-actions](https://github.com/juev/tailscale-github-actions)
 - [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) – 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) – Bootstrap Kubernetes the hard way. No scripts.
@@ -1407,8 +1407,8 @@
 - [CodeAlive-AI/agents-reflection-skills](https://github.com/CodeAlive-AI/agents-reflection-skills) – A comprehensive collection of meta-skills for Claude Code that enable self-management and reflection capabilities
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – CLI-Anything: Making ALL Software Agent-Native
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -1425,7 +1425,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) – all of the workflows of n8n i could find (also from the site itself)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
-- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) – SimpleMem: Efficient Lifelong Memory for LLM Agents
+- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) – SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
@@ -1683,6 +1683,7 @@
 - [juev/cronjob](https://github.com/juev/cronjob) – Github Actions
 - [juev/debian-ikev2-vpn-server](https://github.com/juev/debian-ikev2-vpn-server) – IKEv2 VPN Server on Debain, with .mobileconfig for iOS & macOS.
 - [juev/docker-compose](https://github.com/juev/docker-compose) – Examples of services that can be deployed independently using docker
+- [juev/podman-quadlet](https://github.com/juev/podman-quadlet) – Podman Quadlet service definitions for systemd — rootless, compose-free alternative to docker-compose
 - [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) – Licensed Under AGPL v3
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) – 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
@@ -1824,6 +1825,7 @@
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) – Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) – Teams-first Multi-agent orchestration for Claude Code
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) – OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [abi/secret-llama](https://github.com/abi/secret-llama) – Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) – 📦 GitHub Action for Rust `cargo` command
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) – 📎 GitHub Action for PR annotations with clippy warnings
