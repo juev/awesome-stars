@@ -480,7 +480,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Built-in AI-Agents handles creating and debugging workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1409,6 +1409,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) – 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -1529,12 +1530,12 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [altsem/gitu](https://github.com/altsem/gitu) – A TUI Git client inspired by Magit
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Making your shell magical
-- [block/goose](https://github.com/block/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
