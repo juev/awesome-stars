@@ -223,7 +223,7 @@
 ## Elixir
 
 - [firezone/firezone](https://github.com/firezone/firezone) – Enterprise-ready zero-trust access platform built on WireGuard®.
-- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) – Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 <div id="elm"></div>
 
