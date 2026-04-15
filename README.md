@@ -463,6 +463,7 @@
 - [coder/agentapi](https://github.com/coder/agentapi) – HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [coder/quartz](https://github.com/coder/quartz) – A Go time testing library for writing deterministic unit tests
 - [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
+- [coder/websocket](https://github.com/coder/websocket) – Minimal and idiomatic WebSocket library for Go
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
 - [cohesivestack/valgo](https://github.com/cohesivestack/valgo) – Valgo is a type-safe, expressive, and extensible validator library for Golang. Supports localization and is built with generics.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
@@ -528,7 +529,7 @@
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [erigontech/erigon](https://github.com/erigontech/erigon) – Ethereum implementation on the efficiency frontier 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) – Go implementation of the Ethereum protocol
-- [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [evmar/cms](https://github.com/evmar/cms) – tiny content management system I use for my website, unlikely of interest to anyone else
 - [expectto/be](https://github.com/expectto/be) – Wide collection of Golang assertions: Gomega and Gomock compatible matchers
 - [expr-lang/expr](https://github.com/expr-lang/expr) – Expression language and expression evaluation for Go
@@ -1412,7 +1413,7 @@
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) – The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) – The best-benchmarked open-source AI memory system. And it's free.
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
@@ -1694,7 +1695,7 @@
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
-- [nextcloud/docker](https://github.com/nextcloud/docker) – ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) – A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – The official Pi-hole Docker image from pi-hole.net
@@ -1857,7 +1858,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The API to search, scrape, and interact with the web for AI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and reverse proxy for remote access
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
