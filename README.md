@@ -871,7 +871,7 @@
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) – goshs is a replacement for Python's SimpleHTTPServer. It is a feature-rich file server supporting HTTP/S, WebDAV, SFTP, and SMB — with built-in authentication, share links, webhooks, and collaboration features for penetration testing and CTF challenges.
+- [patrickhener/goshs](https://github.com/patrickhener/goshs) – Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · SFTP · SMB · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) – Group peer to peer video calls for everyone written in Go and TypeScript
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
@@ -1497,7 +1497,6 @@
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
-- [umputun/cc-thingz](https://github.com/umputun/cc-thingz) – various things for claude code
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -1604,7 +1603,7 @@
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
@@ -1718,6 +1717,7 @@
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) – ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Docker Image. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [tw93/Mole](https://github.com/tw93/Mole) – 🐹 Deep clean and optimize your Mac.
+- [umputun/cc-thingz](https://github.com/umputun/cc-thingz) – various things for claude code
 - [umputun/github-backup-docker](https://github.com/umputun/github-backup-docker) – Docker wrapper for github-backup
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) – Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) – Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
