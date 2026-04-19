@@ -1311,7 +1311,6 @@
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) – Integrate the DeepSeek API into popular software
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) – One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) – A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
@@ -1338,6 +1337,7 @@
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) – A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) – A curated list of static web site generators.
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite extension registry
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
@@ -1859,7 +1859,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The API to search, scrape, and interact with the web for AI
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access.
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
