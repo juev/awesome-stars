@@ -1878,7 +1878,6 @@
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) – Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [jina-ai/reader](https://github.com/jina-ai/reader) – Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [juev/hledger-vscode](https://github.com/juev/hledger-vscode) – vscode extension with language pack for hledger
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
@@ -1893,7 +1892,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
@@ -1901,6 +1900,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
