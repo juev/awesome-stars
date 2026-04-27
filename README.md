@@ -561,7 +561,7 @@
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [georgysavva/scany](https://github.com/georgysavva/scany) – Library for scanning data from a database into Go structs and more
 - [getanteon/anteon](https://github.com/getanteon/anteon) – Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) – OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) – OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [getlantern/geneva](https://github.com/getlantern/geneva) – Port of Geneva to Go
 - [getlantern/samizdat](https://github.com/getlantern/samizdat) – Censorship resistant protocol using latest research and practice.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
