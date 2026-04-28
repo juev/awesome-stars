@@ -555,7 +555,7 @@
 - [frantchessico/zogo](https://github.com/frantchessico/zogo)
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) – Gas Town - multi-agent workspace manager
 - [gavraz/lazy](https://github.com/gavraz/lazy) – A lazy iterator for lazy programmers
 - [gdbinit/age](https://github.com/gdbinit/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -871,7 +871,7 @@
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) – 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) – Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · SFTP · SMB · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
+- [patrickhener/goshs](https://github.com/patrickhener/goshs) – Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) – Group peer to peer video calls for everyone written in Go and TypeScript
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
@@ -1476,6 +1476,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [openai/skills](https://github.com/openai/skills) – Skills Catalog for Codex
 - [oraios/serena](https://github.com/oraios/serena) – A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
