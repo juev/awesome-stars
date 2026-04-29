@@ -309,7 +309,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) – Visualize Go Dependency Trees
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) – ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
@@ -605,7 +605,7 @@
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) – Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [goadesign/goa](https://github.com/goadesign/goa) – Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
 - [gobuffalo/plush](https://github.com/gobuffalo/plush) – The powerful template system that Go needs
-- [gobwas/ws](https://github.com/gobwas/ws) – Tiny WebSocket library for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) – A tiny WebSocket library for Go.
 - [goccy/go-json](https://github.com/goccy/go-json) – Fast JSON encoder/decoder compatible with encoding/json for Go
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) – YAML support for the Go language
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
@@ -1566,7 +1566,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
-- [katanemo/plano](https://github.com/katanemo/plano) – Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) – Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. Now part of DigitalOcean's AI-Native Cloud.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1676,7 +1676,7 @@
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-nv/goenv](https://github.com/go-nv/goenv) – :blue_car: Like pyenv and rbenv, but for Go.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) – OSS-Fuzz - continuous fuzzing for open source software.
-- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) – OpenTelemetry backend in a Docker image
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) – An OpenTelemetry backend in a Docker container image
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) – A collection of configs for various VPN providers
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) – This script automates setting up proxy related tools in Linux.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) – Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
@@ -1862,7 +1862,7 @@
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The API to search, scrape, and interact with the web for AI
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
