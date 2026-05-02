@@ -295,6 +295,7 @@
 - [CGamesPlay/dfm](https://github.com/CGamesPlay/dfm) – dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) – Sql mock driver for golang to test database interactions
 - [DHowett/go-plist](https://github.com/DHowett/go-plist) – A pure Go Apple Property List transcoder
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) – Infrastructure as code for DNS!
 - [DataDog/gostackparse](https://github.com/DataDog/gostackparse) – Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s.
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) – Automatic compile-time instrumentation of Go code
 - [EchoVault/SugarDB](https://github.com/EchoVault/SugarDB) – Embeddable and distributed in-memory alternative to Redis.
@@ -688,7 +689,6 @@
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) – Infrastructure as code for DNS!
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) – Session manager and task runner for tmux. Start your development environment within one command.
 - [izniburak/pipeline-go](https://github.com/izniburak/pipeline-go) – Pipeline pattern for your jobs, tasks, etc.. (Golang)
 - [jackc/pgx](https://github.com/jackc/pgx) – PostgreSQL driver and toolkit for Go
@@ -1026,6 +1026,7 @@
 - [umputun/ralphex](https://github.com/umputun/ralphex) – Extended Ralph loop for autonomous AI-driven plan execution
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
 - [usememos/memos](https://github.com/usememos/memos) – Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -1950,7 +1951,6 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
 - [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
