@@ -359,6 +359,7 @@
 - [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) – A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources 
 - [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) – gomonkey is a library to make monkey patching in unit tests easy
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) – Faster way to switch between clusters and namespaces in kubectl
+- [aidlx/rssnix](https://github.com/aidlx/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [ajitid/telltail-center](https://github.com/ajitid/telltail-center) – Telltail: Universal Clipboard for Text
 - [alebeck/boring](https://github.com/alebeck/boring) – The `boring`  SSH tunnel manager
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) – A general purpose syntax highlighter in pure Go 
@@ -651,7 +652,6 @@
 - [gtramontina/ooze](https://github.com/gtramontina/ooze) – 🧬 Go Mutation Testing
 - [guregu/null](https://github.com/guregu/null) – reasonable handling of nullable values
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
-- [h2337/rssnix](https://github.com/h2337/rssnix) – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [h2non/gock](https://github.com/h2non/gock) – HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽
 - [hacdias/webdav](https://github.com/hacdias/webdav) – A simple and standalone WebDAV server.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – A dead simple 2D game engine for Go
@@ -1432,7 +1432,7 @@
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) – SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [akhater/Lupin](https://github.com/akhater/Lupin)
 - [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) – Async MTProto proxy for Telegram
-- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
+- [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [anthropics/skills](https://github.com/anthropics/skills) – Public repository for Agent Skills
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
