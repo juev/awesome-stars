@@ -481,7 +481,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Local-first workflow engine built in a way it should be: single binary with built-in WebUI, simple declarative YAML definitions, file-based.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -566,7 +566,7 @@
 - [getlantern/geneva](https://github.com/getlantern/geneva) – Port of Geneva to Go
 - [getlantern/samizdat](https://github.com/getlantern/samizdat) – Censorship resistant protocol using latest research and practice.
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple TLS proxy with mutual authentication for securing non-TLS services.
 - [gin-contrib/authz](https://github.com/gin-contrib/authz) – gin-authz is an authorization middleware for Gin
 - [gin-contrib/cors](https://github.com/gin-contrib/cors) – Official CORS gin's middleware
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) – Request ID middleware for Gin Framework
