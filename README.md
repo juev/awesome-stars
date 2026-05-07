@@ -1528,6 +1528,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
+- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) – Coding agent for DeepSeek models that runs in your terminal
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
@@ -1885,7 +1886,7 @@
 - [juev/hledger-vscode](https://github.com/juev/hledger-vscode) – vscode extension with language pack for hledger
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Claude Code, Codex, OpenCode and more.
 - [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
