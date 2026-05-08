@@ -370,7 +370,7 @@
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
-- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) – Tailscale Docker Proxy
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) – Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
@@ -753,7 +753,7 @@
 - [kubernetes/code-generator](https://github.com/kubernetes/code-generator) – Generators for kube-like API types
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) – Production-Grade Container Scheduling and Management
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) – 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
-- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) – Install Kubernetes/K3s, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
+- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) – Install Kubernetes, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 - [kyoh86/richgo](https://github.com/kyoh86/richgo) – Enrich `go test` outputs with text decorations.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [leomos/dwgd](https://github.com/leomos/dwgd) – Docker WireGuard Driver
@@ -1847,7 +1847,6 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) – Codex++ tweak system for the Codex desktop app
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) – AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -1863,6 +1862,7 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [docmost/docmost](https://github.com/docmost/docmost) – Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [earendil-works/pi](https://github.com/earendil-works/pi) – AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
@@ -1886,7 +1886,7 @@
 - [juev/hledger-vscode](https://github.com/juev/hledger-vscode) – vscode extension with language pack for hledger
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Claude Code, Codex, OpenCode and more.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
 - [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
