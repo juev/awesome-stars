@@ -311,6 +311,7 @@
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) – Visualize Go Dependency Trees
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun) 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) – ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
@@ -1077,7 +1078,6 @@
 
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun) 
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
