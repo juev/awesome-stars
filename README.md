@@ -724,6 +724,7 @@
 - [juev/getpocket-collector](https://github.com/juev/getpocket-collector)
 - [juev/hledger-lsp](https://github.com/juev/hledger-lsp) – Language Server Protocol (LSP) implementation for hledger journal files
 - [juev/instapaper-collector](https://github.com/juev/instapaper-collector) – Instapaper RSS link collector — fetches articles, deduplicates, generates weekly markdown pages
+- [juev/nebula-mesh](https://github.com/juev/nebula-mesh) – Self-hosted control plane for Slack Nebula mesh VPN — issue certificates, manage hosts, distribute config from one place. Go + SQLite + htmx.
 - [juev/prometheus-db-exporter](https://github.com/juev/prometheus-db-exporter) – Prometheus database exporter (Oracle, Postgres, Mysql) for using with Business metrics
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [juev/sync](https://github.com/juev/sync) – Sync Pocket links to Linkding
@@ -1129,6 +1130,7 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) – 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) – Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
@@ -1250,7 +1252,6 @@
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) – 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
 
@@ -1910,13 +1911,13 @@
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) – Turn GitHub into a bookmark manager
 - [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) – The knowledge IDE
 - [ospfranco/sol](https://github.com/ospfranco/sol) – MacOS launcher & command palette
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) – Open-source orchestration for zero-human companies
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) – The open-source app everyone uses to manage agents at work
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -2049,7 +2050,6 @@
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) – seamless integration for vim and tmux's clipboard
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) – Vim configuration for Rust.
 - [saaguero/dotvim](https://github.com/saaguero/dotvim) – My cross-platform vimrc
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) – A solid language pack for Vim.
 - [sjl/badwolf](https://github.com/sjl/badwolf) – A Vim color scheme.
 - [sjl/clam.vim](https://github.com/sjl/clam.vim) – A lightweight Vim plugin for working with shell commands.
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) – :rocket: Modern Task System for Project Building, Testing and Deploying !!
@@ -2073,6 +2073,7 @@
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) – Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) – Vim Space Controller
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) – A solid language pack for Vim.
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
