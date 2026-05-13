@@ -1069,7 +1069,7 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) – The Airgap Native Package Manager for Kubernetes
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) – Mutation testing for Go source code
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
-- [zk-org/zk](https://github.com/zk-org/zk) – Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) – A plain text note-taking assistant for Zettelkasten or otherwise
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) – Low-level Go interface to SQLite 3
 - [zsais/go-gin-prometheus](https://github.com/zsais/go-gin-prometheus) – Gin Web Framework Prometheus metrics exporter
 
@@ -1122,7 +1122,6 @@
 
 ## JavaScript
 
-- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) – 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) – ⚡️ Quickly generate a disposable email straight from terminal.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
@@ -1315,7 +1314,6 @@
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) – Integrate the DeepSeek API into popular software
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Community guide to securing and improving privacy on macOS.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) – One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) – A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) – Go Practical Tips
 - [go-perf/awesome-go-perf](https://github.com/go-perf/awesome-go-perf) – A curated list of Awesome Go performance libraries and tools
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) – fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
@@ -1342,6 +1340,7 @@
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) – A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) – A curated list of static web site generators.
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) – SQLite extension registry
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) – A guide to using Lua in Neovim
@@ -1552,6 +1551,7 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [containers/podlet](https://github.com/containers/podlet) – Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [doy/rbw](https://github.com/doy/rbw) – unofficial bitwarden cli
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
@@ -1812,6 +1812,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) – Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) – Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys.
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) – Autonomous multi-session AI coding
+- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) – 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) – Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) – Chrome DevTools for coding agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) – The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
@@ -1854,7 +1855,7 @@
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) – Scheduling infrastructure for absolutely everyone.
-- [cline/cline](https://github.com/cline/cline) – Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) – Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [cloudflare/meet](https://github.com/cloudflare/meet)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
@@ -1869,6 +1870,7 @@
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 The API to search, scrape, and interact with the web for AI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [garrytan/gbrain](https://github.com/garrytan/gbrain) – Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
