@@ -75,9 +75,9 @@
 ## Astro
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) – Cassidy's blog template built with Astro and TinaCMS!
 - [kevincobain2000/gol](https://github.com/kevincobain2000/gol) – No you don't need a 64GB RAM and ElasticSearch. An all in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed.
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) – 🤘Open source programming font
 
 <div id="c"></div>
@@ -215,7 +215,6 @@
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Docker image with 3proxy - Tiny free proxy server
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) – 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 
 <div id="elixir"></div>
@@ -345,7 +344,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) – Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) – Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-- [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [VictoriaMetrics/metrics](https://github.com/VictoriaMetrics/metrics) – Lightweight alternative to github.com/prometheus/client_golang
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) – A collection of useful, performant, and threadsafe Go datastructures.
@@ -1228,6 +1227,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 
 <div id="makefile"></div>
 
@@ -1587,6 +1587,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
+- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
@@ -1821,8 +1822,6 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) – REST Client Extension for Visual Studio Code
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) – Vane is an AI-powered answering engine.
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) – 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
@@ -1893,6 +1892,8 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/web-check](https://github.com/lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) – Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [maksim77/gitcheck](https://github.com/maksim77/gitcheck)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) – A powerful, flexible, Markdown-based authoring framework.
@@ -2130,7 +2131,6 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) – 📦 A package manager for the Zig programming language.
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) – Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open, technical and introductory book for the Zig programming language 📚📖
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) – Moved to Codeberg
