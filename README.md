@@ -215,6 +215,7 @@
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) – 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 
 <div id="elixir"></div>
@@ -1002,7 +1003,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) – A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 - [tidwall/btree](https://github.com/tidwall/btree) – B-tree implementation for Go
-- [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [tidwall/jj](https://github.com/tidwall/jj) – JSON Stream Editor (command line utility)
 - [tidwall/sjson](https://github.com/tidwall/sjson) – Set JSON values very quickly in Go
 - [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) – Fast deep-copy library for Go
@@ -1227,7 +1228,6 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) – G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 
 <div id="makefile"></div>
 
