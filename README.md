@@ -503,7 +503,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) – A high performance memory-bound Go cache
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
-- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Detect and fix struct field alignment to reduce memory usage in Go programs
 - [dkron-io/dkron](https://github.com/dkron-io/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [dlclark/regexp2](https://github.com/dlclark/regexp2) – A full-featured regex engine in pure Go based on the .NET engine
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
@@ -1135,7 +1135,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) – Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) – The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) – The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Web-extension for bypassing censorship in Russia
@@ -1412,7 +1412,8 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) – Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -1598,6 +1599,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) – CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) – Analyze coding (agent) CLI token usage and costs from local data.
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) – Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [sekey/sekey](https://github.com/sekey/sekey) – Use Touch ID / Secure Enclave for SSH Authentication!
@@ -1827,6 +1829,7 @@
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) – Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) – Open Source Research Claw
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI agent that lives in your terminal.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -1857,7 +1860,7 @@
 - [cline/cline](https://github.com/cline/cline) – Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [cloudflare/meet](https://github.com/cloudflare/meet)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
-- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot library for CloudFlare Workers
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -1930,7 +1933,6 @@
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) – 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) – Analyze coding (agent) CLI token usage and costs from local data.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
