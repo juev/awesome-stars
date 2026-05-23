@@ -53,6 +53,7 @@
 - [Text](#text)
 - [Tree-Sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vim Script](#vim-script)
 - [VimL](#viml)
@@ -483,7 +484,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Local-first control plane for data scripts, SQL, containers, SSH commands, and AI agent workflows. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, and run your workflows via secure MCP with traceability and logging.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Lightweight, powerful workflow engine built in a single binary with Web UI. Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full traceability and logging.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -966,6 +967,7 @@
 - [smallstep/certificates](https://github.com/smallstep/certificates) – 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [solo-io/protoc-gen-openapi](https://github.com/solo-io/protoc-gen-openapi) – Compile Google protobufs to openAPI v3 specs
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go
+- [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) – Code AI platform with Code Search & Cody
 - [sourcegraph/webloop](https://github.com/sourcegraph/webloop) – WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
@@ -1505,7 +1507,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
-- [wshobson/agents](https://github.com/wshobson/agents) – Intelligent automation and multi-agent orchestration for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) – Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 <div id="ruby"></div>
@@ -1719,7 +1721,6 @@
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) – OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
 - [siomiz/SoftEtherVPN](https://github.com/siomiz/SoftEtherVPN) – A Docker Automated Build Repository for SoftEther VPN
-- [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) – Sourcegraph with Docker Compose deployment reference
 - [spf13/dotfiles](https://github.com/spf13/dotfiles) – spf13's dotfiles
 - [stefanmaric/g](https://github.com/stefanmaric/g) – Simple go version manager, gluten-free
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -1788,7 +1789,6 @@
 - [bolt12/master-thesis](https://github.com/bolt12/master-thesis) – Selective Functors & Probabilistic Programming
 - [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) – YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) – The book "Performance Analysis and Tuning on Modern CPU"
-- [hmemcpy/cv](https://github.com/hmemcpy/cv) – My CV / Resume
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) – Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [igrishaev/clj-book](https://github.com/igrishaev/clj-book) – Книга «Clojure на производстве»
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) – :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
@@ -1979,6 +1979,12 @@
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) – Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) – Visual Studio Code extension for zk
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) – A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+<div id="typst"></div>
+
+## Typst
+
+- [hmemcpy/cv](https://github.com/hmemcpy/cv) – My CV / Resume
 
 <div id="v"></div>
 
