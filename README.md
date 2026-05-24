@@ -484,7 +484,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Lightweight, powerful workflow engine built in a single binary with Web UI. Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full traceability and logging.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -1532,7 +1532,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
-- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) – Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Coding agent for open source, open weight models 
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
