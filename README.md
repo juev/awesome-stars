@@ -483,7 +483,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Lightweight and powerful workflow engine that comes with a Web UI. Define workflows in a declarative YAML format. Self-contained and no DBMS is required. Use any AI agent to manage your workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -645,6 +645,7 @@
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) – Gorgonia is a library that helps facilitate machine learning in Go.
 - [gorilla/feeds](https://github.com/gorilla/feeds) – Package gorilla/feeds is a golang rss/atom generator library
+- [goshs-labs/goshs](https://github.com/goshs-labs/goshs) – Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · FTP/SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
 - [gosimple/slug](https://github.com/gosimple/slug) – URL-friendly slugify with multiple languages support.
 - [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools) – A collection of packages to augment the go testing package and support common patterns.
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) – 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
@@ -875,7 +876,6 @@
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pashagolub/pgxmock](https://github.com/pashagolub/pgxmock) – pgx mock driver for golang to test database interactions 
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) – Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) – Group peer to peer video calls for everyone written in Go and TypeScript
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) – Go library for the TOML file format
@@ -1532,7 +1532,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – DeepSeek + MiMo coding agent in terminal
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
@@ -1759,7 +1759,6 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) – 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) – Window management made elegant.
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) – An ultra-light MacOS utility that helps hide menu bar icons
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
@@ -1771,6 +1770,7 @@
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) – Control the platform power state of your Apple Silicon Mac.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) – The *faster than your launcher* launcher
 - [moderato-app/approf](https://github.com/moderato-app/approf) – Play with pprof on macOS
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) – Window management made elegant.
 - [mssun/passforios](https://github.com/mssun/passforios) – Pass for iOS - an iOS client compatible with Pass command line application.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) – AeroSpace is an i3-like tiling window manager for macOS
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) – Your go-to app for VPN and privacy.
