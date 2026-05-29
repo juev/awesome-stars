@@ -319,7 +319,7 @@
 - [MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) – Bare metal to production ready in mins; your own fly server on your VPS.
 - [Mikescher/firefox-sync-client](https://github.com/Mikescher/firefox-sync-client) – A cli for firefox-sync (firefox bookmarks, passwords, account, ...)
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative data extraction engine
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) – Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) – a golang library to manage environment variables
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) – Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
@@ -483,7 +483,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -811,6 +811,7 @@
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) – panicwrap is a Go library for catching and handling panics in Go applications.
 - [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
+- [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) – The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [mohae/deepcopy](https://github.com/mohae/deepcopy) – Deep copy things
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
@@ -1870,7 +1871,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) – A glossy Matrix collaboration client for the web.
 - [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) – Lets you create profiles to include the selected extensions in the desired project.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – Exa MCP for web search and web crawling!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) – The API to search, scrape, and interact with the web at scale. 🔥
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) – Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [garrytan/gstack](https://github.com/garrytan/gstack) – Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -1906,7 +1907,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
-- [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
