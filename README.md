@@ -1237,7 +1237,6 @@
 ## Makefile
 
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
-- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) – Collection of log/slog related projects.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – [MIRROR] Small docker of Tor client
 
@@ -1268,6 +1267,7 @@
 ## Nix
 
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) – Collection of log/slog related projects.
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) – My NixOS configurations.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) – Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
