@@ -1459,7 +1459,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) – Like Vercel, but open source and for all languages.
-- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Ouroboros — self-creating AI agent. Born Feb 16, 2026.
+- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Active mirror of https://github.com/razzant/ouroboros — open issues and PRs there.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
