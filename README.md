@@ -817,6 +817,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [motemen/go-pocket](https://github.com/motemen/go-pocket) – Pocket (getpocket.com) API client for Go (golang).
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
+- [mr0xf/swimfit](https://github.com/mr0xf/swimfit) – Inspect and fix Garmin swim FIT files
 - [mrusme/journalist](https://github.com/mrusme/journalist) – Journalist. An RSS aggregator.
 - [muesli/mango](https://github.com/muesli/mango) – mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [muesli/termenv](https://github.com/muesli/termenv) – Advanced ANSI style & color support for your terminal applications
@@ -1619,7 +1620,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS & Linux
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso is an in-process SQL database, compatible with SQLite.
@@ -1932,13 +1933,13 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) – 🌊 The leading agent meta-harness platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) – 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) –  A plugin to export pages in Logseq to Hugo.
 - [sharat87/prestige](https://github.com/sharat87/prestige) – A text-based HTTP client in the browser. An interface-less Postman.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) – An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) – 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) – Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
