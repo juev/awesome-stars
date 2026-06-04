@@ -812,7 +812,7 @@
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) – panicwrap is a Go library for catching and handling panics in Go applications.
 - [mjl-/mox](https://github.com/mjl-/mox) – modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) – Parse RSS, Atom and JSON feeds in Go
-- [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN (ocserv) server with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
+- [mmtaee/ocserv-dashboard](https://github.com/mmtaee/ocserv-dashboard) – A complete and easy-to-install OpenConnect VPN server (ocserv) with a modern web-based dashboard for managing users, groups, and server settings. Includes user statistics, usage monitoring, and automated account expiration management.
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) – The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [mohae/deepcopy](https://github.com/mohae/deepcopy) – Deep copy things
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
@@ -1420,6 +1420,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) – Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) –  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) – An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
@@ -1450,7 +1451,6 @@
 - [buildinspace/peru](https://github.com/buildinspace/peru) – a generic package manager, for including other people's code in your projects
 - [camel-ai/camel](https://github.com/camel-ai/camel) – 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [danielgross/localpilot](https://github.com/danielgross/localpilot)
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [dbcli/litecli](https://github.com/dbcli/litecli) – CLI for SQLite Databases with auto-completion and syntax highlighting
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) – Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dogsheep/apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite) – Export Apple Notes to SQLite
@@ -1479,6 +1479,7 @@
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) – Generate commit messages using ChatGPT
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) – This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) – Python tool for converting files and office documents to Markdown.
+- [mims-harvard/AutoScientists](https://github.com/mims-harvard/AutoScientists) – AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation
 - [mivok/todotxt-tmsa](https://github.com/mivok/todotxt-tmsa) – todotxt-cli addon for working with the cycle
 - [miyurudassanayake/sni-injector](https://github.com/miyurudassanayake/sni-injector) – SNI Injecting tool for free internet (HTTP Injector)
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) – Communicate with an LLM provider using a single interface
@@ -1570,6 +1571,7 @@
 - [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi) – kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
 - [flox/flox](https://github.com/flox/flox) – The Deterministic Foundation for your SDLC
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [harehare/mq](https://github.com/harehare/mq) – A jq-like Markdown query language for command-line processing
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) – A proxy to expose real tls handshake to the firewall
@@ -1585,7 +1587,7 @@
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) – A 5-20x faster experimental Homebrew alternative
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) – Easy and secure paper backups of secrets
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic. Used by developers and AI coding agents.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) – CLI search and replace | Space Age seD
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) – Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) – IronClaw is an Agent OS focused on privacy, security and extensibility
@@ -1708,6 +1710,7 @@
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
+- [mattpocock/skills](https://github.com/mattpocock/skills) – Skills for Real Engineers. Straight from my .claude directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) – A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
@@ -1867,6 +1870,7 @@
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [directus/directus](https://github.com/directus/directus) – The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [docmost/docmost](https://github.com/docmost/docmost) – Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
