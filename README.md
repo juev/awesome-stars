@@ -50,7 +50,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
-- [Text](#text)
 - [Tree-Sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -1803,12 +1802,6 @@
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) – A template for writing your Bachelor, Master or PhD thesis.
 - [winitzki/sofp](https://github.com/winitzki/sofp) – A free book: "The Science of Functional Programming"
 
-<div id="text"></div>
-
-## Text
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
-
 <div id="tree-sitter-query"></div>
 
 ## Tree-Sitter Query
@@ -1899,7 +1892,7 @@
 - [juev/hledger-vscode](https://github.com/juev/hledger-vscode) – vscode extension with language pack for hledger
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) – A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
 - [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
