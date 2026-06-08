@@ -370,6 +370,7 @@
 - [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
 - [alexellis/arkade](https://github.com/alexellis/arkade) – Open Source Marketplace For Developer Tools
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) – Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [alitto/pond](https://github.com/alitto/pond) – 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) – Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
@@ -1338,7 +1339,7 @@
 - [kelsien/datagovernancepatterns](https://github.com/kelsien/datagovernancepatterns) – Decentralized Data Governance Pattern Library
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) – Obsidian Web Clipper templates for various sites.
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) – My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) – Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) – Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [kevincobain2000/action-gobrew](https://github.com/kevincobain2000/action-gobrew) – Setup Go in Github Actions using Gobrew
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
