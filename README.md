@@ -1137,7 +1137,6 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) – 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) – Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) – Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [adamwalach/openvpn-web-ui](https://github.com/adamwalach/openvpn-web-ui) – Web interface (with golang backend) for monitoring and administration of OpenVPN server
@@ -1841,6 +1840,7 @@
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) – Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) – Open Source Research Claw
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
