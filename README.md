@@ -1415,7 +1415,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ByteMysticRogue/Hiddify-Warp](https://github.com/ByteMysticRogue/Hiddify-Warp) – Warp Sub - Updating Every 12 Hours!
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) – Caddy Docker image with Cloudflare DNS module
-- [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) – Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Codex CLI, OpenCode, Cursor, Gemini CLI, Antigravity, and any agent supporting the Agent Skills standard.
+- [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) – Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, OpenCode, Cursor, Antigravity, and any agent supporting the Agent Skills standard.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
