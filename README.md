@@ -836,7 +836,7 @@
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) – Interactive code examples
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQL
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) – SQLite package manager
-- [nao1215/gup](https://github.com/nao1215/gup) – Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) – Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) – Federated Lightning addresses server.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) – readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) – Go bindings to SQLite using wasm2go
@@ -1917,7 +1917,7 @@
 - [mhansen/hledger-vscode](https://github.com/mhansen/hledger-vscode) – VSCode plugin for HLedger accounting journal file
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) – Sample code illustrating the VS Code extension API.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
