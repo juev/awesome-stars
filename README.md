@@ -40,6 +40,7 @@
 - [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -1402,6 +1403,12 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) – 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zerolabnet/tor-bridges-proxy](https://github.com/zerolabnet/tor-bridges-proxy) – Tor с SOCKS 5 proxy, TorDNS и веб-интерфейсом с авторизацией для добавления мостов
+
+<div id="powershell"></div>
+
+## PowerShell
+
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) – Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
 <div id="prolog"></div>
 
