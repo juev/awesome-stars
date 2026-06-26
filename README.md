@@ -829,7 +829,7 @@
 - [multiprocessio/go-sqlite3-stdlib](https://github.com/multiprocessio/go-sqlite3-stdlib) – A standard library for mattn/go-sqlite3 including best-effort date parsing, url parsing, math/string functions, and stats aggregation functions
 - [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
-- [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features.
 - [naggie/dsnet](https://github.com/naggie/dsnet) – FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
 - [nalgeon/be](https://github.com/nalgeon/be) – Minimal test assertions in Go
@@ -1222,7 +1222,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) – Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) – The superior project management solution for neovim.
 - [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) – 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
-- [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) – 💤 A modern plugin manager for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) – 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) – 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -1607,7 +1606,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) – IronClaw is an Agent OS focused on privacy, security and extensibility
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [neovide/neovide](https://github.com/neovide/neovide) – No Nonsense Neovim Client in Rust
-- [nikivdev/flow](https://github.com/nikivdev/flow) – Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code)
 - [nikivdev/rust](https://github.com/nikivdev/rust) – Rust tools, libraries
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
@@ -1633,7 +1632,7 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
 - [sigoden/aichat](https://github.com/sigoden/aichat) – All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Tool to build & run portable, lightweight, self-contained virtual machines.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -1701,6 +1700,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [ecliptik/tailscale-privacy-frontends](https://github.com/ecliptik/tailscale-privacy-frontends) – Privacy Friendly Frontends With Tailscale
 - [elizagamedev/.emacs.d](https://github.com/elizagamedev/.emacs.d) – My Emacs config
+- [fatih/dotfiles](https://github.com/fatih/dotfiles) – My personal dotfiles
 - [gaomd/docker-ikev2-vpn-server](https://github.com/gaomd/docker-ikev2-vpn-server) – IKEv2 VPN Server on Docker, with .mobileconfig for iOS & macOS.
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) – ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
