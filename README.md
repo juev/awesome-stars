@@ -1041,6 +1041,7 @@
 - [umputun/ralphex](https://github.com/umputun/ralphex) – Extended Ralph loop for autonomous AI-driven plan execution
 - [umputun/remark42](https://github.com/umputun/remark42) – comment engine
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [urfave/cli](https://github.com/urfave/cli) – A declarative, simple, fast, and fun package for building command line tools in Go
 - [usememos/memos](https://github.com/usememos/memos) – Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -1973,7 +1974,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) – Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 - [spacebarchat/server](https://github.com/spacebarchat/server) – Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) – 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi, Exa), AI tools (Kagi FastGPT, Exa, Linkup), and content extraction services (Firecrawl, Tavily, Kagi). Includes GitHub search. All through a single interface.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) – The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [standardnotes/app](https://github.com/standardnotes/app) – Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) – Firefox Add-on that lets you open automatically managed disposable containers
 - [stravu/crystal](https://github.com/stravu/crystal) – (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
@@ -1989,7 +1990,6 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) – Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [unjs/untun](https://github.com/unjs/untun) – 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) – The Developer Platform for Modern APIs
 - [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) – Total solution for V2Ray over Cloudflare's worker
