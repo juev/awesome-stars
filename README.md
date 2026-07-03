@@ -138,7 +138,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) – A fast and flexible keyboard launcher
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) – DuckDB is an analytical in-process SQL database management system
 - [freelan-developers/freelan](https://github.com/freelan-developers/freelan) – The main freelan repository.
-- [jank-lang/jank](https://github.com/jank-lang/jank) – The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) – jank is the native Clojure dialect with seamless C++ interop.
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) – Make a fortune quietly
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) – A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
@@ -879,6 +879,7 @@
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) – Type safe enums for Go without code generation or reflection
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
+- [owncloud/ocis](https://github.com/owncloud/ocis) – :atom_symbol: ownCloud Infinite Scale
 - [ozontech/file.d](https://github.com/ozontech/file.d) – A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) – Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [palark/ovpn-admin](https://github.com/palark/ovpn-admin) – Simple web UI to manage OpenVPN users.
@@ -948,7 +949,6 @@
 - [rsc/github](https://github.com/rsc/github)
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
 - [runfinch/finch](https://github.com/runfinch/finch) – The Finch CLI is an open source client for container development
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) – 🧑‍🎨 A collection of Golang agentic skills that works
 - [samber/do](https://github.com/samber/do) – ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) – 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -1141,7 +1141,6 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) – Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) – 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
@@ -1480,7 +1479,7 @@
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) – Claude Code to OpenAI API Proxy
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) – 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) – Like Vercel, but open source and for all languages.
 - [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Active mirror of https://github.com/razzant/ouroboros — open issues and PRs there.
@@ -1532,6 +1531,7 @@
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
+- [usestrix/strix](https://github.com/usestrix/strix) – Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [wshobson/agents](https://github.com/wshobson/agents) – Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
