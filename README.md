@@ -1461,6 +1461,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [anthropics/skills](https://github.com/anthropics/skills) – Public repository for Agent Skills
+- [autoLearnMem/AutoMem](https://github.com/autoLearnMem/AutoMem) – AutoMem: Automated Learning of Memory as a Cognitive Skill
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) – Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) – AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1527,7 +1528,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) – Documentation that simply works
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) – Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) – Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
@@ -1640,7 +1641,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
 - [sigoden/aichat](https://github.com/sigoden/aichat) – All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Tool to build & run portable, lightweight, self-contained virtual machines.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Portable, lightweight, self-contained virtual machines.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
