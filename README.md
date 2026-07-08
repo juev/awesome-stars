@@ -1139,7 +1139,6 @@
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) – ⚡️ Quickly generate a disposable email straight from terminal.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) – Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) – Userscripts to add functionality to GitHub
@@ -1435,6 +1434,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) – Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) – Free, no-nonsense, super fast blogging.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) – Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) – automated censorship evasion for the client-side and server-side 
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) –  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
@@ -1536,7 +1536,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [wshobson/agents](https://github.com/wshobson/agents) – Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 
 <div id="ruby"></div>
 
