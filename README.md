@@ -1216,6 +1216,7 @@
 
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloudflare scanner
+- [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) – Android Call/SMS blocker.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) – 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 
 <div id="lua"></div>
@@ -1564,7 +1565,6 @@
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
-- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1683,6 +1683,7 @@
 - [Nybkox/tmux-ukiyo](https://github.com/Nybkox/tmux-ukiyo) – 🌊 Multi-theme tmux status bar with menu for on the fly config changes 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) – Docker images for openvpn-as
+- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) – A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script ACME client for SSL / TLS certificate automation
