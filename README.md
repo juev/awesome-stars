@@ -1115,7 +1115,6 @@
 
 - [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) – Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 - [gwern/archiver-bot](https://github.com/gwern/archiver-bot) – Background daemon which archives a list of URLs to the Internet Archive, archive.is, and other services
-- [gwern/gwern.net](https://github.com/gwern/gwern.net) – Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
 - [jgm/gitit](https://github.com/jgm/gitit) – A wiki using HAppS, pandoc, and git
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
@@ -1166,6 +1165,7 @@
 - [google/docsy](https://github.com/google/docsy) – Hugo theme for open source documentation
 - [google/docsy-example](https://github.com/google/docsy-example) – An example documentation site using the Docsy Hugo theme
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) – uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [gwern/gwern.net](https://github.com/gwern/gwern.net) – Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) – ZeroTier network controller UI
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) – Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
