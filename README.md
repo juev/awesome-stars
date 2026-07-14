@@ -157,7 +157,6 @@
 - [cassidoo/cardstock](https://github.com/cassidoo/cardstock) – A clean Obsidian theme
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) – A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [davidcava/shadowsocks-libev-dsm](https://github.com/davidcava/shadowsocks-libev-dsm) –  Synology DSM packages for Shadowsocks-libev.
-- [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) – A distraction-free and highly customizable theme for Obsidian.
 - [mayank99/reset.css](https://github.com/mayank99/reset.css) – a css reset for 2024 and beyond.
 - [picocss/pico](https://github.com/picocss/pico) – Minimal CSS Framework for semantic HTML
@@ -1100,6 +1099,7 @@
 - [go101/go101](https://github.com/go101/go101) – An up-to-date (unofficial) knowledge base for Go programming self learning
 - [imfing/hextra](https://github.com/imfing/hextra) – 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
+- [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) – from vibe coding to agentic engineering - practice makes claude perfect
