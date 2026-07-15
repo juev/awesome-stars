@@ -462,6 +462,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [chriswalz/bit](https://github.com/chriswalz/bit) – Bit is a modern Git CLI
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) – Disposable, network-restricted Linux VMs for AI coding agents
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – The official Go library for the Cloudflare API
@@ -1565,6 +1566,7 @@
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
+- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1642,7 +1644,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
 - [sigoden/aichat](https://github.com/sigoden/aichat) – All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Portable, lightweight, self-contained virtual machines.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Portable, lightweight, self-contained virtual machine.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
@@ -1683,7 +1685,6 @@
 - [Nybkox/tmux-ukiyo](https://github.com/Nybkox/tmux-ukiyo) – 🌊 Multi-theme tmux status bar with menu for on the fly config changes 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) – Docker images for openvpn-as
-- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) – A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script ACME client for SSL / TLS certificate automation
@@ -1940,7 +1941,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
