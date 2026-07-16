@@ -462,7 +462,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [chriswalz/bit](https://github.com/chriswalz/bit) – Bit is a modern Git CLI
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
-- [clawkwork/clawk](https://github.com/clawkwork/clawk) – Disposable, network-restricted Linux VMs for AI coding agents
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) – Give coding agents a disposable Linux VM, not your laptop
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cli/oauth](https://github.com/cli/oauth) – A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) – The official Go library for the Cloudflare API
@@ -897,7 +897,6 @@
 - [picosh/git-pr](https://github.com/picosh/git-pr) – A pastebin supercharged for git collaboration
 - [picosh/pico](https://github.com/picosh/pico) – The ultimate ssh powered services for developers
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
-- [piranha/gostatic](https://github.com/piranha/gostatic) – Fast static site generator
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity and context-aware access proxy.
@@ -942,6 +941,7 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) – A fast trading bot platform for cryptocurrency in Go (Binance)
 - [rogchap/v8go](https://github.com/rogchap/v8go) – Execute JavaScript from Go
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) – Selected Go-internal packages factored out from the standard library
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) – Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) – The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [rs/dnstrace](https://github.com/rs/dnstrace) – DNS resolution tracing tool
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
@@ -957,6 +957,7 @@
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [sanity-io/litter](https://github.com/sanity-io/litter) – Litter is a pretty printer library for Go data structures to aid in debugging and testing.
+- [sansolovyov/gostatic](https://github.com/sansolovyov/gostatic) – Fast static site generator
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [sclevine/yj](https://github.com/sclevine/yj) – CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
@@ -1372,7 +1373,6 @@
 - [notable/notable](https://github.com/notable/notable) – The Markdown-based note-taking app that doesn't suck.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) – Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) – A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pthethanh/effective-go](https://github.com/pthethanh/effective-go) – a list of effective go, best practices and go idiomatic
 - [r3nya/r3nya](https://github.com/r3nya/r3nya)
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) – آموزش راه‌اندازی فیلتر شکن شخصی
@@ -1513,6 +1513,7 @@
 - [openai/skills](https://github.com/openai/skills) – Skills Catalog for Codex
 - [oraios/serena](https://github.com/oraios/serena) – A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [piku/piku](https://github.com/piku/piku) – The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) – Version controlled file system
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) – Resume builder for academics and engineers
@@ -1792,6 +1793,7 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) – Run Stable Diffusion on Mac natively
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) – 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) – Hide menu bar icons on macOS
+- [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) – Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
 - [blinksh/blink](https://github.com/blinksh/blink) – Blink Mobile Shell for iOS (Mosh based)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) – An ultra-light MacOS utility that helps hide menu bar icons
 - [halo/macosvpn](https://github.com/halo/macosvpn) – :wrench: Create macOS VPNs programmatically (L2TP & Cisco)
