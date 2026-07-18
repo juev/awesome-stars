@@ -866,7 +866,7 @@
 - [oklog/run](https://github.com/oklog/run) – A universal mechanism to manage goroutine lifecycles
 - [olebedev/when](https://github.com/olebedev/when) – A natural language date/time parser with pluggable rules
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) – Update outdated Go dependencies interactively
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) – A tool to generate Go data types from JSON Schema definitions.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) – A powerful AI coding agent. Built for the terminal.
@@ -1654,7 +1654,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 easy, fast and local-first microVM runtime
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) – A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) – A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [vinhjaxt/rust-DPI-http-proxy](https://github.com/vinhjaxt/rust-DPI-http-proxy) – HTTP proxy bypasses ISP DPI censorship - a rust version
@@ -1736,7 +1736,7 @@
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
-- [mattpocock/skills](https://github.com/mattpocock/skills) – Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) – Skills for Real Engineers. Straight from my .agents directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) – A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
@@ -1886,6 +1886,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) – Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
