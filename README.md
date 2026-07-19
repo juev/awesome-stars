@@ -1383,7 +1383,7 @@
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker)
 - [semver/semver](https://github.com/semver/semver) – Semantic Versioning Specification
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [sgharlow/claude-code-recipes](https://github.com/sgharlow/claude-code-recipes) – 100 ready-to-use Claude Code recipes for knowledge workers. Transform meetings into action items, draft executive    communications, analyze data, write reports, and automate documentation. Step-by-step prompts with examples for managers,    analysts, HR, sales, and operations. From zero to productive in minutes. Built for busy professionals.
+- [sgharlow/claude-code-recipes](https://github.com/sgharlow/claude-code-recipes) – 100 field-tested Claude Code recipes for knowledge workers — prompts, steps, and 6 installable graded skills.
 - [simonw/scrape-fediverse](https://github.com/simonw/scrape-fediverse) – Git scrapers for scraping the fediverse
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – A curated list of cryptography resources and links.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1608,7 +1608,7 @@
 - [juev/ok](https://github.com/juev/ok) – .ok folder profiles
 - [juev/t](https://github.com/juev/t) – A command-line todo list manager for people that want to finish tasks, not organize them.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) – 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
-- [katanemo/plano](https://github.com/katanemo/plano) – Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. 
+- [katanemo/plano](https://github.com/katanemo/plano) – Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) – Synchronizes posts from Mastodon to Twitter and back
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) – Trojan server and proxy programs written in Rust
@@ -1863,6 +1863,7 @@
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) – GPT Meet Zotero.
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) – Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) – A CLI that writes your git commit messages for you with AI
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) – Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) – Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) – Open Source Research Claw
