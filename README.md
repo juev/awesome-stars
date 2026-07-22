@@ -476,7 +476,7 @@
 - [coder/retry](https://github.com/coder/retry) – A tiny retry package for Go.
 - [coder/websocket](https://github.com/coder/websocket) – Minimal and idiomatic WebSocket library for Go
 - [codnect/chrono](https://github.com/codnect/chrono) – Chrono is a scheduler library that lets you run your task and code periodically
-- [cohesivestack/valgo](https://github.com/cohesivestack/valgo) – Valgo is a type-safe, expressive, and extensible validator library for Golang. Supports localization and is built with generics.
+- [cohesivestack/valgo](https://github.com/cohesivestack/valgo) – Valgo is a type-safe, expressive, and extensible validation library for Go with built-in i18n support.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [coredns/coredns](https://github.com/coredns/coredns) – CoreDNS is a DNS server that chains plugins
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) – A Go OpenID Connect client.
@@ -1446,7 +1446,7 @@
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) – The agent that grows with you
 - [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) – MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
