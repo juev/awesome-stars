@@ -223,7 +223,7 @@
 - [juev/tools](https://github.com/juev/tools)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) – 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) – 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 
 <div id="elixir"></div>
@@ -259,7 +259,7 @@
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) – Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) – An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [iocanel/emacs.d](https://github.com/iocanel/emacs.d) – My emacs setup
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) – minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [jgm/djot](https://github.com/jgm/djot) – A light markup language
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) – A client for Language Server Protocol servers
 - [juev/russian-mac](https://github.com/juev/russian-mac) – Quail package for inputting Cyrillic characters
