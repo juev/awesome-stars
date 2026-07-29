@@ -1172,7 +1172,6 @@
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) – Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [michenriksen/gokiburi](https://github.com/michenriksen/gokiburi) – Automatic test runs for Go projects
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) – Use Codex from Claude Code to review code or delegate tasks.
 - [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
@@ -1216,7 +1215,7 @@
 
 ## Kotlin
 
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) – A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) – Cloudflare scanner
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) – Android Call/SMS blocker.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) – 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
@@ -1626,6 +1625,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [notify-rs/notify](https://github.com/notify-rs/notify) – 🔭 Cross-platform filesystem notification library for Rust. 
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) – Bringing intranet on the internet with Zero-Config Mesh VPNs.
+- [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
@@ -1892,6 +1892,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) – Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) – The best notepad for you and your agents
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
@@ -1947,6 +1948,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) – Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) – Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) – A simple, locally hosted Web Search MCP server for use with Local LLMs
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
