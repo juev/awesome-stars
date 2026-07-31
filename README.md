@@ -437,7 +437,7 @@
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bsm/redislock](https://github.com/bsm/redislock) – Simplified distributed locking implementation using Redis
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) – A secure bitcoin wallet daemon written in Go (golang)
-- [buger/jsonparser](https://github.com/buger/jsonparser) – One of the fastest alternative JSON parser for Go that does not require schema
+- [buger/jsonparser](https://github.com/buger/jsonparser) – THE fastest alternative JSON parser for Go that does not require schema
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [butuzov/ireturn](https://github.com/butuzov/ireturn) – Accept Interfaces, Return Concrete Types
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) – Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
