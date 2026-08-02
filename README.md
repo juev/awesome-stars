@@ -1445,7 +1445,6 @@
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) – The agent that grows with you
 - [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) – MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1485,7 +1484,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) – Like Vercel, but open source and for all languages.
-- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Active mirror of https://github.com/razzant/ouroboros — open issues and PRs there.
+- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Archived mirror of https://github.com/razzant/ouroboros. Current code, releases, issues, and discussions live there.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -1538,7 +1537,7 @@
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [wshobson/agents](https://github.com/wshobson/agents) – Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) – Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 
 <div id="ruby"></div>
@@ -1687,6 +1686,7 @@
 - [Nybkox/tmux-ukiyo](https://github.com/Nybkox/tmux-ukiyo) – 🌊 Multi-theme tmux status bar with menu for on the fly config changes 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) – Docker images for openvpn-as
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) – A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script ACME client for SSL / TLS certificate automation
