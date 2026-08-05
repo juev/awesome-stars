@@ -1151,7 +1151,6 @@
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) – nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 - [anticensority/runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) – Web-extension for bypassing censorship in Russia
-- [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [atoponce/webpassgen](https://github.com/atoponce/webpassgen) – Simple web-based password generator
@@ -1486,6 +1485,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) – Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) – Like Vercel, but open source and for all languages.
+- [izeigerman/claude-thermos](https://github.com/izeigerman/claude-thermos) – Keeps your Claude session warm for you
 - [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) – Archived mirror of https://github.com/razzant/ouroboros. Current code, releases, issues, and discussions live there.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) – An ActivityPub/Fediverse server
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
