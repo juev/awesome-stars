@@ -1509,7 +1509,7 @@
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) – Communicate with an LLM provider using a single interface
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) – Quickly rewrite git repository history (filter-branch replacement)
-- [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [openai/skills](https://github.com/openai/skills) – Skills Catalog for Codex
 - [oraios/serena](https://github.com/oraios/serena) – A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
