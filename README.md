@@ -894,7 +894,7 @@
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) – Flags-first package for configuration
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [php/frankenphp](https://github.com/php/frankenphp) – 🧟 The modern PHP app server
-- [picosh/git-pr](https://github.com/picosh/git-pr) – A pastebin supercharged for git collaboration
+- [picosh/patchbin](https://github.com/picosh/patchbin) – A pastebin for patches, supercharged for git collaboration
 - [picosh/pico](https://github.com/picosh/pico) – The ultimate ssh powered services for developers
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [pkg/json](https://github.com/pkg/json) – An efficient JSON decoder
