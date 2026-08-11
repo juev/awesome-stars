@@ -1587,6 +1587,7 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [containers/podlet](https://github.com/containers/podlet) – Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [denoland/celld](https://github.com/denoland/celld) – self-hosted, distributed Durable Objects
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [doy/rbw](https://github.com/doy/rbw) – unofficial bitwarden cli
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) – Flexible concrete Error type built on std::error::Error
@@ -1863,6 +1864,7 @@
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) – Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) – Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) – Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) – A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) – Open Source Research Claw
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -1928,7 +1930,7 @@
 - [juev/hledger-vscode](https://github.com/juev/hledger-vscode) – vscode extension with language pack for hledger
 - [kanbn/kan](https://github.com/kanbn/kan) – The open source Trello alternative.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) – A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) – A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands and secret file access before they execute. Supports Claude Code, Codex, Gemini CLI, Copilot CLI, Antigravity CLI, Kimi Code, OpenCode, Pi, Cursor, and Amp Code.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) – An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.
 - [kepano/defuddle](https://github.com/kepano/defuddle) – Get the main content of any page as Markdown.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
