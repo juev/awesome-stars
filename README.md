@@ -52,6 +52,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [Tree-Sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -1835,6 +1836,12 @@
 - [opieters/business-card](https://github.com/opieters/business-card) – A business card in LaTeX. 
 - [thesis-toolbox/template](https://github.com/thesis-toolbox/template) – A template for writing your Bachelor, Master or PhD thesis.
 - [winitzki/sofp](https://github.com/winitzki/sofp) – A free book: "The Science of Functional Programming"
+
+<div id="text"></div>
+
+## Text
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) – DNS-Blocklists: For a better internet - keep the internet clean!
 
 <div id="tree-sitter-query"></div>
 
