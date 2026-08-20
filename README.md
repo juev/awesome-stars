@@ -26,19 +26,18 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jq](#jq)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [LUA](#lua)
+- [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
+- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
-- [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -53,15 +52,15 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
-- [Tree-Sitter Query](#tree-sitter-query)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
-- [VimL](#viml)
 - [Vue](#vue)
-- [WikiText](#wikitext)
+- [Wikitext](#wikitext)
 - [Wren](#wren)
 - [Zig](#zig)
+- [jq](#jq)
 
 
 <div id="adblock-filter-list"></div>
@@ -493,7 +492,7 @@
 - [cweill/gotests](https://github.com/cweill/gotests) – Automatically generate Go test boilerplate from your source code.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database. Alternative to Airflow / Cron / Job Scheduler.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) – Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
 - [daixiang0/gci](https://github.com/daixiang0/gci) – GCI, a tool that control golang package import order and make it always deterministic.
 - [dalikewara/pgxpoolgo](https://github.com/dalikewara/pgxpoolgo) – pgxpoolgo is based on pgxpool, but provides Pool interface and ability to mock the pgxpool connection for unit testing
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) – Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -959,7 +958,7 @@
 - [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) – A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [sanity-io/litter](https://github.com/sanity-io/litter) – Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [sansolovyov/gostatic](https://github.com/sansolovyov/gostatic) – Fast static site generator
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) – OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [sclevine/yj](https://github.com/sclevine/yj) – CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -1104,7 +1103,6 @@
 - [juev/juev.org](https://github.com/juev/juev.org) – Sources from my site
 - [juev/research](https://github.com/juev/research) – Коллекция аналитических обзоров по инструментам и технологиям
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) – JavaScript Client-Side Bitcoin Wallet Generator
-- [ransome1/sleek](https://github.com/ransome1/sleek) – todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) – Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) – from vibe coding to agentic engineering - practice makes claude perfect
 - [siddhantgoel/awesome-beancount](https://github.com/siddhantgoel/awesome-beancount) – Awesome Beancount Resources
@@ -1187,12 +1185,6 @@
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) – Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 
-<div id="jq"></div>
-
-## Jq
-
-- [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) – Solving Advent of Code with jq
-
 <div id="jsonnet"></div>
 
 ## Jsonnet
@@ -1223,7 +1215,7 @@
 
 <div id="lua"></div>
 
-## LUA
+## Lua
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) – Neovim config for the lazy
 - [LazyVim/starter](https://github.com/LazyVim/starter) – Starter template for LazyVim
@@ -1249,6 +1241,14 @@
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) – The SILE Typesetter — Simon’s Improved Layout Engine
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) – Neovim file explorer: edit your filesystem like a buffer
 
+<div id="mdx"></div>
+
+## MDX
+
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+- [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
+- [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
+
 <div id="makefile"></div>
 
 ## Makefile
@@ -1264,14 +1264,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) – Protect your data against global mass surveillance programs.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – Collaborative cheatsheets for console commands 📚.
-
-<div id="mdx"></div>
-
-## Mdx
-
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
-- [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) – Repo for https://zig.guide content. Get up to speed with Zig quickly.
-- [r3nya/madrid101](https://github.com/r3nya/madrid101) – FAQ about Madrid for digital nomads
 
 <div id="nim"></div>
 
@@ -1295,17 +1287,17 @@
 
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) – A community trust management system based on explicit vouches to participate.
 
+<div id="ocaml"></div>
+
+## OCaml
+
+- [comby-tools/comby](https://github.com/comby-tools/comby) – A code rewrite tool for structural search and replace that supports ~every language.
+
 <div id="objective-c"></div>
 
 ## Objective-C
 
 - [git-up/GitUp](https://github.com/git-up/GitUp) – The Git interface you've been missing all your life has finally arrived.
-
-<div id="ocaml"></div>
-
-## Ocaml
-
-- [comby-tools/comby](https://github.com/comby-tools/comby) – A code rewrite tool for structural search and replace that supports ~every language.
 
 <div id="others"></div>
 
@@ -1567,7 +1559,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your network traffic 🕵️‍♂️
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source, community-driven agent harness
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) – A federated online encyclopedia
 - [PRQL/prql](https://github.com/PRQL/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
@@ -1847,7 +1839,7 @@
 
 <div id="tree-sitter-query"></div>
 
-## Tree-Sitter Query
+## Tree-sitter Query
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) – Nvim Treesitter configurations and abstraction layer
 
@@ -1903,6 +1895,7 @@
 - [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) – The best notepad for you and your agents
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/web](https://github.com/bitwarden/web) – The website vault (vault.bitwarden.com).
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) – BookOrbit: Your Reading Space
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) – A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) – Scheduling infrastructure for absolutely everyone.
 - [cline/cline](https://github.com/cline/cline) – Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
@@ -1976,6 +1969,7 @@
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) – Archive URLs directly in Logseq and save locally.
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) – GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) – Hosting read-only SQLite databases on static file hosters like Github Pages
+- [ransome1/sleek](https://github.com/ransome1/sleek) – todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) – Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) – Rust extension for Visual Studio Code
@@ -2045,10 +2039,12 @@
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) – A vim plugin to display the indention levels with thin vertical lines
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [altercation/solarized](https://github.com/altercation/solarized) – precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) – precision colorscheme for the vim text editor
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) – Forget Vim tabs – now you can have buffer tabs
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) – Preview colours in source code while editing
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) – Simple templates plugin for Vim 
 - [axvr/org.vim](https://github.com/axvr/org.vim) – Org mode syntax highlighting and folding for Vim.
+- [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) – A bunch of vim shortcuts, colors, and bundles to make your life easier
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) – Easy git merge conflict resolution in Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) – :rocket:An automatic configuration program for vim
@@ -2072,6 +2068,7 @@
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) – Vim plugin, insert or delete brackets, parens, quotes in pair
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) –  Ease your git workflow within Vim
 - [juev/vim-hugo](https://github.com/juev/vim-hugo) – Vim plugin for simplify creating new post in Hugo blog
+- [junegunn/rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) – :rainbow: Simpler Rainbow Parentheses
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) – :eyes: " / @ / CTRL-R
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) – The missing motion for Vim :athletic_shoe:
@@ -2124,25 +2121,17 @@
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) – lean & mean status/tabline for vim that's light as air
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) – Vim Space Controller
 - [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) – A solid language pack for Vim.
+- [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) – Automatically opens popup menu for completions
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
 - [vim/vim](https://github.com/vim/vim) – The official Vim repository
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) – Personal Wiki for Vim
 - [vlime/vlime](https://github.com/vlime/vlime) – A Common Lisp dev environment for Vim (and Neovim)
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) – :computer: Terminal manager for (neo)vim
+- [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) – A Go bundle for Vundle or Pathogen
+- [wikitopian/hardmode](https://github.com/wikitopian/hardmode) – Vim: Hard Mode (deprecated)
 - [wincent/terminus](https://github.com/wincent/terminus) – 🖥 Enhanced terminal integration for Vim
 - [yegappan/lsp](https://github.com/yegappan/lsp) – Language Server Protocol (LSP) plugin for Vim9
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) – Vim configuration for Zig
-
-<div id="viml"></div>
-
-## VimL
-
-- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) – precision colorscheme for the vim text editor
-- [bling/minivimrc](https://github.com/bling/minivimrc) – a tiny vimrc to be used primarily for troubleshooting plugins
-- [junegunn/rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim) – :rainbow: Simpler Rainbow Parentheses
-- [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) – Automatically opens popup menu for completions
-- [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) – A Go bundle for Vundle or Pathogen
-- [wikitopian/hardmode](https://github.com/wikitopian/hardmode) – Vim: Hard Mode (deprecated)
 
 <div id="vue"></div>
 
@@ -2155,7 +2144,7 @@
 
 <div id="wikitext"></div>
 
-## WikiText
+## Wikitext
 
 - [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
 
@@ -2181,6 +2170,12 @@
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) – An open, technical and introductory book for the Zig programming language 📚📖
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) – Performance Tracking for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) – Moved to Codeberg
+
+<div id="jq"></div>
+
+## jq
+
+- [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) – Solving Advent of Code with jq
 
 
 ## License
