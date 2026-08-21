@@ -313,6 +313,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) – yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) – golang analyzer that finds structures with uninitialized fields
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) – Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [IBM/fp-go](https://github.com/IBM/fp-go) – Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
@@ -394,7 +395,6 @@
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) – An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client
 - [apache/casbin](https://github.com/apache/casbin) – Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
-- [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appliedgocode/what](https://github.com/appliedgocode/what) – Debug-level logging for developers (only!)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) – Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [araddon/dateparse](https://github.com/araddon/dateparse) – GoLang Parse many date strings without knowing format in advance.
@@ -1735,7 +1735,6 @@
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) – Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) – Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [maragudk/skills](https://github.com/maragudk/skills) – Skills for AI agents.
-- [mattpocock/skills](https://github.com/mattpocock/skills) – Skills for Real Engineers. Straight from my .agents directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) – A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) – Lists and configuration for our DNS blocking service
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
@@ -1903,7 +1902,7 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) – Wildebeest is an ActivityPub and Mastodon-compatible server
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) – Telegram Bot for CloudFlare Workers
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
-- [coder/mux](https://github.com/coder/mux) – A desktop app for isolated, parallel agentic development
+- [coder/xum](https://github.com/coder/xum) – A desktop app for isolated, parallel agentic development
 - [community-archive/obsidian-zotero-integration](https://github.com/community-archive/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) – A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) – DeepSeek Harness: Everything is a Plugin.
