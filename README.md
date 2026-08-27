@@ -1120,7 +1120,7 @@
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) – A static website compiler library in Haskell
 - [jgm/gitit](https://github.com/jgm/gitit) – A wiki using HAppS, pandoc, and git
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) – Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) – ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 
@@ -1174,7 +1174,7 @@
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) – Use Codex from Claude Code to review code or delegate tasks.
-- [overshard/timelite](https://github.com/overshard/timelite) – Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
+- [overshard/timelite](https://github.com/overshard/timelite) – Archived, no longer maintained. Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) – DNS over HTTPS config profiles for iOS & macOS
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – moderating forums with money
@@ -1255,7 +1255,6 @@
 ## Makefile
 
 - [davecheney/dotfiles](https://github.com/davecheney/dotfiles) – dot slash dot dot
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [ogarcia/docker-tor](https://github.com/ogarcia/docker-tor) – [MIRROR] Small docker of Tor client
 
 <div id="markdown"></div>
@@ -1349,6 +1348,7 @@
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) – Curated list of KeePass-related projects
 - [lnbits/Diagon-Alley](https://github.com/lnbits/Diagon-Alley) – Diagon Alley: a decentralised market-stall protocol.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) – Awesome Logseq resources created by the community <3
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – List of libraries, tools and APIs for web scraping and data processing.
 - [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) – Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) – My personal and very opinionated uBlock Origin filters
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) – macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
