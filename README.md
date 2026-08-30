@@ -319,7 +319,7 @@
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) – For parsing, creating and editing unknown or dynamic JSON in Go
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) – Visualize Go Dependency Trees
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) – 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset、Nginx allow & deny 规则文件等。Enhanced edition of GeoIP for Nginx, V2Ray, Xray-core, Clash, mihomo, sing-box, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, dae, etc.
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto) 
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) – Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) – ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [Masterminds/semver](https://github.com/Masterminds/semver) – Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
@@ -1175,7 +1175,7 @@
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) – Interactive code examples for documentation, education and fun.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) – Use Codex from Claude Code to review code or delegate tasks.
-- [overshard/timelite](https://github.com/overshard/timelite) – Archived, no longer maintained. Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
+- [overshard/timelite-nextjs](https://github.com/overshard/timelite-nextjs) – A dead simple time tracker that keeps everything in local storage. Next.js, no accounts and no server.
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) – DNS over HTTPS config profiles for iOS & macOS
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [stackernews/stacker.news](https://github.com/stackernews/stacker.news) – moderating forums with money
@@ -1700,7 +1700,6 @@
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) – Go plugin for the asdf version manager [maintainer=@kennyp]
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) – Convenience shortname repository for asdf community plugins
 - [ax/apk.sh](https://github.com/ax/apk.sh) – Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-- [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bernardko/mullvad-proxy](https://github.com/bernardko/mullvad-proxy) – Mullvad VPN docker container providing a HTTP and SOCKS5 Proxy
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) – An Alpine Linux container for the iCloud Photos Downloader command line utility 
@@ -1746,6 +1745,7 @@
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) – Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [narqo/dotfiles](https://github.com/narqo/dotfiles) – Personal dot files
 - [nextcloud/docker](https://github.com/nextcloud/docker) – A community maintained docker micro-image for deploying Nextcloud on container platforms
+- [omacom/omakub](https://github.com/omacom/omakub) – Opinionated Ubuntu Setup
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) – A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – The official Pi-hole Docker image from pi-hole.net
