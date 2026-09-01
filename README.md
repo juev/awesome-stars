@@ -1441,7 +1441,7 @@
 - [MinishLab/semble](https://github.com/MinishLab/semble) – Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) – The agent that grows with you
-- [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) – MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
+- [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) – A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
