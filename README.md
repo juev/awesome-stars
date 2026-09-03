@@ -1095,6 +1095,7 @@
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) – Перевод - Эффективный Go
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) – Static wiki engine written in Uxntal
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) –  A fast, clean, responsive Hugo theme.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) – Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) – Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) – The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -1894,7 +1895,6 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [anomalyco/sst](https://github.com/anomalyco/sst) – Build full-stack apps on your own infrastructure.
 - [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) – A Browser Extension for faster reading on ANY website!
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) – Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [balzack/databag](https://github.com/balzack/databag) – fast & lightweight self-hosted messenger
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) – The best notepad for you and your agents
