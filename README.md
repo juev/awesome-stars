@@ -1137,7 +1137,6 @@
 ## JavaScript
 
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) – ⚡️ Quickly generate a disposable email straight from terminal.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) – Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) – Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
