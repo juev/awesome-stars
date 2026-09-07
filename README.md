@@ -1380,7 +1380,6 @@
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – A curated list of cryptography resources and links.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [tailscale-dev/docker-guide-code-examples](https://github.com/tailscale-dev/docker-guide-code-examples) – https://tailscale.com/blog/docker-tailscale-guide
-- [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) – Tips, Examples, and Resources for Writing with Emacs
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) – A curated list of awesome Anki add-ons, decks and resources
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) – ‼️ A complete primer on the whys and hows of todo.txt.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -1439,6 +1438,7 @@
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) – The agent that grows with you
 - [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) – A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) – Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1646,13 +1646,13 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) – Think tmux, then aim... lower
 - [sigoden/aichat](https://github.com/sigoden/aichat) – All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Portable, lightweight, self-contained virtual machine.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) – Branchable computing by using a portable, lightweight, self-contained virtual machine
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) – YubiKey plugin for age
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) – A local-first microVM sandbox for running AI agents safely on macOS & Linux
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) – 🧱 Easy fast local-first microVM runtime and library
 - [tobi/walgit](https://github.com/tobi/walgit)
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
@@ -1688,7 +1688,6 @@
 - [Nybkox/tmux-ukiyo](https://github.com/Nybkox/tmux-ukiyo) – 🌊 Multi-theme tmux status bar with menu for on the fly config changes 🌊
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) – WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) – Docker images for openvpn-as
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) – A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script ACME client for SSL / TLS certificate automation
@@ -1962,7 +1961,7 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [onivim/oni](https://github.com/onivim/oni) – Oni: Modern Modal Editing - powered by Neovim
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) – Turn GitHub into an RSS reader
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) – Turn GitHub into a bookmark manager
 - [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) – The knowledge IDE
