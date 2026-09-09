@@ -1534,6 +1534,7 @@
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) – Tailscale Sidecar Configurations for Docker
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [tzador/makedown](https://github.com/tzador/makedown) – Organise your shell scripts within executable markdown files
+- [w1zardz/amnezia-split-route-sync](https://github.com/w1zardz/amnezia-split-route-sync) – Список российских сайтов и IP для Amnezia VPN: готовый JSON раздельного туннелирования — Госуслуги, Сбер, Ozon, Wildberries, Avito, VK Видео, Кинопоиск. Windows, macOS, Linux, iOS, Android.
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) – My own custom 12ft.io replacement
 - [wshobson/agents](https://github.com/wshobson/agents) – Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) – Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
@@ -1877,6 +1878,7 @@
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) – Tegon is an open-source, dev-first alternative to Jira, Linear
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) – This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) – Make Every Team AI Native
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) – :star: Vim for Visual Studio Code
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) – Spacemacs like keybindings for Visual Studio Code
