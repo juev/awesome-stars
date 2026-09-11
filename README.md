@@ -146,7 +146,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/llm](https://github.com/simonw/llm) – Access large language models from the command-line
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [w1zardz/amnezia-split-route-sync](https://github.com/w1zardz/amnezia-split-route-sync) – Список российских сайтов и IP для Amnezia VPN: готовый JSON раздельного туннелирования — Госуслуги, Сбер, Ozon, Wildberries, Avito, VK Видео, Кинопоиск. Windows, macOS, Linux, iOS, Android.
+- [w1zardz/amnezia-vpn-russia-split-tunneling](https://github.com/w1zardz/amnezia-vpn-russia-split-tunneling) – Автообновляемый список российских сайтов и IP для Amnezia VPN: 2500+ доменов и 1300+ сетей РФ для раздельного туннелирования (split tunneling). Госуслуги, банки, Ozon, Wildberries, Avito, Яндекс, VK работают напрямую, минуя VPN. Обновляется ежедневно из 15 источников. JSON для AmneziaVPN и AmneziaWG — Windows, macOS, Linux, Android, iOS.
 
 <div id="rust"></div>
 
