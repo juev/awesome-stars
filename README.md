@@ -75,7 +75,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) – Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
@@ -140,7 +140,6 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) –  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 - [MinishLab/semble](https://github.com/MinishLab/semble) – Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [anthropics/skills](https://github.com/anthropics/skills) – Public repository for Agent Skills
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [openai/skills](https://github.com/openai/skills) – Skills Catalog for Codex
@@ -184,6 +183,7 @@
 
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) – Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [community-archive/obsidian-zotero-integration](https://github.com/community-archive/obsidian-zotero-integration) – Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) – DeepSeek Harness: Everything is a Plugin.
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
