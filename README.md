@@ -188,7 +188,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) – DeepSeek Harness: Everything is a Plugin.
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date docs for AI agents
 
 <div id="vim-script"></div>
 
